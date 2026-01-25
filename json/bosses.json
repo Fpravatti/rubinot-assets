@@ -1,0 +1,1850 @@
+[
+  {
+    "name": "The Pale Count",
+    "image_url": "https://cdn.rubinottools.com/bosses/The_Pale_Count.gif",
+    "locations": [
+      {
+        "name": "Drefia (Darashia)",
+        "iframe_url": "https://tibiamaps.io/map/embed#32966,32421,14:1",
+        "coordinates": {
+          "x": 32966,
+          "y": 32421,
+          "z": 14
+        }
+      }
+    ]
+  },
+  {
+    "name": "Shlorg",
+    "image_url": "https://cdn.rubinottools.com/bosses/Shlorg.gif",
+    "locations": [
+      {
+        "name": "Earth Elemental Cave (Edron)",
+        "iframe_url": "https://tibiamaps.io/map/embed#33169,31732,9:1",
+        "coordinates": {
+          "x": 33169,
+          "y": 31732,
+          "z": 9
+        }
+      }
+    ]
+  },
+  {
+    "name": "Man in the Cave",
+    "image_url": "https://cdn.rubinottools.com/bosses/Man_in_the_Cave.gif",
+    "locations": [
+      {
+        "name": "Svargrond",
+        "iframe_url": "https://tibiamaps.io/map/embed#32133,31147,2:1",
+        "coordinates": {
+          "x": 32133,
+          "y": 31147,
+          "z": 2
+        }
+      }
+    ]
+  },
+  {
+    "name": "Ocyakao",
+    "image_url": "https://cdn.rubinottools.com/bosses/Ocyakao.gif",
+    "locations": [
+      {
+        "name": "Nibelor (Svargrond)",
+        "iframe_url": "https://tibiamaps.io/map/embed#32351,31052,7:1",
+        "coordinates": {
+          "x": 32351,
+          "y": 31052,
+          "z": 7
+        }
+      }
+    ]
+  },
+  {
+    "name": "The Welter",
+    "image_url": "https://cdn.rubinottools.com/bosses/The_Welter.gif",
+    "locations": [
+      {
+        "name": "Tiquanda (Port Hope)",
+        "iframe_url": "https://tibiamaps.io/map/embed#33027,32658,5:1",
+        "coordinates": {
+          "x": 33027,
+          "y": 32658,
+          "z": 5
+        }
+      }
+    ]
+  },
+  {
+    "name": "Yeti",
+    "image_url": "https://cdn.rubinottools.com/bosses/Yeti.gif",
+    "locations": [
+      {
+        "name": "Folda (Carlin)",
+        "iframe_url": "https://tibiamaps.io/map/embed#32006,31596,7:1",
+        "coordinates": {
+          "x": 32006,
+          "y": 31596,
+          "z": 7
+        }
+      }
+    ]
+  },
+  {
+    "name": "Fernfang",
+    "image_url": "https://cdn.rubinottools.com/bosses/Fernfang.gif",
+    "locations": [
+      {
+        "name": "Isle of Mists (Plains of Havoc)",
+        "iframe_url": "https://tibiamaps.io/map/embed#32854,32333,7:1",
+        "coordinates": {
+          "x": 32854,
+          "y": 32333,
+          "z": 7
+        }
+      }
+    ]
+  },
+  {
+    "name": "Cublarc the Plunderer",
+    "image_url": "https://cdn.rubinottools.com/bosses/Cublarc_the_Plunderer.gif",
+    "locations": [
+      {
+        "name": "Zao Steppe (Farmine)",
+        "iframe_url": "https://tibiamaps.io/map/embed#33090,31391,7:1",
+        "coordinates": {
+          "x": 33090,
+          "y": 31391,
+          "z": 7
+        }
+      },
+      {
+        "name": "Zao Steppe (Farmine)",
+        "iframe_url": "https://tibiamaps.io/map/embed#33229,31428,7:1",
+        "coordinates": {
+          "x": 33229,
+          "y": 31428,
+          "z": 7
+        }
+      },
+      {
+        "name": "Zzaion (Farmine)",
+        "iframe_url": "https://tibiamaps.io/map/embed#33317,31453,7:1",
+        "coordinates": {
+          "x": 33317,
+          "y": 31453,
+          "z": 7
+        }
+      }
+    ]
+  },
+  {
+    "name": "Apprentice Sheng",
+    "image_url": "https://cdn.rubinottools.com/bosses/Apprentice_Sheng.gif",
+    "locations": [
+      {
+        "name": "Minotaur Hell (Rookgaard)",
+        "iframe_url": "https://tibiamaps.io/map/embed#32130,32059,12:1",
+        "coordinates": {
+          "x": 32130,
+          "y": 32059,
+          "z": 12
+        }
+      }
+    ]
+  },
+  {
+    "name": "The Imperor",
+    "image_url": "https://cdn.rubinottools.com/bosses/The_Imperor.gif",
+    "locations": [
+      {
+        "name": "Pits of Inferno",
+        "iframe_url": "https://tibiamaps.io/map/embed#32891,32236,15:1",
+        "coordinates": {
+          "x": 32891,
+          "y": 32236,
+          "z": 15
+        }
+      }
+    ]
+  },
+  {
+    "name": "Zevelon Duskbringer",
+    "image_url": "https://cdn.rubinottools.com/bosses/Zevelon_Duskbringer.gif",
+    "locations": [
+      {
+        "name": "Hellgate (Ab'Dendriel)",
+        "iframe_url": "https://tibiamaps.io/map/embed#32769,31581,11:1",
+        "coordinates": {
+          "x": 32769,
+          "y": 31581,
+          "z": 11
+        }
+      }
+    ]
+  },
+  {
+    "name": "Captain Jones",
+    "image_url": "https://cdn.rubinottools.com/bosses/Captain_Jones.gif",
+    "locations": [
+      {
+        "name": "Ghost Ship (Darashia)",
+        "iframe_url": "https://tibiamaps.io/map/embed#33321,32183,7:1",
+        "coordinates": {
+          "x": 33321,
+          "y": 32183,
+          "z": 7
+        }
+      }
+    ]
+  },
+  {
+    "name": "The Evil Eye",
+    "image_url": "https://cdn.rubinottools.com/bosses/The_Evil_Eye.gif",
+    "locations": [
+      {
+        "name": "Hellgate Library (Ab'Dendriel)",
+        "iframe_url": "https://tibiamaps.io/map/embed#32806,31611,14:1",
+        "coordinates": {
+          "x": 32806,
+          "y": 31611,
+          "z": 14
+        }
+      }
+    ]
+  },
+  {
+    "name": "Grandfather Tridian",
+    "image_url": "https://cdn.rubinottools.com/bosses/Grandfather_Tridian.gif",
+    "locations": [
+      {
+        "name": "Cult Cave (Liberty Bay)",
+        "iframe_url": "https://tibiamaps.io/map/embed#32413,32778,11:1",
+        "coordinates": {
+          "x": 32413,
+          "y": 32778,
+          "z": 11
+        }
+      }
+    ]
+  },
+  {
+    "name": "Undead Cavebear",
+    "image_url": "https://cdn.rubinottools.com/bosses/Undead_Cavebear.gif",
+    "locations": [
+      {
+        "name": "Lich Hell (Liberty Bay)",
+        "iframe_url": "https://tibiamaps.io/map/embed#31977,32559,10:1",
+        "coordinates": {
+          "x": 31977,
+          "y": 32559,
+          "z": 10
+        }
+      },
+      {
+        "name": "Lich Hell (Liberty Bay)",
+        "iframe_url": "https://tibiamaps.io/map/embed#31965,32591,10:1",
+        "coordinates": {
+          "x": 31965,
+          "y": 32591,
+          "z": 10
+        }
+      },
+      {
+        "name": "Lich Hell (Liberty Bay)",
+        "iframe_url": "https://tibiamaps.io/map/embed#31913,32560,10:1",
+        "coordinates": {
+          "x": 31913,
+          "y": 32560,
+          "z": 10
+        }
+      }
+    ]
+  },
+  {
+    "name": "Draptor",
+    "image_url": "https://cdn.rubinottools.com/bosses/Draptor.gif",
+    "locations": [
+      {
+        "name": "Muggy Plains (Farmine)",
+        "iframe_url": "https://tibiamaps.io/map/embed#33189,31236,7:1",
+        "coordinates": {
+          "x": 33189,
+          "y": 31236,
+          "z": 7
+        }
+      },
+      {
+        "name": "Muggy Plains (Farmine)",
+        "iframe_url": "https://tibiamaps.io/map/embed#33215,31228,7:1",
+        "coordinates": {
+          "x": 33215,
+          "y": 31228,
+          "z": 7
+        }
+      },
+      {
+        "name": "Muggy Plains (Farmine)",
+        "iframe_url": "https://tibiamaps.io/map/embed#33234,31186,7:1",
+        "coordinates": {
+          "x": 33234,
+          "y": 31186,
+          "z": 7
+        }
+      },
+      {
+        "name": "Muggy Plains (Farmine)",
+        "iframe_url": "https://tibiamaps.io/map/embed#33286,31251,7:1",
+        "coordinates": {
+          "x": 33286,
+          "y": 31251,
+          "z": 7
+        }
+      },
+      {
+        "name": "Muggy Plains (Farmine)",
+        "iframe_url": "https://tibiamaps.io/map/embed#33253,31162,7:1",
+        "coordinates": {
+          "x": 33253,
+          "y": 31162,
+          "z": 7
+        }
+      },
+      {
+        "name": "Muggy Plains (Farmine)",
+        "iframe_url": "https://tibiamaps.io/map/embed#33291,31158,7:1",
+        "coordinates": {
+          "x": 33291,
+          "y": 31158,
+          "z": 7
+        }
+      },
+      {
+        "name": "Muggy Plains (Farmine)",
+        "iframe_url": "https://tibiamaps.io/map/embed#33333,31188,7:1",
+        "coordinates": {
+          "x": 33333,
+          "y": 31188,
+          "z": 7
+        }
+      },
+      {
+        "name": "Razachai (Farmine)",
+        "iframe_url": "https://tibiamaps.io/map/embed#33110,31079,10:1",
+        "coordinates": {
+          "x": 33110,
+          "y": 31079,
+          "z": 10
+        }
+      },
+      {
+        "name": "Razachai (Farmine)",
+        "iframe_url": "https://tibiamaps.io/map/embed#33058,31116,10:1",
+        "coordinates": {
+          "x": 33058,
+          "y": 31116,
+          "z": 10
+        }
+      }
+    ]
+  },
+  {
+    "name": "Barbaria",
+    "image_url": "https://cdn.rubinottools.com/bosses/Barbaria.gif",
+    "locations": [
+      {
+        "name": "Barbarian Camp, Krimhorn (Svargrond)",
+        "iframe_url": "https://tibiamaps.io/map/embed#32007,31415,7:1",
+        "coordinates": {
+          "x": 32007,
+          "y": 31415,
+          "z": 7
+        }
+      }
+    ]
+  },
+  {
+    "name": "Munster",
+    "image_url": "https://cdn.rubinottools.com/bosses/Munster.gif",
+    "locations": [
+      {
+        "name": "Rat Cave (Rookgaard)",
+        "iframe_url": "https://tibiamaps.io/map/embed#32102,32217,9:1",
+        "coordinates": {
+          "x": 32102,
+          "y": 32217,
+          "z": 9
+        }
+      }
+    ]
+  },
+  {
+    "name": "Yaga the Crone",
+    "image_url": "https://cdn.rubinottools.com/bosses/Yaga_the_Crone.gif",
+    "locations": [
+      {
+        "name": "Green Claw Swamp (Venore)",
+        "iframe_url": "https://tibiamaps.io/map/embed#32712,32011,11:1",
+        "coordinates": {
+          "x": 32712,
+          "y": 32011,
+          "z": 11
+        }
+      }
+    ]
+  },
+  {
+    "name": "Arthom The Hunter",
+    "image_url": "https://cdn.rubinottools.com/bosses/Arthom_The_Hunter.gif",
+    "locations": [
+      {
+        "name": "Hunter Camp (Port Hope)",
+        "iframe_url": "https://tibiamaps.io/map/embed#32887,32787,7:1",
+        "coordinates": {
+          "x": 32887,
+          "y": 32787,
+          "z": 7
+        }
+      }
+    ]
+  },
+  {
+    "name": "Omrafir",
+    "image_url": "https://cdn.rubinottools.com/bosses/Omrafir.gif",
+    "locations": [
+      {
+        "name": "Roshamuul Prison (Roshamuul)",
+        "iframe_url": "https://tibiamaps.io/map/embed#33589,32379,12:1",
+        "coordinates": {
+          "x": 33589,
+          "y": 32379,
+          "z": 12
+        }
+      }
+    ]
+  },
+  {
+    "name": "Oodok Witchmaster",
+    "image_url": "https://cdn.rubinottools.com/bosses/Oodok_Witchmaster.gif",
+    "locations": [
+      {
+        "name": "Hunter Camp (Port Hope)",
+        "iframe_url": "https://tibiamaps.io/map/embed#32887,32787,7:1",
+        "coordinates": {
+          "x": 32887,
+          "y": 32787,
+          "z": 7
+        }
+      }
+    ]
+  },
+  {
+    "name": "Foreman Kneebiter",
+    "image_url": "https://cdn.rubinottools.com/bosses/Foreman_Kneebiter.gif",
+    "locations": [
+      {
+        "name": "Dwarf Mines (Kazordoon)",
+        "iframe_url": "https://tibiamaps.io/map/embed#32553,31897,14:1",
+        "coordinates": {
+          "x": 32553,
+          "y": 31897,
+          "z": 14
+        }
+      },
+      {
+        "name": "Dwarf Mines (Kazordoon)",
+        "iframe_url": "https://tibiamaps.io/map/embed#32555,31880,15:1",
+        "coordinates": {
+          "x": 32555,
+          "y": 31880,
+          "z": 15
+        }
+      }
+    ]
+  },
+  {
+    "name": "Xenia",
+    "image_url": "https://cdn.rubinottools.com/bosses/Xenia.gif",
+    "locations": [
+      {
+        "name": "Amazon Camp (Venore)",
+        "iframe_url": "https://tibiamaps.io/map/embed#32891,31887,8:1",
+        "coordinates": {
+          "x": 32891,
+          "y": 31887,
+          "z": 8
+        }
+      },
+      {
+        "name": "Amazon Camp (Venore)",
+        "iframe_url": "https://tibiamaps.io/map/embed#32891,31887,9:1",
+        "coordinates": {
+          "x": 32891,
+          "y": 31887,
+          "z": 9
+        }
+      }
+    ]
+  },
+  {
+    "name": "Gravelord Oshuran",
+    "image_url": "https://cdn.rubinottools.com/bosses/Gravelord_Oshuran.gif",
+    "locations": [
+      {
+        "name": "Drefia (Darashia)",
+        "iframe_url": "https://tibiamaps.io/map/embed#32979,32395,12:1",
+        "coordinates": {
+          "x": 32979,
+          "y": 32395,
+          "z": 12
+        }
+      }
+    ]
+  },
+  {
+    "name": "Zushuka",
+    "image_url": "https://cdn.rubinottools.com/bosses/Zushuka.gif",
+    "locations": [
+      {
+        "name": "Ice Witch Temple (Svargrond)",
+        "iframe_url": "https://tibiamaps.io/map/embed#31942,31387,9:1",
+        "coordinates": {
+          "x": 31942,
+          "y": 31387,
+          "z": 9
+        }
+      }
+    ]
+  },
+  {
+    "name": "Willi Wasp",
+    "image_url": "https://cdn.rubinottools.com/bosses/Willi_Wasp.gif",
+    "locations": [
+      {
+        "name": "Carlin",
+        "iframe_url": "https://tibiamaps.io/map/embed#32345,31704,7:1",
+        "coordinates": {
+          "x": 32345,
+          "y": 31704,
+          "z": 7
+        }
+      }
+    ]
+  },
+  {
+    "name": "Diblis the Fair",
+    "image_url": "https://cdn.rubinottools.com/bosses/Diblis_the_Fair.gif",
+    "locations": [
+      {
+        "name": "Nargor Undead Cave (Liberty Bay)",
+        "iframe_url": "https://tibiamaps.io/map/embed#32008,32793,10:1",
+        "coordinates": {
+          "x": 32008,
+          "y": 32793,
+          "z": 10
+        }
+      }
+    ]
+  },
+  {
+    "name": "Zulazza the Corruptor",
+    "image_url": "https://cdn.rubinottools.com/bosses/Zulazza_the_Corruptor.gif",
+    "locations": [
+      {
+        "name": "Zzaion (Farmine)",
+        "iframe_url": "https://tibiamaps.io/map/embed#33347,31609,1:1",
+        "coordinates": {
+          "x": 33347,
+          "y": 31609,
+          "z": 1
+        }
+      }
+    ]
+  },
+  {
+    "name": "Chizzoron the Distorter",
+    "image_url": "https://cdn.rubinottools.com/bosses/Chizzoron_the_Distorter.gif",
+    "locations": [
+      {
+        "name": "Zzaion (Farmine)",
+        "iframe_url": "https://tibiamaps.io/map/embed#33351,31609,2:1",
+        "coordinates": {
+          "x": 33351,
+          "y": 31609,
+          "z": 2
+        }
+      }
+    ]
+  },
+  {
+    "name": "Zomba",
+    "image_url": "https://cdn.rubinottools.com/bosses/Zomba.gif",
+    "locations": [
+      {
+        "name": "Darashia",
+        "iframe_url": "https://tibiamaps.io/map/embed#33159,32427,7:1",
+        "coordinates": {
+          "x": 33159,
+          "y": 32427,
+          "z": 7
+        }
+      }
+    ]
+  },
+  {
+    "name": "The Big Bad One",
+    "image_url": "https://cdn.rubinottools.com/bosses/The_Big_Bad_One.gif",
+    "locations": [
+      {
+        "name": "Edron",
+        "iframe_url": "https://tibiamaps.io/map/embed#33173,31678,7:1",
+        "coordinates": {
+          "x": 33173,
+          "y": 31678,
+          "z": 7
+        }
+      }
+    ]
+  },
+  {
+    "name": "Gaz'haragoth",
+    "image_url": "https://cdn.rubinottools.com/bosses/Gaz'haragoth.gif",
+    "locations": [
+      {
+        "name": "Roshamuul Prison (Roshamuul)",
+        "iframe_url": "https://tibiamaps.io/map/embed#33630,32372,5:1",
+        "coordinates": {
+          "x": 33630,
+          "y": 32372,
+          "z": 5
+        }
+      }
+    ]
+  },
+  {
+    "name": "The Frog Prince",
+    "image_url": "https://cdn.rubinottools.com/bosses/The_Frog_Prince.gif",
+    "locations": [
+      {
+        "name": "Alatar Lake (Thais)",
+        "iframe_url": "https://tibiamaps.io/map/embed#32383,32128,7:1",
+        "coordinates": {
+          "x": 32383,
+          "y": 32128,
+          "z": 7
+        }
+      }
+    ]
+  },
+  {
+    "name": "Smuggler Baron Silvertoe",
+    "image_url": "https://cdn.rubinottools.com/bosses/Smuggler_Baron_Silvertoe.gif",
+    "locations": [
+      {
+        "name": "Bandit Caves (Port Hope)",
+        "iframe_url": "https://tibiamaps.io/map/embed#32541,32648,10:1",
+        "coordinates": {
+          "x": 32541,
+          "y": 32648,
+          "z": 10
+        }
+      }
+    ]
+  },
+  {
+    "name": "Albino Dragon",
+    "image_url": "https://cdn.rubinottools.com/bosses/Albino_Dragon.gif",
+    "locations": [
+      {
+        "name": "Dragon Lair (Ankrahmun)",
+        "iframe_url": "https://tibiamaps.io/map/embed#33090,32594,5:1",
+        "coordinates": {
+          "x": 33090,
+          "y": 32594,
+          "z": 5
+        }
+      },
+      {
+        "name": "Dragon Lair (Farmine)",
+        "iframe_url": "https://tibiamaps.io/map/embed#33156,31270,5:1",
+        "coordinates": {
+          "x": 33156,
+          "y": 31270,
+          "z": 5
+        }
+      },
+      {
+        "name": "Dragon Lair (Fenrock)",
+        "iframe_url": "https://tibiamaps.io/map/embed#32592,31383,15:1",
+        "coordinates": {
+          "x": 32592,
+          "y": 31383,
+          "z": 15
+        }
+      },
+      {
+        "name": "Dragon Lair (Goroma)",
+        "iframe_url": "https://tibiamaps.io/map/embed#32086,32566,14:1",
+        "coordinates": {
+          "x": 32086,
+          "y": 32566,
+          "z": 14
+        }
+      },
+      {
+        "name": "Pits of Inferno",
+        "iframe_url": "https://tibiamaps.io/map/embed#32770,32311,12:1",
+        "coordinates": {
+          "x": 32770,
+          "y": 32311,
+          "z": 12
+        }
+      }
+    ]
+  },
+  {
+    "name": "Fleabringer",
+    "image_url": "https://cdn.rubinottools.com/bosses/Fleabringer.gif",
+    "locations": [
+      {
+        "name": "Zao Steppe (Farmine)",
+        "iframe_url": "https://tibiamaps.io/map/embed#33092,31384,8:1",
+        "coordinates": {
+          "x": 33092,
+          "y": 31384,
+          "z": 8
+        }
+      },
+      {
+        "name": "Zao Steppe (Farmine)",
+        "iframe_url": "https://tibiamaps.io/map/embed#33112,31457,8:1",
+        "coordinates": {
+          "x": 33112,
+          "y": 31457,
+          "z": 8
+        }
+      },
+      {
+        "name": "Zao Steppe (Farmine)",
+        "iframe_url": "https://tibiamaps.io/map/embed#33251,31423,7:1",
+        "coordinates": {
+          "x": 33251,
+          "y": 31423,
+          "z": 7
+        }
+      }
+    ]
+  },
+  {
+    "name": "Battlemaster Zunzu",
+    "image_url": "https://cdn.rubinottools.com/bosses/Battlemaster_Zunzu.gif",
+    "locations": [
+      {
+        "name": "Muggy Plains (Farmine)",
+        "iframe_url": "https://tibiamaps.io/map/embed#33208,31241,7:1",
+        "coordinates": {
+          "x": 33208,
+          "y": 31241,
+          "z": 7
+        }
+      },
+      {
+        "name": "Muggy Plains (Farmine)",
+        "iframe_url": "https://tibiamaps.io/map/embed#33237,31240,7:1",
+        "coordinates": {
+          "x": 33237,
+          "y": 31240,
+          "z": 7
+        }
+      },
+      {
+        "name": "Muggy Plains (Farmine)",
+        "iframe_url": "https://tibiamaps.io/map/embed#33284,31241,7:1",
+        "coordinates": {
+          "x": 33284,
+          "y": 31241,
+          "z": 7
+        }
+      }
+    ]
+  },
+  {
+    "name": "Flamecaller Zazrak",
+    "image_url": "https://cdn.rubinottools.com/bosses/Flamecaller_Zazrak.gif",
+    "locations": [
+      {
+        "name": "Muggy Plains (Farmine)",
+        "iframe_url": "https://tibiamaps.io/map/embed#33180,31220,7:1",
+        "coordinates": {
+          "x": 33180,
+          "y": 31220,
+          "z": 7
+        }
+      },
+      {
+        "name": "Muggy Plains (Farmine)",
+        "iframe_url": "https://tibiamaps.io/map/embed#33251,31152,6:1",
+        "coordinates": {
+          "x": 33251,
+          "y": 31152,
+          "z": 6
+        }
+      }
+    ]
+  },
+  {
+    "name": "Rottie the Rotworm",
+    "image_url": "https://cdn.rubinottools.com/bosses/Rottie_the_Rotworm.gif",
+    "locations": [
+      {
+        "name": "Katana Quest (Rookgaard)",
+        "iframe_url": "https://tibiamaps.io/map/embed#32180,32149,11:1",
+        "coordinates": {
+          "x": 32180,
+          "y": 32149,
+          "z": 11
+        }
+      },
+      {
+        "name": "Poison Spider Cave (Rookgaard)",
+        "iframe_url": "https://tibiamaps.io/map/embed#31975,32066,13:1",
+        "coordinates": {
+          "x": 31975,
+          "y": 32066,
+          "z": 13
+        }
+      }
+    ]
+  },
+  {
+    "name": "The Voice Of Ruin",
+    "image_url": "https://cdn.rubinottools.com/bosses/The_Voice_Of_Ruin.gif",
+    "locations": [
+      {
+        "name": "Corruption Hole (Farmine)",
+        "iframe_url": "https://tibiamaps.io/map/embed#33313,31132,9:1",
+        "coordinates": {
+          "x": 33313,
+          "y": 31132,
+          "z": 9
+        }
+      },
+      {
+        "name": "Corruption Hole (Farmine)",
+        "iframe_url": "https://tibiamaps.io/map/embed#33280,31087,9:1",
+        "coordinates": {
+          "x": 33280,
+          "y": 31087,
+          "z": 9
+        }
+      }
+    ]
+  },
+  {
+    "name": "Tyrn",
+    "image_url": "https://cdn.rubinottools.com/bosses/Tyrn.gif",
+    "locations": [
+      {
+        "name": "Drefia (Darashia)",
+        "iframe_url": "https://tibiamaps.io/map/embed#33048,32377,14:1",
+        "coordinates": {
+          "x": 33048,
+          "y": 32377,
+          "z": 14
+        }
+      },
+      {
+        "name": "Wyrm Cave (Liberty Bay)",
+        "iframe_url": "https://tibiamaps.io/map/embed#32440,32838,9:1",
+        "coordinates": {
+          "x": 32440,
+          "y": 32838,
+          "z": 9
+        }
+      }
+    ]
+  },
+  {
+    "name": "Dreadmaw",
+    "image_url": "https://cdn.rubinottools.com/bosses/Dreadmaw.gif",
+    "locations": [
+      {
+        "name": "Muggy Plains (Farmine)",
+        "iframe_url": "https://tibiamaps.io/map/embed#33270,31163,7:1",
+        "coordinates": {
+          "x": 33270,
+          "y": 31163,
+          "z": 7
+        }
+      },
+      {
+        "name": "Muggy Plains (Farmine)",
+        "iframe_url": "https://tibiamaps.io/map/embed#33296,31149,7:1",
+        "coordinates": {
+          "x": 33296,
+          "y": 31149,
+          "z": 7
+        }
+      }
+    ]
+  },
+  {
+    "name": "Hirintror",
+    "image_url": "https://cdn.rubinottools.com/bosses/Hirintror.gif",
+    "locations": [
+      {
+        "name": "Formorgar Mines (Svargrond)",
+        "iframe_url": "https://tibiamaps.io/map/embed#32145,31257,10:1",
+        "coordinates": {
+          "x": 32145,
+          "y": 31257,
+          "z": 10
+        }
+      },
+      {
+        "name": "Nibelor (Svargrond)",
+        "iframe_url": "https://tibiamaps.io/map/embed#32366,31053,8:1",
+        "coordinates": {
+          "x": 32366,
+          "y": 31053,
+          "z": 8
+        }
+      }
+    ]
+  },
+  {
+    "name": "Rotworm Queen",
+    "image_url": "https://cdn.rubinottools.com/bosses/Rotworm_Queen.gif",
+    "locations": [
+      {
+        "name": "Rotworm Cave (Darashia)",
+        "iframe_url": "https://tibiamaps.io/map/embed#33046,32373,9:1",
+        "coordinates": {
+          "x": 33046,
+          "y": 32373,
+          "z": 9
+        }
+      },
+      {
+        "name": "Rotworm Cave (Liberty Bay)",
+        "iframe_url": "https://tibiamaps.io/map/embed#32263,32689,10:1",
+        "coordinates": {
+          "x": 32263,
+          "y": 32689,
+          "z": 10
+        }
+      },
+      {
+        "name": "Rotworm Cave (Edron)",
+        "iframe_url": "https://tibiamaps.io/map/embed#33238,31840,9:1",
+        "coordinates": {
+          "x": 33238,
+          "y": 31840,
+          "z": 9
+        }
+      },
+      {
+        "name": "Hellgate (Ab'Dendriel)",
+        "iframe_url": "https://tibiamaps.io/map/embed#32779,31604,12:1",
+        "coordinates": {
+          "x": 32779,
+          "y": 31604,
+          "z": 12
+        }
+      }
+    ]
+  },
+  {
+    "name": "White Pale",
+    "image_url": "https://cdn.rubinottools.com/bosses/White_Pale.gif",
+    "locations": [
+      {
+        "name": "Rotworm Cave (Edron)",
+        "iframe_url": "https://tibiamaps.io/map/embed#33268,31872,11:1",
+        "coordinates": {
+          "x": 33268,
+          "y": 31872,
+          "z": 11
+        }
+      },
+      {
+        "name": "Rotworm Cave (Darashia)",
+        "iframe_url": "https://tibiamaps.io/map/embed#33131,32430,9:1",
+        "coordinates": {
+          "x": 33131,
+          "y": 32430,
+          "z": 9
+        }
+      },
+      {
+        "name": "Rotworm Cave (Liberty Bay)",
+        "iframe_url": "https://tibiamaps.io/map/embed#32225,32760,10:1",
+        "coordinates": {
+          "x": 32225,
+          "y": 32760,
+          "z": 10
+        }
+      }
+    ]
+  },
+  {
+    "name": "Big Boss Trolliver",
+    "image_url": "https://cdn.rubinottools.com/bosses/Big_Boss_Trolliver.gif",
+    "locations": [
+      {
+        "name": "Troll Cave (Edron)",
+        "iframe_url": "https://tibiamaps.io/map/embed#33134,31721,10:1",
+        "coordinates": {
+          "x": 33134,
+          "y": 31721,
+          "z": 10
+        }
+      }
+    ]
+  },
+  {
+    "name": "Dharalion",
+    "image_url": "https://cdn.rubinottools.com/bosses/Dharalion.gif",
+    "locations": [
+      {
+        "name": "Shadowthorn (Venore)",
+        "iframe_url": "https://tibiamaps.io/map/embed#33040,32177,9:1",
+        "coordinates": {
+          "x": 33040,
+          "y": 32177,
+          "z": 9
+        }
+      }
+    ]
+  },
+  {
+    "name": "Grand Mother Foulscale",
+    "image_url": "https://cdn.rubinottools.com/bosses/Grand_Mother_Foulscale.gif",
+    "locations": [
+      {
+        "name": "Muggy Plains (Farmine)",
+        "iframe_url": "https://tibiamaps.io/map/embed#33309,31173,7:1",
+        "coordinates": {
+          "x": 33309,
+          "y": 31173,
+          "z": 7
+        }
+      }
+    ]
+  },
+  {
+    "name": "Morshabaal",
+    "image_url": "https://cdn.rubinottools.com/bosses/Morshabaal.gif",
+    "locations": [
+      {
+        "name": "Edron",
+        "iframe_url": "https://tibiamaps.io/map/embed#33118,31700,7:1",
+        "coordinates": {
+          "x": 33118,
+          "y": 31700,
+          "z": 7
+        }
+      }
+    ]
+  },
+  {
+    "name": "Sir Valorcrest",
+    "image_url": "https://cdn.rubinottools.com/bosses/Sir_Valorcrest.gif",
+    "locations": [
+      {
+        "name": "Undead Cave (Edron)",
+        "iframe_url": "https://tibiamaps.io/map/embed#33266,31768,10:1",
+        "coordinates": {
+          "x": 33266,
+          "y": 31768,
+          "z": 10
+        }
+      }
+    ]
+  },
+  {
+    "name": "The Old Whopper",
+    "image_url": "https://cdn.rubinottools.com/bosses/The_Old_Whopper.gif",
+    "locations": [
+      {
+        "name": "Cyclopolis (Edron)",
+        "iframe_url": "https://tibiamaps.io/map/embed#33313,31667,11:1",
+        "coordinates": {
+          "x": 33313,
+          "y": 31667,
+          "z": 11
+        }
+      }
+    ]
+  },
+  {
+    "name": "Rukor Zad",
+    "image_url": "https://cdn.rubinottools.com/bosses/Rukor_Zad.gif",
+    "locations": [
+      {
+        "name": "Dark Cathedral (Plains of Havoc)",
+        "iframe_url": "https://tibiamaps.io/map/embed#32601,32383,10:1",
+        "coordinates": {
+          "x": 32601,
+          "y": 32383,
+          "z": 10
+        }
+      }
+    ]
+  },
+  {
+    "name": "The Handmaiden",
+    "image_url": "https://cdn.rubinottools.com/bosses/The_Handmaiden.gif",
+    "locations": [
+      {
+        "name": "Pits of Inferno",
+        "iframe_url": "https://tibiamaps.io/map/embed#32785,32285,15:1",
+        "coordinates": {
+          "x": 32785,
+          "y": 32285,
+          "z": 15
+        }
+      }
+    ]
+  },
+  {
+    "name": "Countess Sorrow",
+    "image_url": "https://cdn.rubinottools.com/bosses/Countess_Sorrow.gif",
+    "locations": [
+      {
+        "name": "Pits of Inferno",
+        "iframe_url": "https://tibiamaps.io/map/embed#32794,32363,15:1",
+        "coordinates": {
+          "x": 32794,
+          "y": 32363,
+          "z": 15
+        }
+      }
+    ]
+  },
+  {
+    "name": "Furyosa",
+    "image_url": "https://cdn.rubinottools.com/bosses/Furyosa.gif",
+    "locations": [
+      {
+        "name": "Fury Gate (Edron)",
+        "iframe_url": "https://tibiamaps.io/map/embed#33314,31842,15:1",
+        "coordinates": {
+          "x": 33314,
+          "y": 31842,
+          "z": 15
+        }
+      }
+    ]
+  },
+  {
+    "name": "General Murius",
+    "image_url": "https://cdn.rubinottools.com/bosses/General_Murius.gif",
+    "locations": [
+      {
+        "name": "Mintwallin (Thais)",
+        "iframe_url": "https://tibiamaps.io/map/embed#32414,32119,15:1",
+        "coordinates": {
+          "x": 32414,
+          "y": 32119,
+          "z": 15
+        }
+      }
+    ]
+  },
+  {
+    "name": "Hairman the Huge",
+    "image_url": "https://cdn.rubinottools.com/bosses/Hairman_the_Huge.gif",
+    "locations": [
+      {
+        "name": "Banuta (Port Hope)",
+        "iframe_url": "https://tibiamaps.io/map/embed#32846,32509,8:1",
+        "coordinates": {
+          "x": 32846,
+          "y": 32509,
+          "z": 8
+        }
+      }
+    ]
+  },
+  {
+    "name": "Hatebreeder",
+    "image_url": "https://cdn.rubinottools.com/bosses/Hatebreeder.gif",
+    "locations": [
+      {
+        "name": "WOTE (Farmine)",
+        "iframe_url": "https://tibiamaps.io/map/embed#33085,31103,14:1",
+        "coordinates": {
+          "x": 33085,
+          "y": 31103,
+          "z": 14
+        }
+      }
+    ]
+  },
+  {
+    "name": "High Templar Cobrass",
+    "image_url": "https://cdn.rubinottools.com/bosses/High_Templar_Cobrass.gif",
+    "locations": [
+      {
+        "name": "Chor (Port Hope)",
+        "iframe_url": "https://tibiamaps.io/map/embed#32957,32842,8:1",
+        "coordinates": {
+          "x": 32957,
+          "y": 32842,
+          "z": 8
+        }
+      }
+    ]
+  },
+  {
+    "name": "The Blightfather",
+    "image_url": "https://cdn.rubinottools.com/bosses/The_Blightfather.gif",
+    "locations": [
+      {
+        "name": "Muggy Plains (Farmine)",
+        "iframe_url": "https://tibiamaps.io/map/embed#33306,31154,7:1",
+        "coordinates": {
+          "x": 33306,
+          "y": 31154,
+          "z": 7
+        }
+      }
+    ]
+  },
+  {
+    "name": "The Plasmother",
+    "image_url": "https://cdn.rubinottools.com/bosses/The_Plasmother.gif",
+    "locations": [
+      {
+        "name": "Pits of Inferno",
+        "iframe_url": "https://tibiamaps.io/map/embed#32853,32331,15:1",
+        "coordinates": {
+          "x": 32853,
+          "y": 32331,
+          "z": 15
+        }
+      }
+    ]
+  },
+  {
+    "name": "Arachir the Ancient One",
+    "image_url": "https://cdn.rubinottools.com/bosses/Arachir_the_Ancient_One.gif",
+    "locations": [
+      {
+        "name": "Drefia (Darashia)",
+        "iframe_url": "https://tibiamaps.io/map/embed#32969,32399,12:1",
+        "coordinates": {
+          "x": 32969,
+          "y": 32399,
+          "z": 12
+        }
+      }
+    ]
+  },
+  {
+    "name": "Warlord Ruzad",
+    "image_url": "https://cdn.rubinottools.com/bosses/Warlord_Ruzad.gif",
+    "locations": [
+      {
+        "name": "Orc Fortress (Kazordoon)",
+        "iframe_url": "https://tibiamaps.io/map/embed#32976,31717,5:1",
+        "coordinates": {
+          "x": 32976,
+          "y": 31717,
+          "z": 5
+        }
+      }
+    ]
+  },
+  {
+    "name": "Dracola",
+    "image_url": "https://cdn.rubinottools.com/bosses/Dracola.gif",
+    "locations": [
+      {
+        "name": "Pits of Inferno",
+        "iframe_url": "https://tibiamaps.io/map/embed#32838,32307,15:1",
+        "coordinates": {
+          "x": 32838,
+          "y": 32307,
+          "z": 15
+        }
+      }
+    ]
+  },
+  {
+    "name": "Tzumrah The Dazzler",
+    "image_url": "https://cdn.rubinottools.com/bosses/Tzumrah_The_Dazzler.gif",
+    "locations": [
+      {
+        "name": "Forbidden Temple (Ankrahmun)",
+        "iframe_url": "https://tibiamaps.io/map/embed#33326,32657,11:1",
+        "coordinates": {
+          "x": 33326,
+          "y": 32657,
+          "z": 11
+        }
+      }
+    ]
+  },
+  {
+    "name": "Massacre",
+    "image_url": "https://cdn.rubinottools.com/bosses/Massacre.gif",
+    "locations": [
+      {
+        "name": "Pits of Inferno",
+        "iframe_url": "https://tibiamaps.io/map/embed#32872,32280,15:1",
+        "coordinates": {
+          "x": 32872,
+          "y": 32280,
+          "z": 15
+        }
+      }
+    ]
+  },
+  {
+    "name": "Mr. Punish",
+    "image_url": "https://cdn.rubinottools.com/bosses/Mr._Punish.gif",
+    "locations": [
+      {
+        "name": "Pits of Inferno",
+        "iframe_url": "https://tibiamaps.io/map/embed#32762,32243,15:1",
+        "coordinates": {
+          "x": 32762,
+          "y": 32243,
+          "z": 15
+        }
+      }
+    ]
+  },
+  {
+    "name": "Feroxa",
+    "image_url": "https://cdn.rubinottools.com/bosses/Feroxa.gif",
+    "locations": [
+      {
+        "name": "Grimvale (Edron)",
+        "iframe_url": "https://tibiamaps.io/map/embed#33298,31722,7:1",
+        "coordinates": {
+          "x": 33298,
+          "y": 31722,
+          "z": 7
+        }
+      }
+    ]
+  },
+  {
+    "name": "Rotrender",
+    "image_url": "https://cdn.rubinottools.com/bosses/Rotrender.gif",
+    "locations": [
+      {
+        "name": "Azzilon Castle (Edron)",
+        "iframe_url": "https://tibiamaps.io/map/embed#33925,32337,8:1",
+        "coordinates": {
+          "x": 33925,
+          "y": 32337,
+          "z": 8
+        }
+      }
+    ]
+  },
+  {
+    "name": "Orshabaal",
+    "image_url": "https://cdn.rubinottools.com/bosses/Orshabaal.gif",
+    "locations": [
+      {
+        "name": "Edron",
+        "iframe_url": "https://tibiamaps.io/map/embed#33118,31700,7:1",
+        "coordinates": {
+          "x": 33118,
+          "y": 31700,
+          "z": 7
+        }
+      }
+    ]
+  },
+  {
+    "name": "Ferumbras",
+    "image_url": "https://cdn.rubinottools.com/bosses/Ferumbras.gif",
+    "locations": [
+      {
+        "name": "Ferumbras' Citadel (Goroma)",
+        "iframe_url": "https://tibiamaps.io/map/embed#32121,32687,4:1",
+        "coordinates": {
+          "x": 32121,
+          "y": 32687,
+          "z": 4
+        }
+      }
+    ]
+  },
+  {
+    "name": "Morgaroth",
+    "image_url": "https://cdn.rubinottools.com/bosses/Morgaroth.gif",
+    "locations": [
+      {
+        "name": "Goroma (Liberty Bay)",
+        "iframe_url": "https://tibiamaps.io/map/embed#32061,32615,14:1",
+        "coordinates": {
+          "x": 32061,
+          "y": 32615,
+          "z": 14
+        }
+      }
+    ]
+  },
+  {
+    "name": "Ghazbaran",
+    "image_url": "https://cdn.rubinottools.com/bosses/Ghazbaran.gif",
+    "locations": [
+      {
+        "name": "Formorgar Mines (Svargrond)",
+        "iframe_url": "https://tibiamaps.io/map/embed#32227,31157,15:1",
+        "coordinates": {
+          "x": 32227,
+          "y": 31157,
+          "z": 15
+        }
+      }
+    ]
+  },
+  {
+    "name": "The Abomination",
+    "image_url": "https://cdn.rubinottools.com/bosses/The_Abomination.gif",
+    "locations": [
+      {
+        "name": "",
+        "iframe_url": "https://tibiamaps.io/map/embed#32430,31027,15:1",
+        "coordinates": {
+          "x": 32430,
+          "y": 31027,
+          "z": 15
+        }
+      }
+    ]
+  },
+  {
+    "name": "Burster",
+    "image_url": "https://cdn.rubinottools.com/bosses/Burster.gif",
+    "locations": [
+      {
+        "name": "Otherworld (Kazordoon)",
+        "iframe_url": "https://tibiamaps.io/map/embed#32449,32416,10:1",
+        "coordinates": {
+          "x": 32449,
+          "y": 32416,
+          "z": 10
+        }
+      }
+    ]
+  },
+  {
+    "name": "Chopper",
+    "image_url": "https://cdn.rubinottools.com/bosses/Chopper.gif",
+    "locations": [
+      {
+        "name": "The Hive (Gray Beach)",
+        "iframe_url": "https://tibiamaps.io/map/embed#33522,31254,8:1",
+        "coordinates": {
+          "x": 33522,
+          "y": 31254,
+          "z": 8
+        }
+      }
+    ]
+  },
+  {
+    "name": "Crustacea Gigantica",
+    "image_url": "https://cdn.rubinottools.com/bosses/Crustacea_Gigantica.gif",
+    "locations": [
+      {
+        "name": "Treasure Island (Liberty Bay)",
+        "iframe_url": "https://tibiamaps.io/map/embed#32181,32939,9:1",
+        "coordinates": {
+          "x": 32181,
+          "y": 32939,
+          "z": 9
+        }
+      },
+      {
+        "name": "Calassa (Liberty Bay)",
+        "iframe_url": "https://tibiamaps.io/map/embed#32113,32733,12:1",
+        "coordinates": {
+          "x": 32113,
+          "y": 32733,
+          "z": 12
+        }
+      },
+      {
+        "name": "Calassa (Liberty Bay)",
+        "iframe_url": "https://tibiamaps.io/map/embed#32114,32804,12:1",
+        "coordinates": {
+          "x": 32114,
+          "y": 32804,
+          "z": 12
+        }
+      },
+      {
+        "name": "Seacrest Grounds (Oramond)",
+        "iframe_url": "https://tibiamaps.io/map/embed#33517,31804,15:1",
+        "coordinates": {
+          "x": 33517,
+          "y": 31804,
+          "z": 15
+        }
+      },
+      {
+        "name": "Seacrest Grounds (Oramond)",
+        "iframe_url": "https://tibiamaps.io/map/embed#33471,31654,15:1",
+        "coordinates": {
+          "x": 33471,
+          "y": 31654,
+          "z": 15
+        }
+      },
+      {
+        "name": "Seacrest Grounds (Oramond)",
+        "iframe_url": "https://tibiamaps.io/map/embed#33507,31635,14:1",
+        "coordinates": {
+          "x": 33507,
+          "y": 31635,
+          "z": 14
+        }
+      },
+      {
+        "name": "Seacrest Grounds (Oramond)",
+        "iframe_url": "https://tibiamaps.io/map/embed#33534,31658,15:1",
+        "coordinates": {
+          "x": 33534,
+          "y": 31658,
+          "z": 15
+        }
+      },
+      {
+        "name": "Seacrest Grounds (Oramond)",
+        "iframe_url": "https://tibiamaps.io/map/embed#33555,31788,14:1",
+        "coordinates": {
+          "x": 33555,
+          "y": 31788,
+          "z": 14
+        }
+      }
+    ]
+  },
+  {
+    "name": "Dreadful Disruptor",
+    "image_url": "https://cdn.rubinottools.com/bosses/Dreadful_Disruptor.gif",
+    "locations": [
+      {
+        "name": "Otherworld (Edron)",
+        "iframe_url": "https://tibiamaps.io/map/embed#32021,31379,11:1",
+        "coordinates": {
+          "x": 32021,
+          "y": 31379,
+          "z": 11
+        }
+      }
+    ]
+  },
+  {
+    "name": "Elvira Hammerthrust",
+    "image_url": "https://cdn.rubinottools.com/bosses/Elvira_Hammerthrust.gif",
+    "locations": [
+      {
+        "name": "Dwarf Mines (Kazordoon)",
+        "iframe_url": "https://tibiamaps.io/map/embed#32531,31926,11:1",
+        "coordinates": {
+          "x": 32531,
+          "y": 31926,
+          "z": 11
+        }
+      }
+    ]
+  },
+  {
+    "name": "Groam",
+    "image_url": "https://cdn.rubinottools.com/bosses/Groam.gif",
+    "locations": [
+      {
+        "name": "Sunken Mines (Kazordoon)",
+        "iframe_url": "https://tibiamaps.io/map/embed#32629,32020,10:1",
+        "coordinates": {
+          "x": 32629,
+          "y": 32020,
+          "z": 10
+        }
+      }
+    ]
+  },
+  {
+    "name": "Grorlam",
+    "image_url": "https://cdn.rubinottools.com/bosses/Grorlam.gif",
+    "locations": [
+      {
+        "name": "Grorlam",
+        "iframe_url": "https://tibiamaps.io/map/embed#32483,32058,8:1",
+        "coordinates": {
+          "x": 32483,
+          "y": 32058,
+          "z": 8
+        }
+      }
+    ]
+  },
+  {
+    "name": "Jesse the Wicked",
+    "image_url": "https://cdn.rubinottools.com/bosses/Jesse_the_Wicked.gif",
+    "locations": [
+      {
+        "name": "Ancient Temple (Thais)",
+        "iframe_url": "https://tibiamaps.io/map/embed#32372,32221,11:1",
+        "coordinates": {
+          "x": 32372,
+          "y": 32221,
+          "z": 11
+        }
+      }
+    ]
+  },
+  {
+    "name": "Mahatheb",
+    "image_url": "https://cdn.rubinottools.com/bosses/Mahatheb.gif",
+    "locations": [
+      {
+        "name": "Forgotten Tomb (Ankrahmun)",
+        "iframe_url": "https://tibiamaps.io/map/embed#33390,31702,13:1",
+        "coordinates": {
+          "x": 33390,
+          "y": 31702,
+          "z": 13
+        }
+      }
+    ]
+  },
+  {
+    "name": "Maw",
+    "image_url": "https://cdn.rubinottools.com/bosses/Maw.gif",
+    "locations": [
+      {
+        "name": "The Hive (Gray Beach)",
+        "iframe_url": "https://tibiamaps.io/map/embed#33506,31246,8:1",
+        "coordinates": {
+          "x": 33506,
+          "y": 31246,
+          "z": 8
+        }
+      }
+    ]
+  },
+  {
+    "name": "Midnight Panther",
+    "image_url": "https://cdn.rubinottools.com/bosses/Midnight_Panther.gif",
+    "locations": [
+      {
+        "name": "Tiquanda (Port hope)",
+        "iframe_url": "https://tibiamaps.io/map/embed#32854,32744,7:1",
+        "coordinates": {
+          "x": 32854,
+          "y": 32744,
+          "z": 7
+        }
+      },
+      {
+        "name": "Tiquanda (Port hope)",
+        "iframe_url": "https://tibiamaps.io/map/embed#32831,32706,7:1",
+        "coordinates": {
+          "x": 32831,
+          "y": 32706,
+          "z": 7
+        }
+      },
+      {
+        "name": "Tiquanda (Port hope)",
+        "iframe_url": "https://tibiamaps.io/map/embed#32886,32721,7:1",
+        "coordinates": {
+          "x": 32886,
+          "y": 32721,
+          "z": 7
+        }
+      }
+    ]
+  },
+  {
+    "name": "Mindmasher",
+    "image_url": "https://cdn.rubinottools.com/bosses/Mindmasher.gif",
+    "locations": [
+      {
+        "name": "The Hive (Gray Beach)",
+        "iframe_url": "https://tibiamaps.io/map/embed#33457,31222,8:1",
+        "coordinates": {
+          "x": 33457,
+          "y": 31222,
+          "z": 8
+        }
+      }
+    ]
+  },
+  {
+    "name": "Mornenion",
+    "image_url": "https://cdn.rubinottools.com/bosses/Mornenion.gif",
+    "locations": [
+      {
+        "name": "Shadowthorn (Venore)",
+        "iframe_url": "https://tibiamaps.io/map/embed#33087,32157,7:1",
+        "coordinates": {
+          "x": 33087,
+          "y": 32157,
+          "z": 7
+        }
+      }
+    ]
+  },
+  {
+    "name": "Robby the Reckless",
+    "image_url": "https://cdn.rubinottools.com/bosses/Robby_the_Reckless.gif",
+    "locations": [
+      {
+        "name": "Ghostlands (Carlin)",
+        "iframe_url": "https://tibiamaps.io/map/embed#32198,31809,9:1",
+        "coordinates": {
+          "x": 32198,
+          "y": 31809,
+          "z": 9
+        }
+      }
+    ]
+  },
+  {
+    "name": "Rotspit",
+    "image_url": "https://cdn.rubinottools.com/bosses/Rotspit.gif",
+    "locations": [
+      {
+        "name": "The Hive (Gray Beach)",
+        "iframe_url": "https://tibiamaps.io/map/embed#33450,31228,8:1",
+        "coordinates": {
+          "x": 33450,
+          "y": 31228,
+          "z": 8
+        }
+      }
+    ]
+  },
+  {
+    "name": "Shadowstalker",
+    "image_url": "https://cdn.rubinottools.com/bosses/Shadowstalker.gif",
+    "locations": [
+      {
+        "name": "The Hive (Gray Beach)",
+        "iframe_url": "https://tibiamaps.io/map/embed#33480,31233,8:1",
+        "coordinates": {
+          "x": 33480,
+          "y": 31233,
+          "z": 8
+        }
+      }
+    ]
+  },
+  {
+    "name": "Teleskor",
+    "image_url": "https://cdn.rubinottools.com/bosses/Teleskor.gif",
+    "locations": [
+      {
+        "name": "Premium Area (Rookgaard)",
+        "iframe_url": "https://tibiamaps.io/map/embed#31981,32246,10:1",
+        "coordinates": {
+          "x": 31981,
+          "y": 32246,
+          "z": 10
+        }
+      }
+    ]
+  },
+  {
+    "name": "The Hungerer",
+    "image_url": "https://cdn.rubinottools.com/bosses/The_Hungerer.gif",
+    "locations": [
+      {
+        "name": "Hive Outpost (Liberty Bay)",
+        "iframe_url": "https://tibiamaps.io/map/embed#32155,32862,9:1",
+        "coordinates": {
+          "x": 32155,
+          "y": 32862,
+          "z": 9
+        }
+      }
+    ]
+  },
+  {
+    "name": "The Mean Masher",
+    "image_url": "https://cdn.rubinottools.com/bosses/The_Mean_Masher.gif",
+    "locations": [
+      {
+        "name": "Hive Outpost (Liberty Bay)",
+        "iframe_url": "https://tibiamaps.io/map/embed#32167,32865,9:1",
+        "coordinates": {
+          "x": 32167,
+          "y": 32865,
+          "z": 9
+        }
+      }
+    ]
+  },
+  {
+    "name": "Yakchal",
+    "image_url": "https://cdn.rubinottools.com/bosses/Yakchal.gif",
+    "locations": [
+      {
+        "name": "Formorgar Mines (Svargrond)",
+        "iframe_url": "https://tibiamaps.io/map/embed#32205,31003,14:1",
+        "coordinates": {
+          "x": 32205,
+          "y": 31003,
+          "z": 14
+        }
+      }
+    ]
+  },
+  {
+    "name": "Zarabustor",
+    "image_url": "https://cdn.rubinottools.com/bosses/Zarabustor.gif",
+    "locations": [
+      {
+        "name": "Demona (Ab'Dendriel)",
+        "iframe_url": "https://tibiamaps.io/map/embed#32508,31582,14:1",
+        "coordinates": {
+          "x": 32508,
+          "y": 31582,
+          "z": 14
+        }
+      }
+    ]
+  },
+  {
+    "name": "The Manhunter",
+    "image_url": "https://cdn.rubinottools.com/bosses/The_Manhunter.gif",
+    "locations": [
+      {
+        "name": "Hive Outpost (Liberty Bay)",
+        "iframe_url": "https://tibiamaps.io/map/embed#32167,32865,9:1",
+        "coordinates": {
+          "x": 32167,
+          "y": 32865,
+          "z": 9
+        }
+      }
+    ]
+  },
+  {
+    "name": "Sir Leopold",
+    "image_url": "https://cdn.rubinottools.com/bosses/Sir_Leopold.gif",
+    "locations": [
+      {
+        "name": "Book World (Edron)",
+        "iframe_url": "https://tibiamaps.io/map/embed#32538,32512,10:1",
+        "coordinates": {
+          "x": 32538,
+          "y": 32512,
+          "z": 10
+        }
+      }
+    ]
+  }
+]
