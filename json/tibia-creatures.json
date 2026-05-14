@@ -8184,6 +8184,132 @@
     }
   },
   {
+    "name": "Cyclops Drone",
+    "url": "https://www.tibiawiki.com.br/wiki/Cyclops_Drone",
+    "types": [
+      "Gigantes"
+    ],
+    "stats": {
+      "hitpoints": 325,
+      "experience": 200,
+      "experienceWithBonus": 300,
+      "bestiaryDifficulty": "Médio",
+      "bestiaryKillsToUnlock": 1000,
+      "occurrence": "Comum",
+      "speed": 99,
+      "charms": 25,
+      "armor": 25,
+      "mitigation": 0.72
+    },
+    "imageUrl": "https://static.tibia.com/images/library/cyclopsdrone.gif",
+    "imageFileName": "Cyclops-Drone.gif",
+    "elements": {
+      "physical": {
+        "percent": 100,
+        "label": "Neutro a Físico",
+        "status": "neutral"
+      },
+      "earth": {
+        "percent": 110,
+        "label": "Fraco a Terra",
+        "status": "weak"
+      },
+      "fire": {
+        "percent": 100,
+        "label": "Neutro a Fogo",
+        "status": "neutral"
+      },
+      "death": {
+        "percent": 105,
+        "label": "Fraco a Morte",
+        "status": "weak"
+      },
+      "energy": {
+        "percent": 90,
+        "label": "Forte a Energia",
+        "status": "strong"
+      },
+      "holy": {
+        "percent": 80,
+        "label": "Forte a Sagrado",
+        "status": "strong"
+      },
+      "ice": {
+        "percent": 80,
+        "label": "Forte a Gelo",
+        "status": "strong"
+      },
+      "healing": {
+        "percent": 100,
+        "label": "Neutro a Cura",
+        "status": "neutral"
+      }
+    }
+  },
+  {
+    "name": "Cyclops Smith",
+    "url": "https://www.tibiawiki.com.br/wiki/Cyclops_Smith",
+    "types": [
+      "Gigantes"
+    ],
+    "stats": {
+      "hitpoints": 435,
+      "experience": 255,
+      "experienceWithBonus": 382,
+      "bestiaryDifficulty": "Médio",
+      "bestiaryKillsToUnlock": 1000,
+      "occurrence": "Comum",
+      "speed": 102,
+      "charms": 25,
+      "armor": 28,
+      "mitigation": 0.96
+    },
+    "imageUrl": "https://static.tibia.com/images/library/cyclopssmith.gif",
+    "imageFileName": "Cyclops-Smith.gif",
+    "elements": {
+      "physical": {
+        "percent": 100,
+        "label": "Neutro a Físico",
+        "status": "neutral"
+      },
+      "earth": {
+        "percent": 110,
+        "label": "Fraco a Terra",
+        "status": "weak"
+      },
+      "fire": {
+        "percent": 90,
+        "label": "Forte a Fogo",
+        "status": "strong"
+      },
+      "death": {
+        "percent": 105,
+        "label": "Fraco a Morte",
+        "status": "weak"
+      },
+      "energy": {
+        "percent": 80,
+        "label": "Forte a Energia",
+        "status": "strong"
+      },
+      "holy": {
+        "percent": 80,
+        "label": "Forte a Sagrado",
+        "status": "strong"
+      },
+      "ice": {
+        "percent": 100,
+        "label": "Neutro a Gelo",
+        "status": "neutral"
+      },
+      "healing": {
+        "percent": 100,
+        "label": "Neutro a Cura",
+        "status": "neutral"
+      }
+    }
+  },
+  {
     "name": "Cyclursus",
     "url": "https://www.tibiawiki.com.br/wiki/Cyclursus",
     "types": [
@@ -23174,6 +23300,69 @@
     }
   },
   {
+    "name": "Mantosaurus",
+    "url": "https://www.tibiawiki.com.br/wiki/Mantosaurus",
+    "types": [
+      "Répteis"
+    ],
+    "stats": {
+      "hitpoints": 19400,
+      "experience": 12440,
+      "experienceWithBonus": 18660,
+      "bestiaryDifficulty": "Desafiador",
+      "bestiaryKillsToUnlock": null,
+      "occurrence": "Comum",
+      "speed": 205,
+      "charms": null,
+      "armor": 65,
+      "mitigation": 1.79
+    },
+    "imageUrl": "https://static.tibia.com/images/library/mantosaurus.gif",
+    "imageFileName": "Mantosaurus.gif",
+    "elements": {
+      "physical": {
+        "percent": 110,
+        "label": "Fraco a Físico",
+        "status": "weak"
+      },
+      "earth": {
+        "percent": 95,
+        "label": "Forte a Terra",
+        "status": "strong"
+      },
+      "fire": {
+        "percent": 100,
+        "label": "Neutro a Fogo",
+        "status": "neutral"
+      },
+      "death": {
+        "percent": 95,
+        "label": "Forte a Morte",
+        "status": "strong"
+      },
+      "energy": {
+        "percent": 90,
+        "label": "Forte a Energia",
+        "status": "strong"
+      },
+      "holy": {
+        "percent": 115,
+        "label": "Fraco a Sagrado",
+        "status": "weak"
+      },
+      "ice": {
+        "percent": 115,
+        "label": "Fraco a Gelo",
+        "status": "weak"
+      },
+      "healing": {
+        "percent": 100,
+        "label": "Neutro a Cura",
+        "status": "neutral"
+      }
+    }
+  },
+  {
     "name": "Many Faces",
     "url": "https://www.tibiawiki.com.br/wiki/Many_Faces",
     "types": [
@@ -27571,6 +27760,69 @@
         "percent": 65,
         "label": "Forte a Gelo",
         "status": "strong"
+      },
+      "healing": {
+        "percent": 100,
+        "label": "Neutro a Cura",
+        "status": "neutral"
+      }
+    }
+  },
+  {
+    "name": "Oozing Corpus",
+    "url": "https://www.tibiawiki.com.br/wiki/Oozing_Corpus",
+    "types": [
+      "Mortos-Vivos"
+    ],
+    "stats": {
+      "hitpoints": 28700,
+      "experience": 20600,
+      "experienceWithBonus": 30900,
+      "bestiaryDifficulty": "Desafiador",
+      "bestiaryKillsToUnlock": null,
+      "occurrence": "Comum",
+      "speed": 220,
+      "charms": null,
+      "armor": 107,
+      "mitigation": 3.25
+    },
+    "imageUrl": "https://static.tibia.com/images/library/oozingcorpus.gif",
+    "imageFileName": "Oozing-Corpus.gif",
+    "elements": {
+      "physical": {
+        "percent": 70,
+        "label": "Forte a Físico",
+        "status": "strong"
+      },
+      "earth": {
+        "percent": 60,
+        "label": "Forte a Terra",
+        "status": "strong"
+      },
+      "fire": {
+        "percent": 75,
+        "label": "Forte a Fogo",
+        "status": "strong"
+      },
+      "death": {
+        "percent": 100,
+        "label": "Neutro a Morte",
+        "status": "neutral"
+      },
+      "energy": {
+        "percent": 125,
+        "label": "Fraco a Energia",
+        "status": "weak"
+      },
+      "holy": {
+        "percent": 110,
+        "label": "Fraco a Sagrado",
+        "status": "weak"
+      },
+      "ice": {
+        "percent": 110,
+        "label": "Fraco a Gelo",
+        "status": "weak"
       },
       "healing": {
         "percent": 100,
@@ -35201,6 +35453,69 @@
     }
   },
   {
+    "name": "Sopping Corpus",
+    "url": "https://www.tibiawiki.com.br/wiki/Sopping_Corpus",
+    "types": [
+      "Mortos-Vivos"
+    ],
+    "stats": {
+      "hitpoints": 33400,
+      "experience": 22465,
+      "experienceWithBonus": 33697,
+      "bestiaryDifficulty": "Desafiador",
+      "bestiaryKillsToUnlock": null,
+      "occurrence": "Comum",
+      "speed": 210,
+      "charms": null,
+      "armor": 112,
+      "mitigation": 3.25
+    },
+    "imageUrl": "https://static.tibia.com/images/library/soppingcorpus.gif",
+    "imageFileName": "Sopping-Corpus.gif",
+    "elements": {
+      "physical": {
+        "percent": 60,
+        "label": "Forte a Físico",
+        "status": "strong"
+      },
+      "earth": {
+        "percent": 50,
+        "label": "Forte a Terra",
+        "status": "strong"
+      },
+      "fire": {
+        "percent": 70,
+        "label": "Forte a Fogo",
+        "status": "strong"
+      },
+      "death": {
+        "percent": 90,
+        "label": "Forte a Morte",
+        "status": "strong"
+      },
+      "energy": {
+        "percent": 120,
+        "label": "Fraco a Energia",
+        "status": "weak"
+      },
+      "holy": {
+        "percent": 105,
+        "label": "Fraco a Sagrado",
+        "status": "weak"
+      },
+      "ice": {
+        "percent": 110,
+        "label": "Fraco a Gelo",
+        "status": "weak"
+      },
+      "healing": {
+        "percent": 100,
+        "label": "Neutro a Cura",
+        "status": "neutral"
+      }
+    }
+  },
+  {
     "name": "Sorcerer's Apparition",
     "url": "https://www.tibiawiki.com.br/wiki/Sorcerer's_Apparition",
     "types": [
@@ -40249,10 +40564,10 @@
       "bestiaryDifficulty": null,
       "bestiaryKillsToUnlock": null,
       "occurrence": "Comum",
-      "speed": null,
+      "speed": 225,
       "charms": null,
-      "armor": null,
-      "mitigation": null
+      "armor": 120,
+      "mitigation": 2.75
     },
     "imageUrl": "https://static.tibia.com/images/library/walkingdread.gif",
     "imageFileName": "Walking-Dread.gif",
