@@ -1,95 +1,2129 @@
 {
   "hunts": [
     {
-      "id": "rotten-wastelands-knight-900",
-      "name": "Rotten Wastelands",
-      "minLevel": 900,
-      "vocation": ["Knight", "Druid", "Sorcerer", "Paladin"],
-      "expPerHour": "15kk - 18kk",
-      "profitPerHour": "1.5kk - 2.5kk",
-      "difficulty": "Hard",
-      "city": "Zao",
-      "youtubeVideoId": "dQw4w9WgXcQ",
-      "mapImageUrl": "https://cdn.rubinottools.com/images/maps/rotten_wastelands.jpg",
-      "predominantDamage": [
-        { "element": "Holy", "percentage": 41.2 },
-        { "element": "Earth", "percentage": 36.3 },
-        { "element": "Physical", "percentage": 22.5 }
+      "name": "Podzilla Quara ED/MS/RP",
+      "level": 0,
+      "vocations": [
+        "Knight",
+        "Druid",
+        "Paladin",
+        "Sorcerer"
       ],
-      "equipmentSets": {
-        "budget": {
-          "totalResistances": {
-            "physical": 20,
-            "fire": 0,
-            "earth": 25,
-            "energy": 0,
-            "ice": 0,
-            "holy": 10,
-            "death": -5
-          },
-          "helmet": {
-            "id": "Terra_Helmet",
-            "name": "Terra Helmet",
-            "imageUrl": "https://cdn.rubinottools.com/items/Terra_Helmet.gif"
-          }
-        },
-        "ideal": {
-          "totalResistances": {
-            "physical": 36.2,
-            "fire": -5.6,
-            "earth": 40.7,
-            "energy": 4.0,
-            "ice": 4.0,
-            "holy": 16.7,
-            "death": -12.0
-          },
-          "amulet": {
-            "id": "Turtle_Amulet",
-            "name": "Turtle Amulet",
-            "imageUrl": "https://cdn.rubinottools.com/items/Turtle_Amulet.gif"
-          },
-          "helmet": {
-            "id": "Falcon_Coif",
-            "name": "Falcon Coif",
-            "imageUrl": "https://cdn.rubinottools.com/items/Falcon_Coif.gif",
-            "imbuements": ["Mana Leech", "Void's Call"]
-          },
-          "weapon": {
-            "id": "Soulcutter",
-            "name": "Soulcutter",
-            "imageUrl": "https://cdn.rubinottools.com/items/Soulcutter.gif"
-          },
-          "armor": {
-            "id": "Falcon_Plate",
-            "name": "Falcon Plate",
-            "imageUrl": "https://cdn.rubinottools.com/items/Falcon_Plate.gif"
-          }
-        }
-      },
+      "exp": "N/A",
+      "profit": "N/A",
+      "mapImageUrl": "",
       "monsters": [
         {
-          "name": "Branchy Crawler",
-          "imageUrl": "https://cdn.rubinottools.com/monsters/Branchy_Crawler.gif",
-          "charmSuggested": "Curse",
-          "hp": 27000,
-          "exp": 17324
+          "name": "QUARA LOOTER",
+          "imageUrl": "https://cdn.rubinottools.com/monsters/QUARA-LOOTER.gif",
+          "health": 11500,
+          "experience": 8650,
+          "suggestedCharm": "Zap"
         },
         {
-          "name": "Mould Phantom",
-          "imageUrl": "https://cdn.rubinottools.com/monsters/Mould_Phantom.gif",
-          "charmSuggested": "Wound",
-          "hp": 28000,
-          "exp": 17780
+          "name": "QUARA PLUNDERER",
+          "imageUrl": "https://cdn.rubinottools.com/monsters/QUARA-PLUNDERER.gif",
+          "health": 13500,
+          "experience": 10800,
+          "suggestedCharm": "Wound"
         },
         {
-          "name": "Rotten Golem",
-          "imageUrl": "https://cdn.rubinottools.com/monsters/Rotten_Golem.gif",
-          "charmSuggested": "Enflame",
-          "hp": 28000,
-          "exp": 17324
+          "name": "QUARA RAIDER",
+          "imageUrl": "https://cdn.rubinottools.com/monsters/QUARA-RAIDER.gif",
+          "health": 12500,
+          "experience": 8150,
+          "suggestedCharm": "Poison"
         }
       ],
-      "wheelCode": "K0Y2AgDP4jAQA"
+      "equipment": [],
+      "wayPath": {
+        "id": "62571406-412f-46aa-9cff-fffb820e82be",
+        "name": "Podzilla Quara ED/MS/RP - Way",
+        "slug": "Podzilla-Quara-EDMSRP-Way",
+        "description": "",
+        "cords": {
+          "x": 33853,
+          "y": 32011,
+          "floor": 6,
+          "zoom": 3
+        },
+        "markers": [
+          {
+            "description": "",
+            "icon": "down",
+            "x": 33829,
+            "y": 32005,
+            "floor": 9,
+            "isDeleted": false
+          },
+          {
+            "description": "",
+            "icon": "down",
+            "x": 33825,
+            "y": 32004,
+            "floor": 8,
+            "isDeleted": false
+          },
+          {
+            "description": "",
+            "icon": "down",
+            "x": 33829,
+            "y": 32025,
+            "floor": 7,
+            "isDeleted": false
+          },
+          {
+            "description": "",
+            "icon": "down",
+            "x": 33846,
+            "y": 32005,
+            "floor": 6,
+            "isDeleted": false
+          }
+        ],
+        "paths": [
+          {
+            "floor": 6,
+            "pulseColor": "#e79603",
+            "pathColor": "#232528",
+            "weight": 7,
+            "delay": 100,
+            "dashArray": [
+              30
+            ],
+            "routes": [
+              {
+                "x": 33853,
+                "y": 32011
+              },
+              {
+                "x": 33849,
+                "y": 32011
+              },
+              {
+                "x": 33849,
+                "y": 32005
+              },
+              {
+                "x": 33846,
+                "y": 32005
+              }
+            ]
+          },
+          {
+            "floor": 7,
+            "pulseColor": "#e79603",
+            "pathColor": "#232528",
+            "weight": 7,
+            "delay": 100,
+            "dashArray": [
+              30
+            ],
+            "routes": [
+              {
+                "x": 33845,
+                "y": 32005
+              },
+              {
+                "x": 33838,
+                "y": 32005
+              },
+              {
+                "x": 33834,
+                "y": 32009
+              },
+              {
+                "x": 33831,
+                "y": 32014
+              },
+              {
+                "x": 33832,
+                "y": 32019
+              },
+              {
+                "x": 33829,
+                "y": 32025
+              }
+            ]
+          },
+          {
+            "floor": 8,
+            "pulseColor": "#e79603",
+            "pathColor": "#232528",
+            "weight": 7,
+            "delay": 100,
+            "dashArray": [
+              30
+            ],
+            "routes": [
+              {
+                "x": 33825,
+                "y": 32000
+              },
+              {
+                "x": 33825,
+                "y": 32004
+              }
+            ]
+          },
+          {
+            "floor": 9,
+            "pulseColor": "#e79603",
+            "pathColor": "#232528",
+            "weight": 7,
+            "delay": 100,
+            "dashArray": [
+              30
+            ],
+            "routes": [
+              {
+                "x": 33827,
+                "y": 32005
+              },
+              {
+                "x": 33829,
+                "y": 32005
+              }
+            ]
+          }
+        ],
+        "speed": 500,
+        "mapAreaId": null,
+        "createdBy": null,
+        "modifiedBy": null,
+        "updatedAt": "2025-02-16T17:06:13.977Z",
+        "createdAt": "2025-02-16T17:06:13.977Z"
+      },
+      "localMapUrl": "https://cdn.rubinottools.com/maps/undefined-map.png"
+    },
+    {
+      "name": "Iskupan Occupied Sanctuary ED/MS",
+      "level": 0,
+      "vocations": [
+        "Knight",
+        "Druid",
+        "Paladin",
+        "Sorcerer"
+      ],
+      "exp": "N/A",
+      "profit": "N/A",
+      "mapImageUrl": "",
+      "monsters": [
+        {
+          "name": "IKS YAPUNAC",
+          "imageUrl": "https://cdn.rubinottools.com/monsters/IKS-YAPUNAC.gif",
+          "health": 3125,
+          "experience": 2340,
+          "suggestedCharm": "Curse"
+        },
+        {
+          "name": "MITMAH SCOUT",
+          "imageUrl": "https://cdn.rubinottools.com/monsters/MITMAH-SCOUT.gif",
+          "health": 3940,
+          "experience": 3230,
+          "suggestedCharm": "Poison"
+        },
+        {
+          "name": "MITMAH SEER",
+          "imageUrl": "https://cdn.rubinottools.com/monsters/MITMAH-SEER.gif",
+          "health": 4620,
+          "experience": 4900,
+          "suggestedCharm": "Low Blow"
+        }
+      ],
+      "equipment": [],
+      "wayPath": {
+        "id": "fde4dc79-740b-4845-a34f-a281786fef16",
+        "name": "Iskupan Occupied Sanctuary ED/MS - Way",
+        "slug": "Iskupan-Occupied-Sanctuary-EDMS-Way",
+        "description": "",
+        "cords": {
+          "x": 32632,
+          "y": 32747,
+          "floor": 7,
+          "zoom": 3
+        },
+        "markers": [
+          {
+            "description": "",
+            "icon": "star",
+            "x": 32632,
+            "y": 32747,
+            "floor": 7,
+            "isDeleted": false
+          },
+          {
+            "description": "",
+            "icon": "up",
+            "x": 32638,
+            "y": 32769,
+            "floor": 7,
+            "isDeleted": false
+          },
+          {
+            "description": "",
+            "icon": "down",
+            "x": 32646,
+            "y": 32783,
+            "floor": 6,
+            "isDeleted": false
+          },
+          {
+            "description": "",
+            "icon": "down",
+            "x": 32726,
+            "y": 32874,
+            "floor": 7,
+            "isDeleted": false
+          },
+          {
+            "description": "",
+            "icon": "cross",
+            "x": 32726,
+            "y": 32874,
+            "floor": 7,
+            "isDeleted": false
+          },
+          {
+            "description": "",
+            "icon": "down",
+            "x": 34015,
+            "y": 31817,
+            "floor": 8,
+            "isDeleted": false
+          },
+          {
+            "description": "",
+            "icon": "down",
+            "x": 34044,
+            "y": 31810,
+            "floor": 9,
+            "isDeleted": false
+          },
+          {
+            "description": "",
+            "icon": "star",
+            "x": 34036,
+            "y": 31724,
+            "floor": 10,
+            "isDeleted": false
+          },
+          {
+            "description": "",
+            "icon": "cross",
+            "x": 34036,
+            "y": 31724,
+            "floor": 10,
+            "isDeleted": false
+          },
+          {
+            "description": "",
+            "icon": "cross",
+            "x": 34038,
+            "y": 31714,
+            "floor": 10,
+            "isDeleted": false
+          },
+          {
+            "description": "",
+            "icon": "up",
+            "x": 34009,
+            "y": 31732,
+            "floor": 9,
+            "isDeleted": false
+          },
+          {
+            "description": "",
+            "icon": "down",
+            "x": 34018,
+            "y": 31731,
+            "floor": 8,
+            "isDeleted": false
+          },
+          {
+            "description": "",
+            "icon": "down",
+            "x": 34073,
+            "y": 31641,
+            "floor": 9,
+            "isDeleted": false
+          },
+          {
+            "description": "",
+            "icon": "down",
+            "x": 34072,
+            "y": 31553,
+            "floor": 10,
+            "isDeleted": false
+          }
+        ],
+        "paths": [
+          {
+            "floor": 7,
+            "pulseColor": "#e79603",
+            "pathColor": "#232528",
+            "weight": 7,
+            "delay": 100,
+            "dashArray": [
+              30
+            ],
+            "routes": [
+              {
+                "x": 32632,
+                "y": 32747
+              },
+              {
+                "x": 32632,
+                "y": 32751
+              },
+              {
+                "x": 32630,
+                "y": 32754
+              },
+              {
+                "x": 32629,
+                "y": 32760
+              },
+              {
+                "x": 32629,
+                "y": 32766
+              },
+              {
+                "x": 32634,
+                "y": 32769
+              },
+              {
+                "x": 32638,
+                "y": 32769
+              }
+            ]
+          },
+          {
+            "floor": 6,
+            "pulseColor": "#e79603",
+            "pathColor": "#232528",
+            "weight": 7,
+            "delay": 100,
+            "dashArray": [
+              30
+            ],
+            "routes": [
+              {
+                "x": 32638,
+                "y": 32769
+              },
+              {
+                "x": 32638,
+                "y": 32773
+              },
+              {
+                "x": 32630,
+                "y": 32773
+              },
+              {
+                "x": 32630,
+                "y": 32778
+              },
+              {
+                "x": 32630,
+                "y": 32784
+              },
+              {
+                "x": 32636,
+                "y": 32784
+              },
+              {
+                "x": 32643,
+                "y": 32784
+              },
+              {
+                "x": 32646,
+                "y": 32784
+              },
+              {
+                "x": 32646,
+                "y": 32783
+              }
+            ]
+          },
+          {
+            "floor": 7,
+            "pulseColor": "#e79603",
+            "pathColor": "#232528",
+            "weight": 7,
+            "delay": 100,
+            "dashArray": [
+              30
+            ],
+            "routes": [
+              {
+                "x": 32646,
+                "y": 32783
+              },
+              {
+                "x": 32652,
+                "y": 32784
+              },
+              {
+                "x": 32658,
+                "y": 32787
+              },
+              {
+                "x": 32667,
+                "y": 32787
+              },
+              {
+                "x": 32674,
+                "y": 32788
+              },
+              {
+                "x": 32678,
+                "y": 32792
+              },
+              {
+                "x": 32682,
+                "y": 32797
+              },
+              {
+                "x": 32686,
+                "y": 32802
+              },
+              {
+                "x": 32691,
+                "y": 32809
+              },
+              {
+                "x": 32694,
+                "y": 32816
+              },
+              {
+                "x": 32699,
+                "y": 32824
+              },
+              {
+                "x": 32699,
+                "y": 32830
+              },
+              {
+                "x": 32702,
+                "y": 32837
+              },
+              {
+                "x": 32704,
+                "y": 32844
+              },
+              {
+                "x": 32707,
+                "y": 32851
+              },
+              {
+                "x": 32711,
+                "y": 32858
+              },
+              {
+                "x": 32714,
+                "y": 32863
+              },
+              {
+                "x": 32716,
+                "y": 32869
+              },
+              {
+                "x": 32720,
+                "y": 32874
+              },
+              {
+                "x": 32725,
+                "y": 32876
+              },
+              {
+                "x": 32726,
+                "y": 32874
+              }
+            ]
+          },
+          {
+            "floor": 8,
+            "pulseColor": "#e79603",
+            "pathColor": "#232528",
+            "weight": 7,
+            "delay": 100,
+            "dashArray": [
+              30
+            ],
+            "routes": [
+              {
+                "x": 34015,
+                "y": 31892
+              },
+              {
+                "x": 34015,
+                "y": 31888
+              },
+              {
+                "x": 34016,
+                "y": 31884
+              },
+              {
+                "x": 34020,
+                "y": 31880
+              },
+              {
+                "x": 34021,
+                "y": 31875
+              },
+              {
+                "x": 34021,
+                "y": 31871
+              },
+              {
+                "x": 34028,
+                "y": 31871
+              },
+              {
+                "x": 34030,
+                "y": 31867
+              },
+              {
+                "x": 34030,
+                "y": 31861
+              },
+              {
+                "x": 34035,
+                "y": 31860
+              },
+              {
+                "x": 34036,
+                "y": 31856
+              },
+              {
+                "x": 34041,
+                "y": 31854
+              },
+              {
+                "x": 34043,
+                "y": 31852
+              },
+              {
+                "x": 34043,
+                "y": 31845
+              },
+              {
+                "x": 34038,
+                "y": 31843
+              },
+              {
+                "x": 34035,
+                "y": 31840
+              },
+              {
+                "x": 34035,
+                "y": 31835
+              },
+              {
+                "x": 34030,
+                "y": 31835
+              },
+              {
+                "x": 34026,
+                "y": 31834
+              },
+              {
+                "x": 34025,
+                "y": 31829
+              },
+              {
+                "x": 34023,
+                "y": 31827
+              },
+              {
+                "x": 34020,
+                "y": 31827
+              },
+              {
+                "x": 34019,
+                "y": 31822
+              },
+              {
+                "x": 34016,
+                "y": 31819
+              },
+              {
+                "x": 34015,
+                "y": 31817
+              }
+            ]
+          },
+          {
+            "floor": 9,
+            "pulseColor": "#e79603",
+            "pathColor": "#232528",
+            "weight": 7,
+            "delay": 100,
+            "dashArray": [
+              30
+            ],
+            "routes": [
+              {
+                "x": 34015,
+                "y": 31817
+              },
+              {
+                "x": 34015,
+                "y": 31812
+              },
+              {
+                "x": 34015,
+                "y": 31807
+              },
+              {
+                "x": 34015,
+                "y": 31800
+              },
+              {
+                "x": 34018,
+                "y": 31794
+              },
+              {
+                "x": 34021,
+                "y": 31796
+              },
+              {
+                "x": 34026,
+                "y": 31796
+              },
+              {
+                "x": 34030,
+                "y": 31796
+              },
+              {
+                "x": 34033,
+                "y": 31798
+              },
+              {
+                "x": 34037,
+                "y": 31803
+              },
+              {
+                "x": 34041,
+                "y": 31808
+              },
+              {
+                "x": 34044,
+                "y": 31810
+              }
+            ]
+          },
+          {
+            "floor": 10,
+            "pulseColor": "#e79603",
+            "pathColor": "#232528",
+            "weight": 7,
+            "delay": 100,
+            "dashArray": [
+              30
+            ],
+            "routes": [
+              {
+                "x": 34044,
+                "y": 31810
+              },
+              {
+                "x": 34042,
+                "y": 31812
+              },
+              {
+                "x": 34037,
+                "y": 31812
+              },
+              {
+                "x": 34035,
+                "y": 31811
+              },
+              {
+                "x": 34035,
+                "y": 31804
+              },
+              {
+                "x": 34035,
+                "y": 31796
+              },
+              {
+                "x": 34035,
+                "y": 31788
+              },
+              {
+                "x": 34035,
+                "y": 31782
+              },
+              {
+                "x": 34029,
+                "y": 31781
+              },
+              {
+                "x": 34026,
+                "y": 31778
+              },
+              {
+                "x": 34023,
+                "y": 31772
+              },
+              {
+                "x": 34020,
+                "y": 31767
+              },
+              {
+                "x": 34023,
+                "y": 31761
+              },
+              {
+                "x": 34025,
+                "y": 31759
+              },
+              {
+                "x": 34025,
+                "y": 31756
+              },
+              {
+                "x": 34029,
+                "y": 31754
+              },
+              {
+                "x": 34031,
+                "y": 31749
+              },
+              {
+                "x": 34030,
+                "y": 31742
+              },
+              {
+                "x": 34027,
+                "y": 31736
+              },
+              {
+                "x": 34027,
+                "y": 31730
+              },
+              {
+                "x": 34030,
+                "y": 31727
+              },
+              {
+                "x": 34035,
+                "y": 31727
+              },
+              {
+                "x": 34036,
+                "y": 31724
+              }
+            ]
+          },
+          {
+            "floor": 10,
+            "pulseColor": "#e79603",
+            "pathColor": "#232528",
+            "weight": 7,
+            "delay": 100,
+            "dashArray": [
+              30
+            ],
+            "routes": [
+              {
+                "x": 34036,
+                "y": 31718
+              },
+              {
+                "x": 34038,
+                "y": 31714
+              }
+            ]
+          },
+          {
+            "floor": 9,
+            "pulseColor": "#e79603",
+            "pathColor": "#232528",
+            "weight": 7,
+            "delay": 100,
+            "dashArray": [
+              30
+            ],
+            "routes": [
+              {
+                "x": 33999,
+                "y": 31724
+              },
+              {
+                "x": 33994,
+                "y": 31725
+              },
+              {
+                "x": 33993,
+                "y": 31726
+              },
+              {
+                "x": 33993,
+                "y": 31731
+              },
+              {
+                "x": 33997,
+                "y": 31734
+              },
+              {
+                "x": 34004,
+                "y": 31734
+              },
+              {
+                "x": 34009,
+                "y": 31732
+              }
+            ]
+          },
+          {
+            "floor": 8,
+            "pulseColor": "#e79603",
+            "pathColor": "#232528",
+            "weight": 7,
+            "delay": 100,
+            "dashArray": [
+              30
+            ],
+            "routes": [
+              {
+                "x": 34009,
+                "y": 31732
+              },
+              {
+                "x": 34018,
+                "y": 31731
+              }
+            ]
+          },
+          {
+            "floor": 9,
+            "pulseColor": "#e79603",
+            "pathColor": "#232528",
+            "weight": 7,
+            "delay": 100,
+            "dashArray": [
+              30
+            ],
+            "routes": [
+              {
+                "x": 34018,
+                "y": 31731
+              },
+              {
+                "x": 34021,
+                "y": 31729
+              },
+              {
+                "x": 34027,
+                "y": 31729
+              },
+              {
+                "x": 34033,
+                "y": 31731
+              },
+              {
+                "x": 34039,
+                "y": 31733
+              },
+              {
+                "x": 34045,
+                "y": 31733
+              },
+              {
+                "x": 34051,
+                "y": 31733
+              },
+              {
+                "x": 34058,
+                "y": 31729
+              },
+              {
+                "x": 34064,
+                "y": 31723
+              },
+              {
+                "x": 34071,
+                "y": 31723
+              },
+              {
+                "x": 34073,
+                "y": 31717
+              },
+              {
+                "x": 34075,
+                "y": 31712
+              },
+              {
+                "x": 34077,
+                "y": 31707
+              },
+              {
+                "x": 34073,
+                "y": 31699
+              },
+              {
+                "x": 34074,
+                "y": 31690
+              },
+              {
+                "x": 34074,
+                "y": 31682
+              },
+              {
+                "x": 34074,
+                "y": 31672
+              },
+              {
+                "x": 34074,
+                "y": 31665
+              },
+              {
+                "x": 34073,
+                "y": 31658
+              },
+              {
+                "x": 34073,
+                "y": 31652
+              },
+              {
+                "x": 34073,
+                "y": 31644
+              },
+              {
+                "x": 34073,
+                "y": 31641
+              }
+            ]
+          },
+          {
+            "floor": 10,
+            "pulseColor": "#e79603",
+            "pathColor": "#232528",
+            "weight": 7,
+            "delay": 100,
+            "dashArray": [
+              30
+            ],
+            "routes": [
+              {
+                "x": 34073,
+                "y": 31641
+              },
+              {
+                "x": 34073,
+                "y": 31635
+              },
+              {
+                "x": 34073,
+                "y": 31626
+              },
+              {
+                "x": 34073,
+                "y": 31618
+              },
+              {
+                "x": 34073,
+                "y": 31611
+              },
+              {
+                "x": 34072,
+                "y": 31603
+              },
+              {
+                "x": 34072,
+                "y": 31595
+              },
+              {
+                "x": 34072,
+                "y": 31586
+              },
+              {
+                "x": 34072,
+                "y": 31579
+              },
+              {
+                "x": 34072,
+                "y": 31571
+              },
+              {
+                "x": 34072,
+                "y": 31563
+              },
+              {
+                "x": 34072,
+                "y": 31558
+              },
+              {
+                "x": 34072,
+                "y": 31553
+              }
+            ]
+          }
+        ],
+        "speed": 500,
+        "mapAreaId": null,
+        "createdBy": null,
+        "modifiedBy": null,
+        "updatedAt": "2025-02-16T17:06:13.977Z",
+        "createdAt": "2025-02-16T17:06:13.977Z"
+      },
+      "localMapUrl": "https://cdn.rubinottools.com/maps/undefined-map.png"
+    },
+    {
+      "name": "Grounds of Undeath",
+      "level": 0,
+      "vocations": [
+        "Knight",
+        "Druid",
+        "Paladin",
+        "Sorcerer"
+      ],
+      "exp": "N/A",
+      "profit": "N/A",
+      "mapImageUrl": "",
+      "monsters": [
+        {
+          "name": "BLIGHTWALKER",
+          "imageUrl": "https://cdn.rubinottools.com/monsters/BLIGHTWALKER.gif",
+          "health": 8100,
+          "experience": 6400,
+          "suggestedCharm": "Fatal Hold"
+        },
+        {
+          "name": "HELLFLAYER",
+          "imageUrl": "https://cdn.rubinottools.com/monsters/HELLFLAYER.gif",
+          "health": 14000,
+          "experience": 11720,
+          "suggestedCharm": "Gut"
+        },
+        {
+          "name": "UNDEAD DRAGON",
+          "imageUrl": "https://cdn.rubinottools.com/monsters/UNDEAD-DRAGON.gif",
+          "health": 8350,
+          "experience": 7500,
+          "suggestedCharm": "Divine Wrath"
+        }
+      ],
+      "equipment": [],
+      "wayPath": {
+        "id": "f4f69806-a41a-48d8-96c7-e6a70d052328",
+        "name": "Grounds of Undeath - Route",
+        "slug": "Grounds-of-Undeath-Route",
+        "description": "",
+        "cords": {
+          "x": 33214,
+          "y": 32453,
+          "floor": 7,
+          "zoom": 3
+        },
+        "markers": [
+          {
+            "x": 33214,
+            "y": 32453,
+            "floor": 7,
+            "icon": "star",
+            "isDeleted": false
+          },
+          {
+            "x": 33271,
+            "y": 32395,
+            "floor": 7,
+            "icon": "down",
+            "isDeleted": false
+          },
+          {
+            "x": 33275,
+            "y": 32388,
+            "floor": 8,
+            "icon": "cross",
+            "isDeleted": false
+          },
+          {
+            "x": 33321,
+            "y": 32326,
+            "floor": 12,
+            "icon": "down",
+            "isDeleted": false
+          },
+          {
+            "x": 33309,
+            "y": 32369,
+            "floor": 13,
+            "icon": "down",
+            "isDeleted": false
+          },
+          {
+            "x": 33325,
+            "y": 32400,
+            "floor": 14,
+            "icon": "cross",
+            "isDeleted": false
+          }
+        ],
+        "paths": [
+          {
+            "floor": 7,
+            "pulseColor": "#e79603",
+            "pathColor": "#232528",
+            "weight": 5,
+            "delay": 1000,
+            "dashArray": [
+              10,
+              10
+            ],
+            "routes": [
+              {
+                "x": 33214,
+                "y": 32453
+              },
+              {
+                "x": 33214,
+                "y": 32449
+              },
+              {
+                "x": 33217,
+                "y": 32443
+              },
+              {
+                "x": 33220,
+                "y": 32437
+              },
+              {
+                "x": 33238,
+                "y": 32436
+              },
+              {
+                "x": 33256,
+                "y": 32436
+              },
+              {
+                "x": 33254,
+                "y": 32431
+              },
+              {
+                "x": 33254,
+                "y": 32418
+              },
+              {
+                "x": 33256,
+                "y": 32413
+              },
+              {
+                "x": 33266,
+                "y": 32413
+              },
+              {
+                "x": 33269,
+                "y": 32404
+              },
+              {
+                "x": 33269,
+                "y": 32390
+              },
+              {
+                "x": 33273,
+                "y": 32389
+              },
+              {
+                "x": 33278,
+                "y": 32389
+              },
+              {
+                "x": 33278,
+                "y": 32396
+              },
+              {
+                "x": 33271,
+                "y": 32396
+              },
+              {
+                "x": 33271,
+                "y": 32395
+              }
+            ]
+          },
+          {
+            "floor": 8,
+            "pulseColor": "#e79603",
+            "pathColor": "#232528",
+            "weight": 5,
+            "delay": 1000,
+            "dashArray": [
+              10,
+              10
+            ],
+            "routes": [
+              {
+                "x": 33271,
+                "y": 32395
+              },
+              {
+                "x": 33275,
+                "y": 32395
+              },
+              {
+                "x": 33275,
+                "y": 32389
+              },
+              {
+                "x": 33275,
+                "y": 32388
+              }
+            ]
+          },
+          {
+            "floor": 12,
+            "pulseColor": "#e79603",
+            "pathColor": "#232528",
+            "weight": 5,
+            "delay": 1000,
+            "dashArray": [
+              10,
+              10
+            ],
+            "routes": [
+              {
+                "x": 33326,
+                "y": 32320
+              },
+              {
+                "x": 33321,
+                "y": 32325
+              },
+              {
+                "x": 33321,
+                "y": 32326
+              }
+            ]
+          },
+          {
+            "floor": 13,
+            "pulseColor": "#e79603",
+            "pathColor": "#232528",
+            "weight": 5,
+            "delay": 1000,
+            "dashArray": [
+              10,
+              10
+            ],
+            "routes": [
+              {
+                "x": 33321,
+                "y": 32326
+              },
+              {
+                "x": 33318,
+                "y": 32331
+              },
+              {
+                "x": 33309,
+                "y": 32339
+              },
+              {
+                "x": 33299,
+                "y": 32345
+              },
+              {
+                "x": 33300,
+                "y": 32351
+              },
+              {
+                "x": 33308,
+                "y": 32358
+              },
+              {
+                "x": 33309,
+                "y": 32368
+              },
+              {
+                "x": 33309,
+                "y": 32369
+              }
+            ]
+          },
+          {
+            "floor": 14,
+            "pulseColor": "#e79603",
+            "pathColor": "#232528",
+            "weight": 5,
+            "delay": 1000,
+            "dashArray": [
+              10,
+              10
+            ],
+            "routes": [
+              {
+                "x": 33309,
+                "y": 32369
+              },
+              {
+                "x": 33315,
+                "y": 32373
+              },
+              {
+                "x": 33325,
+                "y": 32373
+              },
+              {
+                "x": 33328,
+                "y": 32380
+              },
+              {
+                "x": 33330,
+                "y": 32385
+              },
+              {
+                "x": 33330,
+                "y": 32390
+              },
+              {
+                "x": 33325,
+                "y": 32396
+              },
+              {
+                "x": 33325,
+                "y": 32399
+              },
+              {
+                "x": 33325,
+                "y": 32400
+              }
+            ]
+          }
+        ],
+        "speed": 500,
+        "mapAreaId": null,
+        "createdBy": null,
+        "modifiedBy": null,
+        "updatedAt": "2025-10-16T19:43:09.330Z",
+        "createdAt": "2025-10-16T21:40:57.724Z"
+      },
+      "localMapUrl": "https://cdn.rubinottools.com/maps/undefined-map.png",
+      "youtubeVideoId": "UHy-BndNvuo"
+    },
+    {
+      "name": "Infernatil Seal RP",
+      "level": 0,
+      "vocations": [
+        "Knight",
+        "Druid",
+        "Paladin",
+        "Sorcerer"
+      ],
+      "exp": "N/A",
+      "profit": "N/A",
+      "mapImageUrl": "",
+      "monsters": [
+        {
+          "name": "FURY",
+          "imageUrl": "https://cdn.rubinottools.com/monsters/FURY.gif",
+          "health": 4100,
+          "experience": 4000,
+          "suggestedCharm": "Poison"
+        },
+        {
+          "name": "HELLFIRE FIGHTER",
+          "imageUrl": "https://cdn.rubinottools.com/monsters/HELLFIRE-FIGHTER.gif",
+          "health": 3800,
+          "experience": 3800,
+          "suggestedCharm": "Freeze"
+        },
+        {
+          "name": "HELLFLAYER",
+          "imageUrl": "https://cdn.rubinottools.com/monsters/HELLFLAYER.gif",
+          "health": 14000,
+          "experience": 11720,
+          "suggestedCharm": "Zap"
+        },
+        {
+          "name": "HELLHOUND",
+          "imageUrl": "https://cdn.rubinottools.com/monsters/HELLHOUND.gif",
+          "health": 7500,
+          "experience": 5440,
+          "suggestedCharm": "Freeze"
+        },
+        {
+          "name": "VEXCLAW",
+          "imageUrl": "https://cdn.rubinottools.com/monsters/VEXCLAW.gif",
+          "health": 8500,
+          "experience": 6248,
+          "suggestedCharm": "Divine Wrath"
+        }
+      ],
+      "equipment": [],
+      "wayPath": {
+        "id": "3f6cf2fd-fe99-4e97-8b57-8a09533f675d",
+        "name": "Infernatil Seal RP - Way",
+        "slug": "Infernatil-Seal-RP-Way",
+        "description": "",
+        "cords": {
+          "x": 33214,
+          "y": 32453,
+          "floor": 7,
+          "zoom": 2
+        },
+        "markers": [
+          {
+            "description": "",
+            "icon": "star",
+            "x": 33214,
+            "y": 32453,
+            "floor": 7,
+            "isDeleted": false
+          },
+          {
+            "description": "",
+            "icon": "down",
+            "x": 33271,
+            "y": 32395,
+            "floor": 7,
+            "isDeleted": false
+          },
+          {
+            "description": "",
+            "icon": "cross",
+            "x": 33275,
+            "y": 32388,
+            "floor": 8,
+            "isDeleted": false
+          },
+          {
+            "description": "",
+            "icon": "down",
+            "x": 33322,
+            "y": 32326,
+            "floor": 12,
+            "isDeleted": false
+          },
+          {
+            "description": "",
+            "icon": "down",
+            "x": 33309,
+            "y": 32369,
+            "floor": 13,
+            "isDeleted": false
+          },
+          {
+            "description": "",
+            "icon": "cross",
+            "x": 33355,
+            "y": 32336,
+            "floor": 14,
+            "isDeleted": false
+          }
+        ],
+        "paths": [
+          {
+            "floor": 7,
+            "pulseColor": "#e79603",
+            "pathColor": "#232528",
+            "weight": 7,
+            "delay": 100,
+            "dashArray": [
+              30
+            ],
+            "routes": [
+              {
+                "x": 33214,
+                "y": 32453
+              },
+              {
+                "x": 33214,
+                "y": 32448
+              },
+              {
+                "x": 33219,
+                "y": 32448
+              },
+              {
+                "x": 33220,
+                "y": 32437
+              },
+              {
+                "x": 33233,
+                "y": 32437
+              },
+              {
+                "x": 33234,
+                "y": 32414
+              },
+              {
+                "x": 33246,
+                "y": 32414
+              },
+              {
+                "x": 33246,
+                "y": 32392
+              },
+              {
+                "x": 33270,
+                "y": 32390
+              },
+              {
+                "x": 33275,
+                "y": 32389
+              },
+              {
+                "x": 33278,
+                "y": 32389
+              },
+              {
+                "x": 33278,
+                "y": 32396
+              },
+              {
+                "x": 33271,
+                "y": 32396
+              },
+              {
+                "x": 33271,
+                "y": 32395
+              }
+            ]
+          },
+          {
+            "floor": 8,
+            "pulseColor": "#e79603",
+            "pathColor": "#232528",
+            "weight": 7,
+            "delay": 100,
+            "dashArray": [
+              30
+            ],
+            "routes": [
+              {
+                "x": 33271,
+                "y": 32395
+              },
+              {
+                "x": 33275,
+                "y": 32395
+              },
+              {
+                "x": 33275,
+                "y": 32388
+              }
+            ]
+          },
+          {
+            "floor": 12,
+            "pulseColor": "#e79603",
+            "pathColor": "#232528",
+            "weight": 7,
+            "delay": 100,
+            "dashArray": [
+              30
+            ],
+            "routes": [
+              {
+                "x": 33327,
+                "y": 32320
+              },
+              {
+                "x": 33322,
+                "y": 32323
+              },
+              {
+                "x": 33322,
+                "y": 32326
+              }
+            ]
+          },
+          {
+            "floor": 13,
+            "pulseColor": "#e79603",
+            "pathColor": "#232528",
+            "weight": 7,
+            "delay": 100,
+            "dashArray": [
+              30
+            ],
+            "routes": [
+              {
+                "x": 33322,
+                "y": 32326
+              },
+              {
+                "x": 33317,
+                "y": 32334
+              },
+              {
+                "x": 33299,
+                "y": 32345
+              },
+              {
+                "x": 33300,
+                "y": 32353
+              },
+              {
+                "x": 33308,
+                "y": 32359
+              },
+              {
+                "x": 33309,
+                "y": 32369
+              }
+            ]
+          },
+          {
+            "floor": 14,
+            "pulseColor": "#e79603",
+            "pathColor": "#232528",
+            "weight": 7,
+            "delay": 100,
+            "dashArray": [
+              30
+            ],
+            "routes": [
+              {
+                "x": 33309,
+                "y": 32369
+              },
+              {
+                "x": 33306,
+                "y": 32371
+              },
+              {
+                "x": 33297,
+                "y": 32360
+              },
+              {
+                "x": 33298,
+                "y": 32352
+              },
+              {
+                "x": 33310,
+                "y": 32343
+              },
+              {
+                "x": 33325,
+                "y": 32335
+              },
+              {
+                "x": 33332,
+                "y": 32336
+              },
+              {
+                "x": 33337,
+                "y": 32340
+              },
+              {
+                "x": 33348,
+                "y": 32339
+              },
+              {
+                "x": 33355,
+                "y": 32336
+              }
+            ]
+          }
+        ],
+        "speed": 500,
+        "mapAreaId": null,
+        "createdBy": null,
+        "modifiedBy": null,
+        "updatedAt": "2025-02-16T17:06:13.977Z",
+        "createdAt": "2025-02-16T17:06:13.977Z"
+      },
+      "localMapUrl": "https://cdn.rubinottools.com/maps/undefined-map.png"
+    },
+    {
+      "name": "WARZONE 3 RP",
+      "level": 0,
+      "vocations": [
+        "Knight",
+        "Druid",
+        "Paladin",
+        "Sorcerer"
+      ],
+      "exp": "N/A",
+      "profit": "N/A",
+      "mapImageUrl": "",
+      "monsters": [
+        {
+          "name": "CLIFF STRIDER",
+          "imageUrl": "https://cdn.rubinottools.com/monsters/CLIFF-STRIDER.gif",
+          "health": 9400,
+          "experience": 7100,
+          "suggestedCharm": "Wound"
+        },
+        {
+          "name": "IRONBLIGHT",
+          "imageUrl": "https://cdn.rubinottools.com/monsters/IRONBLIGHT.gif",
+          "health": 6600,
+          "experience": 5400,
+          "suggestedCharm": "Divine Wrath"
+        },
+        {
+          "name": "LOST BERSERKER",
+          "imageUrl": "https://cdn.rubinottools.com/monsters/LOST-BERSERKER.gif",
+          "health": 5900,
+          "experience": 4800,
+          "suggestedCharm": "Enflame"
+        },
+        {
+          "name": "OREWALKER",
+          "imageUrl": "https://cdn.rubinottools.com/monsters/OREWALKER.gif",
+          "health": 7200,
+          "experience": 5900,
+          "suggestedCharm": "Zap"
+        }
+      ],
+      "equipment": [],
+      "wayPath": {
+        "id": "1e836fd1-bcf1-4a1d-8268-e4418e6356b6",
+        "name": "WARZONE 3 RP - Way",
+        "slug": "WARZONE-3-RP-Way",
+        "description": "",
+        "cords": {
+          "x": 32657,
+          "y": 31903,
+          "floor": 8,
+          "zoom": 3
+        },
+        "markers": [
+          {
+            "description": "",
+            "icon": "star",
+            "x": 32657,
+            "y": 31903,
+            "floor": 8,
+            "isDeleted": false
+          },
+          {
+            "description": "",
+            "icon": "cross",
+            "x": 32658,
+            "y": 31901,
+            "floor": 8,
+            "isDeleted": false
+          },
+          {
+            "description": "",
+            "icon": "cross",
+            "x": 32628,
+            "y": 31862,
+            "floor": 11,
+            "isDeleted": false
+          },
+          {
+            "description": "",
+            "icon": "down",
+            "x": 32801,
+            "y": 31768,
+            "floor": 9,
+            "isDeleted": false
+          },
+          {
+            "description": "",
+            "icon": "cross",
+            "x": 32796,
+            "y": 31780,
+            "floor": 10,
+            "isDeleted": false
+          },
+          {
+            "description": "",
+            "icon": "cross",
+            "x": 33022,
+            "y": 31901,
+            "floor": 9,
+            "isDeleted": false
+          }
+        ],
+        "paths": [
+          {
+            "floor": 8,
+            "pulseColor": "#e79603",
+            "pathColor": "#232528",
+            "weight": 7,
+            "delay": 100,
+            "dashArray": [
+              30
+            ],
+            "routes": [
+              {
+                "x": 32657,
+                "y": 31903
+              },
+              {
+                "x": 32657,
+                "y": 31901
+              },
+              {
+                "x": 32658,
+                "y": 31901
+              }
+            ]
+          },
+          {
+            "floor": 11,
+            "pulseColor": "#e79603",
+            "pathColor": "#232528",
+            "weight": 7,
+            "delay": 100,
+            "dashArray": [
+              30
+            ],
+            "routes": [
+              {
+                "x": 32629,
+                "y": 31921
+              },
+              {
+                "x": 32627,
+                "y": 31923
+              },
+              {
+                "x": 32621,
+                "y": 31924
+              },
+              {
+                "x": 32615,
+                "y": 31924
+              },
+              {
+                "x": 32613,
+                "y": 31921
+              },
+              {
+                "x": 32613,
+                "y": 31915
+              },
+              {
+                "x": 32613,
+                "y": 31910
+              },
+              {
+                "x": 32613,
+                "y": 31904
+              },
+              {
+                "x": 32613,
+                "y": 31899
+              },
+              {
+                "x": 32613,
+                "y": 31893
+              },
+              {
+                "x": 32613,
+                "y": 31888
+              },
+              {
+                "x": 32613,
+                "y": 31883
+              },
+              {
+                "x": 32613,
+                "y": 31877
+              },
+              {
+                "x": 32613,
+                "y": 31871
+              },
+              {
+                "x": 32613,
+                "y": 31866
+              },
+              {
+                "x": 32613,
+                "y": 31862
+              },
+              {
+                "x": 32618,
+                "y": 31862
+              },
+              {
+                "x": 32622,
+                "y": 31862
+              }
+            ]
+          },
+          {
+            "floor": 11,
+            "pulseColor": "#e79603",
+            "pathColor": "#232528",
+            "weight": 7,
+            "delay": 100,
+            "dashArray": [
+              30
+            ],
+            "routes": [
+              {
+                "x": 32622,
+                "y": 31862
+              },
+              {
+                "x": 32628,
+                "y": 31862
+              }
+            ]
+          },
+          {
+            "floor": 9,
+            "pulseColor": "#e79603",
+            "pathColor": "#232528",
+            "weight": 7,
+            "delay": 100,
+            "dashArray": [
+              30
+            ],
+            "routes": [
+              {
+                "x": 32803,
+                "y": 31798
+              },
+              {
+                "x": 32806,
+                "y": 31794
+              },
+              {
+                "x": 32809,
+                "y": 31789
+              },
+              {
+                "x": 32810,
+                "y": 31784
+              },
+              {
+                "x": 32812,
+                "y": 31779
+              },
+              {
+                "x": 32809,
+                "y": 31773
+              },
+              {
+                "x": 32804,
+                "y": 31770
+              },
+              {
+                "x": 32801,
+                "y": 31768
+              }
+            ]
+          },
+          {
+            "floor": 10,
+            "pulseColor": "#e79603",
+            "pathColor": "#232528",
+            "weight": 7,
+            "delay": 100,
+            "dashArray": [
+              30
+            ],
+            "routes": [
+              {
+                "x": 32801,
+                "y": 31768
+              },
+              {
+                "x": 32801,
+                "y": 31774
+              },
+              {
+                "x": 32800,
+                "y": 31778
+              },
+              {
+                "x": 32798,
+                "y": 31780
+              },
+              {
+                "x": 32796,
+                "y": 31780
+              }
+            ]
+          },
+          {
+            "floor": 9,
+            "pulseColor": "#e79603",
+            "pathColor": "#232528",
+            "weight": 7,
+            "delay": 100,
+            "dashArray": [
+              30
+            ],
+            "routes": [
+              {
+                "x": 32988,
+                "y": 31862
+              },
+              {
+                "x": 32987,
+                "y": 31866
+              },
+              {
+                "x": 32990,
+                "y": 31868
+              },
+              {
+                "x": 32995,
+                "y": 31869
+              },
+              {
+                "x": 32999,
+                "y": 31874
+              },
+              {
+                "x": 33002,
+                "y": 31878
+              },
+              {
+                "x": 33001,
+                "y": 31882
+              },
+              {
+                "x": 33000,
+                "y": 31886
+              },
+              {
+                "x": 33001,
+                "y": 31890
+              },
+              {
+                "x": 33005,
+                "y": 31890
+              },
+              {
+                "x": 33009,
+                "y": 31892
+              },
+              {
+                "x": 33011,
+                "y": 31897
+              },
+              {
+                "x": 33012,
+                "y": 31900
+              },
+              {
+                "x": 33016,
+                "y": 31902
+              },
+              {
+                "x": 33021,
+                "y": 31902
+              },
+              {
+                "x": 33022,
+                "y": 31901
+              }
+            ]
+          }
+        ],
+        "speed": 500,
+        "mapAreaId": null,
+        "createdBy": null,
+        "modifiedBy": null,
+        "updatedAt": "2025-02-16T17:06:13.977Z",
+        "createdAt": "2025-02-16T17:06:13.977Z"
+      },
+      "localMapUrl": "https://cdn.rubinottools.com/maps/undefined-map.png"
     }
   ]
 }
