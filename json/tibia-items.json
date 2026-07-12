@@ -217,7 +217,7 @@
     "stats": {
       "armor": null,
       "defense": 20,
-      "attack": 36,
+      "attack": 44,
       "weight": 78,
       "imbueSlots": 0
     },
@@ -331,7 +331,7 @@
     "stats": {
       "armor": null,
       "defense": 24,
-      "attack": 35,
+      "attack": 44,
       "weight": 61,
       "imbueSlots": 0
     },
@@ -393,7 +393,7 @@
     "stats": {
       "armor": null,
       "defense": 21,
-      "attack": 27,
+      "attack": 33,
       "weight": 59,
       "imbueSlots": 0
     },
@@ -509,7 +509,7 @@
     "stats": {
       "armor": null,
       "defense": 16,
-      "attack": 31,
+      "attack": 38,
       "weight": 80,
       "imbueSlots": 0
     },
@@ -1071,7 +1071,7 @@
     "stats": {
       "armor": null,
       "defense": 27,
-      "attack": 8,
+      "attack": 52,
       "weight": 41,
       "imbueSlots": 2
     },
@@ -1493,7 +1493,7 @@
     "stats": {
       "armor": null,
       "defense": 22,
-      "attack": 35,
+      "attack": 42,
       "weight": 59,
       "imbueSlots": 0
     },
@@ -2008,7 +2008,7 @@
     "stats": {
       "armor": null,
       "defense": 24,
-      "attack": 35,
+      "attack": 44,
       "weight": 61,
       "imbueSlots": 0
     },
@@ -2050,7 +2050,7 @@
     "stats": {
       "armor": null,
       "defense": 20,
-      "attack": 10,
+      "attack": 51,
       "weight": 43,
       "imbueSlots": 2
     },
@@ -2128,7 +2128,7 @@
     "stats": {
       "armor": null,
       "defense": 32,
-      "attack": 8,
+      "attack": 54,
       "weight": 72,
       "imbueSlots": 2
     },
@@ -2353,7 +2353,7 @@
     "stats": {
       "armor": null,
       "defense": 22,
-      "attack": 35,
+      "attack": 42,
       "weight": 59,
       "imbueSlots": 0
     },
@@ -2391,7 +2391,7 @@
     "stats": {
       "armor": null,
       "defense": 18,
-      "attack": 23,
+      "attack": 28,
       "weight": 51,
       "imbueSlots": 0
     },
@@ -2507,7 +2507,7 @@
     "stats": {
       "armor": null,
       "defense": 15,
-      "attack": 23,
+      "attack": 28,
       "weight": 58,
       "imbueSlots": 0
     },
@@ -2566,7 +2566,7 @@
     "stats": {
       "armor": null,
       "defense": 21,
-      "attack": 27,
+      "attack": 33,
       "weight": 59,
       "imbueSlots": 0
     },
@@ -2585,7 +2585,7 @@
     "stats": {
       "armor": null,
       "defense": 31,
-      "attack": 8,
+      "attack": 52,
       "weight": 67,
       "imbueSlots": 1
     },
@@ -2644,7 +2644,7 @@
     "stats": {
       "armor": null,
       "defense": 24,
-      "attack": 35,
+      "attack": 44,
       "weight": 61,
       "imbueSlots": 0
     },
@@ -3019,7 +3019,7 @@
     "stats": {
       "armor": null,
       "defense": 33,
-      "attack": 8,
+      "attack": 56,
       "weight": 85,
       "imbueSlots": 1
     },
@@ -3289,7 +3289,7 @@
     "stats": {
       "armor": null,
       "defense": 35,
-      "attack": 8,
+      "attack": 58,
       "weight": 93,
       "imbueSlots": 3
     },
@@ -3367,7 +3367,7 @@
     "stats": {
       "armor": null,
       "defense": 20,
-      "attack": 34,
+      "attack": 42,
       "weight": 45,
       "imbueSlots": 0
     },
@@ -3780,7 +3780,7 @@
     "stats": {
       "armor": null,
       "defense": 32,
-      "attack": 5,
+      "attack": 53,
       "weight": 72,
       "imbueSlots": 2
     },
@@ -3941,7 +3941,7 @@
     "stats": {
       "armor": null,
       "defense": 31,
-      "attack": 25,
+      "attack": 51,
       "weight": 59,
       "imbueSlots": 0
     },
@@ -4109,7 +4109,7 @@
     "stats": {
       "armor": null,
       "defense": 31,
-      "attack": 8,
+      "attack": 52,
       "weight": 67,
       "imbueSlots": 1
     },
@@ -5177,7 +5177,7 @@
     "stats": {
       "armor": null,
       "defense": 21,
-      "attack": 27,
+      "attack": 33,
       "weight": 59,
       "imbueSlots": 0
     },
@@ -5592,7 +5592,7 @@
     "stats": {
       "armor": null,
       "defense": 24,
-      "attack": 35,
+      "attack": 44,
       "weight": 61,
       "imbueSlots": 0
     },
@@ -5859,7 +5859,7 @@
     "stats": {
       "armor": null,
       "defense": 31,
-      "attack": 8,
+      "attack": 52,
       "weight": 67,
       "imbueSlots": 2
     },
@@ -6217,7 +6217,7 @@
     "stats": {
       "armor": null,
       "defense": 16,
-      "attack": 31,
+      "attack": 38,
       "weight": 80,
       "imbueSlots": 0
     },
@@ -6991,7 +6991,7 @@
     "stats": {
       "armor": null,
       "defense": 34,
-      "attack": null,
+      "attack": 50,
       "weight": 59,
       "imbueSlots": 2
     },
@@ -7139,7 +7139,7 @@
     "stats": {
       "armor": null,
       "defense": 18,
-      "attack": 23,
+      "attack": 28,
       "weight": 51,
       "imbueSlots": 0
     },
@@ -8193,7 +8193,7 @@
     "stats": {
       "armor": null,
       "defense": 1,
-      "attack": 39,
+      "attack": 65,
       "weight": 19,
       "imbueSlots": 0
     },
@@ -8294,7 +8294,7 @@
     "stats": {
       "armor": null,
       "defense": 33,
-      "attack": 8,
+      "attack": 56,
       "weight": 85,
       "imbueSlots": 2
     },
@@ -8517,7 +8517,7 @@
     "stats": {
       "armor": null,
       "defense": 28,
-      "attack": 35,
+      "attack": 44,
       "weight": 82,
       "imbueSlots": 0
     },
@@ -8640,7 +8640,7 @@
     "stats": {
       "armor": null,
       "defense": 10,
-      "attack": 39,
+      "attack": 48,
       "weight": 61.5,
       "imbueSlots": 0
     },
@@ -8659,7 +8659,7 @@
     "stats": {
       "armor": null,
       "defense": null,
-      "attack": 0,
+      "attack": null,
       "weight": 0.8,
       "imbueSlots": 0
     },
@@ -9496,7 +9496,7 @@
     "stats": {
       "armor": null,
       "defense": 10,
-      "attack": 36,
+      "attack": 45,
       "weight": 85,
       "imbueSlots": 0
     },
@@ -9580,7 +9580,7 @@
     "stats": {
       "armor": null,
       "defense": 31,
-      "attack": 8,
+      "attack": 52,
       "weight": 64,
       "imbueSlots": 2
     },
@@ -9601,7 +9601,7 @@
     "stats": {
       "armor": null,
       "defense": 16,
-      "attack": 31,
+      "attack": 38,
       "weight": 80,
       "imbueSlots": 0
     },
@@ -10311,7 +10311,7 @@
     "stats": {
       "armor": null,
       "defense": 24,
-      "attack": 34,
+      "attack": 42,
       "weight": 48,
       "imbueSlots": 0
     },
@@ -10373,7 +10373,7 @@
     "stats": {
       "armor": null,
       "defense": 33,
-      "attack": 6,
+      "attack": 56,
       "weight": 75,
       "imbueSlots": 2
     },
@@ -10787,7 +10787,7 @@
     "stats": {
       "armor": null,
       "defense": 21,
-      "attack": 20,
+      "attack": 24,
       "weight": 50,
       "imbueSlots": 0
     },
@@ -11059,7 +11059,7 @@
     "stats": {
       "armor": null,
       "defense": 31,
-      "attack": 8,
+      "attack": 52,
       "weight": 65,
       "imbueSlots": 1
     },
@@ -11160,7 +11160,7 @@
     "stats": {
       "armor": null,
       "defense": 24,
-      "attack": 34,
+      "attack": 42,
       "weight": 48,
       "imbueSlots": 0
     },
@@ -11567,7 +11567,7 @@
     "stats": {
       "armor": null,
       "defense": 31,
-      "attack": 8,
+      "attack": 52,
       "weight": 64,
       "imbueSlots": 1
     },
@@ -11588,7 +11588,7 @@
     "stats": {
       "armor": null,
       "defense": 32,
-      "attack": 8,
+      "attack": 54,
       "weight": 72,
       "imbueSlots": 2
     },
@@ -11730,7 +11730,7 @@
     "stats": {
       "armor": null,
       "defense": 20,
-      "attack": 36,
+      "attack": 44,
       "weight": 78,
       "imbueSlots": 0
     },
@@ -11768,7 +11768,7 @@
     "stats": {
       "armor": null,
       "defense": 22,
-      "attack": 35,
+      "attack": 42,
       "weight": 59,
       "imbueSlots": 0
     },
@@ -12741,7 +12741,7 @@
     "stats": {
       "armor": null,
       "defense": 32,
-      "attack": 8,
+      "attack": 54,
       "weight": 69,
       "imbueSlots": 2
     },
@@ -13442,7 +13442,7 @@
     "stats": {
       "armor": null,
       "defense": 33,
-      "attack": 6,
+      "attack": 56,
       "weight": 61,
       "imbueSlots": 2
     },
@@ -13866,7 +13866,7 @@
     "stats": {
       "armor": null,
       "defense": 31,
-      "attack": 8,
+      "attack": 52,
       "weight": 65,
       "imbueSlots": 1
     },
@@ -14022,7 +14022,7 @@
     "stats": {
       "armor": null,
       "defense": 29,
-      "attack": 8,
+      "attack": 52,
       "weight": 25,
       "imbueSlots": 2
     },
@@ -14062,7 +14062,7 @@
     "stats": {
       "armor": null,
       "defense": 31,
-      "attack": 8,
+      "attack": 52,
       "weight": 55,
       "imbueSlots": 2
     },
@@ -14256,7 +14256,7 @@
     "stats": {
       "armor": null,
       "defense": 33,
-      "attack": 6,
+      "attack": 56,
       "weight": 82,
       "imbueSlots": 2
     },
@@ -14442,7 +14442,7 @@
     "stats": {
       "armor": null,
       "defense": 25,
-      "attack": 36,
+      "attack": 44,
       "weight": 35,
       "imbueSlots": 0
     },
@@ -14461,7 +14461,7 @@
     "stats": {
       "armor": null,
       "defense": 10,
-      "attack": 36,
+      "attack": 45,
       "weight": 85,
       "imbueSlots": 0
     },
@@ -14705,7 +14705,7 @@
     "stats": {
       "armor": null,
       "defense": 18,
-      "attack": 23,
+      "attack": 28,
       "weight": 51,
       "imbueSlots": 0
     },
@@ -15427,7 +15427,7 @@
     "stats": {
       "armor": null,
       "defense": 33,
-      "attack": 8,
+      "attack": 56,
       "weight": 86,
       "imbueSlots": 1
     },
@@ -15572,7 +15572,7 @@
     "stats": {
       "armor": null,
       "defense": 35,
-      "attack": 8,
+      "attack": 58,
       "weight": 83,
       "imbueSlots": 3
     },
@@ -15650,7 +15650,7 @@
     "stats": {
       "armor": null,
       "defense": 35,
-      "attack": 10,
+      "attack": 57,
       "weight": 89,
       "imbueSlots": 3
     },
@@ -16043,7 +16043,7 @@
     "stats": {
       "armor": null,
       "defense": 18,
-      "attack": 35,
+      "attack": 42,
       "weight": 54,
       "imbueSlots": 0
     },
@@ -16218,7 +16218,7 @@
     "stats": {
       "armor": null,
       "defense": 16,
-      "attack": 31,
+      "attack": 38,
       "weight": 80,
       "imbueSlots": 0
     },
@@ -16435,7 +16435,7 @@
     "stats": {
       "armor": null,
       "defense": 33,
-      "attack": 6,
+      "attack": 56,
       "weight": 85,
       "imbueSlots": 2
     },
@@ -16621,7 +16621,7 @@
     "stats": {
       "armor": null,
       "defense": 28,
-      "attack": 35,
+      "attack": 44,
       "weight": 82,
       "imbueSlots": 0
     },
@@ -16861,7 +16861,7 @@
     "stats": {
       "armor": null,
       "defense": 33,
-      "attack": 6,
+      "attack": 56,
       "weight": 70.5,
       "imbueSlots": 2
     },
@@ -17424,7 +17424,7 @@
     "stats": {
       "armor": null,
       "defense": 1,
-      "attack": 39,
+      "attack": 65,
       "weight": 19,
       "imbueSlots": 0
     },
@@ -17916,7 +17916,7 @@
     "stats": {
       "armor": null,
       "defense": 35,
-      "attack": 8,
+      "attack": 58,
       "weight": 85,
       "imbueSlots": 3
     },
@@ -18003,7 +18003,7 @@
     "stats": {
       "armor": null,
       "defense": 31,
-      "attack": 8,
+      "attack": 52,
       "weight": 65,
       "imbueSlots": 2
     },
@@ -18162,7 +18162,7 @@
     "stats": {
       "armor": null,
       "defense": 33,
-      "attack": 8,
+      "attack": 56,
       "weight": 86,
       "imbueSlots": 1
     },
@@ -18428,7 +18428,7 @@
     "stats": {
       "armor": null,
       "defense": 18,
-      "attack": 35,
+      "attack": 42,
       "weight": 54,
       "imbueSlots": 0
     },
@@ -18447,7 +18447,7 @@
     "stats": {
       "armor": null,
       "defense": 33,
-      "attack": 8,
+      "attack": 56,
       "weight": 86,
       "imbueSlots": 1
     },
@@ -18468,7 +18468,7 @@
     "stats": {
       "armor": null,
       "defense": 20,
-      "attack": 34,
+      "attack": 42,
       "weight": 45,
       "imbueSlots": 0
     },
@@ -18713,7 +18713,7 @@
     "stats": {
       "armor": null,
       "defense": 18,
-      "attack": 35,
+      "attack": 42,
       "weight": 54,
       "imbueSlots": 0
     },
@@ -18837,7 +18837,7 @@
     "stats": {
       "armor": null,
       "defense": 20,
-      "attack": 34,
+      "attack": 42,
       "weight": 45,
       "imbueSlots": 0
     },
@@ -19164,7 +19164,7 @@
     "stats": {
       "armor": null,
       "defense": 33,
-      "attack": 10,
+      "attack": 57,
       "weight": 95,
       "imbueSlots": 2
     },
@@ -19474,7 +19474,7 @@
     "stats": {
       "armor": null,
       "defense": 15,
-      "attack": 23,
+      "attack": 28,
       "weight": 58,
       "imbueSlots": 0
     },
@@ -19599,7 +19599,7 @@
     "stats": {
       "armor": null,
       "defense": 18,
-      "attack": 23,
+      "attack": 28,
       "weight": 51,
       "imbueSlots": 0
     },
@@ -19643,7 +19643,7 @@
     "stats": {
       "armor": null,
       "defense": 32,
-      "attack": 7,
+      "attack": 52,
       "weight": 40,
       "imbueSlots": 2
     },
@@ -19867,7 +19867,7 @@
     "stats": {
       "armor": null,
       "defense": 36,
-      "attack": 6,
+      "attack": 60,
       "weight": 89,
       "imbueSlots": 3
     },
@@ -19907,7 +19907,7 @@
     "stats": {
       "armor": null,
       "defense": null,
-      "attack": 0,
+      "attack": null,
       "weight": 0.8,
       "imbueSlots": 0
     },
@@ -20078,7 +20078,7 @@
     "stats": {
       "armor": null,
       "defense": 10,
-      "attack": 39,
+      "attack": 48,
       "weight": 61.5,
       "imbueSlots": 0
     },
@@ -20097,7 +20097,7 @@
     "stats": {
       "armor": null,
       "defense": 32,
-      "attack": 8,
+      "attack": 54,
       "weight": 61,
       "imbueSlots": 2
     },
@@ -20158,7 +20158,7 @@
     "stats": {
       "armor": null,
       "defense": 29,
-      "attack": 10,
+      "attack": 51,
       "weight": 85,
       "imbueSlots": 2
     },
@@ -20392,7 +20392,7 @@
     "stats": {
       "armor": null,
       "defense": 33,
-      "attack": 8,
+      "attack": 56,
       "weight": 86,
       "imbueSlots": 2
     },
@@ -20413,7 +20413,7 @@
     "stats": {
       "armor": null,
       "defense": 33,
-      "attack": 8,
+      "attack": 56,
       "weight": 86,
       "imbueSlots": 2
     },
@@ -20456,7 +20456,7 @@
     "stats": {
       "armor": null,
       "defense": 32,
-      "attack": null,
+      "attack": 46,
       "weight": 53,
       "imbueSlots": 2
     },
@@ -20637,7 +20637,7 @@
     "stats": {
       "armor": null,
       "defense": 33,
-      "attack": 6,
+      "attack": 52,
       "weight": 41,
       "imbueSlots": 2
     },
@@ -21616,7 +21616,7 @@
     "stats": {
       "armor": null,
       "defense": 28,
-      "attack": 35,
+      "attack": 44,
       "weight": 82,
       "imbueSlots": 0
     },
@@ -21851,7 +21851,7 @@
     "stats": {
       "armor": null,
       "defense": 33,
-      "attack": 8,
+      "attack": 56,
       "weight": 86,
       "imbueSlots": 1
     },
@@ -21872,7 +21872,7 @@
     "stats": {
       "armor": null,
       "defense": 33,
-      "attack": 8,
+      "attack": 56,
       "weight": 85,
       "imbueSlots": 1
     },
@@ -21977,7 +21977,7 @@
     "stats": {
       "armor": null,
       "defense": 10,
-      "attack": 39,
+      "attack": 48,
       "weight": 61.5,
       "imbueSlots": 0
     },
@@ -22135,7 +22135,7 @@
     "stats": {
       "armor": null,
       "defense": 35,
-      "attack": 10,
+      "attack": 57,
       "weight": 81,
       "imbueSlots": 3
     },
@@ -22255,7 +22255,7 @@
     "stats": {
       "armor": null,
       "defense": 25,
-      "attack": 36,
+      "attack": 44,
       "weight": 35,
       "imbueSlots": 0
     },
@@ -22483,7 +22483,7 @@
     "stats": {
       "armor": null,
       "defense": 28,
-      "attack": 35,
+      "attack": 44,
       "weight": 82,
       "imbueSlots": 0
     },
@@ -22881,7 +22881,7 @@
     "stats": {
       "armor": null,
       "defense": 33,
-      "attack": 8,
+      "attack": 56,
       "weight": 86,
       "imbueSlots": 1
     },
@@ -23089,7 +23089,7 @@
     "stats": {
       "armor": null,
       "defense": 33,
-      "attack": 6,
+      "attack": 56,
       "weight": 83,
       "imbueSlots": 2
     },
@@ -23294,7 +23294,7 @@
     "stats": {
       "armor": null,
       "defense": 33,
-      "attack": 8,
+      "attack": 56,
       "weight": 86,
       "imbueSlots": 1
     },
@@ -23397,7 +23397,7 @@
     "stats": {
       "armor": null,
       "defense": 34,
-      "attack": null,
+      "attack": 50,
       "weight": 72,
       "imbueSlots": 2
     },
@@ -23456,7 +23456,7 @@
     "stats": {
       "armor": null,
       "defense": 20,
-      "attack": 36,
+      "attack": 44,
       "weight": 78,
       "imbueSlots": 0
     },
@@ -23622,7 +23622,7 @@
     "stats": {
       "armor": null,
       "defense": 18,
-      "attack": 35,
+      "attack": 42,
       "weight": 54,
       "imbueSlots": 0
     },
@@ -23660,7 +23660,7 @@
     "stats": {
       "armor": null,
       "defense": 20,
-      "attack": 34,
+      "attack": 42,
       "weight": 45,
       "imbueSlots": 0
     },
@@ -24008,7 +24008,7 @@
     "stats": {
       "armor": null,
       "defense": 34,
-      "attack": null,
+      "attack": 50,
       "weight": 73,
       "imbueSlots": 2
     },
@@ -24113,7 +24113,7 @@
     "stats": {
       "armor": null,
       "defense": 33,
-      "attack": 8,
+      "attack": 56,
       "weight": 85,
       "imbueSlots": 1
     },
@@ -24748,7 +24748,7 @@
     "stats": {
       "armor": null,
       "defense": 31,
-      "attack": 26,
+      "attack": 52,
       "weight": 99,
       "imbueSlots": 0
     },
@@ -24847,7 +24847,7 @@
     "stats": {
       "armor": null,
       "defense": 35,
-      "attack": 8,
+      "attack": 58,
       "weight": 79,
       "imbueSlots": 3
     },
@@ -24911,7 +24911,7 @@
     "stats": {
       "armor": null,
       "defense": 25,
-      "attack": 36,
+      "attack": 44,
       "weight": 35,
       "imbueSlots": 0
     },
@@ -24992,7 +24992,7 @@
     "stats": {
       "armor": null,
       "defense": 10,
-      "attack": 39,
+      "attack": 48,
       "weight": 61.5,
       "imbueSlots": 0
     },
@@ -25339,7 +25339,7 @@
     "stats": {
       "armor": null,
       "defense": 22,
-      "attack": 35,
+      "attack": 42,
       "weight": 59,
       "imbueSlots": 0
     },
@@ -25585,7 +25585,7 @@
     "stats": {
       "armor": null,
       "defense": 8,
-      "attack": 4,
+      "attack": 15,
       "weight": 35,
       "imbueSlots": 0
     },
@@ -25777,7 +25777,7 @@
     "stats": {
       "armor": null,
       "defense": 33,
-      "attack": 6,
+      "attack": 56,
       "weight": 86,
       "imbueSlots": 2
     },
@@ -25924,7 +25924,7 @@
     "stats": {
       "armor": null,
       "defense": 22,
-      "attack": 10,
+      "attack": 50,
       "weight": 43,
       "imbueSlots": 2
     },
@@ -25945,7 +25945,7 @@
     "stats": {
       "armor": null,
       "defense": 36,
-      "attack": 6,
+      "attack": 60,
       "weight": 95,
       "imbueSlots": 3
     },
@@ -26030,7 +26030,7 @@
     "stats": {
       "armor": null,
       "defense": null,
-      "attack": 48,
+      "attack": 50,
       "weight": 2,
       "imbueSlots": 0
     },
@@ -26092,7 +26092,7 @@
     "stats": {
       "armor": null,
       "defense": 36,
-      "attack": 6,
+      "attack": 60,
       "weight": 93,
       "imbueSlots": 3
     },
@@ -26497,7 +26497,7 @@
     "stats": {
       "armor": null,
       "defense": 31,
-      "attack": 8,
+      "attack": 52,
       "weight": 67,
       "imbueSlots": 1
     },
@@ -26542,7 +26542,7 @@
     "stats": {
       "armor": null,
       "defense": 34,
-      "attack": 10,
+      "attack": 57,
       "weight": 72,
       "imbueSlots": 3
     },
@@ -26709,7 +26709,7 @@
     "stats": {
       "armor": null,
       "defense": 31,
-      "attack": 8,
+      "attack": 52,
       "weight": 52,
       "imbueSlots": 2
     },
@@ -27029,7 +27029,7 @@
     "stats": {
       "armor": null,
       "defense": 33,
-      "attack": 6,
+      "attack": 56,
       "weight": 69,
       "imbueSlots": 2
     },
@@ -27217,7 +27217,7 @@
     "stats": {
       "armor": null,
       "defense": 32,
-      "attack": 7,
+      "attack": 56,
       "weight": 81,
       "imbueSlots": 2
     },
@@ -27498,7 +27498,7 @@
     "stats": {
       "armor": null,
       "defense": 36,
-      "attack": 6,
+      "attack": 60,
       "weight": 91.7,
       "imbueSlots": 3
     },
@@ -27557,7 +27557,7 @@
     "stats": {
       "armor": null,
       "defense": 31,
-      "attack": 8,
+      "attack": 52,
       "weight": 64,
       "imbueSlots": 1
     },
@@ -27980,7 +27980,7 @@
     "stats": {
       "armor": null,
       "defense": 32,
-      "attack": null,
+      "attack": 46,
       "weight": 50,
       "imbueSlots": 2
     },
@@ -28100,7 +28100,7 @@
     "stats": {
       "armor": null,
       "defense": 33,
-      "attack": 6,
+      "attack": 56,
       "weight": 76.5,
       "imbueSlots": 2
     },
@@ -28203,7 +28203,7 @@
     "stats": {
       "armor": null,
       "defense": 24,
-      "attack": 34,
+      "attack": 42,
       "weight": 48,
       "imbueSlots": 0
     },
@@ -28342,7 +28342,7 @@
     "stats": {
       "armor": null,
       "defense": 31,
-      "attack": 8,
+      "attack": 52,
       "weight": 75,
       "imbueSlots": 2
     },
@@ -28424,7 +28424,7 @@
     "stats": {
       "armor": null,
       "defense": 32,
-      "attack": 8,
+      "attack": 54,
       "weight": 68,
       "imbueSlots": 2
     },
@@ -28706,7 +28706,7 @@
     "stats": {
       "armor": null,
       "defense": 8,
-      "attack": 16,
+      "attack": 18,
       "weight": 8.8,
       "imbueSlots": 0
     },
@@ -28765,7 +28765,7 @@
     "stats": {
       "armor": null,
       "defense": 20,
-      "attack": 24,
+      "attack": 35,
       "weight": 23,
       "imbueSlots": 0
     },
@@ -28803,7 +28803,7 @@
     "stats": {
       "armor": null,
       "defense": 10,
-      "attack": 36,
+      "attack": 45,
       "weight": 85,
       "imbueSlots": 0
     },
@@ -28980,7 +28980,7 @@
     "stats": {
       "armor": null,
       "defense": 10,
-      "attack": 36,
+      "attack": 45,
       "weight": 85,
       "imbueSlots": 0
     },
@@ -29357,7 +29357,7 @@
     "stats": {
       "armor": null,
       "defense": 21,
-      "attack": 20,
+      "attack": 24,
       "weight": 50,
       "imbueSlots": 0
     },
@@ -29798,7 +29798,7 @@
     "stats": {
       "armor": null,
       "defense": 15,
-      "attack": 23,
+      "attack": 28,
       "weight": 58,
       "imbueSlots": 0
     },
@@ -30234,7 +30234,7 @@
     "stats": {
       "armor": null,
       "defense": 33,
-      "attack": 11,
+      "attack": 52,
       "weight": 68,
       "imbueSlots": 2
     },
@@ -30257,7 +30257,7 @@
     "stats": {
       "armor": null,
       "defense": 31,
-      "attack": 8,
+      "attack": 52,
       "weight": 65,
       "imbueSlots": 1
     },
@@ -30278,7 +30278,7 @@
     "stats": {
       "armor": null,
       "defense": 25,
-      "attack": 36,
+      "attack": 44,
       "weight": 35,
       "imbueSlots": 0
     },
@@ -30462,7 +30462,7 @@
     "stats": {
       "armor": null,
       "defense": 32,
-      "attack": 7,
+      "attack": 52,
       "weight": 63,
       "imbueSlots": 2
     },
@@ -30527,7 +30527,7 @@
     "stats": {
       "armor": null,
       "defense": 33,
-      "attack": 11,
+      "attack": 56,
       "weight": 89,
       "imbueSlots": 2
     },
@@ -30700,7 +30700,7 @@
     "stats": {
       "armor": null,
       "defense": 20,
-      "attack": 36,
+      "attack": 44,
       "weight": 78,
       "imbueSlots": 0
     },
@@ -31637,7 +31637,7 @@
     "stats": {
       "armor": null,
       "defense": 36,
-      "attack": 6,
+      "attack": 60,
       "weight": 87,
       "imbueSlots": 3
     },
@@ -31943,7 +31943,7 @@
     "stats": {
       "armor": null,
       "defense": 15,
-      "attack": 18,
+      "attack": 26,
       "weight": 41,
       "imbueSlots": 0
     },
@@ -32278,7 +32278,7 @@
     "stats": {
       "armor": null,
       "defense": 31,
-      "attack": 8,
+      "attack": 52,
       "weight": 79,
       "imbueSlots": 2
     },
@@ -32703,7 +32703,7 @@
     "stats": {
       "armor": null,
       "defense": 32,
-      "attack": 8,
+      "attack": 54,
       "weight": 60,
       "imbueSlots": 2
     },
@@ -32991,7 +32991,7 @@
     "stats": {
       "armor": null,
       "defense": 15,
-      "attack": 23,
+      "attack": 28,
       "weight": 58,
       "imbueSlots": 0
     },
@@ -33460,7 +33460,7 @@
     "stats": {
       "armor": null,
       "defense": 33,
-      "attack": 6,
+      "attack": 56,
       "weight": 62,
       "imbueSlots": 2
     },
@@ -33538,7 +33538,7 @@
     "stats": {
       "armor": null,
       "defense": 31,
-      "attack": 8,
+      "attack": 52,
       "weight": 64,
       "imbueSlots": 1
     },
@@ -33578,7 +33578,7 @@
     "stats": {
       "armor": null,
       "defense": 16,
-      "attack": 27,
+      "attack": 38,
       "weight": 40,
       "imbueSlots": 0
     },
@@ -33597,7 +33597,7 @@
     "stats": {
       "armor": null,
       "defense": 36,
-      "attack": 6,
+      "attack": 60,
       "weight": 89,
       "imbueSlots": 3
     },
@@ -33618,7 +33618,7 @@
     "stats": {
       "armor": null,
       "defense": null,
-      "attack": 64,
+      "attack": 66,
       "weight": 2.2,
       "imbueSlots": 0
     },
@@ -33753,7 +33753,7 @@
     "stats": {
       "armor": null,
       "defense": 21,
-      "attack": 27,
+      "attack": 33,
       "weight": 59,
       "imbueSlots": 0
     },
@@ -34079,7 +34079,7 @@
     "stats": {
       "armor": null,
       "defense": 32,
-      "attack": null,
+      "attack": 46,
       "weight": 58,
       "imbueSlots": 2
     },
@@ -34100,7 +34100,7 @@
     "stats": {
       "armor": null,
       "defense": 31,
-      "attack": 8,
+      "attack": 52,
       "weight": 65,
       "imbueSlots": 2
     },
@@ -34140,7 +34140,7 @@
     "stats": {
       "armor": null,
       "defense": 35,
-      "attack": 8,
+      "attack": 58,
       "weight": 81,
       "imbueSlots": 3
     },
@@ -34180,7 +34180,7 @@
     "stats": {
       "armor": null,
       "defense": 35,
-      "attack": 8,
+      "attack": 58,
       "weight": 91,
       "imbueSlots": 3
     },
@@ -34402,7 +34402,7 @@
     "stats": {
       "armor": null,
       "defense": 1,
-      "attack": 39,
+      "attack": 65,
       "weight": 19,
       "imbueSlots": 0
     },
@@ -35047,7 +35047,7 @@
     "stats": {
       "armor": null,
       "defense": 29,
-      "attack": 8,
+      "attack": 52,
       "weight": 40,
       "imbueSlots": 2
     },
@@ -35392,7 +35392,7 @@
     "stats": {
       "armor": null,
       "defense": 21,
-      "attack": 20,
+      "attack": 24,
       "weight": 50,
       "imbueSlots": 0
     },
@@ -35468,7 +35468,7 @@
     "stats": {
       "armor": null,
       "defense": 24,
-      "attack": 34,
+      "attack": 42,
       "weight": 48,
       "imbueSlots": 0
     },
@@ -35944,7 +35944,7 @@
     "stats": {
       "armor": null,
       "defense": 1,
-      "attack": 42,
+      "attack": 60,
       "weight": 15,
       "imbueSlots": 0
     },
