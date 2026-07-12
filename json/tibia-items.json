@@ -8659,7 +8659,7 @@
     "stats": {
       "armor": null,
       "defense": null,
-      "attack": null,
+      "attack": 0,
       "weight": 0.8,
       "imbueSlots": 0
     },
@@ -19907,7 +19907,7 @@
     "stats": {
       "armor": null,
       "defense": null,
-      "attack": null,
+      "attack": 0,
       "weight": 0.8,
       "imbueSlots": 0
     },
