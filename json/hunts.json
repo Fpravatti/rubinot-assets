@@ -2,15 +2,15 @@
   "hunts": [
     {
       "name": "Podzilla Quara ED/MS/RP",
-      "minLevel": 0,
+      "minLevel": 1100,
       "vocations": [
         "Knight",
         "Druid",
         "Paladin",
         "Sorcerer"
       ],
-      "expPerHour": "N/A",
-      "profitPerHour": "N/A",
+      "expPerHour": "9kk",
+      "profitPerHour": "200k",
       "mapImageUrl": "",
       "monsters": [
         {
@@ -569,15 +569,15 @@
     },
     {
       "name": "Iskupan Occupied Sanctuary ED/MS",
-      "minLevel": 0,
+      "minLevel": 1000,
       "vocations": [
         "Knight",
         "Druid",
         "Paladin",
         "Sorcerer"
       ],
-      "expPerHour": "N/A",
-      "profitPerHour": "N/A",
+      "expPerHour": "5.2kk",
+      "profitPerHour": "1kk",
       "mapImageUrl": "",
       "monsters": [
         {
@@ -1659,15 +1659,15 @@
     },
     {
       "name": "Grounds of Undeath",
-      "minLevel": 0,
+      "minLevel": 1000,
       "vocations": [
         "Knight",
         "Druid",
         "Paladin",
         "Sorcerer"
       ],
-      "expPerHour": "N/A",
-      "profitPerHour": "N/A",
+      "expPerHour": "6kk",
+      "profitPerHour": "1.6kk",
       "mapImageUrl": "",
       "monsters": [
         {
@@ -2267,15 +2267,15 @@
     },
     {
       "name": "Infernatil Seal RP",
-      "minLevel": 0,
+      "minLevel": 950,
       "vocations": [
         "Knight",
         "Druid",
         "Paladin",
         "Sorcerer"
       ],
-      "expPerHour": "N/A",
-      "profitPerHour": "N/A",
+      "expPerHour": "7.5kk",
+      "profitPerHour": "1.5kk",
       "mapImageUrl": "",
       "monsters": [
         {
@@ -2832,15 +2832,15 @@
     },
     {
       "name": "WARZONE 3 RP",
-      "minLevel": 0,
+      "minLevel": 900,
       "vocations": [
         "Knight",
         "Druid",
         "Paladin",
         "Sorcerer"
       ],
-      "expPerHour": "N/A",
-      "profitPerHour": "N/A",
+      "expPerHour": "6kk",
+      "profitPerHour": "1kk",
       "mapImageUrl": "",
       "monsters": [
         {
