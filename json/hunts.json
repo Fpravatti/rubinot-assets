@@ -2,15 +2,15 @@
   "hunts": [
     {
       "name": "Podzilla Quara ED/MS/RP",
-      "level": 0,
+      "minLevel": 0,
       "vocations": [
         "Knight",
         "Druid",
         "Paladin",
         "Sorcerer"
       ],
-      "exp": "N/A",
-      "profit": "N/A",
+      "expPerHour": "N/A",
+      "profitPerHour": "N/A",
       "mapImageUrl": "",
       "monsters": [
         {
@@ -36,6 +36,7 @@
         }
       ],
       "equipment": [],
+      "id": "podzilla-quara-ed-ms-rp",
       "mapPath": {
         "id": "aadf4233-8756-4a40-af3f-a13e2c87008f",
         "name": "Podzilla Quara ED/MS/RP - Route",
@@ -564,19 +565,19 @@
         "updatedAt": "2025-02-16T17:06:13.977Z",
         "createdAt": "2025-02-16T17:06:13.977Z"
       },
-      "localMapUrl": "https://cdn.rubinottools.com/maps/undefined-map.png"
+      "youtubeVideoId": "iBKu97dHk6A"
     },
     {
       "name": "Iskupan Occupied Sanctuary ED/MS",
-      "level": 0,
+      "minLevel": 0,
       "vocations": [
         "Knight",
         "Druid",
         "Paladin",
         "Sorcerer"
       ],
-      "exp": "N/A",
-      "profit": "N/A",
+      "expPerHour": "N/A",
+      "profitPerHour": "N/A",
       "mapImageUrl": "",
       "monsters": [
         {
@@ -602,6 +603,7 @@
         }
       ],
       "equipment": [],
+      "id": "iskupan-occupied-sanctuary-ed-ms",
       "mapPath": {
         "id": "b3b4e592-affd-4632-ae05-7e426000bc63",
         "name": "Iskupan Occupied Sanctuary ED/MS - Route",
@@ -1653,20 +1655,19 @@
         "modifiedBy": null,
         "updatedAt": "2025-02-16T17:06:13.977Z",
         "createdAt": "2025-02-16T17:06:13.977Z"
-      },
-      "localMapUrl": "https://cdn.rubinottools.com/maps/undefined-map.png"
+      }
     },
     {
       "name": "Grounds of Undeath",
-      "level": 0,
+      "minLevel": 0,
       "vocations": [
         "Knight",
         "Druid",
         "Paladin",
         "Sorcerer"
       ],
-      "exp": "N/A",
-      "profit": "N/A",
+      "expPerHour": "N/A",
+      "profitPerHour": "N/A",
       "mapImageUrl": "",
       "monsters": [
         {
@@ -1692,6 +1693,7 @@
         }
       ],
       "equipment": [],
+      "id": "grounds-of-undeath",
       "mapPath": {
         "id": "92b2fd26-d39b-4f27-b863-39940d99167f",
         "name": "Grounds of Undeath - Way",
@@ -2261,20 +2263,19 @@
         "updatedAt": "2025-10-16T19:43:09.330Z",
         "createdAt": "2025-10-16T21:40:57.724Z"
       },
-      "localMapUrl": "https://cdn.rubinottools.com/maps/undefined-map.png",
       "youtubeVideoId": "UHy-BndNvuo"
     },
     {
       "name": "Infernatil Seal RP",
-      "level": 0,
+      "minLevel": 0,
       "vocations": [
         "Knight",
         "Druid",
         "Paladin",
         "Sorcerer"
       ],
-      "exp": "N/A",
-      "profit": "N/A",
+      "expPerHour": "N/A",
+      "profitPerHour": "N/A",
       "mapImageUrl": "",
       "monsters": [
         {
@@ -2314,6 +2315,7 @@
         }
       ],
       "equipment": [],
+      "id": "infernatil-seal-rp",
       "mapPath": {
         "id": "721f0d22-c799-416d-ae73-bcdb3bf83a3f",
         "name": "Infernatil Seal RP - Route",
@@ -2826,19 +2828,19 @@
         "updatedAt": "2025-02-16T17:06:13.977Z",
         "createdAt": "2025-02-16T17:06:13.977Z"
       },
-      "localMapUrl": "https://cdn.rubinottools.com/maps/undefined-map.png"
+      "youtubeVideoId": "S2QvpiVKBa4"
     },
     {
       "name": "WARZONE 3 RP",
-      "level": 0,
+      "minLevel": 0,
       "vocations": [
         "Knight",
         "Druid",
         "Paladin",
         "Sorcerer"
       ],
-      "exp": "N/A",
-      "profit": "N/A",
+      "expPerHour": "N/A",
+      "profitPerHour": "N/A",
       "mapImageUrl": "",
       "monsters": [
         {
@@ -2871,6 +2873,7 @@
         }
       ],
       "equipment": [],
+      "id": "warzone-3-rp",
       "mapPath": {
         "id": "265fa9a9-f16b-4cb9-ace3-73ac7c6cb7b7",
         "name": "WARZONE 3 RP - Route",
@@ -3495,7 +3498,7 @@
         "updatedAt": "2025-02-16T17:06:13.977Z",
         "createdAt": "2025-02-16T17:06:13.977Z"
       },
-      "localMapUrl": "https://cdn.rubinottools.com/maps/undefined-map.png"
+      "youtubeVideoId": "pXJs4dYE0iM"
     }
   ]
 }
