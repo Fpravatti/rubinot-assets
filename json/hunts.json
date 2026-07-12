@@ -1,0 +1,95 @@
+{
+  "hunts": [
+    {
+      "id": "rotten-wastelands-knight-900",
+      "name": "Rotten Wastelands",
+      "minLevel": 900,
+      "vocation": ["Knight", "Druid", "Sorcerer", "Paladin"],
+      "expPerHour": "15kk - 18kk",
+      "profitPerHour": "1.5kk - 2.5kk",
+      "difficulty": "Hard",
+      "city": "Zao",
+      "youtubeVideoId": "dQw4w9WgXcQ",
+      "mapImageUrl": "https://cdn.rubinottools.com/images/maps/rotten_wastelands.jpg",
+      "predominantDamage": [
+        { "element": "Holy", "percentage": 41.2 },
+        { "element": "Earth", "percentage": 36.3 },
+        { "element": "Physical", "percentage": 22.5 }
+      ],
+      "equipmentSets": {
+        "budget": {
+          "totalResistances": {
+            "physical": 20,
+            "fire": 0,
+            "earth": 25,
+            "energy": 0,
+            "ice": 0,
+            "holy": 10,
+            "death": -5
+          },
+          "helmet": {
+            "id": "Terra_Helmet",
+            "name": "Terra Helmet",
+            "imageUrl": "https://cdn.rubinottools.com/items/Terra_Helmet.gif"
+          }
+        },
+        "ideal": {
+          "totalResistances": {
+            "physical": 36.2,
+            "fire": -5.6,
+            "earth": 40.7,
+            "energy": 4.0,
+            "ice": 4.0,
+            "holy": 16.7,
+            "death": -12.0
+          },
+          "amulet": {
+            "id": "Turtle_Amulet",
+            "name": "Turtle Amulet",
+            "imageUrl": "https://cdn.rubinottools.com/items/Turtle_Amulet.gif"
+          },
+          "helmet": {
+            "id": "Falcon_Coif",
+            "name": "Falcon Coif",
+            "imageUrl": "https://cdn.rubinottools.com/items/Falcon_Coif.gif",
+            "imbuements": ["Mana Leech", "Void's Call"]
+          },
+          "weapon": {
+            "id": "Soulcutter",
+            "name": "Soulcutter",
+            "imageUrl": "https://cdn.rubinottools.com/items/Soulcutter.gif"
+          },
+          "armor": {
+            "id": "Falcon_Plate",
+            "name": "Falcon Plate",
+            "imageUrl": "https://cdn.rubinottools.com/items/Falcon_Plate.gif"
+          }
+        }
+      },
+      "monsters": [
+        {
+          "name": "Branchy Crawler",
+          "imageUrl": "https://cdn.rubinottools.com/monsters/Branchy_Crawler.gif",
+          "charmSuggested": "Curse",
+          "hp": 27000,
+          "exp": 17324
+        },
+        {
+          "name": "Mould Phantom",
+          "imageUrl": "https://cdn.rubinottools.com/monsters/Mould_Phantom.gif",
+          "charmSuggested": "Wound",
+          "hp": 28000,
+          "exp": 17780
+        },
+        {
+          "name": "Rotten Golem",
+          "imageUrl": "https://cdn.rubinottools.com/monsters/Rotten_Golem.gif",
+          "charmSuggested": "Enflame",
+          "hp": 28000,
+          "exp": 17324
+        }
+      ],
+      "wheelCode": "K0Y2AgDP4jAQA"
+    }
+  ]
+}
