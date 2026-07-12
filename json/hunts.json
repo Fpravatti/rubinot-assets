@@ -565,7 +565,8 @@
         "updatedAt": "2025-02-16T17:06:13.977Z",
         "createdAt": "2025-02-16T17:06:13.977Z"
       },
-      "youtubeVideoId": "iBKu97dHk6A"
+      "youtubeVideoId": "iBKu97dHk6A",
+      "predominantDamage": []
     },
     {
       "name": "Iskupan Occupied Sanctuary ED/MS",
@@ -1655,7 +1656,8 @@
         "modifiedBy": null,
         "updatedAt": "2025-02-16T17:06:13.977Z",
         "createdAt": "2025-02-16T17:06:13.977Z"
-      }
+      },
+      "predominantDamage": []
     },
     {
       "name": "Grounds of Undeath",
@@ -2263,7 +2265,29 @@
         "updatedAt": "2025-10-16T19:43:09.330Z",
         "createdAt": "2025-10-16T21:40:57.724Z"
       },
-      "youtubeVideoId": "UHy-BndNvuo"
+      "youtubeVideoId": "UHy-BndNvuo",
+      "predominantDamage": [
+        {
+          "element": "Physical",
+          "percentage": 39
+        },
+        {
+          "element": "Death",
+          "percentage": 30
+        },
+        {
+          "element": "Lifedrain",
+          "percentage": 11
+        },
+        {
+          "element": "Fire",
+          "percentage": 10
+        },
+        {
+          "element": "Earth",
+          "percentage": 9
+        }
+      ]
     },
     {
       "name": "Infernatil Seal RP",
@@ -2828,7 +2852,37 @@
         "updatedAt": "2025-02-16T17:06:13.977Z",
         "createdAt": "2025-02-16T17:06:13.977Z"
       },
-      "youtubeVideoId": "S2QvpiVKBa4"
+      "youtubeVideoId": "S2QvpiVKBa4",
+      "predominantDamage": [
+        {
+          "element": "Physical",
+          "percentage": 32
+        },
+        {
+          "element": "Fire",
+          "percentage": 26
+        },
+        {
+          "element": "Death",
+          "percentage": 18
+        },
+        {
+          "element": "Lifedrain",
+          "percentage": 10
+        },
+        {
+          "element": "Earth",
+          "percentage": 9
+        },
+        {
+          "element": "Energy",
+          "percentage": 3
+        },
+        {
+          "element": "Manadrain",
+          "percentage": 1
+        }
+      ]
     },
     {
       "name": "WARZONE 3 RP",
@@ -3498,7 +3552,3133 @@
         "updatedAt": "2025-02-16T17:06:13.977Z",
         "createdAt": "2025-02-16T17:06:13.977Z"
       },
-      "youtubeVideoId": "pXJs4dYE0iM"
+      "youtubeVideoId": "pXJs4dYE0iM",
+      "predominantDamage": []
+    },
+    {
+      "name": "Roshamuul Mines",
+      "minLevel": 850,
+      "vocations": [
+        "Knight",
+        "Druid",
+        "Paladin",
+        "Sorcerer"
+      ],
+      "expPerHour": "2kk",
+      "profitPerHour": "350k",
+      "mapImageUrl": "",
+      "monsters": [
+        {
+          "name": "FEVERSLEEP",
+          "imageUrl": "https://cdn.rubinottools.com/monsters/FEVERSLEEP.gif",
+          "health": 5900,
+          "experience": 5060,
+          "suggestedCharm": "Zap"
+        },
+        {
+          "name": "TERRORSLEEP",
+          "imageUrl": "https://cdn.rubinottools.com/monsters/TERRORSLEEP.gif",
+          "health": 7200,
+          "experience": 7240,
+          "suggestedCharm": "Divine Wrath"
+        }
+      ],
+      "equipment": [],
+      "id": "roshamuul-mines",
+      "mapPath": {
+        "id": "d71dbbfd-ac57-4145-bcc6-1db1e9a7579f",
+        "name": "Roshamuul Mines - Route",
+        "slug": "Roshamuul-Mines-Route",
+        "description": "",
+        "cords": {
+          "x": 33691,
+          "y": 32355,
+          "floor": 8,
+          "zoom": 3
+        },
+        "markers": [
+          {
+            "x": 33691,
+            "y": 32355,
+            "floor": 8,
+            "icon": "star",
+            "isDeleted": false
+          },
+          {
+            "x": 33668,
+            "y": 32375,
+            "floor": 8,
+            "icon": "crossmark",
+            "isDeleted": false
+          },
+          {
+            "x": 33702,
+            "y": 32360,
+            "floor": 8,
+            "icon": "down",
+            "isDeleted": false
+          },
+          {
+            "x": 33708,
+            "y": 32365,
+            "floor": 9,
+            "icon": "crossmark",
+            "isDeleted": false
+          },
+          {
+            "x": 33703,
+            "y": 32364,
+            "floor": 9,
+            "icon": "down",
+            "isDeleted": false
+          },
+          {
+            "x": 33703,
+            "y": 32367,
+            "floor": 10,
+            "icon": "crossmark",
+            "isDeleted": false
+          },
+          {
+            "x": 33700,
+            "y": 32356,
+            "floor": 10,
+            "icon": "crossmark",
+            "isDeleted": false
+          },
+          {
+            "x": 33701,
+            "y": 32345,
+            "floor": 10,
+            "icon": "crossmark",
+            "isDeleted": false
+          },
+          {
+            "x": 33703,
+            "y": 32364,
+            "floor": 10,
+            "icon": "up",
+            "isDeleted": false
+          },
+          {
+            "x": 33702,
+            "y": 32360,
+            "floor": 9,
+            "icon": "up",
+            "isDeleted": false
+          }
+        ],
+        "paths": [
+          {
+            "floor": 8,
+            "pulseColor": "#e79603",
+            "pathColor": "#232528",
+            "weight": 5,
+            "delay": 1000,
+            "dashArray": [
+              10,
+              10
+            ],
+            "routes": [
+              {
+                "x": 33691,
+                "y": 32355
+              },
+              {
+                "x": 33682,
+                "y": 32359
+              },
+              {
+                "x": 33678,
+                "y": 32365
+              },
+              {
+                "x": 33673,
+                "y": 32371
+              },
+              {
+                "x": 33671,
+                "y": 32377
+              },
+              {
+                "x": 33671,
+                "y": 32383
+              },
+              {
+                "x": 33671,
+                "y": 32377
+              },
+              {
+                "x": 33668,
+                "y": 32376
+              },
+              {
+                "x": 33665,
+                "y": 32376
+              },
+              {
+                "x": 33664,
+                "y": 32381
+              },
+              {
+                "x": 33664,
+                "y": 32386
+              },
+              {
+                "x": 33664,
+                "y": 32381
+              },
+              {
+                "x": 33665,
+                "y": 32376
+              },
+              {
+                "x": 33668,
+                "y": 32375
+              },
+              {
+                "x": 33671,
+                "y": 32372
+              },
+              {
+                "x": 33673,
+                "y": 32371
+              },
+              {
+                "x": 33682,
+                "y": 32359
+              },
+              {
+                "x": 33691,
+                "y": 32355
+              },
+              {
+                "x": 33698,
+                "y": 32356
+              },
+              {
+                "x": 33702,
+                "y": 32358
+              },
+              {
+                "x": 33702,
+                "y": 32360
+              }
+            ]
+          },
+          {
+            "floor": 9,
+            "pulseColor": "#e79603",
+            "pathColor": "#232528",
+            "weight": 5,
+            "delay": 1000,
+            "dashArray": [
+              10,
+              10
+            ],
+            "routes": [
+              {
+                "x": 33702,
+                "y": 32360
+              },
+              {
+                "x": 33700,
+                "y": 32363
+              },
+              {
+                "x": 33701,
+                "y": 32366
+              },
+              {
+                "x": 33703,
+                "y": 32368
+              },
+              {
+                "x": 33707,
+                "y": 32368
+              },
+              {
+                "x": 33708,
+                "y": 32367
+              },
+              {
+                "x": 33708,
+                "y": 32365
+              },
+              {
+                "x": 33706,
+                "y": 32363
+              },
+              {
+                "x": 33705,
+                "y": 32362
+              },
+              {
+                "x": 33703,
+                "y": 32362
+              },
+              {
+                "x": 33703,
+                "y": 32364
+              }
+            ]
+          },
+          {
+            "floor": 10,
+            "pulseColor": "#e79603",
+            "pathColor": "#232528",
+            "weight": 5,
+            "delay": 1000,
+            "dashArray": [
+              10,
+              10
+            ],
+            "routes": [
+              {
+                "x": 33703,
+                "y": 32364
+              },
+              {
+                "x": 33705,
+                "y": 32366
+              },
+              {
+                "x": 33709,
+                "y": 32366
+              },
+              {
+                "x": 33718,
+                "y": 32366
+              },
+              {
+                "x": 33718,
+                "y": 32367
+              },
+              {
+                "x": 33705,
+                "y": 32367
+              },
+              {
+                "x": 33703,
+                "y": 32367
+              },
+              {
+                "x": 33702,
+                "y": 32368
+              },
+              {
+                "x": 33699,
+                "y": 32371
+              },
+              {
+                "x": 33696,
+                "y": 32372
+              },
+              {
+                "x": 33695,
+                "y": 32372
+              },
+              {
+                "x": 33696,
+                "y": 32369
+              },
+              {
+                "x": 33699,
+                "y": 32368
+              },
+              {
+                "x": 33703,
+                "y": 32367
+              },
+              {
+                "x": 33699,
+                "y": 32367
+              },
+              {
+                "x": 33698,
+                "y": 32363
+              },
+              {
+                "x": 33695,
+                "y": 32361
+              },
+              {
+                "x": 33687,
+                "y": 32361
+              },
+              {
+                "x": 33695,
+                "y": 32361
+              },
+              {
+                "x": 33698,
+                "y": 32359
+              },
+              {
+                "x": 33699,
+                "y": 32357
+              },
+              {
+                "x": 33700,
+                "y": 32356
+              },
+              {
+                "x": 33700,
+                "y": 32349
+              },
+              {
+                "x": 33701,
+                "y": 32346
+              },
+              {
+                "x": 33701,
+                "y": 32345
+              },
+              {
+                "x": 33701,
+                "y": 32346
+              },
+              {
+                "x": 33700,
+                "y": 32349
+              },
+              {
+                "x": 33700,
+                "y": 32356
+              },
+              {
+                "x": 33700,
+                "y": 32363
+              },
+              {
+                "x": 33702,
+                "y": 32366
+              },
+              {
+                "x": 33703,
+                "y": 32366
+              },
+              {
+                "x": 33703,
+                "y": 32364
+              }
+            ]
+          },
+          {
+            "floor": 9,
+            "pulseColor": "#e79603",
+            "pathColor": "#232528",
+            "weight": 5,
+            "delay": 1000,
+            "dashArray": [
+              10,
+              10
+            ],
+            "routes": [
+              {
+                "x": 33703,
+                "y": 32364
+              },
+              {
+                "x": 33703,
+                "y": 32362
+              },
+              {
+                "x": 33705,
+                "y": 32362
+              },
+              {
+                "x": 33708,
+                "y": 32365
+              },
+              {
+                "x": 33708,
+                "y": 32361
+              },
+              {
+                "x": 33703,
+                "y": 32361
+              },
+              {
+                "x": 33702,
+                "y": 32360
+              }
+            ]
+          },
+          {
+            "floor": 8,
+            "pulseColor": "#e79603",
+            "pathColor": "#232528",
+            "weight": 5,
+            "delay": 1000,
+            "dashArray": [
+              10,
+              10
+            ],
+            "routes": [
+              {
+                "x": 33702,
+                "y": 32360
+              },
+              {
+                "x": 33702,
+                "y": 32358
+              },
+              {
+                "x": 33698,
+                "y": 32356
+              },
+              {
+                "x": 33691,
+                "y": 32355
+              }
+            ]
+          }
+        ],
+        "speed": 500,
+        "mapAreaId": "ddf71d04-1f9c-44d8-933e-8d082511572d",
+        "createdBy": null,
+        "modifiedBy": null,
+        "updatedAt": "2026-01-02T00:42:24.448Z",
+        "createdAt": "2025-02-16T17:06:13.977Z"
+      },
+      "wayPath": {
+        "id": "9a8abb57-6776-4e5c-bde7-38643f1a4951",
+        "name": "Roshamuul Mines - Way",
+        "slug": "Roshamuul-Mines-Way",
+        "description": "",
+        "cords": {
+          "x": 33555,
+          "y": 32376,
+          "floor": 6,
+          "zoom": 3
+        },
+        "markers": [
+          {
+            "x": 33690,
+            "y": 32348,
+            "floor": 7,
+            "icon": "down",
+            "isDeleted": false
+          },
+          {
+            "x": 33555,
+            "y": 32376,
+            "floor": 6,
+            "icon": "star",
+            "isDeleted": false
+          },
+          {
+            "x": 33558,
+            "y": 32374,
+            "floor": 6,
+            "icon": "down",
+            "isDeleted": false
+          },
+          {
+            "x": 33538,
+            "y": 32370,
+            "floor": 6,
+            "icon": "down",
+            "isDeleted": false
+          },
+          {
+            "x": 33535,
+            "y": 32370,
+            "floor": 7,
+            "icon": "up",
+            "isDeleted": false
+          },
+          {
+            "x": 33661,
+            "y": 32325,
+            "floor": 7,
+            "icon": "up",
+            "isDeleted": false
+          },
+          {
+            "x": 33663,
+            "y": 32325,
+            "floor": 6,
+            "icon": "down",
+            "isDeleted": false
+          }
+        ],
+        "paths": [
+          {
+            "floor": 6,
+            "pulseColor": "#e79603",
+            "pathColor": "#232528",
+            "weight": 5,
+            "delay": 1000,
+            "dashArray": [
+              10,
+              10
+            ],
+            "routes": [
+              {
+                "x": 33555,
+                "y": 32376
+              },
+              {
+                "x": 33558,
+                "y": 32376
+              },
+              {
+                "x": 33558,
+                "y": 32374
+              }
+            ]
+          },
+          {
+            "floor": 7,
+            "pulseColor": "#e79603",
+            "pathColor": "#232528",
+            "weight": 5,
+            "delay": 1000,
+            "dashArray": [
+              10,
+              10
+            ],
+            "routes": [
+              {
+                "x": 33558,
+                "y": 32374
+              },
+              {
+                "x": 33558,
+                "y": 32375
+              },
+              {
+                "x": 33549,
+                "y": 32375
+              },
+              {
+                "x": 33542,
+                "y": 32375
+              },
+              {
+                "x": 33534,
+                "y": 32377
+              },
+              {
+                "x": 33532,
+                "y": 32377
+              },
+              {
+                "x": 33532,
+                "y": 32370
+              },
+              {
+                "x": 33535,
+                "y": 32370
+              }
+            ]
+          },
+          {
+            "floor": 6,
+            "pulseColor": "#e79603",
+            "pathColor": "#232528",
+            "weight": 5,
+            "delay": 1000,
+            "dashArray": [
+              10,
+              10
+            ],
+            "routes": [
+              {
+                "x": 33536,
+                "y": 32370
+              },
+              {
+                "x": 33537,
+                "y": 32370
+              },
+              {
+                "x": 33538,
+                "y": 32370
+              }
+            ]
+          },
+          {
+            "floor": 7,
+            "pulseColor": "#e79603",
+            "pathColor": "#232528",
+            "weight": 5,
+            "delay": 1000,
+            "dashArray": [
+              10,
+              10
+            ],
+            "routes": [
+              {
+                "x": 33538,
+                "y": 32370
+              },
+              {
+                "x": 33547,
+                "y": 32370
+              },
+              {
+                "x": 33559,
+                "y": 32370
+              },
+              {
+                "x": 33570,
+                "y": 32370
+              },
+              {
+                "x": 33576,
+                "y": 32365
+              },
+              {
+                "x": 33581,
+                "y": 32358
+              },
+              {
+                "x": 33587,
+                "y": 32349
+              },
+              {
+                "x": 33597,
+                "y": 32342
+              },
+              {
+                "x": 33613,
+                "y": 32338
+              },
+              {
+                "x": 33626,
+                "y": 32338
+              },
+              {
+                "x": 33636,
+                "y": 32338
+              },
+              {
+                "x": 33647,
+                "y": 32338
+              },
+              {
+                "x": 33647,
+                "y": 32333
+              },
+              {
+                "x": 33648,
+                "y": 32323
+              },
+              {
+                "x": 33653,
+                "y": 32321
+              },
+              {
+                "x": 33657,
+                "y": 32322
+              },
+              {
+                "x": 33658,
+                "y": 32325
+              },
+              {
+                "x": 33661,
+                "y": 32325
+              }
+            ]
+          },
+          {
+            "floor": 6,
+            "pulseColor": "#e79603",
+            "pathColor": "#232528",
+            "weight": 5,
+            "delay": 1000,
+            "dashArray": [
+              10,
+              10
+            ],
+            "routes": [
+              {
+                "x": 33661,
+                "y": 32325
+              },
+              {
+                "x": 33662,
+                "y": 32325
+              },
+              {
+                "x": 33663,
+                "y": 32325
+              }
+            ]
+          },
+          {
+            "floor": 7,
+            "pulseColor": "#e79603",
+            "pathColor": "#232528",
+            "weight": 5,
+            "delay": 1000,
+            "dashArray": [
+              10,
+              10
+            ],
+            "routes": [
+              {
+                "x": 33663,
+                "y": 32325
+              },
+              {
+                "x": 33670,
+                "y": 32326
+              },
+              {
+                "x": 33674,
+                "y": 32330
+              },
+              {
+                "x": 33675,
+                "y": 32336
+              },
+              {
+                "x": 33677,
+                "y": 32345
+              },
+              {
+                "x": 33678,
+                "y": 32354
+              },
+              {
+                "x": 33686,
+                "y": 32354
+              },
+              {
+                "x": 33691,
+                "y": 32354
+              },
+              {
+                "x": 33691,
+                "y": 32351
+              },
+              {
+                "x": 33690,
+                "y": 32348
+              }
+            ]
+          }
+        ],
+        "speed": 500,
+        "mapAreaId": null,
+        "createdBy": null,
+        "modifiedBy": null,
+        "updatedAt": "2025-02-16T17:06:13.977Z",
+        "createdAt": "2025-02-16T17:06:13.977Z"
+      },
+      "youtubeVideoId": "6CB9bPmvL2k",
+      "predominantDamage": []
+    },
+    {
+      "name": "Norcferatu East",
+      "minLevel": 800,
+      "vocations": [
+        "Knight",
+        "Druid",
+        "Paladin",
+        "Sorcerer"
+      ],
+      "expPerHour": "10kk",
+      "profitPerHour": "1.2kk",
+      "mapImageUrl": "",
+      "monsters": [
+        {
+          "name": "DWORC SHADOWSTALKER",
+          "imageUrl": "https://cdn.rubinottools.com/monsters/DWORC-SHADOWSTALKER.gif",
+          "health": 8900,
+          "experience": 8930,
+          "suggestedCharm": null
+        },
+        {
+          "name": "GLOOM MAW",
+          "imageUrl": "https://cdn.rubinottools.com/monsters/GLOOM-MAW.gif",
+          "health": 8700,
+          "experience": 8770,
+          "suggestedCharm": null
+        },
+        {
+          "name": "NORCFERATU NIGHTWEAVER",
+          "imageUrl": "https://cdn.rubinottools.com/monsters/NORCFERATU-NIGHTWEAVER.gif",
+          "health": 6100,
+          "experience": 6370,
+          "suggestedCharm": null
+        },
+        {
+          "name": "ORCLOPS BLOODBREAKER",
+          "imageUrl": "https://cdn.rubinottools.com/monsters/ORCLOPS-BLOODBREAKER.gif",
+          "health": 10300,
+          "experience": 10250,
+          "suggestedCharm": null
+        },
+        {
+          "name": "VARG",
+          "imageUrl": "https://cdn.rubinottools.com/monsters/VARG.gif",
+          "health": 5400,
+          "experience": 5630,
+          "suggestedCharm": null
+        }
+      ],
+      "equipment": [],
+      "id": "norcferatu-east",
+      "mapPath": {
+        "id": "44cc1bd3-ebe4-485b-822d-57a33ef7cb3c",
+        "name": "Norcferatu East - Route",
+        "slug": "Norcferatu-East-Route",
+        "description": "",
+        "cords": {
+          "x": 32909,
+          "y": 31403,
+          "floor": 10,
+          "zoom": 3
+        },
+        "markers": [
+          {
+            "x": 32911,
+            "y": 31440,
+            "floor": 10,
+            "icon": "down",
+            "isDeleted": false
+          },
+          {
+            "x": 32847,
+            "y": 31405,
+            "floor": 11,
+            "icon": "up",
+            "isDeleted": false
+          },
+          {
+            "x": 32850,
+            "y": 31435,
+            "floor": 10,
+            "icon": "down",
+            "isDeleted": false
+          },
+          {
+            "x": 32827,
+            "y": 31380,
+            "floor": 11,
+            "icon": "up",
+            "isDeleted": false
+          },
+          {
+            "x": 32874,
+            "y": 31387,
+            "floor": 10,
+            "icon": "down",
+            "isDeleted": false
+          },
+          {
+            "x": 32899,
+            "y": 31384,
+            "floor": 11,
+            "icon": "up",
+            "isDeleted": false
+          },
+          {
+            "x": 32908,
+            "y": 31403,
+            "floor": 10,
+            "icon": "star",
+            "isDeleted": false
+          }
+        ],
+        "paths": [
+          {
+            "floor": 10,
+            "pulseColor": "#e79603",
+            "pathColor": "#232528",
+            "weight": 5,
+            "delay": 1000,
+            "dashArray": [
+              10,
+              10
+            ],
+            "routes": [
+              {
+                "x": 32908,
+                "y": 31404
+              },
+              {
+                "x": 32908,
+                "y": 31419
+              },
+              {
+                "x": 32908,
+                "y": 31427
+              },
+              {
+                "x": 32909,
+                "y": 31436
+              },
+              {
+                "x": 32911,
+                "y": 31439
+              },
+              {
+                "x": 32911,
+                "y": 31440
+              }
+            ]
+          },
+          {
+            "floor": 11,
+            "pulseColor": "#e79603",
+            "pathColor": "#232528",
+            "weight": 5,
+            "delay": 1000,
+            "dashArray": [
+              10,
+              10
+            ],
+            "routes": [
+              {
+                "x": 32911,
+                "y": 31440
+              },
+              {
+                "x": 32908,
+                "y": 31440
+              },
+              {
+                "x": 32906,
+                "y": 31435
+              },
+              {
+                "x": 32903,
+                "y": 31427
+              },
+              {
+                "x": 32901,
+                "y": 31419
+              },
+              {
+                "x": 32895,
+                "y": 31419
+              },
+              {
+                "x": 32893,
+                "y": 31422
+              },
+              {
+                "x": 32888,
+                "y": 31423
+              },
+              {
+                "x": 32885,
+                "y": 31426
+              },
+              {
+                "x": 32882,
+                "y": 31427
+              },
+              {
+                "x": 32879,
+                "y": 31427
+              },
+              {
+                "x": 32876,
+                "y": 31427
+              },
+              {
+                "x": 32874,
+                "y": 31423
+              },
+              {
+                "x": 32871,
+                "y": 31418
+              },
+              {
+                "x": 32867,
+                "y": 31417
+              },
+              {
+                "x": 32863,
+                "y": 31415
+              },
+              {
+                "x": 32860,
+                "y": 31412
+              },
+              {
+                "x": 32856,
+                "y": 31410
+              },
+              {
+                "x": 32853,
+                "y": 31408
+              },
+              {
+                "x": 32847,
+                "y": 31406
+              },
+              {
+                "x": 32847,
+                "y": 31405
+              }
+            ]
+          },
+          {
+            "floor": 10,
+            "pulseColor": "#e79603",
+            "pathColor": "#232528",
+            "weight": 5,
+            "delay": 1000,
+            "dashArray": [
+              10,
+              10
+            ],
+            "routes": [
+              {
+                "x": 32847,
+                "y": 31405
+              },
+              {
+                "x": 32845,
+                "y": 31409
+              },
+              {
+                "x": 32846,
+                "y": 31413
+              },
+              {
+                "x": 32847,
+                "y": 31417
+              },
+              {
+                "x": 32848,
+                "y": 31422
+              },
+              {
+                "x": 32848,
+                "y": 31428
+              },
+              {
+                "x": 32848,
+                "y": 31432
+              },
+              {
+                "x": 32845,
+                "y": 31433
+              },
+              {
+                "x": 32845,
+                "y": 31437
+              },
+              {
+                "x": 32845,
+                "y": 31443
+              },
+              {
+                "x": 32847,
+                "y": 31445
+              },
+              {
+                "x": 32850,
+                "y": 31445
+              },
+              {
+                "x": 32850,
+                "y": 31441
+              },
+              {
+                "x": 32850,
+                "y": 31438
+              },
+              {
+                "x": 32850,
+                "y": 31436
+              },
+              {
+                "x": 32850,
+                "y": 31435
+              }
+            ]
+          },
+          {
+            "floor": 11,
+            "pulseColor": "#e79603",
+            "pathColor": "#232528",
+            "weight": 5,
+            "delay": 1000,
+            "dashArray": [
+              10,
+              10
+            ],
+            "routes": [
+              {
+                "x": 32850,
+                "y": 31435
+              },
+              {
+                "x": 32850,
+                "y": 31436
+              },
+              {
+                "x": 32848,
+                "y": 31436
+              },
+              {
+                "x": 32846,
+                "y": 31432
+              },
+              {
+                "x": 32843,
+                "y": 31431
+              },
+              {
+                "x": 32838,
+                "y": 31431
+              },
+              {
+                "x": 32838,
+                "y": 31430
+              },
+              {
+                "x": 32840,
+                "y": 31429
+              },
+              {
+                "x": 32841,
+                "y": 31426
+              },
+              {
+                "x": 32842,
+                "y": 31425
+              },
+              {
+                "x": 32842,
+                "y": 31423
+              },
+              {
+                "x": 32838,
+                "y": 31423
+              },
+              {
+                "x": 32836,
+                "y": 31421
+              },
+              {
+                "x": 32833,
+                "y": 31420
+              },
+              {
+                "x": 32831,
+                "y": 31418
+              },
+              {
+                "x": 32830,
+                "y": 31415
+              },
+              {
+                "x": 32830,
+                "y": 31411
+              },
+              {
+                "x": 32831,
+                "y": 31408
+              },
+              {
+                "x": 32832,
+                "y": 31402
+              },
+              {
+                "x": 32832,
+                "y": 31397
+              },
+              {
+                "x": 32832,
+                "y": 31392
+              },
+              {
+                "x": 32829,
+                "y": 31391
+              },
+              {
+                "x": 32828,
+                "y": 31388
+              },
+              {
+                "x": 32830,
+                "y": 31386
+              },
+              {
+                "x": 32831,
+                "y": 31384
+              },
+              {
+                "x": 32829,
+                "y": 31382
+              },
+              {
+                "x": 32827,
+                "y": 31381
+              },
+              {
+                "x": 32827,
+                "y": 31380
+              }
+            ]
+          },
+          {
+            "floor": 10,
+            "pulseColor": "#e79603",
+            "pathColor": "#232528",
+            "weight": 5,
+            "delay": 1000,
+            "dashArray": [
+              10,
+              10
+            ],
+            "routes": [
+              {
+                "x": 32827,
+                "y": 31380
+              },
+              {
+                "x": 32831,
+                "y": 31379
+              },
+              {
+                "x": 32834,
+                "y": 31379
+              },
+              {
+                "x": 32838,
+                "y": 31380
+              },
+              {
+                "x": 32842,
+                "y": 31380
+              },
+              {
+                "x": 32847,
+                "y": 31380
+              },
+              {
+                "x": 32849,
+                "y": 31377
+              },
+              {
+                "x": 32852,
+                "y": 31377
+              },
+              {
+                "x": 32855,
+                "y": 31377
+              },
+              {
+                "x": 32857,
+                "y": 31375
+              },
+              {
+                "x": 32858,
+                "y": 31373
+              },
+              {
+                "x": 32862,
+                "y": 31373
+              },
+              {
+                "x": 32866,
+                "y": 31376
+              },
+              {
+                "x": 32867,
+                "y": 31378
+              },
+              {
+                "x": 32869,
+                "y": 31378
+              },
+              {
+                "x": 32873,
+                "y": 31375
+              },
+              {
+                "x": 32876,
+                "y": 31373
+              },
+              {
+                "x": 32880,
+                "y": 31373
+              },
+              {
+                "x": 32884,
+                "y": 31377
+              },
+              {
+                "x": 32885,
+                "y": 31377
+              },
+              {
+                "x": 32885,
+                "y": 31380
+              },
+              {
+                "x": 32883,
+                "y": 31383
+              },
+              {
+                "x": 32883,
+                "y": 31388
+              },
+              {
+                "x": 32882,
+                "y": 31390
+              },
+              {
+                "x": 32880,
+                "y": 31388
+              },
+              {
+                "x": 32880,
+                "y": 31385
+              },
+              {
+                "x": 32875,
+                "y": 31386
+              },
+              {
+                "x": 32874,
+                "y": 31386
+              },
+              {
+                "x": 32874,
+                "y": 31387
+              }
+            ]
+          },
+          {
+            "floor": 11,
+            "pulseColor": "#e79603",
+            "pathColor": "#232528",
+            "weight": 5,
+            "delay": 1000,
+            "dashArray": [
+              10,
+              10
+            ],
+            "routes": [
+              {
+                "x": 32874,
+                "y": 31387
+              },
+              {
+                "x": 32878,
+                "y": 31391
+              },
+              {
+                "x": 32878,
+                "y": 31395
+              },
+              {
+                "x": 32882,
+                "y": 31394
+              },
+              {
+                "x": 32885,
+                "y": 31392
+              },
+              {
+                "x": 32888,
+                "y": 31390
+              },
+              {
+                "x": 32892,
+                "y": 31390
+              },
+              {
+                "x": 32895,
+                "y": 31391
+              },
+              {
+                "x": 32900,
+                "y": 31391
+              },
+              {
+                "x": 32902,
+                "y": 31390
+              },
+              {
+                "x": 32905,
+                "y": 31390
+              },
+              {
+                "x": 32907,
+                "y": 31389
+              },
+              {
+                "x": 32906,
+                "y": 31387
+              },
+              {
+                "x": 32904,
+                "y": 31386
+              },
+              {
+                "x": 32901,
+                "y": 31386
+              },
+              {
+                "x": 32899,
+                "y": 31385
+              },
+              {
+                "x": 32899,
+                "y": 31384
+              }
+            ]
+          },
+          {
+            "floor": 10,
+            "pulseColor": "#e79603",
+            "pathColor": "#232528",
+            "weight": 5,
+            "delay": 1000,
+            "dashArray": [
+              10,
+              10
+            ],
+            "routes": [
+              {
+                "x": 32899,
+                "y": 31384
+              },
+              {
+                "x": 32904,
+                "y": 31383
+              },
+              {
+                "x": 32907,
+                "y": 31385
+              },
+              {
+                "x": 32908,
+                "y": 31389
+              },
+              {
+                "x": 32908,
+                "y": 31394
+              },
+              {
+                "x": 32908,
+                "y": 31397
+              },
+              {
+                "x": 32908,
+                "y": 31400
+              },
+              {
+                "x": 32908,
+                "y": 31404
+              }
+            ]
+          }
+        ],
+        "speed": 500,
+        "mapAreaId": null,
+        "createdBy": null,
+        "modifiedBy": null,
+        "updatedAt": "2026-06-27T15:34:39.708Z",
+        "createdAt": "2026-06-20T19:48:24.234Z"
+      },
+      "wayPath": {
+        "id": "4c462038-5c6b-4de2-80e1-fa6cdc54da10",
+        "name": "Norcferatu East - Way",
+        "slug": "Norcferatu-East-Way",
+        "description": "",
+        "cords": {
+          "x": 32794,
+          "y": 31248,
+          "floor": 7,
+          "zoom": 3
+        },
+        "markers": [
+          {
+            "x": 32794,
+            "y": 31248,
+            "floor": 7,
+            "icon": "star",
+            "isDeleted": false
+          },
+          {
+            "x": 32833,
+            "y": 31263,
+            "floor": 7,
+            "icon": "up",
+            "isDeleted": false
+          },
+          {
+            "x": 32833,
+            "y": 31265,
+            "floor": 6,
+            "icon": "up",
+            "isDeleted": false
+          },
+          {
+            "x": 32834,
+            "y": 31270,
+            "floor": 5,
+            "icon": "down",
+            "isDeleted": false
+          },
+          {
+            "x": 32834,
+            "y": 31272,
+            "floor": 6,
+            "icon": "down",
+            "isDeleted": false
+          },
+          {
+            "x": 32837,
+            "y": 31366,
+            "floor": 7,
+            "icon": "star",
+            "isDeleted": false
+          },
+          {
+            "x": 32912,
+            "y": 31450,
+            "floor": 7,
+            "icon": "up",
+            "isDeleted": false
+          },
+          {
+            "x": 32936,
+            "y": 31434,
+            "floor": 6,
+            "icon": "down",
+            "isDeleted": false
+          },
+          {
+            "x": 32912,
+            "y": 31431,
+            "floor": 7,
+            "icon": "down",
+            "isDeleted": false
+          },
+          {
+            "x": 32929,
+            "y": 31421,
+            "floor": 8,
+            "icon": "down",
+            "isDeleted": false
+          },
+          {
+            "x": 32935,
+            "y": 31425,
+            "floor": 9,
+            "icon": "down",
+            "isDeleted": false
+          },
+          {
+            "x": 32914,
+            "y": 31403,
+            "floor": 10,
+            "icon": "star",
+            "isDeleted": false
+          }
+        ],
+        "paths": [
+          {
+            "floor": 7,
+            "pulseColor": "#e79603",
+            "pathColor": "#232528",
+            "weight": 5,
+            "delay": 1000,
+            "dashArray": [
+              10,
+              10
+            ],
+            "routes": [
+              {
+                "x": 32794,
+                "y": 31248
+              },
+              {
+                "x": 32800,
+                "y": 31248
+              },
+              {
+                "x": 32804,
+                "y": 31252
+              },
+              {
+                "x": 32806,
+                "y": 31255
+              },
+              {
+                "x": 32816,
+                "y": 31255
+              },
+              {
+                "x": 32827,
+                "y": 31255
+              },
+              {
+                "x": 32828,
+                "y": 31256
+              },
+              {
+                "x": 32830,
+                "y": 31259
+              },
+              {
+                "x": 32833,
+                "y": 31260
+              },
+              {
+                "x": 32833,
+                "y": 31262
+              },
+              {
+                "x": 32833,
+                "y": 31263
+              }
+            ]
+          },
+          {
+            "floor": 6,
+            "pulseColor": "#e79603",
+            "pathColor": "#232528",
+            "weight": 5,
+            "delay": 1000,
+            "dashArray": [
+              10,
+              10
+            ],
+            "routes": [
+              {
+                "x": 32833,
+                "y": 31263
+              },
+              {
+                "x": 32833,
+                "y": 31265
+              }
+            ]
+          },
+          {
+            "floor": 5,
+            "pulseColor": "#e79603",
+            "pathColor": "#232528",
+            "weight": 5,
+            "delay": 1000,
+            "dashArray": [
+              10,
+              10
+            ],
+            "routes": [
+              {
+                "x": 32833,
+                "y": 31265
+              },
+              {
+                "x": 32834,
+                "y": 31269
+              },
+              {
+                "x": 32834,
+                "y": 31270
+              }
+            ]
+          },
+          {
+            "floor": 6,
+            "pulseColor": "#e79603",
+            "pathColor": "#232528",
+            "weight": 5,
+            "delay": 1000,
+            "dashArray": [
+              10,
+              10
+            ],
+            "routes": [
+              {
+                "x": 32834,
+                "y": 31270
+              },
+              {
+                "x": 32834,
+                "y": 31272
+              }
+            ]
+          },
+          {
+            "floor": 7,
+            "pulseColor": "#e79603",
+            "pathColor": "#232528",
+            "weight": 5,
+            "delay": 1000,
+            "dashArray": [
+              10,
+              10
+            ],
+            "routes": [
+              {
+                "x": 32835,
+                "y": 31272
+              },
+              {
+                "x": 32835,
+                "y": 31278
+              },
+              {
+                "x": 32837,
+                "y": 31283
+              },
+              {
+                "x": 32836,
+                "y": 31286
+              },
+              {
+                "x": 32836,
+                "y": 31294
+              },
+              {
+                "x": 32835,
+                "y": 31303
+              },
+              {
+                "x": 32834,
+                "y": 31308
+              },
+              {
+                "x": 32834,
+                "y": 31315
+              },
+              {
+                "x": 32834,
+                "y": 31320
+              },
+              {
+                "x": 32834,
+                "y": 31325
+              },
+              {
+                "x": 32837,
+                "y": 31326
+              },
+              {
+                "x": 32837,
+                "y": 31334
+              },
+              {
+                "x": 32837,
+                "y": 31340
+              },
+              {
+                "x": 32837,
+                "y": 31349
+              },
+              {
+                "x": 32837,
+                "y": 31356
+              },
+              {
+                "x": 32837,
+                "y": 31363
+              },
+              {
+                "x": 32837,
+                "y": 31365
+              },
+              {
+                "x": 32837,
+                "y": 31366
+              }
+            ]
+          },
+          {
+            "floor": 7,
+            "pulseColor": "#e79603",
+            "pathColor": "#232528",
+            "weight": 5,
+            "delay": 1000,
+            "dashArray": [
+              10,
+              10
+            ],
+            "routes": [
+              {
+                "x": 32857,
+                "y": 31549
+              },
+              {
+                "x": 32864,
+                "y": 31549
+              },
+              {
+                "x": 32871,
+                "y": 31546
+              },
+              {
+                "x": 32874,
+                "y": 31541
+              },
+              {
+                "x": 32878,
+                "y": 31536
+              },
+              {
+                "x": 32879,
+                "y": 31532
+              },
+              {
+                "x": 32882,
+                "y": 31527
+              },
+              {
+                "x": 32886,
+                "y": 31525
+              },
+              {
+                "x": 32889,
+                "y": 31521
+              },
+              {
+                "x": 32890,
+                "y": 31516
+              },
+              {
+                "x": 32890,
+                "y": 31513
+              },
+              {
+                "x": 32894,
+                "y": 31508
+              },
+              {
+                "x": 32897,
+                "y": 31503
+              },
+              {
+                "x": 32902,
+                "y": 31499
+              },
+              {
+                "x": 32905,
+                "y": 31490
+              },
+              {
+                "x": 32913,
+                "y": 31483
+              },
+              {
+                "x": 32909,
+                "y": 31478
+              },
+              {
+                "x": 32906,
+                "y": 31474
+              },
+              {
+                "x": 32905,
+                "y": 31467
+              },
+              {
+                "x": 32905,
+                "y": 31460
+              },
+              {
+                "x": 32906,
+                "y": 31454
+              },
+              {
+                "x": 32911,
+                "y": 31454
+              },
+              {
+                "x": 32912,
+                "y": 31451
+              },
+              {
+                "x": 32912,
+                "y": 31450
+              }
+            ]
+          },
+          {
+            "floor": 6,
+            "pulseColor": "#e79603",
+            "pathColor": "#232528",
+            "weight": 5,
+            "delay": 1000,
+            "dashArray": [
+              10,
+              10
+            ],
+            "routes": [
+              {
+                "x": 32914,
+                "y": 31448
+              },
+              {
+                "x": 32914,
+                "y": 31441
+              },
+              {
+                "x": 32918,
+                "y": 31438
+              },
+              {
+                "x": 32923,
+                "y": 31434
+              },
+              {
+                "x": 32926,
+                "y": 31432
+              },
+              {
+                "x": 32929,
+                "y": 31432
+              },
+              {
+                "x": 32929,
+                "y": 31430
+              },
+              {
+                "x": 32933,
+                "y": 31430
+              },
+              {
+                "x": 32933,
+                "y": 31434
+              },
+              {
+                "x": 32935,
+                "y": 31434
+              },
+              {
+                "x": 32936,
+                "y": 31434
+              }
+            ]
+          },
+          {
+            "floor": 7,
+            "pulseColor": "#e79603",
+            "pathColor": "#232528",
+            "weight": 5,
+            "delay": 1000,
+            "dashArray": [
+              10,
+              10
+            ],
+            "routes": [
+              {
+                "x": 32936,
+                "y": 31434
+              },
+              {
+                "x": 32926,
+                "y": 31434
+              },
+              {
+                "x": 32917,
+                "y": 31434
+              },
+              {
+                "x": 32912,
+                "y": 31432
+              },
+              {
+                "x": 32912,
+                "y": 31431
+              }
+            ]
+          },
+          {
+            "floor": 8,
+            "pulseColor": "#e79603",
+            "pathColor": "#232528",
+            "weight": 5,
+            "delay": 1000,
+            "dashArray": [
+              10,
+              10
+            ],
+            "routes": [
+              {
+                "x": 32912,
+                "y": 31431
+              },
+              {
+                "x": 32918,
+                "y": 31427
+              },
+              {
+                "x": 32924,
+                "y": 31426
+              },
+              {
+                "x": 32928,
+                "y": 31424
+              },
+              {
+                "x": 32929,
+                "y": 31422
+              },
+              {
+                "x": 32929,
+                "y": 31421
+              }
+            ]
+          },
+          {
+            "floor": 9,
+            "pulseColor": "#e79603",
+            "pathColor": "#232528",
+            "weight": 5,
+            "delay": 1000,
+            "dashArray": [
+              10,
+              10
+            ],
+            "routes": [
+              {
+                "x": 32929,
+                "y": 31421
+              },
+              {
+                "x": 32933,
+                "y": 31425
+              },
+              {
+                "x": 32934,
+                "y": 31425
+              },
+              {
+                "x": 32935,
+                "y": 31425
+              }
+            ]
+          },
+          {
+            "floor": 10,
+            "pulseColor": "#e79603",
+            "pathColor": "#232528",
+            "weight": 5,
+            "delay": 1000,
+            "dashArray": [
+              10,
+              10
+            ],
+            "routes": [
+              {
+                "x": 32935,
+                "y": 31425
+              },
+              {
+                "x": 32934,
+                "y": 31426
+              },
+              {
+                "x": 32932,
+                "y": 31425
+              },
+              {
+                "x": 32930,
+                "y": 31421
+              },
+              {
+                "x": 32929,
+                "y": 31419
+              },
+              {
+                "x": 32926,
+                "y": 31419
+              },
+              {
+                "x": 32926,
+                "y": 31413
+              },
+              {
+                "x": 32925,
+                "y": 31409
+              },
+              {
+                "x": 32923,
+                "y": 31406
+              },
+              {
+                "x": 32918,
+                "y": 31404
+              },
+              {
+                "x": 32915,
+                "y": 31403
+              },
+              {
+                "x": 32914,
+                "y": 31403
+              }
+            ]
+          }
+        ],
+        "speed": 500,
+        "mapAreaId": null,
+        "createdBy": null,
+        "modifiedBy": null,
+        "updatedAt": "2026-06-27T15:23:30.107Z",
+        "createdAt": "2026-06-27T17:14:33.795Z"
+      },
+      "youtubeVideoId": "VlsG8OjbJXI",
+      "predominantDamage": [
+        {
+          "element": "Lifedrain",
+          "percentage": 63
+        },
+        {
+          "element": "Physical",
+          "percentage": 33
+        },
+        {
+          "element": "Death",
+          "percentage": 3
+        }
+      ]
+    },
+    {
+      "name": "Upper Roshamuul EK",
+      "minLevel": 750,
+      "vocations": [
+        "Knight",
+        "Druid",
+        "Paladin",
+        "Sorcerer"
+      ],
+      "expPerHour": "5.5kk",
+      "profitPerHour": "1kk",
+      "mapImageUrl": "",
+      "monsters": [
+        {
+          "name": "CHOKING FEAR",
+          "imageUrl": "https://cdn.rubinottools.com/monsters/CHOKING-FEAR.gif",
+          "health": 5800,
+          "experience": 4700,
+          "suggestedCharm": "Dodge"
+        },
+        {
+          "name": "RETCHING HORROR",
+          "imageUrl": "https://cdn.rubinottools.com/monsters/RETCHING-HORROR.gif",
+          "health": 5300,
+          "experience": 4100,
+          "suggestedCharm": "Wound"
+        },
+        {
+          "name": "SILENCER",
+          "imageUrl": "https://cdn.rubinottools.com/monsters/SILENCER.gif",
+          "health": 5400,
+          "experience": 5100,
+          "suggestedCharm": "Divine Wrath"
+        }
+      ],
+      "equipment": [],
+      "id": "upper-roshamuul-ek",
+      "mapPath": {
+        "id": "ada7c779-66cb-48f5-92a0-bea860703429",
+        "name": "Upper Roshamuul EK - Route",
+        "slug": "Upper-Roshamuul-EK-Route",
+        "description": "",
+        "cords": {
+          "x": 33575,
+          "y": 32359,
+          "floor": 7,
+          "zoom": 3
+        },
+        "markers": [
+          {
+            "description": "",
+            "icon": "star",
+            "x": 33575,
+            "y": 32359,
+            "floor": 7,
+            "isDeleted": false
+          },
+          {
+            "description": "",
+            "icon": "crossmark",
+            "x": 33590,
+            "y": 32342,
+            "floor": 7,
+            "isDeleted": false
+          },
+          {
+            "description": "",
+            "icon": "crossmark",
+            "x": 33610,
+            "y": 32327,
+            "floor": 7,
+            "isDeleted": false
+          },
+          {
+            "description": "",
+            "icon": "crossmark",
+            "x": 33618,
+            "y": 32340,
+            "floor": 7,
+            "isDeleted": false
+          },
+          {
+            "description": "",
+            "icon": "crossmark",
+            "x": 33599,
+            "y": 32361,
+            "floor": 7,
+            "isDeleted": false
+          },
+          {
+            "description": "",
+            "icon": "crossmark",
+            "x": 33590,
+            "y": 32389,
+            "floor": 7,
+            "isDeleted": false
+          },
+          {
+            "description": "",
+            "icon": "crossmark",
+            "x": 33632,
+            "y": 32396,
+            "floor": 7,
+            "isDeleted": false
+          },
+          {
+            "description": "",
+            "icon": "crossmark",
+            "x": 33632,
+            "y": 32418,
+            "floor": 7,
+            "isDeleted": false
+          },
+          {
+            "description": "",
+            "icon": "crossmark",
+            "x": 33648,
+            "y": 32433,
+            "floor": 7,
+            "isDeleted": false
+          },
+          {
+            "description": "",
+            "icon": "crossmark",
+            "x": 33625,
+            "y": 32442,
+            "floor": 7,
+            "isDeleted": false
+          },
+          {
+            "description": "",
+            "icon": "crossmark",
+            "x": 33602,
+            "y": 32436,
+            "floor": 7,
+            "isDeleted": false
+          },
+          {
+            "description": "",
+            "icon": "crossmark",
+            "x": 33586,
+            "y": 32410,
+            "floor": 7,
+            "isDeleted": false
+          },
+          {
+            "description": "",
+            "icon": "crossmark",
+            "x": 33547,
+            "y": 32405,
+            "floor": 7,
+            "isDeleted": false
+          }
+        ],
+        "paths": [
+          {
+            "floor": 7,
+            "pulseColor": "#e79603",
+            "pathColor": "#232528",
+            "weight": 7,
+            "delay": 100,
+            "dashArray": [
+              30
+            ],
+            "routes": [
+              {
+                "x": 33575,
+                "y": 32359
+              },
+              {
+                "x": 33575,
+                "y": 32351
+              },
+              {
+                "x": 33581,
+                "y": 32344
+              },
+              {
+                "x": 33587,
+                "y": 32342
+              },
+              {
+                "x": 33590,
+                "y": 32342
+              },
+              {
+                "x": 33597,
+                "y": 32340
+              },
+              {
+                "x": 33603,
+                "y": 32335
+              },
+              {
+                "x": 33607,
+                "y": 32331
+              },
+              {
+                "x": 33610,
+                "y": 32327
+              },
+              {
+                "x": 33615,
+                "y": 32327
+              },
+              {
+                "x": 33619,
+                "y": 32324
+              },
+              {
+                "x": 33624,
+                "y": 32323
+              },
+              {
+                "x": 33627,
+                "y": 32328
+              },
+              {
+                "x": 33625,
+                "y": 32335
+              },
+              {
+                "x": 33622,
+                "y": 32338
+              },
+              {
+                "x": 33618,
+                "y": 32340
+              },
+              {
+                "x": 33616,
+                "y": 32345
+              },
+              {
+                "x": 33610,
+                "y": 32348
+              },
+              {
+                "x": 33603,
+                "y": 32348
+              },
+              {
+                "x": 33601,
+                "y": 32353
+              },
+              {
+                "x": 33600,
+                "y": 32358
+              },
+              {
+                "x": 33599,
+                "y": 32361
+              },
+              {
+                "x": 33594,
+                "y": 32365
+              },
+              {
+                "x": 33594,
+                "y": 32368
+              },
+              {
+                "x": 33595,
+                "y": 32370
+              },
+              {
+                "x": 33594,
+                "y": 32375
+              },
+              {
+                "x": 33592,
+                "y": 32380
+              },
+              {
+                "x": 33591,
+                "y": 32386
+              },
+              {
+                "x": 33590,
+                "y": 32389
+              },
+              {
+                "x": 33593,
+                "y": 32393
+              },
+              {
+                "x": 33596,
+                "y": 32394
+              },
+              {
+                "x": 33599,
+                "y": 32395
+              },
+              {
+                "x": 33603,
+                "y": 32395
+              },
+              {
+                "x": 33607,
+                "y": 32395
+              },
+              {
+                "x": 33611,
+                "y": 32395
+              },
+              {
+                "x": 33616,
+                "y": 32394
+              },
+              {
+                "x": 33622,
+                "y": 32394
+              },
+              {
+                "x": 33626,
+                "y": 32395
+              },
+              {
+                "x": 33629,
+                "y": 32395
+              },
+              {
+                "x": 33632,
+                "y": 32396
+              },
+              {
+                "x": 33635,
+                "y": 32400
+              },
+              {
+                "x": 33635,
+                "y": 32403
+              },
+              {
+                "x": 33634,
+                "y": 32407
+              },
+              {
+                "x": 33631,
+                "y": 32409
+              },
+              {
+                "x": 33630,
+                "y": 32412
+              },
+              {
+                "x": 33630,
+                "y": 32415
+              },
+              {
+                "x": 33630,
+                "y": 32418
+              },
+              {
+                "x": 33632,
+                "y": 32418
+              },
+              {
+                "x": 33637,
+                "y": 32419
+              },
+              {
+                "x": 33639,
+                "y": 32421
+              },
+              {
+                "x": 33642,
+                "y": 32421
+              },
+              {
+                "x": 33644,
+                "y": 32423
+              },
+              {
+                "x": 33646,
+                "y": 32424
+              },
+              {
+                "x": 33648,
+                "y": 32425
+              },
+              {
+                "x": 33649,
+                "y": 32427
+              },
+              {
+                "x": 33649,
+                "y": 32430
+              },
+              {
+                "x": 33649,
+                "y": 32432
+              },
+              {
+                "x": 33648,
+                "y": 32433
+              },
+              {
+                "x": 33648,
+                "y": 32436
+              },
+              {
+                "x": 33648,
+                "y": 32439
+              },
+              {
+                "x": 33646,
+                "y": 32441
+              },
+              {
+                "x": 33640,
+                "y": 32442
+              },
+              {
+                "x": 33636,
+                "y": 32442
+              },
+              {
+                "x": 33631,
+                "y": 32442
+              },
+              {
+                "x": 33627,
+                "y": 32442
+              },
+              {
+                "x": 33625,
+                "y": 32442
+              },
+              {
+                "x": 33620,
+                "y": 32442
+              },
+              {
+                "x": 33616,
+                "y": 32442
+              },
+              {
+                "x": 33614,
+                "y": 32441
+              },
+              {
+                "x": 33611,
+                "y": 32439
+              },
+              {
+                "x": 33607,
+                "y": 32437
+              },
+              {
+                "x": 33604,
+                "y": 32436
+              },
+              {
+                "x": 33602,
+                "y": 32436
+              },
+              {
+                "x": 33602,
+                "y": 32432
+              },
+              {
+                "x": 33602,
+                "y": 32428
+              },
+              {
+                "x": 33602,
+                "y": 32424
+              },
+              {
+                "x": 33602,
+                "y": 32420
+              },
+              {
+                "x": 33601,
+                "y": 32416
+              },
+              {
+                "x": 33598,
+                "y": 32414
+              },
+              {
+                "x": 33595,
+                "y": 32412
+              },
+              {
+                "x": 33591,
+                "y": 32411
+              },
+              {
+                "x": 33586,
+                "y": 32410
+              },
+              {
+                "x": 33584,
+                "y": 32412
+              },
+              {
+                "x": 33580,
+                "y": 32414
+              },
+              {
+                "x": 33577,
+                "y": 32415
+              },
+              {
+                "x": 33575,
+                "y": 32417
+              },
+              {
+                "x": 33575,
+                "y": 32421
+              },
+              {
+                "x": 33575,
+                "y": 32425
+              },
+              {
+                "x": 33573,
+                "y": 32428
+              },
+              {
+                "x": 33571,
+                "y": 32426
+              },
+              {
+                "x": 33571,
+                "y": 32422
+              },
+              {
+                "x": 33570,
+                "y": 32419
+              },
+              {
+                "x": 33569,
+                "y": 32416
+              },
+              {
+                "x": 33565,
+                "y": 32415
+              },
+              {
+                "x": 33560,
+                "y": 32414
+              },
+              {
+                "x": 33558,
+                "y": 32412
+              },
+              {
+                "x": 33554,
+                "y": 32411
+              },
+              {
+                "x": 33550,
+                "y": 32409
+              },
+              {
+                "x": 33548,
+                "y": 32407
+              },
+              {
+                "x": 33547,
+                "y": 32405
+              },
+              {
+                "x": 33548,
+                "y": 32400
+              },
+              {
+                "x": 33550,
+                "y": 32398
+              },
+              {
+                "x": 33552,
+                "y": 32394
+              },
+              {
+                "x": 33555,
+                "y": 32393
+              },
+              {
+                "x": 33561,
+                "y": 32393
+              },
+              {
+                "x": 33566,
+                "y": 32392
+              },
+              {
+                "x": 33568,
+                "y": 32388
+              },
+              {
+                "x": 33568,
+                "y": 32384
+              },
+              {
+                "x": 33569,
+                "y": 32380
+              },
+              {
+                "x": 33571,
+                "y": 32375
+              },
+              {
+                "x": 33572,
+                "y": 32371
+              },
+              {
+                "x": 33573,
+                "y": 32367
+              },
+              {
+                "x": 33573,
+                "y": 32364
+              },
+              {
+                "x": 33574,
+                "y": 32361
+              },
+              {
+                "x": 33575,
+                "y": 32359
+              }
+            ]
+          }
+        ],
+        "speed": 500,
+        "mapAreaId": "8bc4bc22-add9-4d05-87ff-fbd3759ac5ca",
+        "createdBy": null,
+        "modifiedBy": null,
+        "updatedAt": "2026-01-02T00:42:24.401Z",
+        "createdAt": "2025-02-16T17:06:13.977Z"
+      },
+      "wayPath": {
+        "id": "25a8f355-c675-41a2-84db-8f20a0800e67",
+        "name": "Upper Roshamuul EK - Way",
+        "slug": "Upper-Roshamuul-EK-Way",
+        "description": "",
+        "cords": {
+          "x": 33494,
+          "y": 32567,
+          "floor": 7,
+          "zoom": 3
+        },
+        "markers": [
+          {
+            "description": "",
+            "icon": "star",
+            "x": 33494,
+            "y": 32567,
+            "floor": 7,
+            "isDeleted": false
+          },
+          {
+            "description": "",
+            "icon": "up",
+            "x": 33524,
+            "y": 32548,
+            "floor": 7,
+            "isDeleted": false
+          },
+          {
+            "description": "",
+            "icon": "up",
+            "x": 33530,
+            "y": 32523,
+            "floor": 6,
+            "isDeleted": false
+          },
+          {
+            "description": "",
+            "icon": "down",
+            "x": 33539,
+            "y": 32483,
+            "floor": 5,
+            "isDeleted": false
+          },
+          {
+            "description": "",
+            "icon": "down",
+            "x": 33538,
+            "y": 32476,
+            "floor": 6,
+            "isDeleted": false
+          }
+        ],
+        "paths": [
+          {
+            "floor": 7,
+            "pulseColor": "#e79603",
+            "pathColor": "#232528",
+            "weight": 7,
+            "delay": 100,
+            "dashArray": [
+              30
+            ],
+            "routes": [
+              {
+                "x": 33494,
+                "y": 32567
+              },
+              {
+                "x": 33495,
+                "y": 32564
+              },
+              {
+                "x": 33501,
+                "y": 32561
+              },
+              {
+                "x": 33506,
+                "y": 32557
+              },
+              {
+                "x": 33512,
+                "y": 32554
+              },
+              {
+                "x": 33520,
+                "y": 32551
+              },
+              {
+                "x": 33524,
+                "y": 32548
+              }
+            ]
+          },
+          {
+            "floor": 6,
+            "pulseColor": "#e79603",
+            "pathColor": "#232528",
+            "weight": 7,
+            "delay": 100,
+            "dashArray": [
+              30
+            ],
+            "routes": [
+              {
+                "x": 33524,
+                "y": 32548
+              },
+              {
+                "x": 33525,
+                "y": 32542
+              },
+              {
+                "x": 33528,
+                "y": 32536
+              },
+              {
+                "x": 33529,
+                "y": 32531
+              },
+              {
+                "x": 33530,
+                "y": 32526
+              },
+              {
+                "x": 33530,
+                "y": 32523
+              }
+            ]
+          },
+          {
+            "floor": 5,
+            "pulseColor": "#e79603",
+            "pathColor": "#232528",
+            "weight": 7,
+            "delay": 100,
+            "dashArray": [
+              30
+            ],
+            "routes": [
+              {
+                "x": 33530,
+                "y": 32523
+              },
+              {
+                "x": 33531,
+                "y": 32519
+              },
+              {
+                "x": 33537,
+                "y": 32514
+              },
+              {
+                "x": 33537,
+                "y": 32508
+              },
+              {
+                "x": 33537,
+                "y": 32502
+              },
+              {
+                "x": 33537,
+                "y": 32496
+              },
+              {
+                "x": 33538,
+                "y": 32491
+              },
+              {
+                "x": 33539,
+                "y": 32487
+              },
+              {
+                "x": 33539,
+                "y": 32483
+              }
+            ]
+          },
+          {
+            "floor": 6,
+            "pulseColor": "#e79603",
+            "pathColor": "#232528",
+            "weight": 7,
+            "delay": 100,
+            "dashArray": [
+              30
+            ],
+            "routes": [
+              {
+                "x": 33539,
+                "y": 32483
+              },
+              {
+                "x": 33539,
+                "y": 32479
+              },
+              {
+                "x": 33539,
+                "y": 32477
+              },
+              {
+                "x": 33538,
+                "y": 32476
+              }
+            ]
+          },
+          {
+            "floor": 7,
+            "pulseColor": "#e79603",
+            "pathColor": "#232528",
+            "weight": 7,
+            "delay": 100,
+            "dashArray": [
+              30
+            ],
+            "routes": [
+              {
+                "x": 33538,
+                "y": 32476
+              },
+              {
+                "x": 33542,
+                "y": 32473
+              },
+              {
+                "x": 33548,
+                "y": 32472
+              },
+              {
+                "x": 33556,
+                "y": 32469
+              },
+              {
+                "x": 33562,
+                "y": 32469
+              },
+              {
+                "x": 33570,
+                "y": 32469
+              },
+              {
+                "x": 33575,
+                "y": 32467
+              },
+              {
+                "x": 33580,
+                "y": 32463
+              },
+              {
+                "x": 33585,
+                "y": 32460
+              },
+              {
+                "x": 33593,
+                "y": 32459
+              },
+              {
+                "x": 33599,
+                "y": 32461
+              },
+              {
+                "x": 33608,
+                "y": 32461
+              },
+              {
+                "x": 33613,
+                "y": 32455
+              },
+              {
+                "x": 33621,
+                "y": 32453
+              },
+              {
+                "x": 33628,
+                "y": 32453
+              },
+              {
+                "x": 33636,
+                "y": 32453
+              },
+              {
+                "x": 33639,
+                "y": 32449
+              },
+              {
+                "x": 33636,
+                "y": 32444
+              }
+            ]
+          }
+        ],
+        "speed": 500,
+        "mapAreaId": null,
+        "createdBy": null,
+        "modifiedBy": null,
+        "updatedAt": "2025-02-16T17:06:13.977Z",
+        "createdAt": "2025-02-16T17:06:13.977Z"
+      },
+      "youtubeVideoId": "B7Q_qIs4L-w",
+      "predominantDamage": []
     }
   ]
 }

@@ -16,7 +16,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Nunchaku-Of-Destruction.gif"
+    "imageFileName": "Nunchaku-of-Destruction.gif"
   },
   {
     "name": "Ornate Carving Wand",
@@ -96,7 +96,7 @@
     "attributes": {
       "magic_level": 2
     },
-    "imageFileName": "Spellbook-Of-Lost-Souls.gif"
+    "imageFileName": "Spellbook-of-Lost-Souls.gif"
   },
   {
     "name": "Crypt Splitter",
@@ -418,7 +418,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Axe-Of-Carving-(heavily-Charged).gif"
+    "imageFileName": "Axe-of-Carving-(Heavily-Charged).gif"
   },
   {
     "name": "Moon Backpack",
@@ -536,7 +536,7 @@
     "attributes": {
       "distance_fighting": 1
     },
-    "imageFileName": "Bow-Of-Mayhem-(overcharged).gif"
+    "imageFileName": "Bow-of-Mayhem-(Overcharged).gif"
   },
   {
     "name": "Blade of Mayhem (Overcharged)",
@@ -557,7 +557,7 @@
     "attributes": {
       "sword_fighting": 1
     },
-    "imageFileName": "Blade-Of-Mayhem-(overcharged).gif"
+    "imageFileName": "Blade-of-Mayhem-(Overcharged).gif"
   },
   {
     "name": "Spellbook of Ancient Arcana",
@@ -580,7 +580,7 @@
     "attributes": {
       "magic_level": 4
     },
-    "imageFileName": "Spellbook-Of-Ancient-Arcana.gif"
+    "imageFileName": "Spellbook-of-Ancient-Arcana.gif"
   },
   {
     "name": "Chopper of Remedy (Overcharged)",
@@ -601,7 +601,7 @@
     "attributes": {
       "axe_fighting": 1
     },
-    "imageFileName": "Chopper-Of-Remedy-(overcharged).gif"
+    "imageFileName": "Chopper-of-Remedy-(Overcharged).gif"
   },
   {
     "name": "Living Vine Bow",
@@ -645,7 +645,7 @@
     "attributes": {
       "magic_level": 1
     },
-    "imageFileName": "Wand-Of-Remedy-(overcharged).gif"
+    "imageFileName": "Wand-of-Remedy-(Overcharged).gif"
   },
   {
     "name": "Sandals",
@@ -953,7 +953,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "The-Eye-Of-Suon.gif"
+    "imageFileName": "The-Eye-of-Suon.gif"
   },
   {
     "name": "Inferniarch Arbalest",
@@ -1224,7 +1224,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Axe-Of-Destruction.gif"
+    "imageFileName": "Axe-of-Destruction.gif"
   },
   {
     "name": "Silver Dagger",
@@ -1264,7 +1264,7 @@
     "attributes": {
       "club_fighting": 1
     },
-    "imageFileName": "Hammer-Of-Carving-(overcharged).gif"
+    "imageFileName": "Hammer-of-Carving-(Overcharged).gif"
   },
   {
     "name": "Eldritch Monk Boots",
@@ -1394,7 +1394,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Lit-Torch-(quest).gif"
+    "imageFileName": "Lit-Torch-(Quest).gif"
   },
   {
     "name": "Buckle",
@@ -1456,7 +1456,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Helmet-Of-Nature.gif"
+    "imageFileName": "Helmet-of-Nature.gif"
   },
   {
     "name": "Draining Inferniarch Rod",
@@ -1616,7 +1616,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Bow-Of-Remedy-(charged).gif"
+    "imageFileName": "Bow-of-Remedy-(Charged).gif"
   },
   {
     "name": "Earth Relic Sword Replica",
@@ -1794,7 +1794,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Wand-Of-Carving-(charged).gif"
+    "imageFileName": "Wand-of-Carving-(Charged).gif"
   },
   {
     "name": "Glacial Rod",
@@ -1834,7 +1834,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Slayer-Of-Remedy-(heavily-Charged).gif"
+    "imageFileName": "Slayer-of-Remedy-(Heavily-Charged).gif"
   },
   {
     "name": "Crystalline Armor",
@@ -2214,7 +2214,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Lit-Rainbow-Torch-(medium).gif"
+    "imageFileName": "Lit-Rainbow-Torch-(Medium).gif"
   },
   {
     "name": "Vampire's Signet Ring",
@@ -2437,7 +2437,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Mace-Of-Remedy-(heavily-Charged).gif"
+    "imageFileName": "Mace-of-Remedy-(Heavily-Charged).gif"
   },
   {
     "name": "Dwarven Shield",
@@ -2612,7 +2612,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Rod-Of-Destruction.gif"
+    "imageFileName": "Rod-of-Destruction.gif"
   },
   {
     "name": "Brutetamer's Staff",
@@ -3354,7 +3354,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Wand-Of-Everblazing.gif"
+    "imageFileName": "Wand-of-Everblazing.gif"
   },
   {
     "name": "Earth Headchopper",
@@ -3589,7 +3589,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Crossbow-Of-Destruction.gif"
+    "imageFileName": "Crossbow-of-Destruction.gif"
   },
   {
     "name": "Ferumbras' Amulet",
@@ -3670,7 +3670,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Broken-Ring-Of-Ending.gif"
+    "imageFileName": "Broken-Ring-of-Ending.gif"
   },
   {
     "name": "Burnt Down Torch",
@@ -3807,7 +3807,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Pair-Of-Soft-Boots.gif"
+    "imageFileName": "Pair-of-Soft-Boots.gif"
   },
   {
     "name": "Lamp",
@@ -3947,7 +3947,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Impaler-Of-The-Igniter.gif"
+    "imageFileName": "Impaler-of-the-Igniter.gif"
   },
   {
     "name": "Charged Arcanomancer Sigil",
@@ -3994,7 +3994,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Lit-Torch-(medium).gif"
+    "imageFileName": "Lit-Torch-(Medium).gif"
   },
   {
     "name": "Cocoa Grimoire",
@@ -4212,7 +4212,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Chopper-Of-Remedy-(heavily-Charged).gif"
+    "imageFileName": "Chopper-of-Remedy-(Heavily-Charged).gif"
   },
   {
     "name": "Jade Amulet",
@@ -4273,7 +4273,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Blade-Of-Corruption.gif"
+    "imageFileName": "Blade-of-Corruption.gif"
   },
   {
     "name": "Helmet of the Ancients (Enchanted)",
@@ -4292,7 +4292,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Helmet-Of-The-Ancients-(enchanted).gif"
+    "imageFileName": "Helmet-of-the-Ancients-(Enchanted).gif"
   },
   {
     "name": "Snakebite Rod",
@@ -4521,7 +4521,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Bow-Of-Mayhem-(heavily-Charged).gif"
+    "imageFileName": "Bow-of-Mayhem-(Heavily-Charged).gif"
   },
   {
     "name": "Eldritch Breeches",
@@ -4570,7 +4570,7 @@
       "distance_level": 4,
       "holy_magic_level": 1
     },
-    "imageFileName": "Enchanted-Flamingo-Amulet-Of-Precision.gif"
+    "imageFileName": "Enchanted-Flamingo-Amulet-of-Precision.gif"
   },
   {
     "name": "Nightmare Blade",
@@ -4610,7 +4610,7 @@
       "fire": 2
     },
     "attributes": {},
-    "imageFileName": "Candy-coated-Quiver.gif"
+    "imageFileName": "Candy-Coated-Quiver.gif"
   },
   {
     "name": "Amber Crossbow",
@@ -4652,7 +4652,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Wand-Of-Remedy-(charged).gif"
+    "imageFileName": "Wand-of-Remedy-(Charged).gif"
   },
   {
     "name": "Metal Bat",
@@ -4766,7 +4766,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Helmet-Of-The-Ancients.gif"
+    "imageFileName": "Helmet-of-the-Ancients.gif"
   },
   {
     "name": "Statue of Devovorga",
@@ -4785,7 +4785,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Statue-Of-Devovorga.gif"
+    "imageFileName": "Statue-of-Devovorga.gif"
   },
   {
     "name": "The Crown of the Percht Queen (Ice)",
@@ -4804,7 +4804,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "The-Crown-Of-The-Percht-Queen-(ice).gif"
+    "imageFileName": "The-Crown-of-the-Percht-Queen-(Ice).gif"
   },
   {
     "name": "Hat of the Mad",
@@ -4825,7 +4825,7 @@
     "attributes": {
       "magic_level": 1
     },
-    "imageFileName": "Hat-Of-The-Mad.gif"
+    "imageFileName": "Hat-of-the-Mad.gif"
   },
   {
     "name": "Sedge Hat",
@@ -4906,7 +4906,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Lit-Rainbow-Torch-(small).gif"
+    "imageFileName": "Lit-Rainbow-Torch-(Small).gif"
   },
   {
     "name": "Fiery Spike Sword Replica",
@@ -4990,7 +4990,7 @@
     "attributes": {
       "distance_fighting": 1
     },
-    "imageFileName": "Bow-Of-Remedy-(overcharged).gif"
+    "imageFileName": "Bow-of-Remedy-(Overcharged).gif"
   },
   {
     "name": "Enchanted Werewolf Helmet (Fist)",
@@ -5013,7 +5013,7 @@
     "attributes": {
       "fist_fighting": 1
     },
-    "imageFileName": "Enchanted-Werewolf-Helmet-(fist).gif"
+    "imageFileName": "Enchanted-Werewolf-Helmet-(Fist).gif"
   },
   {
     "name": "Energy Blade Replica",
@@ -5307,7 +5307,7 @@
     "attributes": {
       "magic_level": 1
     },
-    "imageFileName": "Rod-Of-Remedy-(overcharged).gif"
+    "imageFileName": "Rod-of-Remedy-(Overcharged).gif"
   },
   {
     "name": "Spellbook of Mind Control",
@@ -5328,7 +5328,7 @@
     "attributes": {
       "magic_level": 2
     },
-    "imageFileName": "Spellbook-Of-Mind-Control.gif"
+    "imageFileName": "Spellbook-of-Mind-Control.gif"
   },
   {
     "name": "Plain Remedy Hammer",
@@ -5425,7 +5425,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Chopper-Of-Mayhem-(charged).gif"
+    "imageFileName": "Chopper-of-Mayhem-(Charged).gif"
   },
   {
     "name": "Beach Bag",
@@ -5579,7 +5579,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Flamingo-Amulet-Of-Destruction.gif"
+    "imageFileName": "Flamingo-Amulet-of-Destruction.gif"
   },
   {
     "name": "Icy Heroic Axe",
@@ -5655,7 +5655,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Friendship-Amulet-(replica).gif"
+    "imageFileName": "Friendship-Amulet-(Replica).gif"
   },
   {
     "name": "Slayer of Remedy",
@@ -5674,7 +5674,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Slayer-Of-Remedy.gif"
+    "imageFileName": "Slayer-of-Remedy.gif"
   },
   {
     "name": "Alchemist's Boots",
@@ -5930,7 +5930,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Backpack-Of-Holding.gif"
+    "imageFileName": "Backpack-of-Holding.gif"
   },
   {
     "name": "Jungle Rod",
@@ -6008,7 +6008,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Slayer-Of-Mayhem.gif"
+    "imageFileName": "Slayer-of-Mayhem.gif"
   },
   {
     "name": "Ferumbras' Staff (Failed)",
@@ -6027,7 +6027,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Ferumbras'-Staff-(failed).gif"
+    "imageFileName": "Ferumbras'-Staff-(Failed).gif"
   },
   {
     "name": "Underworld Rod",
@@ -6105,7 +6105,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Ring-Of-Secret-Thoughts.gif"
+    "imageFileName": "Ring-of-Secret-Thoughts.gif"
   },
   {
     "name": "Crude Umbral Axe",
@@ -6162,7 +6162,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Hammer-Of-Remedy-(heavily-Charged).gif"
+    "imageFileName": "Hammer-of-Remedy-(Heavily-Charged).gif"
   },
   {
     "name": "Make-Do Boots",
@@ -6185,7 +6185,7 @@
     "attributes": {
       "magic_level": 1
     },
-    "imageFileName": "Make-do-Boots.gif"
+    "imageFileName": "Make-Do-Boots.gif"
   },
   {
     "name": "Pirate Knee Breeches",
@@ -6246,7 +6246,7 @@
     "attributes": {
       "speed": 20
     },
-    "imageFileName": "Tiara-Of-Power.gif"
+    "imageFileName": "Tiara-of-Power.gif"
   },
   {
     "name": "Charged Ethereal Ring",
@@ -6359,7 +6359,7 @@
     "attributes": {
       "distance_fighting": 1
     },
-    "imageFileName": "Crossbow-Of-Mayhem-(overcharged).gif"
+    "imageFileName": "Crossbow-of-Mayhem-(Overcharged).gif"
   },
   {
     "name": "Shopping Bag",
@@ -6437,7 +6437,7 @@
     "attributes": {
       "magic_level": 1
     },
-    "imageFileName": "Wand-Of-Carving-(overcharged).gif"
+    "imageFileName": "Wand-of-Carving-(Overcharged).gif"
   },
   {
     "name": "Master Archer's Armor",
@@ -6521,7 +6521,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Unstable-Ring-Of-Ending.gif"
+    "imageFileName": "Unstable-Ring-of-Ending.gif"
   },
   {
     "name": "Stag Shinguards",
@@ -6605,7 +6605,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Wand-Of-Decay.gif"
+    "imageFileName": "Wand-of-Decay.gif"
   },
   {
     "name": "Crystal Ring",
@@ -6643,7 +6643,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Axe-Of-Carving.gif"
+    "imageFileName": "Axe-of-Carving.gif"
   },
   {
     "name": "Spear",
@@ -6740,7 +6740,7 @@
     "attributes": {
       "sword_fighting": 1
     },
-    "imageFileName": "Blade-Of-Remedy-(overcharged).gif"
+    "imageFileName": "Blade-of-Remedy-(Overcharged).gif"
   },
   {
     "name": "Fish Tail (Unequipped)",
@@ -6759,7 +6759,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Fish-Tail-(unequipped).gif"
+    "imageFileName": "Fish-Tail-(Unequipped).gif"
   },
   {
     "name": "Ornate Mayhem Wand",
@@ -6883,7 +6883,7 @@
       "distance_fighting": 1,
       "speed": 20
     },
-    "imageFileName": "Pair-Of-Soulstalkers.gif"
+    "imageFileName": "Pair-of-Soulstalkers.gif"
   },
   {
     "name": "Mooh'tah Plate",
@@ -6921,7 +6921,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Bow-Of-Remedy-(heavily-Charged).gif"
+    "imageFileName": "Bow-of-Remedy-(Heavily-Charged).gif"
   },
   {
     "name": "Red Bag",
@@ -7086,7 +7086,7 @@
     "attributes": {
       "distance_fighting": 1
     },
-    "imageFileName": "Bow-Of-Carving-(overcharged).gif"
+    "imageFileName": "Bow-of-Carving-(Overcharged).gif"
   },
   {
     "name": "Golden Magic Longsword",
@@ -7126,7 +7126,7 @@
     "attributes": {
       "axe_fighting": 1
     },
-    "imageFileName": "Chopper-Of-Carving-(overcharged).gif"
+    "imageFileName": "Chopper-of-Carving-(Overcharged).gif"
   },
   {
     "name": "Earth Barbarian Axe",
@@ -7263,7 +7263,7 @@
     "attributes": {
       "club_fighting": 1
     },
-    "imageFileName": "Mace-Of-Carving-(overcharged).gif"
+    "imageFileName": "Mace-of-Carving-(Overcharged).gif"
   },
   {
     "name": "Mace of Remedy",
@@ -7282,7 +7282,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Mace-Of-Remedy.gif"
+    "imageFileName": "Mace-of-Remedy.gif"
   },
   {
     "name": "Spiky Club",
@@ -7415,7 +7415,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Blade-Of-Carving.gif"
+    "imageFileName": "Blade-of-Carving.gif"
   },
   {
     "name": "Wand of Destruction",
@@ -7434,7 +7434,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Wand-Of-Destruction.gif"
+    "imageFileName": "Wand-of-Destruction.gif"
   },
   {
     "name": "Brass Helmet",
@@ -7584,7 +7584,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Falcon-Circlet-(silver).gif"
+    "imageFileName": "Falcon-Circlet-(Silver).gif"
   },
   {
     "name": "Aurora's Collection",
@@ -7665,7 +7665,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Bow-Of-Mayhem.gif"
+    "imageFileName": "Bow-of-Mayhem.gif"
   },
   {
     "name": "Ice Robe",
@@ -7727,7 +7727,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Wand-Of-Defiance.gif"
+    "imageFileName": "Wand-of-Defiance.gif"
   },
   {
     "name": "Hammer of Mayhem (Overcharged)",
@@ -7748,7 +7748,7 @@
     "attributes": {
       "club_fighting": 1
     },
-    "imageFileName": "Hammer-Of-Mayhem-(overcharged).gif"
+    "imageFileName": "Hammer-of-Mayhem-(Overcharged).gif"
   },
   {
     "name": "Energetic Backpack",
@@ -7826,7 +7826,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Chopper-Of-Carving-(heavily-Charged).gif"
+    "imageFileName": "Chopper-of-Carving-(Heavily-Charged).gif"
   },
   {
     "name": "Gilded Eldritch Bow",
@@ -7867,7 +7867,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Shield-Of-Honour.gif"
+    "imageFileName": "Shield-of-Honour.gif"
   },
   {
     "name": "Siphoning Inferniarch Wand",
@@ -7929,7 +7929,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Stone-Of-Wisdom.gif"
+    "imageFileName": "Stone-of-Wisdom.gif"
   },
   {
     "name": "Dreaded Cleaver",
@@ -7986,7 +7986,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Crossbow-Of-Carving.gif"
+    "imageFileName": "Crossbow-of-Carving.gif"
   },
   {
     "name": "Umbral Master Axe",
@@ -8075,7 +8075,7 @@
       "club_fighting": 3,
       "axe_fighting": 3
     },
-    "imageFileName": "Ring-Of-Red-Plasma.gif"
+    "imageFileName": "Ring-of-Red-Plasma.gif"
   },
   {
     "name": "Jungle Bow",
@@ -8117,7 +8117,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Amulet-Of-Loss.gif"
+    "imageFileName": "Amulet-of-Loss.gif"
   },
   {
     "name": "Ghazbaran Oyoroi",
@@ -8161,7 +8161,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Dark-Wizard's-Crown-(activated).gif"
+    "imageFileName": "Dark-Wizard's-Crown-(Activated).gif"
   },
   {
     "name": "Fiery Knight Axe Replica",
@@ -8281,7 +8281,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Magic-Light-Wand-(lit).gif"
+    "imageFileName": "Magic-Light-Wand-(Lit).gif"
   },
   {
     "name": "Inferniarch Greataxe",
@@ -8321,7 +8321,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Mace-Of-Carving-(heavily-Charged).gif"
+    "imageFileName": "Mace-of-Carving-(Heavily-Charged).gif"
   },
   {
     "name": "Epee",
@@ -8363,7 +8363,7 @@
     "attributes": {
       "fist_fighting": 1
     },
-    "imageFileName": "Legs-Of-Wisdom.gif"
+    "imageFileName": "Legs-of-Wisdom.gif"
   },
   {
     "name": "Mace of Mayhem (Heavily Charged)",
@@ -8382,7 +8382,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Mace-Of-Mayhem-(heavily-Charged).gif"
+    "imageFileName": "Mace-of-Mayhem-(Heavily-Charged).gif"
   },
   {
     "name": "Gold Ring",
@@ -8463,7 +8463,7 @@
     "attributes": {
       "magic_level": 4
     },
-    "imageFileName": "Book-Of-Lies.gif"
+    "imageFileName": "Book-of-Lies.gif"
   },
   {
     "name": "Energy Basher Replica",
@@ -8764,7 +8764,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Lucky-Clover-Amulet-(replica).gif"
+    "imageFileName": "Lucky-Clover-Amulet-(Replica).gif"
   },
   {
     "name": "Moonlight Rod",
@@ -8802,7 +8802,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Rod-Of-Mayhem.gif"
+    "imageFileName": "Rod-of-Mayhem.gif"
   },
   {
     "name": "Spirit Cloak",
@@ -8880,7 +8880,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Hammer-Of-Prophecy.gif"
+    "imageFileName": "Hammer-of-Prophecy.gif"
   },
   {
     "name": "Skull Staff",
@@ -8937,7 +8937,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Visage-Of-The-End-Days.gif"
+    "imageFileName": "Visage-of-the-End-Days.gif"
   },
   {
     "name": "Rainbow Shield",
@@ -8994,7 +8994,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Trousers-Of-The-Ancients.gif"
+    "imageFileName": "Trousers-of-the-Ancients.gif"
   },
   {
     "name": "Green Demon Helmet",
@@ -9115,7 +9115,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Jade-Amulet-(replica).gif"
+    "imageFileName": "Jade-Amulet-(Replica).gif"
   },
   {
     "name": "Rod of Mayhem (Overcharged)",
@@ -9136,7 +9136,7 @@
     "attributes": {
       "magic_level": 1
     },
-    "imageFileName": "Rod-Of-Mayhem-(overcharged).gif"
+    "imageFileName": "Rod-of-Mayhem-(Overcharged).gif"
   },
   {
     "name": "Djinn Blade",
@@ -9174,7 +9174,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Mace-Of-Remedy-(charged).gif"
+    "imageFileName": "Mace-of-Remedy-(Charged).gif"
   },
   {
     "name": "Norcferatu Fleshguards",
@@ -9329,7 +9329,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Wand-Of-Inferno.gif"
+    "imageFileName": "Wand-of-Inferno.gif"
   },
   {
     "name": "Enchanted Werewolf Helmet (Axe)",
@@ -9352,7 +9352,7 @@
     "attributes": {
       "axe_fighting": 1
     },
-    "imageFileName": "Enchanted-Werewolf-Helmet-(axe).gif"
+    "imageFileName": "Enchanted-Werewolf-Helmet-(Axe).gif"
   },
   {
     "name": "Belted Cape",
@@ -9420,7 +9420,7 @@
       "fist_fighting": 4,
       "magic_level": 2
     },
-    "imageFileName": "Enchanted-Swan-Amulet-Of-Balance.gif"
+    "imageFileName": "Enchanted-Swan-Amulet-of-Balance.gif"
   },
   {
     "name": "Wolf Backpack",
@@ -9521,7 +9521,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Hammer-Of-Remedy-(charged).gif"
+    "imageFileName": "Hammer-of-Remedy-(Charged).gif"
   },
   {
     "name": "Fabulous Legs",
@@ -9733,7 +9733,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Chopper-Of-Destruction.gif"
+    "imageFileName": "Chopper-of-Destruction.gif"
   },
   {
     "name": "Ferumbras' Staff (Blunt)",
@@ -9752,7 +9752,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Ferumbras'-Staff-(blunt).gif"
+    "imageFileName": "Ferumbras'-Staff-(Blunt).gif"
   },
   {
     "name": "Mirror Mask",
@@ -9790,7 +9790,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Ferumbras'-Staff-(enchanted).gif"
+    "imageFileName": "Ferumbras'-Staff-(Enchanted).gif"
   },
   {
     "name": "Onyx Flail",
@@ -9888,7 +9888,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Pair-Of-Old-Bracers.gif"
+    "imageFileName": "Pair-of-Old-Bracers.gif"
   },
   {
     "name": "Damaged Helmet",
@@ -10122,7 +10122,7 @@
       "holy": 2
     },
     "attributes": {},
-    "imageFileName": "Lit-Torch-(sparkling).gif"
+    "imageFileName": "Lit-Torch-(Sparkling).gif"
   },
   {
     "name": "Gill Legs",
@@ -10336,7 +10336,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Wand-Of-Carving.gif"
+    "imageFileName": "Wand-of-Carving.gif"
   },
   {
     "name": "Embrace of Nature",
@@ -10360,7 +10360,7 @@
     "attributes": {
       "distance_fighting": 4
     },
-    "imageFileName": "Embrace-Of-Nature.gif"
+    "imageFileName": "Embrace-of-Nature.gif"
   },
   {
     "name": "Moonsilver Axe",
@@ -10704,7 +10704,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Bow-Of-Carving-(heavily-Charged).gif"
+    "imageFileName": "Bow-of-Carving-(Heavily-Charged).gif"
   },
   {
     "name": "Living Armor",
@@ -10986,7 +10986,7 @@
       "axe_fighting": 1,
       "speed": 15
     },
-    "imageFileName": "Pair-Of-Soulwalkers.gif"
+    "imageFileName": "Pair-of-Soulwalkers.gif"
   },
   {
     "name": "Soldier Helmet",
@@ -11024,7 +11024,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Crossbow-Of-Carving-(heavily-Charged).gif"
+    "imageFileName": "Crossbow-of-Carving-(Heavily-Charged).gif"
   },
   {
     "name": "Lavos Armor",
@@ -11086,7 +11086,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Slayer-Of-Mayhem-(charged).gif"
+    "imageFileName": "Slayer-of-Mayhem-(Charged).gif"
   },
   {
     "name": "Stoic Iks Cuirass",
@@ -11147,7 +11147,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Blade-Of-Destruction.gif"
+    "imageFileName": "Blade-of-Destruction.gif"
   },
   {
     "name": "Icy Relic Sword",
@@ -11375,7 +11375,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Blade-Of-Mayhem.gif"
+    "imageFileName": "Blade-of-Mayhem.gif"
   },
   {
     "name": "Dwarven Ring",
@@ -11432,7 +11432,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Wolf-Tooth-Chain-(ceiron).gif"
+    "imageFileName": "Wolf-Tooth-Chain-(Ceiron).gif"
   },
   {
     "name": "Swampling Club",
@@ -11510,7 +11510,7 @@
     "attributes": {
       "speed": 300
     },
-    "imageFileName": "Fish-Tail-(equipped).gif"
+    "imageFileName": "Fish-Tail-(Equipped).gif"
   },
   {
     "name": "Biscuit Barrier",
@@ -11617,7 +11617,7 @@
       "death": 3
     },
     "attributes": {},
-    "imageFileName": "Shroud-Of-Despair.gif"
+    "imageFileName": "Shroud-of-Despair.gif"
   },
   {
     "name": "Templar Scytheblade",
@@ -11796,7 +11796,7 @@
       "fist_fighting": 4,
       "magic_level": 2
     },
-    "imageFileName": "Collar-Of-Orange-Plasma.gif"
+    "imageFileName": "Collar-of-Orange-Plasma.gif"
   },
   {
     "name": "Wand of Darkness",
@@ -11817,7 +11817,7 @@
     "attributes": {
       "magic_level": 2
     },
-    "imageFileName": "Wand-Of-Darkness.gif"
+    "imageFileName": "Wand-of-Darkness.gif"
   },
   {
     "name": "Valuable Mayhem Rod",
@@ -12011,7 +12011,7 @@
       "ice": 2
     },
     "attributes": {},
-    "imageFileName": "Pair-Of-Earmuffs.gif"
+    "imageFileName": "Pair-of-Earmuffs.gif"
   },
   {
     "name": "Yellow Backpack",
@@ -12049,7 +12049,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Chopper-Of-Carving-(charged).gif"
+    "imageFileName": "Chopper-of-Carving-(Charged).gif"
   },
   {
     "name": "Alicorn Headguard",
@@ -12119,7 +12119,7 @@
       "holy": -12
     },
     "attributes": {},
-    "imageFileName": "Robe-Of-The-Underworld.gif"
+    "imageFileName": "Robe-of-the-Underworld.gif"
   },
   {
     "name": "Exotic Amulet",
@@ -12302,7 +12302,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Crossbow-Of-Carving-(charged).gif"
+    "imageFileName": "Crossbow-of-Carving-(Charged).gif"
   },
   {
     "name": "Leaf Crown",
@@ -12342,7 +12342,7 @@
     "attributes": {
       "distance_fighting": 1
     },
-    "imageFileName": "Crossbow-Of-Remedy-(overcharged).gif"
+    "imageFileName": "Crossbow-of-Remedy-(Overcharged).gif"
   },
   {
     "name": "Steel Helmet",
@@ -12460,7 +12460,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Stale-Bread-Of-Ancientness.gif"
+    "imageFileName": "Stale-Bread-of-Ancientness.gif"
   },
   {
     "name": "Two Handed Sword",
@@ -12498,7 +12498,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Wand-Of-Carving-(heavily-Charged).gif"
+    "imageFileName": "Wand-of-Carving-(Heavily-Charged).gif"
   },
   {
     "name": "Icy War Hammer Replica",
@@ -12608,7 +12608,7 @@
     "attributes": {
       "magic_level": 1
     },
-    "imageFileName": "Enchanted-Werewolf-Helmet-(magic).gif"
+    "imageFileName": "Enchanted-Werewolf-Helmet-(Magic).gif"
   },
   {
     "name": "Glooth Whip",
@@ -12684,7 +12684,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Club-Of-The-Fury.gif"
+    "imageFileName": "Club-of-the-Fury.gif"
   },
   {
     "name": "Earth War Hammer Replica",
@@ -13202,7 +13202,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Wand-Of-Remedy.gif"
+    "imageFileName": "Wand-of-Remedy.gif"
   },
   {
     "name": "Valuable Carving Crossbow",
@@ -13323,7 +13323,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Eye-Of-The-Storm.gif"
+    "imageFileName": "Eye-of-the-Storm.gif"
   },
   {
     "name": "Ornate Remedy Chopper",
@@ -13429,7 +13429,7 @@
     "attributes": {
       "magic_level": 1
     },
-    "imageFileName": "Pair-Of-Dreamwalkers.gif"
+    "imageFileName": "Pair-of-Dreamwalkers.gif"
   },
   {
     "name": "Moonsilver Epee",
@@ -13494,7 +13494,7 @@
       "club_fighting": 4,
       "axe_fighting": 4
     },
-    "imageFileName": "Collar-Of-Red-Plasma.gif"
+    "imageFileName": "Collar-of-Red-Plasma.gif"
   },
   {
     "name": "Depth Scutum",
@@ -13750,7 +13750,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Glass-Of-Goo.gif"
+    "imageFileName": "Glass-of-Goo.gif"
   },
   {
     "name": "Bow of Carving (Charged)",
@@ -13769,7 +13769,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Bow-Of-Carving-(charged).gif"
+    "imageFileName": "Bow-of-Carving-(Charged).gif"
   },
   {
     "name": "Deepling Squelcher",
@@ -13809,7 +13809,7 @@
     "attributes": {
       "magic_level": 3
     },
-    "imageFileName": "Collar-Of-Green-Plasma.gif"
+    "imageFileName": "Collar-of-Green-Plasma.gif"
   },
   {
     "name": "Obsidian Zaoan Rook",
@@ -13952,7 +13952,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Hammer-Of-Remedy.gif"
+    "imageFileName": "Hammer-of-Remedy.gif"
   },
   {
     "name": "Crocodile Boots",
@@ -14148,7 +14148,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Wand-Of-Remedy-(heavily-Charged).gif"
+    "imageFileName": "Wand-of-Remedy-(Heavily-Charged).gif"
   },
   {
     "name": "Rift Bow",
@@ -14224,7 +14224,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Axe-Of-Mayhem-(heavily-Charged).gif"
+    "imageFileName": "Axe-of-Mayhem-(Heavily-Charged).gif"
   },
   {
     "name": "Giant Smithhammer",
@@ -14344,7 +14344,7 @@
     "attributes": {
       "axe_fighting": 1
     },
-    "imageFileName": "Chopper-Of-Mayhem-(overcharged).gif"
+    "imageFileName": "Chopper-of-Mayhem-(Overcharged).gif"
   },
   {
     "name": "Norcferatu Bloodhide",
@@ -14387,7 +14387,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Swan-Amulet-Of-Balance.gif"
+    "imageFileName": "Swan-Amulet-of-Balance.gif"
   },
   {
     "name": "Prismatic Shield",
@@ -14429,7 +14429,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Treader-Of-Torment.gif"
+    "imageFileName": "Treader-of-Torment.gif"
   },
   {
     "name": "Icy Mystic Blade",
@@ -14531,7 +14531,7 @@
       "fist_fighting": 3,
       "magic_level": 1
     },
-    "imageFileName": "Ring-Of-Orange-Plasma.gif"
+    "imageFileName": "Ring-of-Orange-Plasma.gif"
   },
   {
     "name": "Battle Shield",
@@ -14749,7 +14749,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Rod-Of-Carving-(heavily-Charged).gif"
+    "imageFileName": "Rod-of-Carving-(Heavily-Charged).gif"
   },
   {
     "name": "Mastermind Shield",
@@ -14825,7 +14825,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Scythe-Of-The-Reaper.gif"
+    "imageFileName": "Scythe-of-the-Reaper.gif"
   },
   {
     "name": "Energy Blacksteel Replica",
@@ -15091,7 +15091,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "The-Mariner's-Compass-From-The-Antoinette.gif"
+    "imageFileName": "The-Mariner's-Compass-From-the-Antoinette.gif"
   },
   {
     "name": "Boots of Haste",
@@ -15112,7 +15112,7 @@
     "attributes": {
       "speed": 20
     },
-    "imageFileName": "Boots-Of-Haste.gif"
+    "imageFileName": "Boots-of-Haste.gif"
   },
   {
     "name": "Plain Mayhem Chopper",
@@ -15207,7 +15207,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Wand-Of-Voodoo.gif"
+    "imageFileName": "Wand-of-Voodoo.gif"
   },
   {
     "name": "Voltage Armor",
@@ -15454,7 +15454,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Mace-Of-Carving-(charged).gif"
+    "imageFileName": "Mace-of-Carving-(Charged).gif"
   },
   {
     "name": "Red Pit Demon",
@@ -15535,7 +15535,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Baby-Munster-(activated).gif"
+    "imageFileName": "Baby-Munster-(Activated).gif"
   },
   {
     "name": "Naga Rod",
@@ -15599,7 +15599,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Hammer-Of-Destruction.gif"
+    "imageFileName": "Hammer-of-Destruction.gif"
   },
   {
     "name": "Purple Backpack",
@@ -15677,7 +15677,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Shield-Of-The-White-Knight.gif"
+    "imageFileName": "Shield-of-the-White-Knight.gif"
   },
   {
     "name": "Laurel Wreath",
@@ -15842,7 +15842,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Mace-Of-Carving.gif"
+    "imageFileName": "Mace-of-Carving.gif"
   },
   {
     "name": "Green Pit Demon",
@@ -16125,7 +16125,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Wand-Of-Cosmic-Energy.gif"
+    "imageFileName": "Wand-of-Cosmic-Energy.gif"
   },
   {
     "name": "Chopper of Remedy",
@@ -16144,7 +16144,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Chopper-Of-Remedy.gif"
+    "imageFileName": "Chopper-of-Remedy.gif"
   },
   {
     "name": "Rattling Gourd",
@@ -16205,7 +16205,7 @@
     "attributes": {
       "magic_level": 3
     },
-    "imageFileName": "Brain-In-A-Jar.gif"
+    "imageFileName": "Brain-in-a-Jar.gif"
   },
   {
     "name": "Icy Crystal Mace",
@@ -16243,7 +16243,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Blade-Of-Remedy-(charged).gif"
+    "imageFileName": "Blade-of-Remedy-(Charged).gif"
   },
   {
     "name": "Blessed Shield",
@@ -16500,7 +16500,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Chopper-Of-Mayhem-(heavily-Charged).gif"
+    "imageFileName": "Chopper-of-Mayhem-(Heavily-Charged).gif"
   },
   {
     "name": "Falcon Longsword",
@@ -16665,7 +16665,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Slayer-Of-Carving.gif"
+    "imageFileName": "Slayer-of-Carving.gif"
   },
   {
     "name": "The Justice Seeker",
@@ -16991,7 +16991,7 @@
     "attributes": {
       "fist_fighting": 1
     },
-    "imageFileName": "Pair-Of-Monk-Fists.gif"
+    "imageFileName": "Pair-of-Monk-Fists.gif"
   },
   {
     "name": "Blade of Mayhem (Heavily Charged)",
@@ -17010,7 +17010,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Blade-Of-Mayhem-(heavily-Charged).gif"
+    "imageFileName": "Blade-of-Mayhem-(Heavily-Charged).gif"
   },
   {
     "name": "Fiery Relic Sword Replica",
@@ -17091,7 +17091,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Rod-Of-Remedy-(heavily-Charged).gif"
+    "imageFileName": "Rod-of-Remedy-(Heavily-Charged).gif"
   },
   {
     "name": "Crimson Sword",
@@ -17167,7 +17167,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Torch-(su26).gif"
+    "imageFileName": "Torch-(SU26).gif"
   },
   {
     "name": "Bonelord Shield",
@@ -17205,7 +17205,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Boots-Of-Waterwalking.gif"
+    "imageFileName": "Boots-of-Waterwalking.gif"
   },
   {
     "name": "Strange Helmet",
@@ -17332,7 +17332,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Shield-Of-Destiny-(replica).gif"
+    "imageFileName": "Shield-of-Destiny-(Replica).gif"
   },
   {
     "name": "Lightning Boots",
@@ -17373,7 +17373,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Crossbow-Of-Remedy.gif"
+    "imageFileName": "Crossbow-of-Remedy.gif"
   },
   {
     "name": "Shield of Destiny",
@@ -17392,7 +17392,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Shield-Of-Destiny.gif"
+    "imageFileName": "Shield-of-Destiny.gif"
   },
   {
     "name": "Ranger Legs",
@@ -17472,7 +17472,7 @@
       "drain": 50
     },
     "attributes": {},
-    "imageFileName": "Necklace-Of-The-Deep.gif"
+    "imageFileName": "Necklace-of-the-Deep.gif"
   },
   {
     "name": "House Silversun's Signet Ring",
@@ -17676,7 +17676,7 @@
       "club_fighting": 4,
       "shielding": 1
     },
-    "imageFileName": "Enchanted-Flamingo-Amulet-Of-Valor.gif"
+    "imageFileName": "Enchanted-Flamingo-Amulet-of-Valor.gif"
   },
   {
     "name": "Koshei's Ancient Amulet",
@@ -17755,7 +17755,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Wand-Of-Dragonbreath.gif"
+    "imageFileName": "Wand-of-Dragonbreath.gif"
   },
   {
     "name": "Gill Coat",
@@ -17821,7 +17821,7 @@
     "attributes": {
       "speed": 5
     },
-    "imageFileName": "Crest-Of-The-Deep-Seas.gif"
+    "imageFileName": "Crest-of-the-Deep-Seas.gif"
   },
   {
     "name": "Heavy Metal T-Shirt",
@@ -17840,7 +17840,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Heavy-Metal-T-shirt.gif"
+    "imageFileName": "Heavy-Metal-T-Shirt.gif"
   },
   {
     "name": "Crypt Slicer",
@@ -18310,7 +18310,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Percht-warding-Torch.gif"
+    "imageFileName": "Percht-Warding-Torch.gif"
   },
   {
     "name": "Elite Draken Helmet",
@@ -18415,7 +18415,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Blade-Of-Mayhem-(charged).gif"
+    "imageFileName": "Blade-of-Mayhem-(Charged).gif"
   },
   {
     "name": "Fiery Orcish Maul",
@@ -18660,7 +18660,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Slayer-Of-Carving-(heavily-Charged).gif"
+    "imageFileName": "Slayer-of-Carving-(Heavily-Charged).gif"
   },
   {
     "name": "Jo Staff",
@@ -18761,7 +18761,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Mighty-Helm-Of-Green-Sparks.gif"
+    "imageFileName": "Mighty-Helm-of-Green-Sparks.gif"
   },
   {
     "name": "Broken Amulet",
@@ -18919,7 +18919,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Rod-Of-Remedy.gif"
+    "imageFileName": "Rod-of-Remedy.gif"
   },
   {
     "name": "Warrior's Shield",
@@ -19033,7 +19033,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Mace-Of-Mayhem-(charged).gif"
+    "imageFileName": "Mace-of-Mayhem-(Charged).gif"
   },
   {
     "name": "Valuable Mayhem Hammer",
@@ -19256,7 +19256,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Slayer-Of-Destruction.gif"
+    "imageFileName": "Slayer-of-Destruction.gif"
   },
   {
     "name": "Bonebreaker",
@@ -19586,7 +19586,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Ring-Of-Ending.gif"
+    "imageFileName": "Ring-of-Ending.gif"
   },
   {
     "name": "Icy Barbarian Axe",
@@ -19894,7 +19894,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Ron-The-Ripper's-Sabre.gif"
+    "imageFileName": "Ron-the-Ripper's-Sabre.gif"
   },
   {
     "name": "Throwing Cake",
@@ -19978,7 +19978,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Mace-Of-Mayhem.gif"
+    "imageFileName": "Mace-of-Mayhem.gif"
   },
   {
     "name": "Enchanted Werewolf Helmet (Distance)",
@@ -20001,7 +20001,7 @@
     "attributes": {
       "distance_fighting": 1
     },
-    "imageFileName": "Enchanted-Werewolf-Helmet-(distance).gif"
+    "imageFileName": "Enchanted-Werewolf-Helmet-(Distance).gif"
   },
   {
     "name": "Cobra Boots",
@@ -20065,7 +20065,7 @@
       "distance_fighting": 4,
       "magic_level": 2
     },
-    "imageFileName": "Collar-Of-Blue-Plasma.gif"
+    "imageFileName": "Collar-of-Blue-Plasma.gif"
   },
   {
     "name": "Energy War Axe",
@@ -20248,7 +20248,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Hammer-Of-Carving-(charged).gif"
+    "imageFileName": "Hammer-of-Carving-(Charged).gif"
   },
   {
     "name": "Firemind Raiment",
@@ -20291,7 +20291,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Hammer-Of-Mayhem-(charged).gif"
+    "imageFileName": "Hammer-of-Mayhem-(Charged).gif"
   },
   {
     "name": "Charged Arboreal Ring",
@@ -20502,7 +20502,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Stone-Of-Insight.gif"
+    "imageFileName": "Stone-of-Insight.gif"
   },
   {
     "name": "Poet's Fencing Quill",
@@ -20664,7 +20664,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Rod-Of-Carving.gif"
+    "imageFileName": "Rod-of-Carving.gif"
   },
   {
     "name": "Inferniarch Bow",
@@ -20744,7 +20744,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Chopper-Of-Remedy-(charged).gif"
+    "imageFileName": "Chopper-of-Remedy-(Charged).gif"
   },
   {
     "name": "Bow of Destruction",
@@ -20763,7 +20763,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Bow-Of-Destruction.gif"
+    "imageFileName": "Bow-of-Destruction.gif"
   },
   {
     "name": "Plate Legs",
@@ -20888,7 +20888,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "The-Crown-Of-The-Percht-Queen-(fire).gif"
+    "imageFileName": "The-Crown-of-the-Percht-Queen-(Fire).gif"
   },
   {
     "name": "Time Ring",
@@ -20988,7 +20988,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Bow-Of-Carving.gif"
+    "imageFileName": "Bow-of-Carving.gif"
   },
   {
     "name": "Bone Club",
@@ -21026,7 +21026,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Wand-Of-Mayhem.gif"
+    "imageFileName": "Wand-of-Mayhem.gif"
   },
   {
     "name": "Modified Crossbow",
@@ -21167,7 +21167,7 @@
     "attributes": {
       "magic_level": 3
     },
-    "imageFileName": "Spellbook-Of-Vigilance.gif"
+    "imageFileName": "Spellbook-of-Vigilance.gif"
   },
   {
     "name": "Siphoning Inferniarch Rod",
@@ -21316,7 +21316,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Axe-Of-Mayhem.gif"
+    "imageFileName": "Axe-of-Mayhem.gif"
   },
   {
     "name": "Dragon Slayer",
@@ -21397,7 +21397,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Skull-(item).gif"
+    "imageFileName": "Skull-(Item).gif"
   },
   {
     "name": "Soulhexer",
@@ -22021,7 +22021,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Slayer-Of-Remedy-(charged).gif"
+    "imageFileName": "Slayer-of-Remedy-(Charged).gif"
   },
   {
     "name": "Legs of Enlightenment",
@@ -22044,7 +22044,7 @@
     "attributes": {
       "fist_fighting": 1
     },
-    "imageFileName": "Legs-Of-Enlightenment.gif"
+    "imageFileName": "Legs-of-Enlightenment.gif"
   },
   {
     "name": "Axe of Mayhem (Overcharged)",
@@ -22065,7 +22065,7 @@
     "attributes": {
       "axe_fighting": 1
     },
-    "imageFileName": "Axe-Of-Mayhem-(overcharged).gif"
+    "imageFileName": "Axe-of-Mayhem-(Overcharged).gif"
   },
   {
     "name": "Valuable Remedy Rod",
@@ -22122,7 +22122,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Ring-Of-Souls-(depleted).gif"
+    "imageFileName": "Ring-of-Souls-(Depleted).gif"
   },
   {
     "name": "Soulshredder",
@@ -22183,7 +22183,7 @@
     "attributes": {
       "fist_fighting": 1
     },
-    "imageFileName": "Nunchaku-Of-Enlightenment.gif"
+    "imageFileName": "Nunchaku-of-Enlightenment.gif"
   },
   {
     "name": "Stealth Ring",
@@ -22280,7 +22280,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Flamingo-Amulet-Of-Valor.gif"
+    "imageFileName": "Flamingo-Amulet-of-Valor.gif"
   },
   {
     "name": "Amber Rod",
@@ -22361,7 +22361,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Snowball-With-Ice-Shards.gif"
+    "imageFileName": "Snowball-with-Ice-Shards.gif"
   },
   {
     "name": "Ink Blade",
@@ -22403,7 +22403,7 @@
     "attributes": {
       "sword_fighting": 1
     },
-    "imageFileName": "Slayer-Of-Mayhem-(overcharged).gif"
+    "imageFileName": "Slayer-of-Mayhem-(Overcharged).gif"
   },
   {
     "name": "Spellbook of Dark Mysteries",
@@ -22424,7 +22424,7 @@
     "attributes": {
       "magic_level": 3
     },
-    "imageFileName": "Spellbook-Of-Dark-Mysteries.gif"
+    "imageFileName": "Spellbook-of-Dark-Mysteries.gif"
   },
   {
     "name": "Magma Amulet",
@@ -22591,7 +22591,7 @@
     "attributes": {
       "fist_fighting": 1
     },
-    "imageFileName": "Fists-Of-Enlightenment.gif"
+    "imageFileName": "Fists-of-Enlightenment.gif"
   },
   {
     "name": "Sacred Tree Amulet",
@@ -22658,7 +22658,7 @@
       "energy": -12
     },
     "attributes": {},
-    "imageFileName": "Robe-Of-The-Ice-Queen.gif"
+    "imageFileName": "Robe-of-the-Ice-Queen.gif"
   },
   {
     "name": "Draken Boots",
@@ -22908,7 +22908,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Ring-Of-Healing.gif"
+    "imageFileName": "Ring-of-Healing.gif"
   },
   {
     "name": "Shield of Corruption",
@@ -22929,7 +22929,7 @@
     "attributes": {
       "sword_fighting": 3
     },
-    "imageFileName": "Shield-Of-Corruption.gif"
+    "imageFileName": "Shield-of-Corruption.gif"
   },
   {
     "name": "The Cobra Amulet",
@@ -23156,7 +23156,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Hammer-Of-Carving.gif"
+    "imageFileName": "Hammer-of-Carving.gif"
   },
   {
     "name": "Pirate Shirt",
@@ -23215,7 +23215,7 @@
     "attributes": {
       "sword_fighting": 1
     },
-    "imageFileName": "Blade-Of-Carving-(overcharged).gif"
+    "imageFileName": "Blade-of-Carving-(Overcharged).gif"
   },
   {
     "name": "Crown Armor",
@@ -23424,7 +23424,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Aurora's-Collection-(replica).gif"
+    "imageFileName": "Aurora's-Collection-(Replica).gif"
   },
   {
     "name": "Fiery War Axe Replica",
@@ -23527,7 +23527,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Crossbow-Of-Remedy-(charged).gif"
+    "imageFileName": "Crossbow-of-Remedy-(Charged).gif"
   },
   {
     "name": "Crystal Backpack",
@@ -23565,7 +23565,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Rod-Of-Remedy-(charged).gif"
+    "imageFileName": "Rod-of-Remedy-(Charged).gif"
   },
   {
     "name": "Death Ring",
@@ -23788,7 +23788,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Axe-Of-Remedy-(heavily-Charged).gif"
+    "imageFileName": "Axe-of-Remedy-(Heavily-Charged).gif"
   },
   {
     "name": "Terra Hood",
@@ -23929,7 +23929,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Spellbook-Of-The-Novice.gif"
+    "imageFileName": "Spellbook-of-the-Novice.gif"
   },
   {
     "name": "Rending Inferniarch Bow",
@@ -24038,7 +24038,7 @@
       "drain": 10
     },
     "attributes": {},
-    "imageFileName": "Ring-Of-Souls.gif"
+    "imageFileName": "Ring-of-Souls.gif"
   },
   {
     "name": "Old and Used Backpack",
@@ -24057,7 +24057,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Old-And-Used-Backpack.gif"
+    "imageFileName": "Old-and-Used-Backpack.gif"
   },
   {
     "name": "Mace of Destruction",
@@ -24076,7 +24076,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Mace-Of-Destruction.gif"
+    "imageFileName": "Mace-of-Destruction.gif"
   },
   {
     "name": "Arcanomancer Regalia",
@@ -24216,7 +24216,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Bow-Of-Remedy.gif"
+    "imageFileName": "Bow-of-Remedy.gif"
   },
   {
     "name": "Warlord Sword",
@@ -24439,7 +24439,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Flamingo-Amulet-Of-Nature.gif"
+    "imageFileName": "Flamingo-Amulet-of-Nature.gif"
   },
   {
     "name": "Rift Lance",
@@ -24477,7 +24477,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Torch-(medium).gif"
+    "imageFileName": "Torch-(Medium).gif"
   },
   {
     "name": "Amber Bow",
@@ -24811,7 +24811,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Wand-Of-Dimensions.gif"
+    "imageFileName": "Wand-of-Dimensions.gif"
   },
   {
     "name": "Falcon Rod",
@@ -24936,7 +24936,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Mining-Helmet-(budrik).gif"
+    "imageFileName": "Mining-Helmet-(Budrik).gif"
   },
   {
     "name": "Energy Headchopper Replica",
@@ -25152,7 +25152,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Slayer-Of-Carving-(charged).gif"
+    "imageFileName": "Slayer-of-Carving-(Charged).gif"
   },
   {
     "name": "Galea Mortis",
@@ -25199,7 +25199,7 @@
     "attributes": {
       "club_fighting": 1
     },
-    "imageFileName": "Enchanted-Werewolf-Helmet-(club).gif"
+    "imageFileName": "Enchanted-Werewolf-Helmet-(Club).gif"
   },
   {
     "name": "Merudri Battle Mail",
@@ -25326,7 +25326,7 @@
     "attributes": {
       "sword_fighting": 1
     },
-    "imageFileName": "Slayer-Of-Carving-(overcharged).gif"
+    "imageFileName": "Slayer-of-Carving-(Overcharged).gif"
   },
   {
     "name": "Icy Blacksteel Sword",
@@ -25364,7 +25364,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Blade-Of-Remedy.gif"
+    "imageFileName": "Blade-of-Remedy.gif"
   },
   {
     "name": "Warrior Helmet",
@@ -25707,7 +25707,7 @@
     "attributes": {
       "distance_fighting": 1
     },
-    "imageFileName": "Crossbow-Of-Carving-(overcharged).gif"
+    "imageFileName": "Crossbow-of-Carving-(Overcharged).gif"
   },
   {
     "name": "Winged Helmet",
@@ -25745,7 +25745,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Amulet-Of-Theurgy.gif"
+    "imageFileName": "Amulet-of-Theurgy.gif"
   },
   {
     "name": "Ranger's Cloak",
@@ -25852,7 +25852,7 @@
     "attributes": {
       "magic_level": 1
     },
-    "imageFileName": "Pair-Of-Nightmare-Boots.gif"
+    "imageFileName": "Pair-of-Nightmare-Boots.gif"
   },
   {
     "name": "Shield of Endless Search",
@@ -25871,7 +25871,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Shield-Of-Endless-Search.gif"
+    "imageFileName": "Shield-of-Endless-Search.gif"
   },
   {
     "name": "Dwarven Legs",
@@ -25998,7 +25998,7 @@
       "drain": 30
     },
     "attributes": {},
-    "imageFileName": "Ring-Of-Temptation.gif"
+    "imageFileName": "Ring-of-Temptation.gif"
   },
   {
     "name": "Battle Axe",
@@ -26140,7 +26140,7 @@
     "attributes": {
       "axe_fighting": 1
     },
-    "imageFileName": "Axe-Of-Remedy-(overcharged).gif"
+    "imageFileName": "Axe-of-Remedy-(Overcharged).gif"
   },
   {
     "name": "Jade Zaoan Knight",
@@ -26197,7 +26197,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Crossbow-Of-Mayhem-(heavily-Charged).gif"
+    "imageFileName": "Crossbow-of-Mayhem-(Heavily-Charged).gif"
   },
   {
     "name": "Ink Brush",
@@ -26262,7 +26262,7 @@
     "attributes": {
       "sword_fighting": 1
     },
-    "imageFileName": "Slayer-Of-Remedy-(overcharged).gif"
+    "imageFileName": "Slayer-of-Remedy-(Overcharged).gif"
   },
   {
     "name": "Lilypad Backpack",
@@ -26400,7 +26400,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Horn-(ring).gif"
+    "imageFileName": "Horn-(Ring).gif"
   },
   {
     "name": "Axe of Mayhem (Charged)",
@@ -26419,7 +26419,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Axe-Of-Mayhem-(charged).gif"
+    "imageFileName": "Axe-of-Mayhem-(Charged).gif"
   },
   {
     "name": "Mutant Bone Kilt",
@@ -26550,7 +26550,7 @@
     "attributes": {
       "axe_fighting": 4
     },
-    "imageFileName": "Souleater-(axe).gif"
+    "imageFileName": "Souleater-(Axe).gif"
   },
   {
     "name": "Stoic Iks Chestplate",
@@ -26677,7 +26677,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Wand-Of-Draconia.gif"
+    "imageFileName": "Wand-of-Draconia.gif"
   },
   {
     "name": "Icy Orcish Maul Replica",
@@ -26858,7 +26858,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Bow-Of-Mayhem-(charged).gif"
+    "imageFileName": "Bow-of-Mayhem-(Charged).gif"
   },
   {
     "name": "The Avenger",
@@ -27098,7 +27098,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Crossbow-Of-Mayhem.gif"
+    "imageFileName": "Crossbow-of-Mayhem.gif"
   },
   {
     "name": "Gnome Armor",
@@ -27362,7 +27362,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Throwing-Star-Of-Sula.gif"
+    "imageFileName": "Throwing-Star-of-Sula.gif"
   },
   {
     "name": "Umbral Master Chopper",
@@ -27402,7 +27402,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Wand-Of-Starstorm.gif"
+    "imageFileName": "Wand-of-Starstorm.gif"
   },
   {
     "name": "Guardian Boots",
@@ -27525,7 +27525,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Pumpkinhead-(lit).gif"
+    "imageFileName": "Pumpkinhead-(Lit).gif"
   },
   {
     "name": "Torch (Small)",
@@ -27544,7 +27544,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Torch-(small).gif"
+    "imageFileName": "Torch-(Small).gif"
   },
   {
     "name": "Siphoning Inferniarch Blade",
@@ -27624,7 +27624,7 @@
     "attributes": {
       "axe_fighting": 1
     },
-    "imageFileName": "Axe-Of-Carving-(overcharged).gif"
+    "imageFileName": "Axe-of-Carving-(Overcharged).gif"
   },
   {
     "name": "Onyx Pendant",
@@ -27727,7 +27727,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Hammer-Of-Carving-(heavily-Charged).gif"
+    "imageFileName": "Hammer-of-Carving-(Heavily-Charged).gif"
   },
   {
     "name": "Axe of Remedy",
@@ -27746,7 +27746,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Axe-Of-Remedy.gif"
+    "imageFileName": "Axe-of-Remedy.gif"
   },
   {
     "name": "Firewalker Boots",
@@ -28127,7 +28127,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Blade-Of-Remedy-(heavily-Charged).gif"
+    "imageFileName": "Blade-of-Remedy-(Heavily-Charged).gif"
   },
   {
     "name": "Silkweaver Bow",
@@ -28228,7 +28228,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Hammer-Of-Wrath.gif"
+    "imageFileName": "Hammer-of-Wrath.gif"
   },
   {
     "name": "Alloy Legs",
@@ -28472,7 +28472,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Crimson-Sword-(uzgod).gif"
+    "imageFileName": "Crimson-Sword-(Uzgod).gif"
   },
   {
     "name": "Valuable Mayhem Blade",
@@ -28533,7 +28533,7 @@
     "attributes": {
       "distance_fighting": 1
     },
-    "imageFileName": "Bow-Of-Cataclysm.gif"
+    "imageFileName": "Bow-of-Cataclysm.gif"
   },
   {
     "name": "Charred Mask",
@@ -28615,7 +28615,7 @@
     "attributes": {
       "fist_fighting": 1
     },
-    "imageFileName": "Coned-Hat-Of-Enlightenment.gif"
+    "imageFileName": "Coned-Hat-of-Enlightenment.gif"
   },
   {
     "name": "Grasshopper Legs",
@@ -28655,7 +28655,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Ring-Of-The-Sky.gif"
+    "imageFileName": "Ring-of-the-Sky.gif"
   },
   {
     "name": "Double Axe",
@@ -28731,7 +28731,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Wand-Of-Vortex.gif"
+    "imageFileName": "Wand-of-Vortex.gif"
   },
   {
     "name": "Celestial Torch",
@@ -28790,7 +28790,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Blade-Of-Carving-(charged).gif"
+    "imageFileName": "Blade-of-Carving-(Charged).gif"
   },
   {
     "name": "Earth War Hammer",
@@ -28828,7 +28828,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Shield-Of-Destiny-(activated).gif"
+    "imageFileName": "Shield-of-Destiny-(Activated).gif"
   },
   {
     "name": "Greenwood Coat",
@@ -28891,7 +28891,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Symbol-Of-Sun-And-Sea.gif"
+    "imageFileName": "Symbol-of-Sun-and-Sea.gif"
   },
   {
     "name": "Daramian Waraxe",
@@ -28948,7 +28948,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Axe-Of-Carving-(charged).gif"
+    "imageFileName": "Axe-of-Carving-(Charged).gif"
   },
   {
     "name": "Guardian Shield",
@@ -29123,7 +29123,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Wand-Of-Mayhem-(charged).gif"
+    "imageFileName": "Wand-of-Mayhem-(Charged).gif"
   },
   {
     "name": "Sanguine Coil",
@@ -29209,7 +29209,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Rod-Of-Mayhem-(heavily-Charged).gif"
+    "imageFileName": "Rod-of-Mayhem-(Heavily-Charged).gif"
   },
   {
     "name": "Ritual Bone Knife",
@@ -29266,7 +29266,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Chopper-Of-Mayhem.gif"
+    "imageFileName": "Chopper-of-Mayhem.gif"
   },
   {
     "name": "Helmet of Ultimate Terror",
@@ -29285,7 +29285,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Helmet-Of-Ultimate-Terror.gif"
+    "imageFileName": "Helmet-of-Ultimate-Terror.gif"
   },
   {
     "name": "Spellscroll of Prophecies",
@@ -29306,7 +29306,7 @@
     "attributes": {
       "magic_level": 3
     },
-    "imageFileName": "Spellscroll-Of-Prophecies.gif"
+    "imageFileName": "Spellscroll-of-Prophecies.gif"
   },
   {
     "name": "Blue Legs",
@@ -29483,7 +29483,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Ring-Of-Wishes.gif"
+    "imageFileName": "Ring-of-Wishes.gif"
   },
   {
     "name": "Green Backpack",
@@ -29521,7 +29521,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Chopper-Of-Carving.gif"
+    "imageFileName": "Chopper-of-Carving.gif"
   },
   {
     "name": "Magma Robe",
@@ -29652,7 +29652,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Claw-Of-'the-Noxious-Spawn'.gif"
+    "imageFileName": "Claw-of-'The-Noxious-Spawn'.gif"
   },
   {
     "name": "Mystic Turban",
@@ -29728,7 +29728,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Slayer-Of-Mayhem-(heavily-Charged).gif"
+    "imageFileName": "Slayer-of-Mayhem-(Heavily-Charged).gif"
   },
   {
     "name": "Plain Mayhem Crossbow",
@@ -29994,7 +29994,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Ring-Of-Secret-Thoughts-(charged).gif"
+    "imageFileName": "Ring-of-Secret-Thoughts-(Charged).gif"
   },
   {
     "name": "Icy Clerical Mace Replica",
@@ -30038,7 +30038,7 @@
       "magic_level": 3,
       "ice_magic_level": 1
     },
-    "imageFileName": "Enchanted-Flamingo-Amulet-Of-Nature.gif"
+    "imageFileName": "Enchanted-Flamingo-Amulet-of-Nature.gif"
   },
   {
     "name": "Life Preserver",
@@ -30202,7 +30202,7 @@
     "attributes": {
       "magic_level": 1
     },
-    "imageFileName": "Spellbook-Of-Warding.gif"
+    "imageFileName": "Spellbook-of-Warding.gif"
   },
   {
     "name": "Haunted Blade",
@@ -30322,7 +30322,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Helmet-Of-The-Lost.gif"
+    "imageFileName": "Helmet-of-the-Lost.gif"
   },
   {
     "name": "Mathmaster Shield (Replica)",
@@ -30341,7 +30341,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Mathmaster-Shield-(replica).gif"
+    "imageFileName": "Mathmaster-Shield-(Replica).gif"
   },
   {
     "name": "Loot Bag (Item)",
@@ -30360,7 +30360,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Loot-Bag-(item).gif"
+    "imageFileName": "Loot-Bag-(Item).gif"
   },
   {
     "name": "Glooth Amulet",
@@ -30409,7 +30409,7 @@
       "distance_fighting": 3,
       "magic_level": 1
     },
-    "imageFileName": "Ring-Of-Blue-Plasma.gif"
+    "imageFileName": "Ring-of-Blue-Plasma.gif"
   },
   {
     "name": "Magic Longsword",
@@ -30554,7 +30554,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Rainbow-Torch-(medium).gif"
+    "imageFileName": "Rainbow-Torch-(Medium).gif"
   },
   {
     "name": "Iron Hammer",
@@ -31022,7 +31022,7 @@
     "attributes": {
       "club_fighting": 1
     },
-    "imageFileName": "Mace-Of-Mayhem-(overcharged).gif"
+    "imageFileName": "Mace-of-Mayhem-(Overcharged).gif"
   },
   {
     "name": "Plain Mayhem Wand",
@@ -31263,7 +31263,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Useless-Piece-Of-Shield.gif"
+    "imageFileName": "Useless-Piece-of-Shield.gif"
   },
   {
     "name": "Blue Spectacles",
@@ -31407,7 +31407,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Axe-Of-Remedy-(charged).gif"
+    "imageFileName": "Axe-of-Remedy-(Charged).gif"
   },
   {
     "name": "Lit Torch (SU26)",
@@ -31426,7 +31426,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Lit-Torch-(su26).gif"
+    "imageFileName": "Lit-Torch-(SU26).gif"
   },
   {
     "name": "Maimer",
@@ -31603,7 +31603,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Wand-Of-Mayhem-(heavily-Charged).gif"
+    "imageFileName": "Wand-of-Mayhem-(Heavily-Charged).gif"
   },
   {
     "name": "Paladin Armor",
@@ -31664,7 +31664,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Hammer-Of-Mayhem.gif"
+    "imageFileName": "Hammer-of-Mayhem.gif"
   },
   {
     "name": "Hunting Spear",
@@ -31702,7 +31702,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Rod-Of-Mayhem-(charged).gif"
+    "imageFileName": "Rod-of-Mayhem-(Charged).gif"
   },
   {
     "name": "Light Bandana",
@@ -31832,7 +31832,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Rod-Of-Carving-(charged).gif"
+    "imageFileName": "Rod-of-Carving-(Charged).gif"
   },
   {
     "name": "Spellweaver's Robe",
@@ -31892,7 +31892,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Rainbow-Torch-(small).gif"
+    "imageFileName": "Rainbow-Torch-(Small).gif"
   },
   {
     "name": "Ornamented Shield",
@@ -32105,7 +32105,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Lit-Torch-(small).gif"
+    "imageFileName": "Lit-Torch-(Small).gif"
   },
   {
     "name": "Boots of Homecoming",
@@ -32124,7 +32124,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Boots-Of-Homecoming.gif"
+    "imageFileName": "Boots-of-Homecoming.gif"
   },
   {
     "name": "Ruby Necklace",
@@ -32204,7 +32204,7 @@
     "attributes": {
       "club_fighting": 1
     },
-    "imageFileName": "Mace-Of-Remedy-(overcharged).gif"
+    "imageFileName": "Mace-of-Remedy-(Overcharged).gif"
   },
   {
     "name": "Mage Hat",
@@ -32305,7 +32305,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Armillary-Sphere-(tibiamaps).gif"
+    "imageFileName": "Armillary-Sphere-(TibiaMaps).gif"
   },
   {
     "name": "Battle Hammer",
@@ -32362,7 +32362,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Boots-Of-Homecoming-(used).gif"
+    "imageFileName": "Boots-of-Homecoming-(Used).gif"
   },
   {
     "name": "Beastslayer Axe",
@@ -32419,7 +32419,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Hammer-Of-Mayhem-(heavily-Charged).gif"
+    "imageFileName": "Hammer-of-Mayhem-(Heavily-Charged).gif"
   },
   {
     "name": "Silver Amulet",
@@ -32521,7 +32521,7 @@
       "fist_fighting": 3,
       "magic_level": 1
     },
-    "imageFileName": "Robe-Of-Enlightenment.gif"
+    "imageFileName": "Robe-of-Enlightenment.gif"
   },
   {
     "name": "Letterbag",
@@ -32561,7 +32561,7 @@
     "attributes": {
       "magic_level": 2
     },
-    "imageFileName": "Ring-Of-Green-Plasma.gif"
+    "imageFileName": "Ring-of-Green-Plasma.gif"
   },
   {
     "name": "Naga Tanko",
@@ -32669,7 +32669,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Pair-Of-Iron-Fists.gif"
+    "imageFileName": "Pair-of-Iron-Fists.gif"
   },
   {
     "name": "Draining Inferniarch Claws",
@@ -33113,7 +33113,7 @@
     "attributes": {
       "fist_fighting": 1
     },
-    "imageFileName": "Sai-Of-Enlightenment.gif"
+    "imageFileName": "Sai-of-Enlightenment.gif"
   },
   {
     "name": "Hammer of Remedy (Overcharged)",
@@ -33134,7 +33134,7 @@
     "attributes": {
       "club_fighting": 1
     },
-    "imageFileName": "Hammer-Of-Remedy-(overcharged).gif"
+    "imageFileName": "Hammer-of-Remedy-(Overcharged).gif"
   },
   {
     "name": "Journal Shield",
@@ -33178,7 +33178,7 @@
       "magic_level": 3,
       "energy_magic_level": 1
     },
-    "imageFileName": "Enchanted-Flamingo-Amulet-Of-Destruction.gif"
+    "imageFileName": "Enchanted-Flamingo-Amulet-of-Destruction.gif"
   },
   {
     "name": "Fiery Barbarian Axe Replica",
@@ -33256,7 +33256,7 @@
     "attributes": {
       "magic_level": 1
     },
-    "imageFileName": "Spellbook-Of-Enlightenment.gif"
+    "imageFileName": "Spellbook-of-Enlightenment.gif"
   },
   {
     "name": "Jungle Wand",
@@ -33317,7 +33317,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Ghostsilver-Lantern-(unlit).gif"
+    "imageFileName": "Ghostsilver-Lantern-(Unlit).gif"
   },
   {
     "name": "Stoic Iks Faulds",
@@ -33664,7 +33664,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Crossbow-Of-Remedy-(heavily-Charged).gif"
+    "imageFileName": "Crossbow-of-Remedy-(Heavily-Charged).gif"
   },
   {
     "name": "Spike Shield",
@@ -33822,7 +33822,7 @@
       "drowning": 100
     },
     "attributes": {},
-    "imageFileName": "Helmet-Of-The-Deep.gif"
+    "imageFileName": "Helmet-of-the-Deep.gif"
   },
   {
     "name": "Gilded Eldritch Wand",
@@ -34127,7 +34127,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Crossbow-Of-Mayhem-(charged).gif"
+    "imageFileName": "Crossbow-of-Mayhem-(Charged).gif"
   },
   {
     "name": "Sanguine Razor",
@@ -34207,7 +34207,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "The-Broken-Sword-Of-Eldoran-Etzel.gif"
+    "imageFileName": "The-Broken-Sword-of-Eldoran-Etzel.gif"
   },
   {
     "name": "Strange Talisman",
@@ -34493,7 +34493,7 @@
     "attributes": {
       "magic_level": 1
     },
-    "imageFileName": "Rod-Of-Carving-(overcharged).gif"
+    "imageFileName": "Rod-of-Carving-(Overcharged).gif"
   },
   {
     "name": "Flamingo Amulet of Precision",
@@ -34512,7 +34512,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Flamingo-Amulet-Of-Precision.gif"
+    "imageFileName": "Flamingo-Amulet-of-Precision.gif"
   },
   {
     "name": "Backpack",
@@ -34800,7 +34800,7 @@
     "attributes": {
       "fist_fighting": 1
     },
-    "imageFileName": "Boots-Of-Enlightenment.gif"
+    "imageFileName": "Boots-of-Enlightenment.gif"
   },
   {
     "name": "Sapphire Necklace",
@@ -34958,7 +34958,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Blade-Of-Carving-(heavily-Charged).gif"
+    "imageFileName": "Blade-of-Carving-(Heavily-Charged).gif"
   },
   {
     "name": "Lit Candlestick",
@@ -35152,7 +35152,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Ancient-Amulet-(quest).gif"
+    "imageFileName": "Ancient-Amulet-(Quest).gif"
   },
   {
     "name": "Lion Rod",
@@ -35251,7 +35251,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Shield-Of-Endless-Search-(replica).gif"
+    "imageFileName": "Shield-of-Endless-Search-(Replica).gif"
   },
   {
     "name": "Arcanomancer Folio",
@@ -35455,7 +35455,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Black-Skull-(item).gif"
+    "imageFileName": "Black-Skull-(Item).gif"
   },
   {
     "name": "Earth Relic Sword",
@@ -35596,7 +35596,7 @@
     },
     "resistances": {},
     "attributes": {},
-    "imageFileName": "Sorcerer-And-Druid-Staff.gif"
+    "imageFileName": "Sorcerer-and-Druid-Staff.gif"
   },
   {
     "name": "Might Ring",
@@ -35669,7 +35669,7 @@
     "attributes": {
       "sword_fighting": 1
     },
-    "imageFileName": "Enchanted-Werewolf-Helmet-(sword).gif"
+    "imageFileName": "Enchanted-Werewolf-Helmet-(Sword).gif"
   },
   {
     "name": "Crude Umbral Katar",
@@ -35808,7 +35808,7 @@
     "attributes": {
       "magic_level": 1
     },
-    "imageFileName": "Wand-Of-Mayhem-(overcharged).gif"
+    "imageFileName": "Wand-of-Mayhem-(Overcharged).gif"
   },
   {
     "name": "Ink Quill",
@@ -35912,7 +35912,7 @@
       "axe_fighting": 1,
       "club_fighting": 1
     },
-    "imageFileName": "Antler-horn-Helmet.gif"
+    "imageFileName": "Antler-Horn-Helmet.gif"
   },
   {
     "name": "Bloody Edge",
