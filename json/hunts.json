@@ -566,7 +566,24 @@
         "createdAt": "2025-02-16T17:06:13.977Z"
       },
       "youtubeVideoId": "iBKu97dHk6A",
-      "predominantDamage": []
+      "predominantDamage": [
+        {
+          "element": "Physical",
+          "percentage": 42
+        },
+        {
+          "element": "Ice",
+          "percentage": 31
+        },
+        {
+          "element": "Death",
+          "percentage": 18
+        },
+        {
+          "element": "Life_drain",
+          "percentage": 8
+        }
+      ]
     },
     {
       "name": "Iskupan Occupied Sanctuary ED/MS",
@@ -1657,7 +1674,20 @@
         "updatedAt": "2025-02-16T17:06:13.977Z",
         "createdAt": "2025-02-16T17:06:13.977Z"
       },
-      "predominantDamage": []
+      "predominantDamage": [
+        {
+          "element": "Physical",
+          "percentage": 47
+        },
+        {
+          "element": "Energy",
+          "percentage": 27
+        },
+        {
+          "element": "Death",
+          "percentage": 26
+        }
+      ]
     },
     {
       "name": "Grounds of Undeath",
@@ -2269,23 +2299,19 @@
       "predominantDamage": [
         {
           "element": "Physical",
-          "percentage": 39
+          "percentage": 68
         },
         {
-          "element": "Death",
-          "percentage": 30
-        },
-        {
-          "element": "Lifedrain",
-          "percentage": 11
-        },
-        {
-          "element": "Fire",
-          "percentage": 10
+          "element": "Life_drain",
+          "percentage": 12
         },
         {
           "element": "Earth",
-          "percentage": 9
+          "percentage": 10
+        },
+        {
+          "element": "Death",
+          "percentage": 10
         }
       ]
     },
@@ -2856,30 +2882,30 @@
       "predominantDamage": [
         {
           "element": "Physical",
-          "percentage": 32
+          "percentage": 69
         },
         {
           "element": "Fire",
-          "percentage": 26
+          "percentage": 13
         },
         {
           "element": "Death",
-          "percentage": 18
+          "percentage": 6
         },
         {
-          "element": "Lifedrain",
-          "percentage": 10
+          "element": "Life_drain",
+          "percentage": 4
         },
         {
           "element": "Earth",
-          "percentage": 9
+          "percentage": 4
         },
         {
           "element": "Energy",
           "percentage": 3
         },
         {
-          "element": "Manadrain",
+          "element": "Mana_drain",
           "percentage": 1
         }
       ]
@@ -3553,7 +3579,28 @@
         "createdAt": "2025-02-16T17:06:13.977Z"
       },
       "youtubeVideoId": "pXJs4dYE0iM",
-      "predominantDamage": []
+      "predominantDamage": [
+        {
+          "element": "Physical",
+          "percentage": 70
+        },
+        {
+          "element": "Earth",
+          "percentage": 14
+        },
+        {
+          "element": "Life_drain",
+          "percentage": 11
+        },
+        {
+          "element": "Ice",
+          "percentage": 3
+        },
+        {
+          "element": "Mana_drain",
+          "percentage": 2
+        }
+      ]
     },
     {
       "name": "Roshamuul Mines",
@@ -4372,7 +4419,28 @@
         "createdAt": "2025-02-16T17:06:13.977Z"
       },
       "youtubeVideoId": "6CB9bPmvL2k",
-      "predominantDamage": []
+      "predominantDamage": [
+        {
+          "element": "Physical",
+          "percentage": 77
+        },
+        {
+          "element": "Death",
+          "percentage": 16
+        },
+        {
+          "element": "Life_drain",
+          "percentage": 4
+        },
+        {
+          "element": "Earth",
+          "percentage": 2
+        },
+        {
+          "element": "Mana_drain",
+          "percentage": 1
+        }
+      ]
     },
     {
       "name": "Norcferatu East",
@@ -5731,15 +5799,27 @@
       "youtubeVideoId": "VlsG8OjbJXI",
       "predominantDamage": [
         {
-          "element": "Lifedrain",
-          "percentage": 63
-        },
-        {
           "element": "Physical",
-          "percentage": 33
+          "percentage": 50
         },
         {
           "element": "Death",
+          "percentage": 26
+        },
+        {
+          "element": "Life_drain",
+          "percentage": 8
+        },
+        {
+          "element": "Energy",
+          "percentage": 8
+        },
+        {
+          "element": "Earth",
+          "percentage": 5
+        },
+        {
+          "element": "Life drain",
           "percentage": 3
         }
       ]
@@ -6678,7 +6758,32 @@
         "createdAt": "2025-02-16T17:06:13.977Z"
       },
       "youtubeVideoId": "B7Q_qIs4L-w",
-      "predominantDamage": []
+      "predominantDamage": [
+        {
+          "element": "Physical",
+          "percentage": 78
+        },
+        {
+          "element": "Life_drain",
+          "percentage": 12
+        },
+        {
+          "element": "Fire",
+          "percentage": 4
+        },
+        {
+          "element": "Death",
+          "percentage": 3
+        },
+        {
+          "element": "Earth",
+          "percentage": 2
+        },
+        {
+          "element": "Mana_drain",
+          "percentage": 2
+        }
+      ]
     }
   ]
 }
