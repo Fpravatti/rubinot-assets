@@ -2296,7 +2296,7 @@
         "updatedAt": "2025-10-16T19:43:09.330Z",
         "createdAt": "2025-10-16T21:40:57.724Z"
       },
-      "youtubeVideoId": "UHy-BndNvuo",
+      "youtubeVideoId": "",
       "predominantDamage": [
         {
           "element": "Physical",
@@ -2315,94 +2315,8 @@
           "percentage": 10
         }
       ],
-      "youtubeVideos": [
-        {
-          "id": "UHy-BndNvuo",
-          "title": "RP 1022 Hunt Solo Grounds of Undeath 8.9kk/h Raw + 2.1kk Profit - Tibia Hunt [15.23]",
-          "vocations": [
-            "Paladin"
-          ]
-        },
-        {
-          "id": "xAMn_9s7ZEo",
-          "title": "EK 931 Hunt Solo Grounds of Undeath 5.9kkh Raw + 1.3kk Profit - Tibia Hunt [ 15.12]",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "sZO09reNGn0",
-          "title": "RP 1042 Hunt Solo Grounds of Undeath (Prey Loot Blight) 6.9kk/h Raw + 1.9kk Profit - Tibia [15.10]",
-          "vocations": [
-            "Paladin"
-          ]
-        },
-        {
-          "id": "us79Dg5Eg80",
-          "title": "RP 1125 Hunt Solo Grounds of Undeath 6.8kk/h Raw + 2kk Profit - Tibia Hunt [15.00] #tibia #tibiahunt",
-          "vocations": [
-            "Paladin"
-          ]
-        },
-        {
-          "id": "SlaONr_EwGs",
-          "title": "RP 1326 Hunt Solo Grounds of Undeath 8.8kk/h Raw + 2.2kk Profit - Tibia Hunt [14.12] #tibiahunt",
-          "vocations": [
-            "Paladin"
-          ]
-        },
-        {
-          "id": "OB6YpXGeZCY",
-          "title": "RP 1263 Hunt Solo Grounds of Undeath (Prey Loot) 7.5kk/h Raw + 2.9kk Profit - Tibia Hunt [14.12]",
-          "vocations": [
-            "Paladin"
-          ]
-        },
-        {
-          "id": "qCktQpK2S3A",
-          "title": "RP 633 + EK Hunt Duo Grounds of Undeath 5.9kk/h Raw + 2.3kk Profit - Tibia Hunt [14.10] #tibia",
-          "vocations": [
-            "Knight",
-            "Paladin"
-          ]
-        },
-        {
-          "id": "4lRRLBKDRPs",
-          "title": "EK 924 Hunt Solo Grounds of Undeath (SC 4%/DoubleL) 6.6kk/h Raw + 3.9kk Profit - Tibia Hunt [14.00]",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "QeN90AkD-pU",
-          "title": "EK 1017 Hunt Solo Grounds of Undeath (Buff) 5.9kk/h Raw + 1.7kk Profit - Tibia Hunt [13.34] #tibia",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "zZN1B3zqzOM",
-          "title": "RP 1454 Hunt Solo Grounds of Undeath 5.6kk/h Raw + 2.5kk Profit (Undead Boosted/Bestiary) [13.32]",
-          "vocations": [
-            "Paladin"
-          ]
-        },
-        {
-          "id": "MwYHrAS21mE",
-          "title": "RP 885 Hunt x4 (Bestiary) Grounds of Undeath 4.7kk/h Raw + 2.4kk Profit (Rapid Resp) - Tibia Hunt",
-          "vocations": [
-            "Paladin"
-          ]
-        },
-        {
-          "id": "Q0Vj-lZtvzI",
-          "title": "MS 1015 + RP Hunt Duo (Bestiary) Grounds of Undeath 4.1kk/h Raw + 1.4kk Profit #tibia #tibiahunt",
-          "vocations": [
-            "Sorcerer",
-            "Paladin"
-          ]
-        }
-      ]
+      "youtubeVideos": [],
+      "youtubeURI": ""
     },
     {
       "name": "Infernatil Seal",
@@ -3667,7 +3581,7 @@
         "updatedAt": "2025-02-16T17:06:13.977Z",
         "createdAt": "2025-02-16T17:06:13.977Z"
       },
-      "youtubeVideoId": "pXJs4dYE0iM",
+      "youtubeVideoId": "",
       "predominantDamage": [
         {
           "element": "Physical",
@@ -3690,269 +3604,8 @@
           "percentage": 2
         }
       ],
-      "youtubeVideos": [
-        {
-          "id": "pXJs4dYE0iM",
-          "title": "RP 732 Hunt Solo Warzone 3 (Bestiary) 5.4kk/h Raw + 1.2kk Profit - Tibia Hunt [15.12]",
-          "vocations": [
-            "Paladin"
-          ]
-        },
-        {
-          "id": "Z7flQ0ADejk",
-          "title": "EK 1162 Hunt Solo Warzone 3 6.5kk/h Raw + 2kk Profit - Tibia Hunt [15.03] #tibia #tibiahunt",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "bxDrkJbA9nU",
-          "title": "EK 822 Hunt Solo Warzone 3 7.4kk/h Raw + 1.8kk Profit  -Tibia Hunt [15.00] #tibia #tibiahunt",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "tAdxappAMgQ",
-          "title": "RP 1323 Hunt Solo Warzone 3 (Orewalker Boosted) 7kk/h Raw + 2.5kk Profit - Tibia Hunt [14.12] #tibia",
-          "vocations": [
-            "Paladin"
-          ]
-        },
-        {
-          "id": "WudNs9c8zAc",
-          "title": "EK 1111 Hunt Solo Warzone 3 (Double Loot/No Runes) 5.2kk/h Raw + 3.2kk Profit  -Tibia Hunt [14.00]",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "kHrksmlKAjw",
-          "title": "EK 1046 Hunt Solo Warzone 3 (No Runes) 6kk/h Raw + 1.9kk Profit - Tibia Hunt [13.36] #tibia",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "pCSGlf17EkU",
-          "title": "EK 904 Hunt Solo Warzone 8 4.3kk/h Raw + 9.6kk Profit (Double/Duplex/Prey) - Tibia Hunt [13.21]",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "24louUJDoXc",
-          "title": "EK 718 Hunt Solo Deep Hub Fungus Dungeon (Warzone 6) 2kk/h Raw + 1kk Profit - Tibia Hunt #tibia",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "zLuG2_nedEM",
-          "title": "EK 1194 Dwelling of the Forgotten (Warzone 9) 4.7kk/h Raw + 2.5kk Profit - Tibia Hunt [13.20] #tibia",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "b0CxWmGu4to",
-          "title": "RP 399 Hunt Solo Warzone 6 2.4kk/h Raw + 1.9kk Profit (Double loot) - Tibia Hunt [13.16] #tibia",
-          "vocations": [
-            "Paladin"
-          ]
-        },
-        {
-          "id": "vBS-256Wh-Q",
-          "title": "EK 928 Hunt Solo Grotto of the Lost (Warzone 8) 4.5kk/h Raw + 2.2kk Profit - Tibia Hunt [13.17]",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "w4kzyxtcOlE",
-          "title": "ED 1208 Hunt Solo Warzone 9 8.5kk/h (225%) 2.9kk Profit (Diremaw boost) - Tibia Hunt [13.17] #tibia",
-          "vocations": [
-            "Druid"
-          ]
-        },
-        {
-          "id": "ktQCL-iRzdU",
-          "title": "EK 925 Hunt Solo Grotto of the Lost (Warzone 8) 3.7kk Raw + 2.5kk Profit (Prey) - Tibia Hunt #tibia",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "o1rvYyBDOyU",
-          "title": "ED 983 Hunt Solo Antrum of the Fallen (Warzone 7) 3.4kk/h Raw 2.3kk Profit [13.14] #tibia #tibiahunt",
-          "vocations": [
-            "Druid"
-          ]
-        },
-        {
-          "id": "rhfR21DRg9I",
-          "title": "EK 877 + ED Hunt Duo Grotto of the Lost (Warzone 8) 5kk/h Raw 4.5kk Profit (Rapid) #tibia #tibiahunt",
-          "vocations": [
-            "Knight",
-            "Druid"
-          ]
-        },
-        {
-          "id": "cgaeE7hAzCk",
-          "title": "EK 1240 Hunt Solo Grotto of the Lost (Warzone 8) 6.3kk Profit/h (duplex)  [13.10] #tibia #tibiahunt",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "C_Oi1PkjsNw",
-          "title": "MS 710 Hunt Solo Deep Hub Fungus Dungeon (Warzone 6) 800k Profit/h - Tibia Hunt #tibia #tibiahunt",
-          "vocations": [
-            "Sorcerer"
-          ]
-        },
-        {
-          "id": "W9ytLfOYRAA",
-          "title": "EK 1006 + ED Hunt Duo Grotto Of The Lost (Warzone 8) 4.3kk/h Raw + 3.8kk Profit - #tibia #tibiahunt",
-          "vocations": [
-            "Knight",
-            "Druid"
-          ]
-        },
-        {
-          "id": "LZ4z5nXeUhE",
-          "title": "EK 1298 Hunt Solo Grotto of the Lost (Warzone 8) 4.8kk/h Raw + 3.1kk Profit (prey) #tibia #tibiahunt",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "CsOmghzaUqo",
-          "title": "EK 808 Hunt Solo Dwelling of the Forgotten (Warzone 9) 1kk+ Profit/h - [ 13.05] #tibia #tibiahunt",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "-BFDzR1vi3c",
-          "title": "RP 986 Hunt Solo Grotto of the Lost (Warzone 8) 3.6kk/h Raw + 2.4kk Profit (Prey loot) #tibiahunt",
-          "vocations": [
-            "Paladin"
-          ]
-        },
-        {
-          "id": "QYmB11xLFpM",
-          "title": "MS 1300 caindo na box da warzone, nem clicou #tibia #tibiahunt #shorts",
-          "vocations": [
-            "Sorcerer"
-          ]
-        },
-        {
-          "id": "chConkTqm2Y",
-          "title": "EK 822 Hunt Duo Grotto of the Lost (Warzone 8) 3.4kk+ Profit - Tibia Hunt [12.91] #tibia #tibiahunt",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "5JeEPIYAz7E",
-          "title": "MS 551 Hunt Solo Deep Hub Fungus Dungeon (Warzone 6) 1.2kk Profit/h - Tibia Hunt #tibia #tibiahunt",
-          "vocations": [
-            "Sorcerer"
-          ]
-        },
-        {
-          "id": "ulnIeWNFo2I",
-          "title": "RP 1266 Hunt Solo Antrum of the Fallen (Warzone 7) 1.7kk Profit/h - Tibia Hunt #tibia #tibiahunt",
-          "vocations": [
-            "Paladin"
-          ]
-        },
-        {
-          "id": "MvTmTWN5hrI",
-          "title": "MS 862 Hunt Solo Antrum of the Fallen (Warzone 7) 4.4kk/h (150%) + 1.8kk Profit #tibia #tibiahunt",
-          "vocations": [
-            "Sorcerer"
-          ]
-        },
-        {
-          "id": "ZOvZAIU8QTE",
-          "title": "EK 1148 Hunt Grotto of the Lost (Warzone 8) 2.6kk+ Profit/h - Tibia Hunt [12.90] #tibia #tibiahunt",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "ttuvaxpLP_s",
-          "title": "MS 1027 Hunt Solo Antrum of the Fallen (Warzone 7) 1.9kk Profit (Rapid Respawn) #tibia #tibiahunt",
-          "vocations": [
-            "Sorcerer"
-          ]
-        },
-        {
-          "id": "ARdCVgroga0",
-          "title": "MS 1035 Hunt Solo Grotto of the Lost (Warzone 8) 2.2kk+ Profit/h - #tibia #tibiahunt #hunts",
-          "vocations": [
-            "Sorcerer"
-          ]
-        },
-        {
-          "id": "DgMcokLvOdM",
-          "title": "RP 293 Hunt Solo Deep Hub Fungus Dungeon (Warzone 6) 2.1kk/h (150%) - Tibia Hunt #tibia #tibiahunt",
-          "vocations": [
-            "Paladin"
-          ]
-        },
-        {
-          "id": "tQFa__d_p9M",
-          "title": "MS 495 Hunt Solo Deep Hub Fungus Dungeon (Warzone 6) 3.1kk/h (150%) + 1kk Profit #tibia #tibiahunt",
-          "vocations": [
-            "Sorcerer"
-          ]
-        },
-        {
-          "id": "DDPRGVb32SY",
-          "title": "EK 601 Hunt Solo Deep Hub Crystal Dungeon (Warzone 5) 4.3kk/h (200%/double loot) - Tibia Hunt #tibia",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "Mmy_DyNG2OI",
-          "title": "ED 1201 8.8kk Profit/h Hunt Solo Grotto of the Lost (Warzone 8) Double loot + prey #tibia #tibiahunt",
-          "vocations": [
-            "Druid"
-          ]
-        },
-        {
-          "id": "GNWwjOVU5IE",
-          "title": "ED 759 Hunt Solo Anthrum of the Fallen (Warzone 7) 1kk+ Profit/h - Tibia Hunt #tibia #tibiahunt",
-          "vocations": [
-            "Druid"
-          ]
-        },
-        {
-          "id": "aYd9Qyqd0Wo",
-          "title": "RP 646 Hunt Solo Deep Hub Magma Dungeon (Warzone 4) 4kk/h (150%) - Tibia Hunt #tibia #tibiahunt",
-          "vocations": [
-            "Paladin"
-          ]
-        },
-        {
-          "id": "sywtCdvjmZ4",
-          "title": "RP 887 Hunt Solo Deep Hub Crystal Dungeon (Warzone 5) 11kk/h (225%/tirant boosted) #tibia #tibiahunt",
-          "vocations": [
-            "Paladin"
-          ]
-        },
-        {
-          "id": "ST-A7dAMzjU",
-          "title": "ED 1174 Hunt Solo Grotto of the Lost (Warzone 8) 2kk+ profit/h - Tibia Hunt #tibia #tibiahunt #hunts",
-          "vocations": [
-            "Druid"
-          ]
-        }
-      ]
+      "youtubeVideos": [],
+      "youtubeURI": ""
     },
     {
       "name": "Roshamuul Mines",
@@ -4770,7 +4423,7 @@
         "updatedAt": "$D2025-02-16T17:06:13.977Z",
         "createdAt": "$D2025-02-16T17:06:13.977Z"
       },
-      "youtubeVideoId": "6CB9bPmvL2k",
+      "youtubeVideoId": "",
       "predominantDamage": [
         {
           "element": "Physical",
@@ -4793,15 +4446,8 @@
           "percentage": 1
         }
       ],
-      "youtubeVideos": [
-        {
-          "id": "6CB9bPmvL2k",
-          "title": "EK 797 Hunt Solo Roshamuul Mines (Terrorsleep) 5.1kk/h Raw 1.2kk Profit - Tibia Hunt [14.12] #tibia",
-          "vocations": [
-            "Knight"
-          ]
-        }
-      ]
+      "youtubeVideos": [],
+      "youtubeURI": ""
     },
     {
       "name": "Norcferatu East",
@@ -6157,7 +5803,7 @@
         "updatedAt": "$D2026-06-27T15:23:30.107Z",
         "createdAt": "$D2026-06-27T17:14:33.795Z"
       },
-      "youtubeVideoId": "VlsG8OjbJXI",
+      "youtubeVideoId": "",
       "predominantDamage": [
         {
           "element": "Physical",
@@ -6184,15 +5830,8 @@
           "percentage": 3
         }
       ],
-      "youtubeVideos": [
-        {
-          "id": "VlsG8OjbJXI",
-          "title": "EM 782 Hunt x4 Norcferatu East (Overload Event) 10.3kk/h Raw + 2.8kk Profit - Tibia Hunt [15.22]",
-          "vocations": [
-            "Monk"
-          ]
-        }
-      ]
+      "youtubeVideos": [],
+      "youtubeURI": ""
     },
     {
       "name": "Upper Roshamuul",
@@ -7127,7 +6766,7 @@
         "updatedAt": "2025-02-16T17:06:13.977Z",
         "createdAt": "2025-02-16T17:06:13.977Z"
       },
-      "youtubeVideoId": "B7Q_qIs4L-w",
+      "youtubeVideoId": "",
       "predominantDamage": [
         {
           "element": "Physical",
@@ -7154,128 +6793,8 @@
           "percentage": 2
         }
       ],
-      "youtubeVideos": [
-        {
-          "id": "B7Q_qIs4L-w",
-          "title": "RP 1245 Hunt Solo Upper Roshamuul (Class Rework) 10.8kk/h Raw + 3.2kk Profit - Tibia Hunt [15.25]",
-          "vocations": [
-            "Paladin"
-          ]
-        },
-        {
-          "id": "EV1OZvNV_UE",
-          "title": "RP 1177 Hunt Solo Upper Roshamuul 9.8kk/h Raw + 2.8kk Profit - Tibia Hunt [15.23]",
-          "vocations": [
-            "Paladin"
-          ]
-        },
-        {
-          "id": "R2yKRYqxvu4",
-          "title": "RP 1492 Hunt Solo Upper Roshamuul (Bounty Task) 10kk Raw + 2.1kk Profit - Tibia Hunt [15.13]",
-          "vocations": [
-            "Paladin"
-          ]
-        },
-        {
-          "id": "zff-0geLxcs",
-          "title": "RP 551 + EM Hunt Duo Upper Roshamuul 3.8kk/h Raw + 1kk Profit - Tibia Hunt [15.11]",
-          "vocations": [
-            "Paladin",
-            "Monk"
-          ]
-        },
-        {
-          "id": "QZBIdnnhx5E",
-          "title": "RP 1113 Hunt Solo Upper Roshamuul (Prey Loot) 9.4kk/h Raw + 2kk Profit - Tibia Hunt [15.10]",
-          "vocations": [
-            "Paladin"
-          ]
-        },
-        {
-          "id": "I-ZL3HZDwsU",
-          "title": "RP 1082 Hunt Solo Upper Roshamuul 9.2kk/h Raw + 1.9kk Profit - Tibia Hunt [15.00] #tibia #tibiahunt",
-          "vocations": [
-            "Paladin"
-          ]
-        },
-        {
-          "id": "Zt12rYMQvUE",
-          "title": "RP 845 Hunt Solo Upper Roshamuul 7.7kk/h Raw + 1.6kk Profit - Tibia Hunt [15.00] #tibia #tibiahunt",
-          "vocations": [
-            "Paladin"
-          ]
-        },
-        {
-          "id": "lN_WsgNOznU",
-          "title": "RP 1124 Hunt Solo Upper Roshamuul 8kk/h Raw + 2.2kk Profit - Tibia Hunt 15.00] #tibiahunt #tibia",
-          "vocations": [
-            "Paladin"
-          ]
-        },
-        {
-          "id": "A8XjpYAx88E",
-          "title": "RP 1339 Hunt Solo Upper Roshamuul 9.1kk/h Raw + 2kk Profit - Tibia Hunt [14.12] #tibia #tibiahunt",
-          "vocations": [
-            "Paladin"
-          ]
-        },
-        {
-          "id": "KwuUFzXC1AU",
-          "title": "EK 628 Hunt Solo Upper Roshamuul (Prey Loot) 5.5kk/h Raw + 1.9kk Profit - Tibia Hunt [14.12] #tibia",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "u3dHFRFUxJ0",
-          "title": "RP 848 Hunt Solo Upper Roshamuul 7.3kk/h Raw + 1.8kk Profit - Tibia Hunt [14.12] #tibia #tibiahunt",
-          "vocations": [
-            "Paladin"
-          ]
-        },
-        {
-          "id": "kC9_-pQ1CQY",
-          "title": "RP 1065 Hunt Solo Upper Roshamuul (Prey Atk) 8kk/h Raw + 2kk Profit - Tibia Hunt [13.41] #tibia",
-          "vocations": [
-            "Paladin"
-          ]
-        },
-        {
-          "id": "bXJp6ieb5Wc",
-          "title": "RP 1185 Hunt Solo Upper Roshamuul (Prey Atk) 7.2kk/h Raw + 1.7kk Profit - Tibia Hunt [13.40] #tibia",
-          "vocations": [
-            "Paladin"
-          ]
-        },
-        {
-          "id": "pe4hMyFSr1o",
-          "title": "EK 790 Hunt Solo Upper Roshamuul (Prey Loot) 4.9kk/h Raw + 1.6kk Profit - Tibia Hunt [13.40]",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "JCbmfCNKhaM",
-          "title": "RP 836 Hunt Solo Upper Roshamuul 4.3kk/h Raw + 600k Profit - Tibia Hunt [13.36] #tibia #tibiahunt",
-          "vocations": [
-            "Paladin"
-          ]
-        },
-        {
-          "id": "Ncfu-7k74ck",
-          "title": "RP 470 Hunt Solo Upper Roshamuul (Chocking Boosted) 3.5kk/h Raw + 850k Profit - Tibia Hunt [13.34]",
-          "vocations": [
-            "Paladin"
-          ]
-        },
-        {
-          "id": "sp50AxD1JBI",
-          "title": "RP 654 Hunt Solo (Bestiary) Upper Roshamuul 3.9kk/h (150%) + 700k Profit -  #tibia #tibiahunt #hunts",
-          "vocations": [
-            "Paladin"
-          ]
-        }
-      ]
+      "youtubeVideos": [],
+      "youtubeURI": ""
     },
     {
       "name": "Warzone 8",
@@ -8082,7 +7601,7 @@
         "updatedAt": "2025-02-16T17:06:13.977Z",
         "createdAt": "2025-02-16T17:06:13.977Z"
       },
-      "youtubeVideoId": "pXJs4dYE0iM",
+      "youtubeVideoId": "",
       "predominantDamage": [
         {
           "element": "Physical",
@@ -8097,269 +7616,8 @@
           "percentage": 31
         }
       ],
-      "youtubeVideos": [
-        {
-          "id": "pXJs4dYE0iM",
-          "title": "RP 732 Hunt Solo Warzone 3 (Bestiary) 5.4kk/h Raw + 1.2kk Profit - Tibia Hunt [15.12]",
-          "vocations": [
-            "Paladin"
-          ]
-        },
-        {
-          "id": "Z7flQ0ADejk",
-          "title": "EK 1162 Hunt Solo Warzone 3 6.5kk/h Raw + 2kk Profit - Tibia Hunt [15.03] #tibia #tibiahunt",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "bxDrkJbA9nU",
-          "title": "EK 822 Hunt Solo Warzone 3 7.4kk/h Raw + 1.8kk Profit  -Tibia Hunt [15.00] #tibia #tibiahunt",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "tAdxappAMgQ",
-          "title": "RP 1323 Hunt Solo Warzone 3 (Orewalker Boosted) 7kk/h Raw + 2.5kk Profit - Tibia Hunt [14.12] #tibia",
-          "vocations": [
-            "Paladin"
-          ]
-        },
-        {
-          "id": "WudNs9c8zAc",
-          "title": "EK 1111 Hunt Solo Warzone 3 (Double Loot/No Runes) 5.2kk/h Raw + 3.2kk Profit  -Tibia Hunt [14.00]",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "kHrksmlKAjw",
-          "title": "EK 1046 Hunt Solo Warzone 3 (No Runes) 6kk/h Raw + 1.9kk Profit - Tibia Hunt [13.36] #tibia",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "pCSGlf17EkU",
-          "title": "EK 904 Hunt Solo Warzone 8 4.3kk/h Raw + 9.6kk Profit (Double/Duplex/Prey) - Tibia Hunt [13.21]",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "24louUJDoXc",
-          "title": "EK 718 Hunt Solo Deep Hub Fungus Dungeon (Warzone 6) 2kk/h Raw + 1kk Profit - Tibia Hunt #tibia",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "zLuG2_nedEM",
-          "title": "EK 1194 Dwelling of the Forgotten (Warzone 9) 4.7kk/h Raw + 2.5kk Profit - Tibia Hunt [13.20] #tibia",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "b0CxWmGu4to",
-          "title": "RP 399 Hunt Solo Warzone 6 2.4kk/h Raw + 1.9kk Profit (Double loot) - Tibia Hunt [13.16] #tibia",
-          "vocations": [
-            "Paladin"
-          ]
-        },
-        {
-          "id": "vBS-256Wh-Q",
-          "title": "EK 928 Hunt Solo Grotto of the Lost (Warzone 8) 4.5kk/h Raw + 2.2kk Profit - Tibia Hunt [13.17]",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "w4kzyxtcOlE",
-          "title": "ED 1208 Hunt Solo Warzone 9 8.5kk/h (225%) 2.9kk Profit (Diremaw boost) - Tibia Hunt [13.17] #tibia",
-          "vocations": [
-            "Druid"
-          ]
-        },
-        {
-          "id": "ktQCL-iRzdU",
-          "title": "EK 925 Hunt Solo Grotto of the Lost (Warzone 8) 3.7kk Raw + 2.5kk Profit (Prey) - Tibia Hunt #tibia",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "o1rvYyBDOyU",
-          "title": "ED 983 Hunt Solo Antrum of the Fallen (Warzone 7) 3.4kk/h Raw 2.3kk Profit [13.14] #tibia #tibiahunt",
-          "vocations": [
-            "Druid"
-          ]
-        },
-        {
-          "id": "rhfR21DRg9I",
-          "title": "EK 877 + ED Hunt Duo Grotto of the Lost (Warzone 8) 5kk/h Raw 4.5kk Profit (Rapid) #tibia #tibiahunt",
-          "vocations": [
-            "Knight",
-            "Druid"
-          ]
-        },
-        {
-          "id": "cgaeE7hAzCk",
-          "title": "EK 1240 Hunt Solo Grotto of the Lost (Warzone 8) 6.3kk Profit/h (duplex)  [13.10] #tibia #tibiahunt",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "C_Oi1PkjsNw",
-          "title": "MS 710 Hunt Solo Deep Hub Fungus Dungeon (Warzone 6) 800k Profit/h - Tibia Hunt #tibia #tibiahunt",
-          "vocations": [
-            "Sorcerer"
-          ]
-        },
-        {
-          "id": "W9ytLfOYRAA",
-          "title": "EK 1006 + ED Hunt Duo Grotto Of The Lost (Warzone 8) 4.3kk/h Raw + 3.8kk Profit - #tibia #tibiahunt",
-          "vocations": [
-            "Knight",
-            "Druid"
-          ]
-        },
-        {
-          "id": "LZ4z5nXeUhE",
-          "title": "EK 1298 Hunt Solo Grotto of the Lost (Warzone 8) 4.8kk/h Raw + 3.1kk Profit (prey) #tibia #tibiahunt",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "CsOmghzaUqo",
-          "title": "EK 808 Hunt Solo Dwelling of the Forgotten (Warzone 9) 1kk+ Profit/h - [ 13.05] #tibia #tibiahunt",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "-BFDzR1vi3c",
-          "title": "RP 986 Hunt Solo Grotto of the Lost (Warzone 8) 3.6kk/h Raw + 2.4kk Profit (Prey loot) #tibiahunt",
-          "vocations": [
-            "Paladin"
-          ]
-        },
-        {
-          "id": "QYmB11xLFpM",
-          "title": "MS 1300 caindo na box da warzone, nem clicou #tibia #tibiahunt #shorts",
-          "vocations": [
-            "Sorcerer"
-          ]
-        },
-        {
-          "id": "chConkTqm2Y",
-          "title": "EK 822 Hunt Duo Grotto of the Lost (Warzone 8) 3.4kk+ Profit - Tibia Hunt [12.91] #tibia #tibiahunt",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "5JeEPIYAz7E",
-          "title": "MS 551 Hunt Solo Deep Hub Fungus Dungeon (Warzone 6) 1.2kk Profit/h - Tibia Hunt #tibia #tibiahunt",
-          "vocations": [
-            "Sorcerer"
-          ]
-        },
-        {
-          "id": "ulnIeWNFo2I",
-          "title": "RP 1266 Hunt Solo Antrum of the Fallen (Warzone 7) 1.7kk Profit/h - Tibia Hunt #tibia #tibiahunt",
-          "vocations": [
-            "Paladin"
-          ]
-        },
-        {
-          "id": "MvTmTWN5hrI",
-          "title": "MS 862 Hunt Solo Antrum of the Fallen (Warzone 7) 4.4kk/h (150%) + 1.8kk Profit #tibia #tibiahunt",
-          "vocations": [
-            "Sorcerer"
-          ]
-        },
-        {
-          "id": "ZOvZAIU8QTE",
-          "title": "EK 1148 Hunt Grotto of the Lost (Warzone 8) 2.6kk+ Profit/h - Tibia Hunt [12.90] #tibia #tibiahunt",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "ttuvaxpLP_s",
-          "title": "MS 1027 Hunt Solo Antrum of the Fallen (Warzone 7) 1.9kk Profit (Rapid Respawn) #tibia #tibiahunt",
-          "vocations": [
-            "Sorcerer"
-          ]
-        },
-        {
-          "id": "ARdCVgroga0",
-          "title": "MS 1035 Hunt Solo Grotto of the Lost (Warzone 8) 2.2kk+ Profit/h - #tibia #tibiahunt #hunts",
-          "vocations": [
-            "Sorcerer"
-          ]
-        },
-        {
-          "id": "DgMcokLvOdM",
-          "title": "RP 293 Hunt Solo Deep Hub Fungus Dungeon (Warzone 6) 2.1kk/h (150%) - Tibia Hunt #tibia #tibiahunt",
-          "vocations": [
-            "Paladin"
-          ]
-        },
-        {
-          "id": "tQFa__d_p9M",
-          "title": "MS 495 Hunt Solo Deep Hub Fungus Dungeon (Warzone 6) 3.1kk/h (150%) + 1kk Profit #tibia #tibiahunt",
-          "vocations": [
-            "Sorcerer"
-          ]
-        },
-        {
-          "id": "DDPRGVb32SY",
-          "title": "EK 601 Hunt Solo Deep Hub Crystal Dungeon (Warzone 5) 4.3kk/h (200%/double loot) - Tibia Hunt #tibia",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "Mmy_DyNG2OI",
-          "title": "ED 1201 8.8kk Profit/h Hunt Solo Grotto of the Lost (Warzone 8) Double loot + prey #tibia #tibiahunt",
-          "vocations": [
-            "Druid"
-          ]
-        },
-        {
-          "id": "GNWwjOVU5IE",
-          "title": "ED 759 Hunt Solo Anthrum of the Fallen (Warzone 7) 1kk+ Profit/h - Tibia Hunt #tibia #tibiahunt",
-          "vocations": [
-            "Druid"
-          ]
-        },
-        {
-          "id": "aYd9Qyqd0Wo",
-          "title": "RP 646 Hunt Solo Deep Hub Magma Dungeon (Warzone 4) 4kk/h (150%) - Tibia Hunt #tibia #tibiahunt",
-          "vocations": [
-            "Paladin"
-          ]
-        },
-        {
-          "id": "sywtCdvjmZ4",
-          "title": "RP 887 Hunt Solo Deep Hub Crystal Dungeon (Warzone 5) 11kk/h (225%/tirant boosted) #tibia #tibiahunt",
-          "vocations": [
-            "Paladin"
-          ]
-        },
-        {
-          "id": "ST-A7dAMzjU",
-          "title": "ED 1174 Hunt Solo Grotto of the Lost (Warzone 8) 2kk+ profit/h - Tibia Hunt #tibia #tibiahunt #hunts",
-          "vocations": [
-            "Druid"
-          ]
-        }
-      ]
+      "youtubeVideos": [],
+      "youtubeURI": ""
     },
     {
       "name": "Warzone 3",
@@ -9041,7 +8299,7 @@
         "updatedAt": "2025-02-16T17:06:13.977Z",
         "createdAt": "2025-02-16T17:06:13.977Z"
       },
-      "youtubeVideoId": "pXJs4dYE0iM",
+      "youtubeVideoId": "",
       "predominantDamage": [
         {
           "element": "Physical",
@@ -9064,269 +8322,8 @@
           "percentage": 2
         }
       ],
-      "youtubeVideos": [
-        {
-          "id": "pXJs4dYE0iM",
-          "title": "RP 732 Hunt Solo Warzone 3 (Bestiary) 5.4kk/h Raw + 1.2kk Profit - Tibia Hunt [15.12]",
-          "vocations": [
-            "Paladin"
-          ]
-        },
-        {
-          "id": "Z7flQ0ADejk",
-          "title": "EK 1162 Hunt Solo Warzone 3 6.5kk/h Raw + 2kk Profit - Tibia Hunt [15.03] #tibia #tibiahunt",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "bxDrkJbA9nU",
-          "title": "EK 822 Hunt Solo Warzone 3 7.4kk/h Raw + 1.8kk Profit  -Tibia Hunt [15.00] #tibia #tibiahunt",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "tAdxappAMgQ",
-          "title": "RP 1323 Hunt Solo Warzone 3 (Orewalker Boosted) 7kk/h Raw + 2.5kk Profit - Tibia Hunt [14.12] #tibia",
-          "vocations": [
-            "Paladin"
-          ]
-        },
-        {
-          "id": "WudNs9c8zAc",
-          "title": "EK 1111 Hunt Solo Warzone 3 (Double Loot/No Runes) 5.2kk/h Raw + 3.2kk Profit  -Tibia Hunt [14.00]",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "kHrksmlKAjw",
-          "title": "EK 1046 Hunt Solo Warzone 3 (No Runes) 6kk/h Raw + 1.9kk Profit - Tibia Hunt [13.36] #tibia",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "pCSGlf17EkU",
-          "title": "EK 904 Hunt Solo Warzone 8 4.3kk/h Raw + 9.6kk Profit (Double/Duplex/Prey) - Tibia Hunt [13.21]",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "24louUJDoXc",
-          "title": "EK 718 Hunt Solo Deep Hub Fungus Dungeon (Warzone 6) 2kk/h Raw + 1kk Profit - Tibia Hunt #tibia",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "zLuG2_nedEM",
-          "title": "EK 1194 Dwelling of the Forgotten (Warzone 9) 4.7kk/h Raw + 2.5kk Profit - Tibia Hunt [13.20] #tibia",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "b0CxWmGu4to",
-          "title": "RP 399 Hunt Solo Warzone 6 2.4kk/h Raw + 1.9kk Profit (Double loot) - Tibia Hunt [13.16] #tibia",
-          "vocations": [
-            "Paladin"
-          ]
-        },
-        {
-          "id": "vBS-256Wh-Q",
-          "title": "EK 928 Hunt Solo Grotto of the Lost (Warzone 8) 4.5kk/h Raw + 2.2kk Profit - Tibia Hunt [13.17]",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "w4kzyxtcOlE",
-          "title": "ED 1208 Hunt Solo Warzone 9 8.5kk/h (225%) 2.9kk Profit (Diremaw boost) - Tibia Hunt [13.17] #tibia",
-          "vocations": [
-            "Druid"
-          ]
-        },
-        {
-          "id": "ktQCL-iRzdU",
-          "title": "EK 925 Hunt Solo Grotto of the Lost (Warzone 8) 3.7kk Raw + 2.5kk Profit (Prey) - Tibia Hunt #tibia",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "o1rvYyBDOyU",
-          "title": "ED 983 Hunt Solo Antrum of the Fallen (Warzone 7) 3.4kk/h Raw 2.3kk Profit [13.14] #tibia #tibiahunt",
-          "vocations": [
-            "Druid"
-          ]
-        },
-        {
-          "id": "rhfR21DRg9I",
-          "title": "EK 877 + ED Hunt Duo Grotto of the Lost (Warzone 8) 5kk/h Raw 4.5kk Profit (Rapid) #tibia #tibiahunt",
-          "vocations": [
-            "Knight",
-            "Druid"
-          ]
-        },
-        {
-          "id": "cgaeE7hAzCk",
-          "title": "EK 1240 Hunt Solo Grotto of the Lost (Warzone 8) 6.3kk Profit/h (duplex)  [13.10] #tibia #tibiahunt",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "C_Oi1PkjsNw",
-          "title": "MS 710 Hunt Solo Deep Hub Fungus Dungeon (Warzone 6) 800k Profit/h - Tibia Hunt #tibia #tibiahunt",
-          "vocations": [
-            "Sorcerer"
-          ]
-        },
-        {
-          "id": "W9ytLfOYRAA",
-          "title": "EK 1006 + ED Hunt Duo Grotto Of The Lost (Warzone 8) 4.3kk/h Raw + 3.8kk Profit - #tibia #tibiahunt",
-          "vocations": [
-            "Knight",
-            "Druid"
-          ]
-        },
-        {
-          "id": "LZ4z5nXeUhE",
-          "title": "EK 1298 Hunt Solo Grotto of the Lost (Warzone 8) 4.8kk/h Raw + 3.1kk Profit (prey) #tibia #tibiahunt",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "CsOmghzaUqo",
-          "title": "EK 808 Hunt Solo Dwelling of the Forgotten (Warzone 9) 1kk+ Profit/h - [ 13.05] #tibia #tibiahunt",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "-BFDzR1vi3c",
-          "title": "RP 986 Hunt Solo Grotto of the Lost (Warzone 8) 3.6kk/h Raw + 2.4kk Profit (Prey loot) #tibiahunt",
-          "vocations": [
-            "Paladin"
-          ]
-        },
-        {
-          "id": "QYmB11xLFpM",
-          "title": "MS 1300 caindo na box da warzone, nem clicou #tibia #tibiahunt #shorts",
-          "vocations": [
-            "Sorcerer"
-          ]
-        },
-        {
-          "id": "chConkTqm2Y",
-          "title": "EK 822 Hunt Duo Grotto of the Lost (Warzone 8) 3.4kk+ Profit - Tibia Hunt [12.91] #tibia #tibiahunt",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "5JeEPIYAz7E",
-          "title": "MS 551 Hunt Solo Deep Hub Fungus Dungeon (Warzone 6) 1.2kk Profit/h - Tibia Hunt #tibia #tibiahunt",
-          "vocations": [
-            "Sorcerer"
-          ]
-        },
-        {
-          "id": "ulnIeWNFo2I",
-          "title": "RP 1266 Hunt Solo Antrum of the Fallen (Warzone 7) 1.7kk Profit/h - Tibia Hunt #tibia #tibiahunt",
-          "vocations": [
-            "Paladin"
-          ]
-        },
-        {
-          "id": "MvTmTWN5hrI",
-          "title": "MS 862 Hunt Solo Antrum of the Fallen (Warzone 7) 4.4kk/h (150%) + 1.8kk Profit #tibia #tibiahunt",
-          "vocations": [
-            "Sorcerer"
-          ]
-        },
-        {
-          "id": "ZOvZAIU8QTE",
-          "title": "EK 1148 Hunt Grotto of the Lost (Warzone 8) 2.6kk+ Profit/h - Tibia Hunt [12.90] #tibia #tibiahunt",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "ttuvaxpLP_s",
-          "title": "MS 1027 Hunt Solo Antrum of the Fallen (Warzone 7) 1.9kk Profit (Rapid Respawn) #tibia #tibiahunt",
-          "vocations": [
-            "Sorcerer"
-          ]
-        },
-        {
-          "id": "ARdCVgroga0",
-          "title": "MS 1035 Hunt Solo Grotto of the Lost (Warzone 8) 2.2kk+ Profit/h - #tibia #tibiahunt #hunts",
-          "vocations": [
-            "Sorcerer"
-          ]
-        },
-        {
-          "id": "DgMcokLvOdM",
-          "title": "RP 293 Hunt Solo Deep Hub Fungus Dungeon (Warzone 6) 2.1kk/h (150%) - Tibia Hunt #tibia #tibiahunt",
-          "vocations": [
-            "Paladin"
-          ]
-        },
-        {
-          "id": "tQFa__d_p9M",
-          "title": "MS 495 Hunt Solo Deep Hub Fungus Dungeon (Warzone 6) 3.1kk/h (150%) + 1kk Profit #tibia #tibiahunt",
-          "vocations": [
-            "Sorcerer"
-          ]
-        },
-        {
-          "id": "DDPRGVb32SY",
-          "title": "EK 601 Hunt Solo Deep Hub Crystal Dungeon (Warzone 5) 4.3kk/h (200%/double loot) - Tibia Hunt #tibia",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "Mmy_DyNG2OI",
-          "title": "ED 1201 8.8kk Profit/h Hunt Solo Grotto of the Lost (Warzone 8) Double loot + prey #tibia #tibiahunt",
-          "vocations": [
-            "Druid"
-          ]
-        },
-        {
-          "id": "GNWwjOVU5IE",
-          "title": "ED 759 Hunt Solo Anthrum of the Fallen (Warzone 7) 1kk+ Profit/h - Tibia Hunt #tibia #tibiahunt",
-          "vocations": [
-            "Druid"
-          ]
-        },
-        {
-          "id": "aYd9Qyqd0Wo",
-          "title": "RP 646 Hunt Solo Deep Hub Magma Dungeon (Warzone 4) 4kk/h (150%) - Tibia Hunt #tibia #tibiahunt",
-          "vocations": [
-            "Paladin"
-          ]
-        },
-        {
-          "id": "sywtCdvjmZ4",
-          "title": "RP 887 Hunt Solo Deep Hub Crystal Dungeon (Warzone 5) 11kk/h (225%/tirant boosted) #tibia #tibiahunt",
-          "vocations": [
-            "Paladin"
-          ]
-        },
-        {
-          "id": "ST-A7dAMzjU",
-          "title": "ED 1174 Hunt Solo Grotto of the Lost (Warzone 8) 2kk+ profit/h - Tibia Hunt #tibia #tibiahunt #hunts",
-          "vocations": [
-            "Druid"
-          ]
-        }
-      ]
+      "youtubeVideos": [],
+      "youtubeURI": ""
     },
     {
       "name": "East Bounac",
@@ -11412,7 +10409,7 @@
         "updatedAt": "2025-06-22T21:02:01.630Z",
         "createdAt": "2025-06-22T23:00:28.269Z"
       },
-      "youtubeVideoId": "ZQRZpFD-qdI",
+      "youtubeVideoId": "",
       "predominantDamage": [
         {
           "element": "Physical",
@@ -11435,29 +10432,8 @@
           "percentage": 2
         }
       ],
-      "youtubeVideos": [
-        {
-          "id": "ZQRZpFD-qdI",
-          "title": "EK 683 Hunt Solo Oramond Mountain Hideout 4.2kk/h Raw + 1.1kk Profit - Tibia Hunt [15.20]",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "Dnxf2oHPEdM",
-          "title": "EK 713 Hunt Solo Oramond Mountain Hideout 4.7kk/h Raw + 1.3kk Profit - Tibia Hunt [15.00] #tibia",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "GnTnNntd154",
-          "title": "EK 813 Hunt Solo Oramond Mountain Hideout 4.8kk/h Raw + 1.8kk Profit - Tibia Hunt [14.00] #tibia",
-          "vocations": [
-            "Knight"
-          ]
-        }
-      ]
+      "youtubeVideos": [],
+      "youtubeURI": ""
     },
     {
       "name": "Iksupan Last Stand",
@@ -12322,7 +11298,7 @@
         "updatedAt": "2025-10-16T20:07:28.275Z",
         "createdAt": "2025-10-16T22:03:35.451Z"
       },
-      "youtubeVideoId": "VARP8fVFGyk",
+      "youtubeVideoId": "",
       "predominantDamage": [
         {
           "element": "Physical",
@@ -12337,43 +11313,8 @@
           "percentage": 26
         }
       ],
-      "youtubeVideos": [
-        {
-          "id": "VARP8fVFGyk",
-          "title": "MS 858 Hunt Solo Iksupan Last Stand 5.4kk/h Raw + 1.7kk Profit - Tibia Hunt [15.24]",
-          "vocations": [
-            "Sorcerer"
-          ]
-        },
-        {
-          "id": "ke6v9FNkZ1M",
-          "title": "ED 612 Hunt Solo Iksupan Last Stand 4.9kk/h Raw + 1.2kk Profit - Tibia Hunt [15.11]",
-          "vocations": [
-            "Druid"
-          ]
-        },
-        {
-          "id": "gImWyvMuVQE",
-          "title": "ED 501 Hunt Solo Iksupan Last Stand 4.4kk/h Raw + 1.2kk Profit - Tibia Hunt [15.10]",
-          "vocations": [
-            "Druid"
-          ]
-        },
-        {
-          "id": "XG4HLwxihiA",
-          "title": "MS 496 Hunt Solo Iksupan Last Stand 4.8kk/h Raw + 1.2kk Profit - Tibia Hunt [15.00] #tibia",
-          "vocations": [
-            "Sorcerer"
-          ]
-        },
-        {
-          "id": "8Mz5KPh_86I",
-          "title": "ED 862 Hunt Solo Iksupan Last Stand (No Runes) 3kk/h Raw + 950k Profit - Tibia Hunt [13.30] #tibia",
-          "vocations": [
-            "Druid"
-          ]
-        }
-      ]
+      "youtubeVideos": [],
+      "youtubeURI": ""
     },
     {
       "name": "Issavi Sewers",
@@ -12738,7 +11679,7 @@
         "updatedAt": "2025-06-22T18:52:07.847Z",
         "createdAt": "2025-06-22T20:51:44.158Z"
       },
-      "youtubeVideoId": "ytL1C_mhZbE",
+      "youtubeVideoId": "",
       "predominantDamage": [
         {
           "element": "Physical",
@@ -12761,52 +11702,8 @@
           "percentage": 6
         }
       ],
-      "youtubeVideos": [
-        {
-          "id": "ytL1C_mhZbE",
-          "title": "ED 569 + EK Hunt Duo Issavi Sewers 4.6kkh Raw + 950k Profit - Tibia Hunt [13.22] #tibia #tibiahunt",
-          "vocations": [
-            "Knight",
-            "Druid"
-          ]
-        },
-        {
-          "id": "gaHHJz-4NO8",
-          "title": "EK 924 Hunt Solo Issavi Sewers 5.9kk/h Raw + 1kk Profit - Tibia Hunt [13.16] #tibia #tibiahunt",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "VsC3NlfXHds",
-          "title": "ED 480 + EK Hunt Duo Issavi Sewers 8.2kk/h (225%) - Tibia Hunt [13.11] #tibia #tibiahunt",
-          "vocations": [
-            "Knight",
-            "Druid"
-          ]
-        },
-        {
-          "id": "2z2T28Y4Nv8",
-          "title": "EK 626 Hunt Solo Issavi Sewers 4.3kk/h + 550k Profit - Tibia Hunt [13.10] #tibia #tibiahunt",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "MI2G8ENUi_c",
-          "title": "EK 887 Hunt Solo (Bestiary) Issavi Sewers 6.7kk/h+ (150%) - Tibia Hunt [12.91] #tibia #tibiahunt",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "aEO5-wFYBv0",
-          "title": "ED 583 Hunt Duo Issavi Sewers 14kk/h (375%) - Tibia Hunt [12.91] #tibia #tibiahunt #hunts",
-          "vocations": [
-            "Druid"
-          ]
-        }
-      ]
+      "youtubeVideos": [],
+      "youtubeURI": ""
     },
     {
       "name": "Bashmu",
@@ -13258,7 +12155,7 @@
         "updatedAt": "2025-02-16T17:06:13.977Z",
         "createdAt": "2025-02-16T17:06:13.977Z"
       },
-      "youtubeVideoId": "ILv1Zd-KDzQ",
+      "youtubeVideoId": "",
       "predominantDamage": [
         {
           "element": "Energy",
@@ -13273,93 +12170,8 @@
           "percentage": 25
         }
       ],
-      "youtubeVideos": [
-        {
-          "id": "ILv1Zd-KDzQ",
-          "title": "EK 961 Hunt Solo Salt Caves (Bashmu) 3.2kk/h Raw + 1.5kk Profit - Tibia Hunt [13.21] #tibia",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "ec0q3GQShFs",
-          "title": "EK 915 Hunt Solo Salt Caves (Bashmu) 3.6kk/h Raw + 1.6kk Profit - Tibia Hunt [13.20] #tibiahunt",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "9YoqUuCABrs",
-          "title": "EK 587 Hunt Solo Salt Caves (Bashmu Bestiary) 3.3kk/h Raw + 1.4kk Profit - Tibia Hunt [13.17] #tibia",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "-TUtTrGk_IQ",
-          "title": "ED 1113 Hunt Solo Salt Caves (Bashmu) 4kk/h Raw 2.6kk Profit - Tibia Hunt [13.17] #tibia #tibiahunt",
-          "vocations": [
-            "Druid"
-          ]
-        },
-        {
-          "id": "rBa_vJa2mw0",
-          "title": "RP 726 Hunt Solo Salt Caves (Bashmu) 10kk/h (225%) + 1.5kk Profit (Preys) Tibia Hunt #tibiahunt",
-          "vocations": [
-            "Paladin"
-          ]
-        },
-        {
-          "id": "rJ0jjCm1Ujk",
-          "title": "ED 483 + RP Hunt Duo Salt Caves (Bashmu) 2.9kk/h Raw + 1.5kk Profit - Tibia Hunt #tibia #tibiahunt",
-          "vocations": [
-            "Druid",
-            "Paladin"
-          ]
-        },
-        {
-          "id": "8fUpMAnDJvE",
-          "title": "ED 791 Hunt Solo Salt Caves (Bashmu) 3.7kk/h Raw + 2kk Profit - Tibia Hunt [13.00] #tibia #tibiahunt",
-          "vocations": [
-            "Druid"
-          ]
-        },
-        {
-          "id": "zO5nM4isj9A",
-          "title": "ED 752 Hunt Solo Salt Caves (Bashmu) 1.9kk+ Profit/h - Tibia Hunt [12.90] #tibia #tibiahunt #hunts",
-          "vocations": [
-            "Druid"
-          ]
-        },
-        {
-          "id": "o9PZtkNyFE4",
-          "title": "ED 980 Hunt Solo Salt Caves (Bashmu) 3.8kk/h Raw (100%) + 2kk Profit - Tibia Hunt #tibia #tibiahunt",
-          "vocations": [
-            "Druid"
-          ]
-        },
-        {
-          "id": "H0cQk-j4exQ",
-          "title": "RP 751 Hunt Solo Salt Caves (Bashmu) 1.3kk Profit/h - Tibia Hunt #tibia #tibiahunt #hunts",
-          "vocations": [
-            "Paladin"
-          ]
-        },
-        {
-          "id": "IwjHhbCCCKw",
-          "title": "EK 1023 Hunt Solo Salt Caves (Bashmu) 7.4kk/h (225%) + 1.1kk profit - Tibia Hunt #tibia #tibiahunt",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "yrVrho1_45s",
-          "title": "RP 1077 Hunt Solo Salt Caves (Bashmu) 1.3kk Profit/h - Tibia Hunt #tibia #tibiahunt #hunts",
-          "vocations": [
-            "Paladin"
-          ]
-        }
-      ]
+      "youtubeVideos": [],
+      "youtubeURI": ""
     },
     {
       "name": "Roshamuul Bones",
@@ -14166,7 +12978,7 @@
         "updatedAt": "2025-02-16T17:06:13.977Z",
         "createdAt": "2025-02-16T17:06:13.977Z"
       },
-      "youtubeVideoId": "9t-Ng2ORY6Y",
+      "youtubeVideoId": "",
       "predominantDamage": [
         {
           "element": "Physical",
@@ -14185,22 +12997,8 @@
           "percentage": 1
         }
       ],
-      "youtubeVideos": [
-        {
-          "id": "9t-Ng2ORY6Y",
-          "title": "EK 713 Hunt Solo Roshamuul Bones 8.8kk/h (225%) + 700k Profit - Tibia Hunt #tibia #tibiahunt #hunts",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "3LskDwfd3tQ",
-          "title": "EK 533 Hunt Solo Roshamuul Bones 4.3kk/h (150%) - Tibia Hunt [12.87] #tibia #tibiahunt #hunts",
-          "vocations": [
-            "Knight"
-          ]
-        }
-      ]
+      "youtubeVideos": [],
+      "youtubeURI": ""
     },
     {
       "name": "Temple of the Sun and Sea",
@@ -15268,7 +14066,7 @@
         "updatedAt": "2025-06-22T19:56:16.154Z",
         "createdAt": "2025-06-22T21:55:20.870Z"
       },
-      "youtubeVideoId": "e0_1BBJIt9Q",
+      "youtubeVideoId": "",
       "predominantDamage": [
         {
           "element": "Physical",
@@ -15279,327 +14077,8 @@
           "percentage": 48
         }
       ],
-      "youtubeVideos": [
-        {
-          "id": "e0_1BBJIt9Q",
-          "title": "EK 824 Hunt Solo Cobra Bastion 7.5kk/h Raw +  1.2kk Profit - Tibia Hunt [15.24]",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "wSLseCLH0jM",
-          "title": "EK 1645 Hunt Solo Cobra Bastion (Rapid Rasp) 13.7kk/h Raw + 3.1kk Profit - Tibia Hunt [15.23]",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "vm02uO1GHkE",
-          "title": "EK 500 Hunt x2 Cobra Bastion 5.5kk/h Raw + 1.1kk Profit - Tibia Hunt [15.13]",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "OeTcqsRwlv4",
-          "title": "EM 771 Hunt Solo Cobra Bastion (-1) 6.9kk/h Raw + 1.2kk Profit - Tibia Hunt [15.13]",
-          "vocations": [
-            "Monk"
-          ]
-        },
-        {
-          "id": "4Ok1v1e4Tig",
-          "title": "EM 578 Hunt Solo Cobra Bastion (Preys Atk) 7.8kk/h Raw + 1.3kk Profit - Tibia Hunt [15.03]",
-          "vocations": [
-            "Monk"
-          ]
-        },
-        {
-          "id": "G2SM_nmV4n0",
-          "title": "EK 1162 Hunt Solo Cobra Bastion 8.1kk/h Raw + 1.5kk Profit - Tibia Hunt [15.03] #tibia #tibiahunt",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "A91-9SpEYvk",
-          "title": "EM 523 Hunt Solo Cobra Bastion (3 Prey Atk) 7.4kk/h Raw + 1kk Profit - Tibia Hunt [15.00]",
-          "vocations": [
-            "Monk"
-          ]
-        },
-        {
-          "id": "CEmwGoqz17w",
-          "title": "EK 1517 Hunt Solo Cobra Bastion 9.7kk/h Raw + 2kk Profit - Tibia Hunt [14.12] #tibia #tibiahunt",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "7VIQYQ--Cjc",
-          "title": "EK 1246 Hunt Solo Cobra Bastion 9.6kk/h Raw + 1.9kk Profit - Tibia Hunt [14.00] #tibia #tibiahunt",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "OxR7SUf8sEE",
-          "title": "EK 1219 Hunt Solo Cobra Bastion 9.4kk/h Raw + 1.6kk Profit - Tibia Hunt [13.40] #tibia #tibiahunt",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "8JYP72Re6Vc",
-          "title": "EK 1694 Hunt Solo Cobra Bastion (Rapid + Prey Atk) 13kk/h Raw + 2.7kk Profit - Tibia Hunt [13.36]",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "SibTSz63Bn4",
-          "title": "EK 1017 Hunt Solo Cobra Bastion 8.5kk/h Raw + 1.4kk Profit - Tibia Hunt [13.36] #tibia #tibiahunt",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "2naoiErAl5E",
-          "title": "EK 1200 Hunt Solo Cobra Bastion (Prey Atk) 9kk/h Raw + 1.9kk Profit - Tibia Hunt [13.34] #tibia",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "WBY1sHJ34Q8",
-          "title": "EK 1530 Hunt Solo Cobra Bastion (Rapid) 11.7kk/h Raw + 1.6kk Profit - Tibia Hunt [13.33] #tibia",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "XTakHdgD1pk",
-          "title": "ED 847 Hunt Solo Cobra Bastion 7kk/h Raw + 1.4kk Profit - Tibia Hunt [13.30] #tibia #tibiahunt",
-          "vocations": [
-            "Druid"
-          ]
-        },
-        {
-          "id": "SCid4FN7unw",
-          "title": "EK 931 + ED Hunt Duo Cobra Bastion 7.6kk/h Raw + 2.2kk Profit - Tibia Hunt [13.22] #tibia #tibiahunt",
-          "vocations": [
-            "Knight",
-            "Druid"
-          ]
-        },
-        {
-          "id": "0ITwBWnb_pc",
-          "title": "EK 697 Hunt Solo Cobra Bastion 7.5kk/h Raw + 500k Profit - Tibia Hunt [13.22] #tibia #tibiahunt",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "O5cwaOtuDvI",
-          "title": "ED 541 Hunt Solo Cobra Bastion 4kk/h Raw + 500k Profit - Tibia Hunt [13.22] #tibia #tibiahunt",
-          "vocations": [
-            "Druid"
-          ]
-        },
-        {
-          "id": "nw1nDPqcdck",
-          "title": "EK 1423 Hunt Solo Cobra Bastion 9.6kk/h Raw + 1.7kk Profit - Tibia Hunt [13.21] #tibia #tibiahunt",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "HmOmx9AayAA",
-          "title": "EK 1013 Hunt Solo Cobra Bastion 7.8kk/Raw +1.2kk Profit - Tibia Hunt [13.17] #tibia #tibiahunt",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "FA20K6NIlsM",
-          "title": "MS 627 Hunt x4 Cobra Bastion 6.1kk/h Raw - Tibia Hunt [13.17] #tibia #tibiahunt",
-          "vocations": [
-            "Sorcerer"
-          ]
-        },
-        {
-          "id": "d2iP3dAVakY",
-          "title": "EK 1839 Hunt Solo Cobra Bastion 10.9kk/h Raw + 2.7kk Profit - Tibia Hunt [13.17] #tibia #tibiahunt",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "4Jr9WbqFj5A",
-          "title": "MS 673 Hunt Solo Cobra Bastion 4.3kk/h Raw + 500k Profit - Tibia Hunt [13.16] #tibia #tibiahunt",
-          "vocations": [
-            "Sorcerer"
-          ]
-        },
-        {
-          "id": "zeQ9Uyw33zs",
-          "title": "EK 1131 Hunt Solo Cobra Bastion 24.3kk/h (150% + Boosts) + 2.1kk Profit - Tibia Hunt #tibiahunt",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "xY2OKXSbLpk",
-          "title": "RP 699 Hunt Solo Cobra Bastion 6.6kk/h Raw + 800k Profit - Tibia Hunt [13.13] #tibia #tibiahunt",
-          "vocations": [
-            "Paladin"
-          ]
-        },
-        {
-          "id": "2D-k6lNvCdY",
-          "title": "EK 1232 Hunt Solo Cobra Bastion 9.2kk/h + 1.1kk Profit - Tibia Hunt [13.11] #tibia #tibiahunt",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "Sx5vQ-b45P4",
-          "title": "EK 1266 Hunt Solo Cobra Bastion 38,5kk/h (375% + prey) + 1.4kk Profit -  [13.10] #tibia #tibiahunt",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "Wbzl_u3oNNM",
-          "title": "ED 506 Hunt x4 Cobra Bastion 26.2kk/h (375% + prey) - Tibia Hunt [13.10] #tibia #tibiahunt",
-          "vocations": [
-            "Druid"
-          ]
-        },
-        {
-          "id": "JXQFTYnI6jU",
-          "title": "ED 606 + EK Hunt Duo Cobra Bastion 23kk/h (375%) - Tibia Hunt [13.10] #tibia #tibiahunt",
-          "vocations": [
-            "Knight",
-            "Druid"
-          ]
-        },
-        {
-          "id": "IdSMoVxs_0w",
-          "title": "ED 1039 Hunt Solo Cobra Bastion 6kk/h Raw + 1.2kk Profit - Tibia Hunt [13.05] #tibia #tibiahunt",
-          "vocations": [
-            "Druid"
-          ]
-        },
-        {
-          "id": "zFe2k2HH9FA",
-          "title": "ED 630 + EK Hunt Duo Cobra Bastion 7.9kk/h (225%) - Tibia Hunt [13.10] #tibia #tibiahunt",
-          "vocations": [
-            "Knight",
-            "Druid"
-          ]
-        },
-        {
-          "id": "7nvhw7t6NBg",
-          "title": "EK 787 Hunt Solo Cobra Bastion 7.9kk/h (150%) - Tibia Hunt [13.10] #tibia #tibiahunt",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "gqeOjc2DYKQ",
-          "title": "MS 560 Hunt x4 Cobra Bastion -1 7.2kk/h (150%) - Tibia Hunt [13.05] #tibia #tibiahunt",
-          "vocations": [
-            "Sorcerer"
-          ]
-        },
-        {
-          "id": "655Psvuvy8I",
-          "title": "EK 1082 Hunt Solo Cobra Bastion 7.8kk/h Raw + 1.2kk Profit - Tibia Hunt [13.05] #tibia #tibiahunt",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "5T0YZOpuWkE",
-          "title": "EK 1112 Hunt Solo Cobra Bastion 7.3kk/h Raw + 1.1kk Profit - Tibia Hunt [13.00] #tibia #tibiahunt",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "kbQxRMklGao",
-          "title": "EK 1214 Hunt Solo Cobra Bastion 8.8kk/h Raw (Rapid resp) + 1.4kk Profit - Tibia Hunt [13.00] #tibia",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "jUe2kcjKNRQ",
-          "title": "ED 420 Hunt x4 Cobra Bastion 14.7kk/h (225% + prey) - Tibia Hunt [ 13.00]#tibia #tibiahunt #hunts",
-          "vocations": [
-            "Druid"
-          ]
-        },
-        {
-          "id": "nVNpu6_qwBQ",
-          "title": "EK 696 + ED Hunt Duo Cobra Bastion 7.2kk/h Raw (30% bonus) + 1.6kk Profit #tibia #tibiahunt #huntduo",
-          "vocations": [
-            "Knight",
-            "Druid"
-          ]
-        },
-        {
-          "id": "TUdTPg3HSMc",
-          "title": "Ek 1095 Hunt Solo Cobra Bastion -1 4.9kk/h Raw (Rapid Respawn) Tibia Hunt [12.90] #tibia #tibiahunt",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "HCL8YNtF0ls",
-          "title": "MS 305 Hunt x4 Cobra Bastion 6.3kk/h (150%) - Tibia Hunt [12.90] #tibia #tibiahunt #hunts",
-          "vocations": [
-            "Sorcerer"
-          ]
-        },
-        {
-          "id": "ogP1F_rtjf8",
-          "title": "ED 944 Hunt Solo Cobra Bastion 6kk/h (150%) - Tibia Hunt [12.87] #tibia #tibiahunt #hunts",
-          "vocations": [
-            "Druid"
-          ]
-        },
-        {
-          "id": "FPjJ4W1wzS0",
-          "title": "MS 901 Hunt (Comentada) Solo Cobra Bastion 12.3kk/h (225%) - Tibia Hunt #tibia #tibiahunt #hunts",
-          "vocations": [
-            "Sorcerer"
-          ]
-        },
-        {
-          "id": "Y5aTqA8NC7U",
-          "title": "MS 1335 Hunt Cobra Bastion 2.5kk Profit/h (Vizier Boosted) - Tibia Hunt #tibia #tibiahunt #hunts",
-          "vocations": [
-            "Sorcerer"
-          ]
-        },
-        {
-          "id": "rDpLOLVJC-w",
-          "title": "EK 260 Hunt Solo Gaffir (Cobra Bastion) 3kk/h (150%) - Tibia Hunt #tibia #tibiahunt #hunts",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "pe1Rt0unIhg",
-          "title": "ED 1011 Hunt Solo Cobra Bastion 8kk/h - Tibia Hunt #tibia #tibiahunt #hunt",
-          "vocations": [
-            "Druid"
-          ]
-        }
-      ]
+      "youtubeVideos": [],
+      "youtubeURI": ""
     },
     {
       "name": "Feru Way",
@@ -16077,7 +14556,7 @@
         "updatedAt": "2025-06-22T18:59:10.737Z",
         "createdAt": "2025-06-22T20:58:14.220Z"
       },
-      "youtubeVideoId": "Ltfx2IymdFE",
+      "youtubeVideoId": "",
       "predominantDamage": [
         {
           "element": "Physical",
@@ -16104,142 +14583,8 @@
           "percentage": 2
         }
       ],
-      "youtubeVideos": [
-        {
-          "id": "Ltfx2IymdFE",
-          "title": "RP 1221 Hunt Solo Ferumbras Way 7.9kk/h Raw + 2.9kk Profit - Tibia Hunt [15.24]",
-          "vocations": [
-            "Paladin"
-          ]
-        },
-        {
-          "id": "KrgJmec1Eyw",
-          "title": "RP 1202 Hunt Solo Ferumbras Way 7kk/h Raw + 2.6kk Profit - Tibia Hunt [15.00] #tibia #tibiahunt",
-          "vocations": [
-            "Paladin"
-          ]
-        },
-        {
-          "id": "5mKwvleeEG0",
-          "title": "RP 794 Hunt Solo Ferumbras Ascendant Way 4.9kk/h Raw + 1.7kk Profit - Tibia Hunt [14.00] #tibia",
-          "vocations": [
-            "Paladin"
-          ]
-        },
-        {
-          "id": "o5AGZhIMON8",
-          "title": "RP 805 Hunt Solo Ferumbras Ascendant Way 4.5kk/h Raw + 1.7kk Profit - Tibia Hunt [14.00] #tibia",
-          "vocations": [
-            "Paladin"
-          ]
-        },
-        {
-          "id": "zVbBkT79rDA",
-          "title": "EK 1189 Hunt Solo Ferumbras Way 6.8kk/h Raw (Prey Atk) + 2.7kk Profit - Tibia Hunt [13.41] #tibia",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "vHg4qdo95PI",
-          "title": "RP 1107 Hunt Solo Ferumbras Way 5.3kk/h Raw + 1.7kk Profit - Tibia Hunt [13.32] #tibia #tibiahunt",
-          "vocations": [
-            "Paladin"
-          ]
-        },
-        {
-          "id": "6YgWUAxlUMU",
-          "title": "RP 1026 Hunt Solo Ferumbras Ascendant Way 5.7kk/h Raw + 2.4kk Profit - Tibia Hunt [13.22] #tibia",
-          "vocations": [
-            "Paladin"
-          ]
-        },
-        {
-          "id": "C4GA_Pv3Yuc",
-          "title": "EK 933 Hunt Solo Ferumbras Way 4.5kk/h Raw + 2kk Profit - Tibia Hunt [13.22] #tibia #tibiahunt",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "WEngGCZNfVg",
-          "title": "RP 1119 Hunt Solo Ferumbras Ascendant Way 5.9kk/h Raw + 2.2kk Profit - Tibia Hunt [13.21] #tibia",
-          "vocations": [
-            "Paladin"
-          ]
-        },
-        {
-          "id": "d2YrPTzw2r4",
-          "title": "RP 1089 Hunt Solo Ferumbras Way 6.4kk/h Raw + 2kk Profit - Tibia Hunt [13.17] #tibia #tibiahunt",
-          "vocations": [
-            "Paladin"
-          ]
-        },
-        {
-          "id": "T2OkuIS9lUY",
-          "title": "RP 1429 Hunt Solo Ferumbras Ascendant Way 6.8kk/h Raw + 2.4kk Profit - Tibia Hunt [13.17] #tibia",
-          "vocations": [
-            "Paladin"
-          ]
-        },
-        {
-          "id": "SyjMVyhXIEs",
-          "title": "RP 1194 Hunt Solo Ferumbras Ascendant Way 6.5kk/h Raw + 2.5kk Profit - Tibia Hunt #tibia #tibiahunt",
-          "vocations": [
-            "Paladin"
-          ]
-        },
-        {
-          "id": "obKvLMb9JI4",
-          "title": "RP 715 Hunt Solo Ferumbras Way 5.3kk/h Raw 2.5kk Profit (Prey) Tibia Hunt [13.15] #tibia #tibiahunt",
-          "vocations": [
-            "Paladin"
-          ]
-        },
-        {
-          "id": "9jX3gw3YHfk",
-          "title": "EK 690 + ED Hunt Duo Ferumbras Way 3.6kk/h Raw + 2kk Profit - Tibia Hunt [13.11] #tibia #tibiahunt",
-          "vocations": [
-            "Knight",
-            "Druid"
-          ]
-        },
-        {
-          "id": "ALyoJIc0LEg",
-          "title": "ED 658 Hunt x3 Ferumbras Way (Alternative Route) 2.8kk/h Raw - Tibia Hunt [13.10] #tibia #tibiahunt",
-          "vocations": [
-            "Druid"
-          ]
-        },
-        {
-          "id": "bPwUc4K5k2s",
-          "title": "EK 628 Hunt Solo Ferumbras Ascendant Way 3kk/h Raw + 1.6kk Profit - Tibia Hunt #tibia #tibiahunt",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "7us98iQ-meE",
-          "title": "EK 1216 Hunt Solo Ferumbras Way 2.5kk+ Profit/h - Tibia Hunt [12.90] #tibia #tibiahunt #hunts",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "w0joO0RLYKM",
-          "title": "ED 1193 Hunt Solo Ferumbras Way 2.2kk/h Profit - Tibia Hunt #tibia #tibiahunt #hunts",
-          "vocations": [
-            "Druid"
-          ]
-        },
-        {
-          "id": "CMNABmQMno0",
-          "title": "RP 1589 Solo Ferumbras Ascendant Way 7kk/h (100%) + 2.7kk profit/h - Tibia Hunt #tibia #tibiahunt",
-          "vocations": [
-            "Paladin"
-          ]
-        }
-      ]
+      "youtubeVideos": [],
+      "youtubeURI": ""
     },
     {
       "name": "Carnisylvans",
@@ -17157,7 +15502,7 @@
         "updatedAt": "2025-02-16T17:06:13.977Z",
         "createdAt": "2025-02-16T17:06:13.977Z"
       },
-      "youtubeVideoId": "grJChxsi24Q",
+      "youtubeVideoId": "",
       "predominantDamage": [
         {
           "element": "Earth",
@@ -17176,15 +15521,8 @@
           "percentage": 8
         }
       ],
-      "youtubeVideos": [
-        {
-          "id": "grJChxsi24Q",
-          "title": "EK 948 Hunt Solo Forest of Life (Carnisylvans) 2.5kk/h + 1.1kk Profit - Tibia Hunt [13.16] #tibia",
-          "vocations": [
-            "Knight"
-          ]
-        }
-      ]
+      "youtubeVideos": [],
+      "youtubeURI": ""
     },
     {
       "name": "Flimsy & Mean Lost Souls - Port Hope",
@@ -19170,7 +17508,7 @@
         "updatedAt": "2025-02-16T17:06:13.977Z",
         "createdAt": "2025-02-16T17:06:13.977Z"
       },
-      "youtubeVideoId": "_f1IOOhm4IE",
+      "youtubeVideoId": "",
       "predominantDamage": [
         {
           "element": "Physical",
@@ -19181,50 +17519,8 @@
           "percentage": 3
         }
       ],
-      "youtubeVideos": [
-        {
-          "id": "_f1IOOhm4IE",
-          "title": "EK 529 Hunt Solo Inquisition DT Seal 3.9kk/h Raw + 1kk Profit - Tibia Hunt [15.00] #tibiahunt",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "gFXbXPblBi8",
-          "title": "EK 631 Hunt Solo DT Seal INQ 4.5kk/h Raw + 1.4kk Profit - Tibia Hunt [13.34] #tibia #tibiahunt",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "twErJpMIvXk",
-          "title": "EK 839 Hunt Solo Inq DT Seal 4kk/h Raw + 1.5kk Profit - Tibia Hunt [13.21] #tibia #tibiahunt",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "P9ysy3AmCdQ",
-          "title": "EK 852 Hunt Solo Inq DT Seal 10.5kk/h (300%) + 2.3kk Profit (Double) - Tibia Hunt [13.17] #tibia",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "m5F3KPGWrQc",
-          "title": "EK 684 Hunt Solo DT Seal (Inq) 3.1kk/h Raw + 1.1kk Profit - Tibia Hunt [13.05] #tibia #tibiahunt",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "Kra2bhgNJ4o",
-          "title": "EK 609 Hunt Solo Inquisition DT Seal 6.2kk/h + 2kk profit (300%/double loot) #tibia #tibiahunt",
-          "vocations": [
-            "Knight"
-          ]
-        }
-      ]
+      "youtubeVideos": [],
+      "youtubeURI": ""
     },
     {
       "name": "Warzone 2",
@@ -20440,7 +18736,7 @@
         "updatedAt": "2025-06-23T14:09:04.741Z",
         "createdAt": "2025-06-23T16:07:37.834Z"
       },
-      "youtubeVideoId": "R_3-O2Y5ETM",
+      "youtubeVideoId": "",
       "predominantDamage": [
         {
           "element": "Physical",
@@ -20459,15 +18755,8 @@
           "percentage": 4
         }
       ],
-      "youtubeVideos": [
-        {
-          "id": "R_3-O2Y5ETM",
-          "title": "MS 876 Hunt Solo Flimsy Lost Souls (Brain Grounds) 16.3kk/h (225%) - Tibia Hunt #tibia #tibiahunt",
-          "vocations": [
-            "Sorcerer"
-          ]
-        }
-      ]
+      "youtubeVideos": [],
+      "youtubeURI": ""
     },
     {
       "name": "West Roshamuul",
@@ -21066,7 +19355,7 @@
         "updatedAt": "2025-02-16T17:06:13.977Z",
         "createdAt": "2025-02-16T17:06:13.977Z"
       },
-      "youtubeVideoId": "l1Nu2Gl4hvM",
+      "youtubeVideoId": "",
       "predominantDamage": [
         {
           "element": "Physical",
@@ -21085,155 +19374,8 @@
           "percentage": 1
         }
       ],
-      "youtubeVideos": [
-        {
-          "id": "l1Nu2Gl4hvM",
-          "title": "RP 1005 Hunt Solo West Roshamuul 7.7kk/h Raw + 1.6kk Profit - Tibia Hunt [13.40] #tibia #tibiahunt",
-          "vocations": [
-            "Paladin"
-          ]
-        },
-        {
-          "id": "bjeg64_BGpw",
-          "title": "RP 469 Hunt Solo West Roshamuul 5.1kk/h Raw + 550k Profit - Tibia Hunt [13.34] #tibia #tibiahunt",
-          "vocations": [
-            "Paladin"
-          ]
-        },
-        {
-          "id": "hoUUarAVD4w",
-          "title": "RP 1205 Hunt Solo West Roshamuul 8.1kk/h Raw + 2.3kk Profit - Tibia Hunt [13.34] #tibia #tibiahunt",
-          "vocations": [
-            "Paladin"
-          ]
-        },
-        {
-          "id": "wSOU_H5SH_I",
-          "title": "RP 946 Hunt Solo West Roshamuul 9.1kk/h Raw + 2.1kk Profit - Tibia Hunt [13.34] #tibia #tibiahunt",
-          "vocations": [
-            "Paladin"
-          ]
-        },
-        {
-          "id": "-FwKqsHogNc",
-          "title": "RP 549 Hunt Solo West Roshamuul 5.5kk/h Raw + 1kk Profit - Tibia Hunt [13.22] #tibia #tibiahunt",
-          "vocations": [
-            "Paladin"
-          ]
-        },
-        {
-          "id": "bb_40LYF39g",
-          "title": "RP 713 Hunt Solo West Roshamuul 6.5kk/h Raw + 1.4kk Profit - Tibia Hunt [13.21] #tibia #tibiahunt",
-          "vocations": [
-            "Paladin"
-          ]
-        },
-        {
-          "id": "2O9C3rALQ4Y",
-          "title": "RP 698 Hunt Solo Roshamuul West 5.7kk/h Raw + 1.2kk Profit - Tibia Hunt [13.20] #tibia #tibiahunt",
-          "vocations": [
-            "Paladin"
-          ]
-        },
-        {
-          "id": "2-SpGgg7F8U",
-          "title": "RP 1186 Hunt Solo Roshamuul West 7.5kk/h Raw + 1.6kk Profit - Tibia Hunt [13.17] #tibia #tibiahunt",
-          "vocations": [
-            "Paladin"
-          ]
-        },
-        {
-          "id": "t4F7cqAdUPQ",
-          "title": "RP 926 Hunt Solo West Roshamuul 7kk/h Raw + 1.4kk Profit - Tibia Hunt [13.17] #tibia #tibiahunt",
-          "vocations": [
-            "Paladin"
-          ]
-        },
-        {
-          "id": "bjjKZsz-TEg",
-          "title": "RP 1028 Hunt Solo West Roshamuul 6.7kk/h Raw + 1.9kk Profit - Tibia Hunt [13.17] #tibia #tibiahunt",
-          "vocations": [
-            "Paladin"
-          ]
-        },
-        {
-          "id": "rz6g7c3LQC4",
-          "title": "RP 551 Hunt Solo West Roshamuul 5.6kk/h Raw + 900k Profit - Tibia Hunt [13.10] #tibia #tibiahunt",
-          "vocations": [
-            "Paladin"
-          ]
-        },
-        {
-          "id": "WyPJxwzeiis",
-          "title": "RP 691 Hunt Solo West Roshamuul 4.5kk/h Raw + 900k Profit - Tibia Hunt [13.10] #tibia #tibiahunt",
-          "vocations": [
-            "Paladin"
-          ]
-        },
-        {
-          "id": "eUHqlwcKAMs",
-          "title": "RP 566 Roshamuul West 17.3kk/h (375%) + 750k Profit - Tibia Hunt [13.10] #tibia #tibiahunt",
-          "vocations": [
-            "Paladin"
-          ]
-        },
-        {
-          "id": "lNK1qFLNEOM",
-          "title": "RP 904 Hunt Solo West Roshamuul 6.7kk/h Raw + 1.1kk Profit - Tibia Hunt [13.10] #tibia #tibiahunt",
-          "vocations": [
-            "Paladin"
-          ]
-        },
-        {
-          "id": "W2jfak7zwt4",
-          "title": "RP 534 Hunt Solo West Roshamuul 4kk/h Raw - Tibia Hunt [13.00] #tibia #tibiahunt #hunts",
-          "vocations": [
-            "Paladin"
-          ]
-        },
-        {
-          "id": "rr2pTLhjjWE",
-          "title": "EK 740 Hunt Solo West Roshamuul 6.8kk/h (150%) + 1.4kk Profit - Tibia Hunt [13.00] #tibia #tibiahunt",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "eqnC5HXgJ9w",
-          "title": "RP 557 + RP Hunt Duo Roshamuul West 6.1kk/h Raw (+30% Colours of Magic) + 1.5kk Profit - Tibia Hunt",
-          "vocations": [
-            "Paladin"
-          ]
-        },
-        {
-          "id": "2j3bwrPNapc",
-          "title": "RP 758 Hunt Solo West Roshamuul 15.2kk/h (225%) - Tibia Hunt [12.90] #tibia #tibiahunt #hunts",
-          "vocations": [
-            "Paladin"
-          ]
-        },
-        {
-          "id": "GTXixU8Kg5A",
-          "title": "EK 1626 Hunt Solo West Roshamuul (Frazzlemaw Boosted) 2.3kk Profit/h - Tibia Hunt  #tibia #tibiahunt",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "wpBJ6ZhIrLQ",
-          "title": "RP 1316 Hunt Solo West Roshamuul 20kk/h (225%) + 1.7kk profit - Tibia Hunt [12.87] #tibia #tibiahunt",
-          "vocations": [
-            "Paladin"
-          ]
-        },
-        {
-          "id": "nQ7_mHrEfvk",
-          "title": "RP 909 Hunt Solo West Roshamuul 6.8kk/h (100%) + 1.5kk Profit/h - Tibia Hunt #tibia #tibiahunt",
-          "vocations": [
-            "Paladin"
-          ]
-        }
-      ]
+      "youtubeVideos": [],
+      "youtubeURI": ""
     },
     {
       "name": "Crypt Warriors Yselda",
@@ -23476,7 +21618,7 @@
         "updatedAt": "2025-02-16T17:06:13.977Z",
         "createdAt": "2025-02-16T17:06:13.977Z"
       },
-      "youtubeVideoId": "AYvC79vY9Kc",
+      "youtubeVideoId": "",
       "predominantDamage": [
         {
           "element": "Physical",
@@ -23507,39 +21649,8 @@
           "percentage": 5
         }
       ],
-      "youtubeVideos": [
-        {
-          "id": "AYvC79vY9Kc",
-          "title": "ED 613 Hunt Solo Buried Cathedral 4.9kk/h Raw + 600k Profit - Tibia Hunt [15.10]",
-          "vocations": [
-            "Druid"
-          ]
-        },
-        {
-          "id": "7cuH-C0woJY",
-          "title": "ED 490 + EK Hunt Duo Buried Cathedral (Bursters) 4.2kk/h Raw + 1.1kk Profit - Tibia Hunt [15.03]",
-          "vocations": [
-            "Knight",
-            "Druid"
-          ]
-        },
-        {
-          "id": "tUPMHnQBIU0",
-          "title": "ED 304 + EK Hunt Duo Buried Cathedral 3.7kk/h Raw + 900k Profit - Tibia Hunt [13.34] #tibia",
-          "vocations": [
-            "Knight",
-            "Druid"
-          ]
-        },
-        {
-          "id": "byE6jTME8_I",
-          "title": "ED 510 + EK 345 Hunt Duo Buried Cathedral 4.2kk/h Raw + 800k Profit - Tibia Hunt [13.21] #tibia",
-          "vocations": [
-            "Knight",
-            "Druid"
-          ]
-        }
-      ]
+      "youtubeVideos": [],
+      "youtubeURI": ""
     },
     {
       "name": "Prison -2",
@@ -24145,72 +22256,9 @@
           "percentage": 2
         }
       ],
-      "youtubeVideos": [
-        {
-          "id": "syGqzfu4E9E",
-          "title": "EK 831 Hunt Solo Roshamuul Prison 4.6kk/h Raw + 1.5kk Profit - Tibia Hunt [15.24]",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "AcnLOt6fhcg",
-          "title": "EK 668 Hunt Solo Roshamuul Prison (Demons Boosted) 6.3kk/h Raw + 500k Profit - Tibia Hunt [15.11]",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "SN4HDoI98RE",
-          "title": "EK 836 Hunt Solo Roshamuul Prison (Rebalancing Test) 6.3kk/h Raw + 1.3kk Profit - Tibia Hunt [13.34]",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "iaTLTzdRiA4",
-          "title": "EK 536 Hunt Solo Roshamuul Prison 4.5kk/h Raw + 1.3kk Profit - Tibia Hunt [13.30] #tibia #tibiahunt",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "4RMbjt_Kwyc",
-          "title": "EK 733 Hunt Solo Roshamuul Prison 4.1kk/h Raw + 1.2kk Profit - Tibia Hunt [13.22] #tibia #tibiahunt",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "zxldUtFy_y0",
-          "title": "EK 747 Hunt Solo Roshamuul Prison (Bestiary) 3.5kk/h Raw + 950k Profit - Tibia Hunt [13.17] #tibia",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "MfBFtCQJL3I",
-          "title": "EK 648 Hunt Solo Roshamuul Prison 3.3kk/h Raw + 750k Profit - Tibia Hunt [13.17] #tibia #tibiahunt",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "vwXwcaJ6MNw",
-          "title": "ED 450 Hunt x3 Roshamuul Prison -3 14.5kk/h (225% + demon boost + prey)  #tibia #tibiahunt",
-          "vocations": [
-            "Druid"
-          ]
-        },
-        {
-          "id": "JrEp0UpFtPE",
-          "title": "EK 849 (Axe & Club) Hunt Solo Roshamuul Prison 7kk/h (225%) - Tibia Hunt [12.87] #tibia #tibiahunt",
-          "vocations": [
-            "Knight"
-          ]
-        }
-      ],
-      "youtubeVideoId": "syGqzfu4E9E"
+      "youtubeVideos": [],
+      "youtubeVideoId": "",
+      "youtubeURI": ""
     },
     {
       "name": "Haunted Nexus Temple",
@@ -25122,7 +23170,7 @@
         "updatedAt": "2025-02-16T17:06:13.977Z",
         "createdAt": "2025-02-16T17:06:13.977Z"
       },
-      "youtubeVideoId": "vsLqAV5fsJY",
+      "youtubeVideoId": "",
       "predominantDamage": [
         {
           "element": "Physical",
@@ -25145,15 +23193,8 @@
           "percentage": 4
         }
       ],
-      "youtubeVideos": [
-        {
-          "id": "vsLqAV5fsJY",
-          "title": "EK 394 Hunt Solo Haunted Nexus (Temple) 4.9kk/h (150%) - Tibia Hunt [12.91] #tibia #tibiahunt #hunts",
-          "vocations": [
-            "Knight"
-          ]
-        }
-      ]
+      "youtubeVideos": [],
+      "youtubeURI": ""
     },
     {
       "name": "Warzone 6",
@@ -25851,7 +23892,7 @@
         "updatedAt": "2025-02-16T17:06:13.977Z",
         "createdAt": "2025-02-16T17:06:13.977Z"
       },
-      "youtubeVideoId": "pXJs4dYE0iM",
+      "youtubeVideoId": "",
       "predominantDamage": [
         {
           "element": "Physical",
@@ -25862,269 +23903,8 @@
           "percentage": 33
         }
       ],
-      "youtubeVideos": [
-        {
-          "id": "pXJs4dYE0iM",
-          "title": "RP 732 Hunt Solo Warzone 3 (Bestiary) 5.4kk/h Raw + 1.2kk Profit - Tibia Hunt [15.12]",
-          "vocations": [
-            "Paladin"
-          ]
-        },
-        {
-          "id": "Z7flQ0ADejk",
-          "title": "EK 1162 Hunt Solo Warzone 3 6.5kk/h Raw + 2kk Profit - Tibia Hunt [15.03] #tibia #tibiahunt",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "bxDrkJbA9nU",
-          "title": "EK 822 Hunt Solo Warzone 3 7.4kk/h Raw + 1.8kk Profit  -Tibia Hunt [15.00] #tibia #tibiahunt",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "tAdxappAMgQ",
-          "title": "RP 1323 Hunt Solo Warzone 3 (Orewalker Boosted) 7kk/h Raw + 2.5kk Profit - Tibia Hunt [14.12] #tibia",
-          "vocations": [
-            "Paladin"
-          ]
-        },
-        {
-          "id": "WudNs9c8zAc",
-          "title": "EK 1111 Hunt Solo Warzone 3 (Double Loot/No Runes) 5.2kk/h Raw + 3.2kk Profit  -Tibia Hunt [14.00]",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "kHrksmlKAjw",
-          "title": "EK 1046 Hunt Solo Warzone 3 (No Runes) 6kk/h Raw + 1.9kk Profit - Tibia Hunt [13.36] #tibia",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "pCSGlf17EkU",
-          "title": "EK 904 Hunt Solo Warzone 8 4.3kk/h Raw + 9.6kk Profit (Double/Duplex/Prey) - Tibia Hunt [13.21]",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "24louUJDoXc",
-          "title": "EK 718 Hunt Solo Deep Hub Fungus Dungeon (Warzone 6) 2kk/h Raw + 1kk Profit - Tibia Hunt #tibia",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "zLuG2_nedEM",
-          "title": "EK 1194 Dwelling of the Forgotten (Warzone 9) 4.7kk/h Raw + 2.5kk Profit - Tibia Hunt [13.20] #tibia",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "b0CxWmGu4to",
-          "title": "RP 399 Hunt Solo Warzone 6 2.4kk/h Raw + 1.9kk Profit (Double loot) - Tibia Hunt [13.16] #tibia",
-          "vocations": [
-            "Paladin"
-          ]
-        },
-        {
-          "id": "vBS-256Wh-Q",
-          "title": "EK 928 Hunt Solo Grotto of the Lost (Warzone 8) 4.5kk/h Raw + 2.2kk Profit - Tibia Hunt [13.17]",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "w4kzyxtcOlE",
-          "title": "ED 1208 Hunt Solo Warzone 9 8.5kk/h (225%) 2.9kk Profit (Diremaw boost) - Tibia Hunt [13.17] #tibia",
-          "vocations": [
-            "Druid"
-          ]
-        },
-        {
-          "id": "ktQCL-iRzdU",
-          "title": "EK 925 Hunt Solo Grotto of the Lost (Warzone 8) 3.7kk Raw + 2.5kk Profit (Prey) - Tibia Hunt #tibia",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "o1rvYyBDOyU",
-          "title": "ED 983 Hunt Solo Antrum of the Fallen (Warzone 7) 3.4kk/h Raw 2.3kk Profit [13.14] #tibia #tibiahunt",
-          "vocations": [
-            "Druid"
-          ]
-        },
-        {
-          "id": "rhfR21DRg9I",
-          "title": "EK 877 + ED Hunt Duo Grotto of the Lost (Warzone 8) 5kk/h Raw 4.5kk Profit (Rapid) #tibia #tibiahunt",
-          "vocations": [
-            "Knight",
-            "Druid"
-          ]
-        },
-        {
-          "id": "cgaeE7hAzCk",
-          "title": "EK 1240 Hunt Solo Grotto of the Lost (Warzone 8) 6.3kk Profit/h (duplex)  [13.10] #tibia #tibiahunt",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "C_Oi1PkjsNw",
-          "title": "MS 710 Hunt Solo Deep Hub Fungus Dungeon (Warzone 6) 800k Profit/h - Tibia Hunt #tibia #tibiahunt",
-          "vocations": [
-            "Sorcerer"
-          ]
-        },
-        {
-          "id": "W9ytLfOYRAA",
-          "title": "EK 1006 + ED Hunt Duo Grotto Of The Lost (Warzone 8) 4.3kk/h Raw + 3.8kk Profit - #tibia #tibiahunt",
-          "vocations": [
-            "Knight",
-            "Druid"
-          ]
-        },
-        {
-          "id": "LZ4z5nXeUhE",
-          "title": "EK 1298 Hunt Solo Grotto of the Lost (Warzone 8) 4.8kk/h Raw + 3.1kk Profit (prey) #tibia #tibiahunt",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "CsOmghzaUqo",
-          "title": "EK 808 Hunt Solo Dwelling of the Forgotten (Warzone 9) 1kk+ Profit/h - [ 13.05] #tibia #tibiahunt",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "-BFDzR1vi3c",
-          "title": "RP 986 Hunt Solo Grotto of the Lost (Warzone 8) 3.6kk/h Raw + 2.4kk Profit (Prey loot) #tibiahunt",
-          "vocations": [
-            "Paladin"
-          ]
-        },
-        {
-          "id": "QYmB11xLFpM",
-          "title": "MS 1300 caindo na box da warzone, nem clicou #tibia #tibiahunt #shorts",
-          "vocations": [
-            "Sorcerer"
-          ]
-        },
-        {
-          "id": "chConkTqm2Y",
-          "title": "EK 822 Hunt Duo Grotto of the Lost (Warzone 8) 3.4kk+ Profit - Tibia Hunt [12.91] #tibia #tibiahunt",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "5JeEPIYAz7E",
-          "title": "MS 551 Hunt Solo Deep Hub Fungus Dungeon (Warzone 6) 1.2kk Profit/h - Tibia Hunt #tibia #tibiahunt",
-          "vocations": [
-            "Sorcerer"
-          ]
-        },
-        {
-          "id": "ulnIeWNFo2I",
-          "title": "RP 1266 Hunt Solo Antrum of the Fallen (Warzone 7) 1.7kk Profit/h - Tibia Hunt #tibia #tibiahunt",
-          "vocations": [
-            "Paladin"
-          ]
-        },
-        {
-          "id": "MvTmTWN5hrI",
-          "title": "MS 862 Hunt Solo Antrum of the Fallen (Warzone 7) 4.4kk/h (150%) + 1.8kk Profit #tibia #tibiahunt",
-          "vocations": [
-            "Sorcerer"
-          ]
-        },
-        {
-          "id": "ZOvZAIU8QTE",
-          "title": "EK 1148 Hunt Grotto of the Lost (Warzone 8) 2.6kk+ Profit/h - Tibia Hunt [12.90] #tibia #tibiahunt",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "ttuvaxpLP_s",
-          "title": "MS 1027 Hunt Solo Antrum of the Fallen (Warzone 7) 1.9kk Profit (Rapid Respawn) #tibia #tibiahunt",
-          "vocations": [
-            "Sorcerer"
-          ]
-        },
-        {
-          "id": "ARdCVgroga0",
-          "title": "MS 1035 Hunt Solo Grotto of the Lost (Warzone 8) 2.2kk+ Profit/h - #tibia #tibiahunt #hunts",
-          "vocations": [
-            "Sorcerer"
-          ]
-        },
-        {
-          "id": "DgMcokLvOdM",
-          "title": "RP 293 Hunt Solo Deep Hub Fungus Dungeon (Warzone 6) 2.1kk/h (150%) - Tibia Hunt #tibia #tibiahunt",
-          "vocations": [
-            "Paladin"
-          ]
-        },
-        {
-          "id": "tQFa__d_p9M",
-          "title": "MS 495 Hunt Solo Deep Hub Fungus Dungeon (Warzone 6) 3.1kk/h (150%) + 1kk Profit #tibia #tibiahunt",
-          "vocations": [
-            "Sorcerer"
-          ]
-        },
-        {
-          "id": "DDPRGVb32SY",
-          "title": "EK 601 Hunt Solo Deep Hub Crystal Dungeon (Warzone 5) 4.3kk/h (200%/double loot) - Tibia Hunt #tibia",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "Mmy_DyNG2OI",
-          "title": "ED 1201 8.8kk Profit/h Hunt Solo Grotto of the Lost (Warzone 8) Double loot + prey #tibia #tibiahunt",
-          "vocations": [
-            "Druid"
-          ]
-        },
-        {
-          "id": "GNWwjOVU5IE",
-          "title": "ED 759 Hunt Solo Anthrum of the Fallen (Warzone 7) 1kk+ Profit/h - Tibia Hunt #tibia #tibiahunt",
-          "vocations": [
-            "Druid"
-          ]
-        },
-        {
-          "id": "aYd9Qyqd0Wo",
-          "title": "RP 646 Hunt Solo Deep Hub Magma Dungeon (Warzone 4) 4kk/h (150%) - Tibia Hunt #tibia #tibiahunt",
-          "vocations": [
-            "Paladin"
-          ]
-        },
-        {
-          "id": "sywtCdvjmZ4",
-          "title": "RP 887 Hunt Solo Deep Hub Crystal Dungeon (Warzone 5) 11kk/h (225%/tirant boosted) #tibia #tibiahunt",
-          "vocations": [
-            "Paladin"
-          ]
-        },
-        {
-          "id": "ST-A7dAMzjU",
-          "title": "ED 1174 Hunt Solo Grotto of the Lost (Warzone 8) 2kk+ profit/h - Tibia Hunt #tibia #tibiahunt #hunts",
-          "vocations": [
-            "Druid"
-          ]
-        }
-      ]
+      "youtubeVideos": [],
+      "youtubeURI": ""
     },
     {
       "name": "Netherworld",
@@ -26752,7 +24532,7 @@
         "updatedAt": "2025-02-16T17:06:13.977Z",
         "createdAt": "2025-02-16T17:06:13.977Z"
       },
-      "youtubeVideoId": "jUvtbVTkB7s",
+      "youtubeVideoId": "",
       "predominantDamage": [
         {
           "element": "Physical",
@@ -26771,57 +24551,8 @@
           "percentage": 7
         }
       ],
-      "youtubeVideos": [
-        {
-          "id": "jUvtbVTkB7s",
-          "title": "MS 822 Hunt Solo Netherworld (Prey Atk) 9kk/h Raw + 1.2kk Profit - Tibia Hunt [15.12]",
-          "vocations": [
-            "Sorcerer"
-          ]
-        },
-        {
-          "id": "60zIs78xCOM",
-          "title": "RP 1173 Hunt Solo Brain Grounds/Netherworld (Prey Loot) 10.2kk/h Raw + 1.7kk Profit - Tibia [15.10]",
-          "vocations": [
-            "Paladin"
-          ]
-        },
-        {
-          "id": "KxWkpUxtISc",
-          "title": "RP 666 Hunt Solo Netherworld 7.4kk/h Raw + 750k Profit - Tibia Hunt [15.00] #tibia #tibiahunt",
-          "vocations": [
-            "Paladin"
-          ]
-        },
-        {
-          "id": "0hgipnux9r8",
-          "title": "MS 713 Hunt Solo Netherworld 7.3kk/h Raw + 700k Profit - Tibia Hunt [14.10] #tibia #tibiahunt",
-          "vocations": [
-            "Sorcerer"
-          ]
-        },
-        {
-          "id": "k6bUDpIysTs",
-          "title": "MS 390 Hunt Solo Netherworld (Flimsy) 3.5kk/h Raw - Tibia Hunt [13.17] #tibia #tibiahunt",
-          "vocations": [
-            "Sorcerer"
-          ]
-        },
-        {
-          "id": "9vAP62Slx24",
-          "title": "EK 635 Hunt Solo Netherworld (magrinhos) 3.7kk+/h Raw - Tibia Hunt [13.05] #tibia #tibiahunt #hunts",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "Bacv3mhEOaY",
-          "title": "MS 520 Hunt Solo Netherworld 9kk/h (225%) - Tibia Hunt #tibia #tibiahunt #hunts",
-          "vocations": [
-            "Sorcerer"
-          ]
-        }
-      ]
+      "youtubeVideos": [],
+      "youtubeURI": ""
     },
     {
       "name": "Asura Mirror",
@@ -28051,7 +25782,7 @@
         "updatedAt": "2025-02-16T17:06:13.977Z",
         "createdAt": "2025-02-16T17:06:13.977Z"
       },
-      "youtubeVideoId": "DFqum4vl90I",
+      "youtubeVideoId": "",
       "predominantDamage": [
         {
           "element": "Physical",
@@ -28078,150 +25809,8 @@
           "percentage": 2
         }
       ],
-      "youtubeVideos": [
-        {
-          "id": "DFqum4vl90I",
-          "title": "EM 351 Hunt Solo Asura Mirror 4.7kk/h Raw + 700k Profit - Tibia Hunt [15.23]",
-          "vocations": [
-            "Monk"
-          ]
-        },
-        {
-          "id": "ypoXerzHhdU",
-          "title": "EK 635 Hunt Solo Asura Mirror 6.2kk/h Raw + 1.3kk Profit - Tibia Hunt [15.12]",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "sbVdsfu6-ng",
-          "title": "EM 328 Hunt Solo Asura Mirror 5kk/h Raw + 900k Profit - Tibia Hunt [15.00] #tibia #tibiahunt",
-          "vocations": [
-            "Monk"
-          ]
-        },
-        {
-          "id": "Ha_7HWwyEDc",
-          "title": "EK 570 Hunt Solo Asura Mirror 5.6kk/h Raw + 1.2kk Profit - Tibia Hunt [14.12] #tibia #tibiahunt",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "1nexG07E4x4",
-          "title": "EK 749 Hunt Solo Asura Mirror 5.4kk/h Raw + 1.1kk Profit - Tibia Hunt [13.41]",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "yTFmYfQx0Qg",
-          "title": "EK 1395 Hunt Solo Asura Mirror (Bestiary) 7.7kk/h Raw + 1.7kk Profit -Tibia Hunt [13.34] #tibia",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "ZVUHzfhBiDI",
-          "title": "RP 727 Hunt Solo Asura Mirror 6.9kk/h Raw + 800k Profit - Tibia Hunt [13.21] #tibia #tibiahunt",
-          "vocations": [
-            "Paladin"
-          ]
-        },
-        {
-          "id": "MBj-Ezxswzk",
-          "title": "EK 462 Hunt Solo Asura Mirror 8.7kk/h Raw + 1kk Profit (Demons Boosted) - Tibia Hunt [13.13] #tibia",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "36NvNiEF7g4",
-          "title": "RP 428 + EK Hunt Duo Asura Mirror 7.7kk/h (150%) - Tibia Hunt [13.13] #tibia #tibiahunt",
-          "vocations": [
-            "Knight",
-            "Paladin"
-          ]
-        },
-        {
-          "id": "HvhOrfGRssk",
-          "title": "RP 612 Hunt Solo Asura Mirror 5.6kk/h Raw + 600k Profit - Tibia Hunt [13.10] #tibia #tibiahunt",
-          "vocations": [
-            "Paladin"
-          ]
-        },
-        {
-          "id": "3JedCZWSedI",
-          "title": "RP 756 Hunt Solo Asura Mirror 12.7kk/h (225%) + 700k Profit - Tibia Hunt [13.10] #tibia #tibiahunt",
-          "vocations": [
-            "Paladin"
-          ]
-        },
-        {
-          "id": "C2v80z4r2s8",
-          "title": "RP 307 + EK Hunt Duo Asura Mirror 5.3kk/h Raw - Tibia Hunt [13.05]#tibia #tibiahunt #hunts",
-          "vocations": [
-            "Knight",
-            "Paladin"
-          ]
-        },
-        {
-          "id": "7kqcwdnft9c",
-          "title": "EK 747 Hunt Solo Asura Mirror 6kk/h Raw + 950k Profit - Tibia Hunt [13.00] #tibia #tibiahunt #hunts",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "p9hNngNcBtQ",
-          "title": "MS 497 Hunt Duo Asura Mirror 4.5kk/h+ Raw (100%) - Tibia Hunt [12.91] #tibia #tibiahunt #hunts",
-          "vocations": [
-            "Sorcerer"
-          ]
-        },
-        {
-          "id": "38lSphxZoGI",
-          "title": "EK 463 Hunt Solo Asura Mirror 5.6kk/h Raw (100%) + 850k Profit Tibia Hunt [12.90] #tibia #tibiahunt",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "Mn5R7xUYGBs",
-          "title": "RP 363 Hunt Solo Asura Mirror (Rapid Respawn) 7.7kk/h+ (225%) - Tibia Hunt #tibia #tibiahunt #hunts",
-          "vocations": [
-            "Paladin"
-          ]
-        },
-        {
-          "id": "5tTky46Scds",
-          "title": "EK 735 Hunt Solo Asura Mirror 6kk/h Raw (100%) + 1kk Profit - Tibia Hunt [12.87] #tibia #tibiahunt",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "SNq_Rvjd9uw",
-          "title": "RP 565 Hunt Solo Asura Mirror 22kk/h + 1.5kk Profit (375%/double loot) - #tibia #tibiahunt #hunts",
-          "vocations": [
-            "Paladin"
-          ]
-        },
-        {
-          "id": "F2_JIMmDnR0",
-          "title": "EK 552 Hunt Solo Asura Mirror 5.5kk/h (100%) + 800k profit - Tibia Hunt #tibia #tibiahunt #hunts",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "2wYsj1cAZKQ",
-          "title": "MS 267 Hunt x4 Asura Mirror 10.3kk/h (225%) - Tibia Hunt #tibia #tibiahunt #hunts",
-          "vocations": [
-            "Sorcerer"
-          ]
-        }
-      ]
+      "youtubeVideos": [],
+      "youtubeURI": ""
     },
     {
       "name": "Abandoned Sewers",
@@ -29765,7 +27354,7 @@
         "updatedAt": "2025-02-16T17:06:13.977Z",
         "createdAt": "2025-02-16T17:06:13.977Z"
       },
-      "youtubeVideoId": "bfOQC_RRoBI",
+      "youtubeVideoId": "",
       "predominantDamage": [
         {
           "element": "Physical",
@@ -29788,183 +27377,8 @@
           "percentage": 9
         }
       ],
-      "youtubeVideos": [
-        {
-          "id": "bfOQC_RRoBI",
-          "title": "EK 772 Hunt Solo Summer Courts 5.1kk/h Raw + 1kk Profit - Tibia Hunt [15.23]",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "cFnlfUB0uAk",
-          "title": "EK 670 Hunt Solo Summer Courts (No Charms) 5.3kk/h Raw + 900k Profit - Tibia Hunt [15.12]",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "OWfERiZwQ5s",
-          "title": "EK 1051 Hunt Solo Summer Courts 6.7kk/h Raw + 1.6kk Profit - Tibia Hunt [14.10] #tibia #tibiahunt",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "AIgRbI0-0Oc",
-          "title": "ED 601 Hunt Solo Summer Courts 5.5kk/h Raw + 1.1kk Profit - Tibia Hunt [14.00] #tibia #tibiahunt",
-          "vocations": [
-            "Druid"
-          ]
-        },
-        {
-          "id": "AU0JzSSuRRA",
-          "title": "ED 394 Hunt Solo Summer Courts 4.3kk/h Raw + 550k Profit - Tibia Hunt [13.22] #tibia #tibiahunt",
-          "vocations": [
-            "Druid"
-          ]
-        },
-        {
-          "id": "OLJkI_UJhYU",
-          "title": "EK 943 Hunt Solo Summer Court 5.5kk/h Raw + 1.4kk+ Profit - Tibia Hunt [13.20] #tibia #tibiahunt",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "uQzwkz_6dZI",
-          "title": "ED 504 Hunt Solo Summer Court 4kk/h Raw + 900k Profit - Tibia Hunt [13.20] #tibia #tibiahunt",
-          "vocations": [
-            "Druid"
-          ]
-        },
-        {
-          "id": "g7Qg-rF9EV8",
-          "title": "EK 577 Hunt Solo Summer Courts 5.6kk/h Raw + 1.2k Profit - Tibia Hunt [13.17] #tibia #tibiahunt",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "-TSnZq983Ok",
-          "title": "EK 696 Hunt Solo Summer Court 4.5kk/h Raw + 2.4kk Profit (double loot) - Tibia Hunt [13.15] #tibia",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "xb7_e6hNRBg",
-          "title": "EK 709 Hunt Solo Summer Court 8.8kk/h (150% + Prey) - Tibia Hunt [13.13] #tibia #tibiahunt",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "0Sm933E0pa8",
-          "title": "RP 193 Hunt Solo Summer Court 2.5kk/h Raw - Tibia Hunt [13.13] #tibia #tibiahunt",
-          "vocations": [
-            "Paladin"
-          ]
-        },
-        {
-          "id": "ENdfer-Wqb4",
-          "title": "ED 981 Hunt Solo Summer Court 6kk/h + 1.6kk Profit (Rapid respawn) - Tibia Hunt #tibia #tibiahunt",
-          "vocations": [
-            "Druid"
-          ]
-        },
-        {
-          "id": "7EQ41q-33WI",
-          "title": "RP 692 Hunt Solo Summer Court 4.3kk/h + 500k Profit - Tibia Hunt [13.10] #tibia #tibiahunt",
-          "vocations": [
-            "Paladin"
-          ]
-        },
-        {
-          "id": "iYInWy7_hLU",
-          "title": "EK 732 Summer Courts 21.2kk/h (375%) + 1,2kk/h Profit - Tibia Hunt [13.10] #tibia #tibiahunt",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "2XqJ2GkRNL4",
-          "title": "EK 816 Hunt Solo Summer Court 5.4kk/h Raw + 900k Profit - Tibia Hunt [13.10] #tibia #tibiahunt",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "yHLg49TSQsI",
-          "title": "EK 802 Hunt Solo Summer Court 5.1kk/h+ Raw + 800k Profit - Tibia Hunt [13.10] #tibia #tibiahunt",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "CJ-Wm7SSvXM",
-          "title": "EK 819 Hunt Solo Summer Court 22.5kk/h (375%) + 1.3kk Profit - Tibia Hunt [13.05] #tibia #tibiahunt",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "dDHzDzvAr0Q",
-          "title": "ED 444 Hunt Solo Summer Court 10.8kk/h (225% + Prey) - Tibia Hunt [13.00] #tibia #tibiahunt #hunts",
-          "vocations": [
-            "Druid"
-          ]
-        },
-        {
-          "id": "oRW5Yt77Y1Q",
-          "title": "ED 940 Hunt Solo Summer Court 7kk/h (150%) + 800k Profit - Tibia Hunt [13.00] #tibia #tibiahunt",
-          "vocations": [
-            "Druid"
-          ]
-        },
-        {
-          "id": "hPIGLvLGtRM",
-          "title": "EK 664 Hunt Solo Summer Court 5.5kk/h Raw 1.2kk Profit - Tibia Hunt [12.90] #tibia #tibiahunt #hunts",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "P1-hX2NcRh0",
-          "title": "RP 671 Hunt Solo Summer Court 10.7kk/h (225%) - Tibia Hunt [12.90] Vídeo Tibia Hunt",
-          "vocations": [
-            "Paladin"
-          ]
-        },
-        {
-          "id": "RzORw8rqEAY",
-          "title": "EK 657 Hunt Solo Summer Court 4.7kk/h Raw (100%) + 1kk Profit - Tibia Hunt [12.90] #tibia #tibiahunt",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "U4QgxrZoCdY",
-          "title": "EK 942 Hunt Solo Summer Court 17.5kk/h (300%) - Tibia Hunt [12.87] #tibia #tibiahunt #hunts",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "8HGKPOdS7N4",
-          "title": "ED 891 Hunt Solo Summer Court 6.4kk/h+ (150%) - Tibia Hunt [12.87] #tibia #tibiahunt #hunts",
-          "vocations": [
-            "Druid"
-          ]
-        },
-        {
-          "id": "5kCTG7kSd2E",
-          "title": "RP 987 Hunt Solo Summer Court 8.7kk/h (150%) + 1kk Profit - Tibia Hunt [12.87] #tibia #tibiahunt",
-          "vocations": [
-            "Paladin"
-          ]
-        }
-      ]
+      "youtubeVideos": [],
+      "youtubeURI": ""
     },
     {
       "name": "Burster Spectres",
@@ -32068,7 +29482,7 @@
         "updatedAt": "2025-02-16T17:06:13.977Z",
         "createdAt": "2025-02-16T17:06:13.977Z"
       },
-      "youtubeVideoId": "pXJs4dYE0iM",
+      "youtubeVideoId": "",
       "predominantDamage": [
         {
           "element": "Physical",
@@ -32095,269 +29509,8 @@
           "percentage": 2
         }
       ],
-      "youtubeVideos": [
-        {
-          "id": "pXJs4dYE0iM",
-          "title": "RP 732 Hunt Solo Warzone 3 (Bestiary) 5.4kk/h Raw + 1.2kk Profit - Tibia Hunt [15.12]",
-          "vocations": [
-            "Paladin"
-          ]
-        },
-        {
-          "id": "Z7flQ0ADejk",
-          "title": "EK 1162 Hunt Solo Warzone 3 6.5kk/h Raw + 2kk Profit - Tibia Hunt [15.03] #tibia #tibiahunt",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "bxDrkJbA9nU",
-          "title": "EK 822 Hunt Solo Warzone 3 7.4kk/h Raw + 1.8kk Profit  -Tibia Hunt [15.00] #tibia #tibiahunt",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "tAdxappAMgQ",
-          "title": "RP 1323 Hunt Solo Warzone 3 (Orewalker Boosted) 7kk/h Raw + 2.5kk Profit - Tibia Hunt [14.12] #tibia",
-          "vocations": [
-            "Paladin"
-          ]
-        },
-        {
-          "id": "WudNs9c8zAc",
-          "title": "EK 1111 Hunt Solo Warzone 3 (Double Loot/No Runes) 5.2kk/h Raw + 3.2kk Profit  -Tibia Hunt [14.00]",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "kHrksmlKAjw",
-          "title": "EK 1046 Hunt Solo Warzone 3 (No Runes) 6kk/h Raw + 1.9kk Profit - Tibia Hunt [13.36] #tibia",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "pCSGlf17EkU",
-          "title": "EK 904 Hunt Solo Warzone 8 4.3kk/h Raw + 9.6kk Profit (Double/Duplex/Prey) - Tibia Hunt [13.21]",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "24louUJDoXc",
-          "title": "EK 718 Hunt Solo Deep Hub Fungus Dungeon (Warzone 6) 2kk/h Raw + 1kk Profit - Tibia Hunt #tibia",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "zLuG2_nedEM",
-          "title": "EK 1194 Dwelling of the Forgotten (Warzone 9) 4.7kk/h Raw + 2.5kk Profit - Tibia Hunt [13.20] #tibia",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "b0CxWmGu4to",
-          "title": "RP 399 Hunt Solo Warzone 6 2.4kk/h Raw + 1.9kk Profit (Double loot) - Tibia Hunt [13.16] #tibia",
-          "vocations": [
-            "Paladin"
-          ]
-        },
-        {
-          "id": "vBS-256Wh-Q",
-          "title": "EK 928 Hunt Solo Grotto of the Lost (Warzone 8) 4.5kk/h Raw + 2.2kk Profit - Tibia Hunt [13.17]",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "w4kzyxtcOlE",
-          "title": "ED 1208 Hunt Solo Warzone 9 8.5kk/h (225%) 2.9kk Profit (Diremaw boost) - Tibia Hunt [13.17] #tibia",
-          "vocations": [
-            "Druid"
-          ]
-        },
-        {
-          "id": "ktQCL-iRzdU",
-          "title": "EK 925 Hunt Solo Grotto of the Lost (Warzone 8) 3.7kk Raw + 2.5kk Profit (Prey) - Tibia Hunt #tibia",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "o1rvYyBDOyU",
-          "title": "ED 983 Hunt Solo Antrum of the Fallen (Warzone 7) 3.4kk/h Raw 2.3kk Profit [13.14] #tibia #tibiahunt",
-          "vocations": [
-            "Druid"
-          ]
-        },
-        {
-          "id": "rhfR21DRg9I",
-          "title": "EK 877 + ED Hunt Duo Grotto of the Lost (Warzone 8) 5kk/h Raw 4.5kk Profit (Rapid) #tibia #tibiahunt",
-          "vocations": [
-            "Knight",
-            "Druid"
-          ]
-        },
-        {
-          "id": "cgaeE7hAzCk",
-          "title": "EK 1240 Hunt Solo Grotto of the Lost (Warzone 8) 6.3kk Profit/h (duplex)  [13.10] #tibia #tibiahunt",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "C_Oi1PkjsNw",
-          "title": "MS 710 Hunt Solo Deep Hub Fungus Dungeon (Warzone 6) 800k Profit/h - Tibia Hunt #tibia #tibiahunt",
-          "vocations": [
-            "Sorcerer"
-          ]
-        },
-        {
-          "id": "W9ytLfOYRAA",
-          "title": "EK 1006 + ED Hunt Duo Grotto Of The Lost (Warzone 8) 4.3kk/h Raw + 3.8kk Profit - #tibia #tibiahunt",
-          "vocations": [
-            "Knight",
-            "Druid"
-          ]
-        },
-        {
-          "id": "LZ4z5nXeUhE",
-          "title": "EK 1298 Hunt Solo Grotto of the Lost (Warzone 8) 4.8kk/h Raw + 3.1kk Profit (prey) #tibia #tibiahunt",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "CsOmghzaUqo",
-          "title": "EK 808 Hunt Solo Dwelling of the Forgotten (Warzone 9) 1kk+ Profit/h - [ 13.05] #tibia #tibiahunt",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "-BFDzR1vi3c",
-          "title": "RP 986 Hunt Solo Grotto of the Lost (Warzone 8) 3.6kk/h Raw + 2.4kk Profit (Prey loot) #tibiahunt",
-          "vocations": [
-            "Paladin"
-          ]
-        },
-        {
-          "id": "QYmB11xLFpM",
-          "title": "MS 1300 caindo na box da warzone, nem clicou #tibia #tibiahunt #shorts",
-          "vocations": [
-            "Sorcerer"
-          ]
-        },
-        {
-          "id": "chConkTqm2Y",
-          "title": "EK 822 Hunt Duo Grotto of the Lost (Warzone 8) 3.4kk+ Profit - Tibia Hunt [12.91] #tibia #tibiahunt",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "5JeEPIYAz7E",
-          "title": "MS 551 Hunt Solo Deep Hub Fungus Dungeon (Warzone 6) 1.2kk Profit/h - Tibia Hunt #tibia #tibiahunt",
-          "vocations": [
-            "Sorcerer"
-          ]
-        },
-        {
-          "id": "ulnIeWNFo2I",
-          "title": "RP 1266 Hunt Solo Antrum of the Fallen (Warzone 7) 1.7kk Profit/h - Tibia Hunt #tibia #tibiahunt",
-          "vocations": [
-            "Paladin"
-          ]
-        },
-        {
-          "id": "MvTmTWN5hrI",
-          "title": "MS 862 Hunt Solo Antrum of the Fallen (Warzone 7) 4.4kk/h (150%) + 1.8kk Profit #tibia #tibiahunt",
-          "vocations": [
-            "Sorcerer"
-          ]
-        },
-        {
-          "id": "ZOvZAIU8QTE",
-          "title": "EK 1148 Hunt Grotto of the Lost (Warzone 8) 2.6kk+ Profit/h - Tibia Hunt [12.90] #tibia #tibiahunt",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "ttuvaxpLP_s",
-          "title": "MS 1027 Hunt Solo Antrum of the Fallen (Warzone 7) 1.9kk Profit (Rapid Respawn) #tibia #tibiahunt",
-          "vocations": [
-            "Sorcerer"
-          ]
-        },
-        {
-          "id": "ARdCVgroga0",
-          "title": "MS 1035 Hunt Solo Grotto of the Lost (Warzone 8) 2.2kk+ Profit/h - #tibia #tibiahunt #hunts",
-          "vocations": [
-            "Sorcerer"
-          ]
-        },
-        {
-          "id": "DgMcokLvOdM",
-          "title": "RP 293 Hunt Solo Deep Hub Fungus Dungeon (Warzone 6) 2.1kk/h (150%) - Tibia Hunt #tibia #tibiahunt",
-          "vocations": [
-            "Paladin"
-          ]
-        },
-        {
-          "id": "tQFa__d_p9M",
-          "title": "MS 495 Hunt Solo Deep Hub Fungus Dungeon (Warzone 6) 3.1kk/h (150%) + 1kk Profit #tibia #tibiahunt",
-          "vocations": [
-            "Sorcerer"
-          ]
-        },
-        {
-          "id": "DDPRGVb32SY",
-          "title": "EK 601 Hunt Solo Deep Hub Crystal Dungeon (Warzone 5) 4.3kk/h (200%/double loot) - Tibia Hunt #tibia",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "Mmy_DyNG2OI",
-          "title": "ED 1201 8.8kk Profit/h Hunt Solo Grotto of the Lost (Warzone 8) Double loot + prey #tibia #tibiahunt",
-          "vocations": [
-            "Druid"
-          ]
-        },
-        {
-          "id": "GNWwjOVU5IE",
-          "title": "ED 759 Hunt Solo Anthrum of the Fallen (Warzone 7) 1kk+ Profit/h - Tibia Hunt #tibia #tibiahunt",
-          "vocations": [
-            "Druid"
-          ]
-        },
-        {
-          "id": "aYd9Qyqd0Wo",
-          "title": "RP 646 Hunt Solo Deep Hub Magma Dungeon (Warzone 4) 4kk/h (150%) - Tibia Hunt #tibia #tibiahunt",
-          "vocations": [
-            "Paladin"
-          ]
-        },
-        {
-          "id": "sywtCdvjmZ4",
-          "title": "RP 887 Hunt Solo Deep Hub Crystal Dungeon (Warzone 5) 11kk/h (225%/tirant boosted) #tibia #tibiahunt",
-          "vocations": [
-            "Paladin"
-          ]
-        },
-        {
-          "id": "ST-A7dAMzjU",
-          "title": "ED 1174 Hunt Solo Grotto of the Lost (Warzone 8) 2kk+ profit/h - Tibia Hunt #tibia #tibiahunt #hunts",
-          "vocations": [
-            "Druid"
-          ]
-        }
-      ]
+      "youtubeVideos": [],
+      "youtubeURI": ""
     },
     {
       "name": "Werecrocodiles",
@@ -34422,7 +31575,7 @@
         "updatedAt": "2025-02-16T17:06:13.977Z",
         "createdAt": "2025-02-16T17:06:13.977Z"
       },
-      "youtubeVideoId": "QfUGs-qxA1Y",
+      "youtubeVideoId": "",
       "predominantDamage": [
         {
           "element": "Physical",
@@ -34441,15 +31594,8 @@
           "percentage": 1
         }
       ],
-      "youtubeVideos": [
-        {
-          "id": "QfUGs-qxA1Y",
-          "title": "EK 535 Hunt Solo Lower Roshamuul 3.5kk/h (100%) + 850k Profit - Tibia Hunt [12.87] #tibia #tibiahunt",
-          "vocations": [
-            "Knight"
-          ]
-        }
-      ]
+      "youtubeVideos": [],
+      "youtubeURI": ""
     },
     {
       "name": "Werelions -1",
@@ -35843,7 +32989,7 @@
         "updatedAt": "2025-02-16T17:06:13.977Z",
         "createdAt": "2025-02-16T17:06:13.977Z"
       },
-      "youtubeVideoId": "pXJs4dYE0iM",
+      "youtubeVideoId": "",
       "predominantDamage": [
         {
           "element": "Physical",
@@ -35870,269 +33016,8 @@
           "percentage": 1
         }
       ],
-      "youtubeVideos": [
-        {
-          "id": "pXJs4dYE0iM",
-          "title": "RP 732 Hunt Solo Warzone 3 (Bestiary) 5.4kk/h Raw + 1.2kk Profit - Tibia Hunt [15.12]",
-          "vocations": [
-            "Paladin"
-          ]
-        },
-        {
-          "id": "Z7flQ0ADejk",
-          "title": "EK 1162 Hunt Solo Warzone 3 6.5kk/h Raw + 2kk Profit - Tibia Hunt [15.03] #tibia #tibiahunt",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "bxDrkJbA9nU",
-          "title": "EK 822 Hunt Solo Warzone 3 7.4kk/h Raw + 1.8kk Profit  -Tibia Hunt [15.00] #tibia #tibiahunt",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "tAdxappAMgQ",
-          "title": "RP 1323 Hunt Solo Warzone 3 (Orewalker Boosted) 7kk/h Raw + 2.5kk Profit - Tibia Hunt [14.12] #tibia",
-          "vocations": [
-            "Paladin"
-          ]
-        },
-        {
-          "id": "WudNs9c8zAc",
-          "title": "EK 1111 Hunt Solo Warzone 3 (Double Loot/No Runes) 5.2kk/h Raw + 3.2kk Profit  -Tibia Hunt [14.00]",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "kHrksmlKAjw",
-          "title": "EK 1046 Hunt Solo Warzone 3 (No Runes) 6kk/h Raw + 1.9kk Profit - Tibia Hunt [13.36] #tibia",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "pCSGlf17EkU",
-          "title": "EK 904 Hunt Solo Warzone 8 4.3kk/h Raw + 9.6kk Profit (Double/Duplex/Prey) - Tibia Hunt [13.21]",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "24louUJDoXc",
-          "title": "EK 718 Hunt Solo Deep Hub Fungus Dungeon (Warzone 6) 2kk/h Raw + 1kk Profit - Tibia Hunt #tibia",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "zLuG2_nedEM",
-          "title": "EK 1194 Dwelling of the Forgotten (Warzone 9) 4.7kk/h Raw + 2.5kk Profit - Tibia Hunt [13.20] #tibia",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "b0CxWmGu4to",
-          "title": "RP 399 Hunt Solo Warzone 6 2.4kk/h Raw + 1.9kk Profit (Double loot) - Tibia Hunt [13.16] #tibia",
-          "vocations": [
-            "Paladin"
-          ]
-        },
-        {
-          "id": "vBS-256Wh-Q",
-          "title": "EK 928 Hunt Solo Grotto of the Lost (Warzone 8) 4.5kk/h Raw + 2.2kk Profit - Tibia Hunt [13.17]",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "w4kzyxtcOlE",
-          "title": "ED 1208 Hunt Solo Warzone 9 8.5kk/h (225%) 2.9kk Profit (Diremaw boost) - Tibia Hunt [13.17] #tibia",
-          "vocations": [
-            "Druid"
-          ]
-        },
-        {
-          "id": "ktQCL-iRzdU",
-          "title": "EK 925 Hunt Solo Grotto of the Lost (Warzone 8) 3.7kk Raw + 2.5kk Profit (Prey) - Tibia Hunt #tibia",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "o1rvYyBDOyU",
-          "title": "ED 983 Hunt Solo Antrum of the Fallen (Warzone 7) 3.4kk/h Raw 2.3kk Profit [13.14] #tibia #tibiahunt",
-          "vocations": [
-            "Druid"
-          ]
-        },
-        {
-          "id": "rhfR21DRg9I",
-          "title": "EK 877 + ED Hunt Duo Grotto of the Lost (Warzone 8) 5kk/h Raw 4.5kk Profit (Rapid) #tibia #tibiahunt",
-          "vocations": [
-            "Knight",
-            "Druid"
-          ]
-        },
-        {
-          "id": "cgaeE7hAzCk",
-          "title": "EK 1240 Hunt Solo Grotto of the Lost (Warzone 8) 6.3kk Profit/h (duplex)  [13.10] #tibia #tibiahunt",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "C_Oi1PkjsNw",
-          "title": "MS 710 Hunt Solo Deep Hub Fungus Dungeon (Warzone 6) 800k Profit/h - Tibia Hunt #tibia #tibiahunt",
-          "vocations": [
-            "Sorcerer"
-          ]
-        },
-        {
-          "id": "W9ytLfOYRAA",
-          "title": "EK 1006 + ED Hunt Duo Grotto Of The Lost (Warzone 8) 4.3kk/h Raw + 3.8kk Profit - #tibia #tibiahunt",
-          "vocations": [
-            "Knight",
-            "Druid"
-          ]
-        },
-        {
-          "id": "LZ4z5nXeUhE",
-          "title": "EK 1298 Hunt Solo Grotto of the Lost (Warzone 8) 4.8kk/h Raw + 3.1kk Profit (prey) #tibia #tibiahunt",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "CsOmghzaUqo",
-          "title": "EK 808 Hunt Solo Dwelling of the Forgotten (Warzone 9) 1kk+ Profit/h - [ 13.05] #tibia #tibiahunt",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "-BFDzR1vi3c",
-          "title": "RP 986 Hunt Solo Grotto of the Lost (Warzone 8) 3.6kk/h Raw + 2.4kk Profit (Prey loot) #tibiahunt",
-          "vocations": [
-            "Paladin"
-          ]
-        },
-        {
-          "id": "QYmB11xLFpM",
-          "title": "MS 1300 caindo na box da warzone, nem clicou #tibia #tibiahunt #shorts",
-          "vocations": [
-            "Sorcerer"
-          ]
-        },
-        {
-          "id": "chConkTqm2Y",
-          "title": "EK 822 Hunt Duo Grotto of the Lost (Warzone 8) 3.4kk+ Profit - Tibia Hunt [12.91] #tibia #tibiahunt",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "5JeEPIYAz7E",
-          "title": "MS 551 Hunt Solo Deep Hub Fungus Dungeon (Warzone 6) 1.2kk Profit/h - Tibia Hunt #tibia #tibiahunt",
-          "vocations": [
-            "Sorcerer"
-          ]
-        },
-        {
-          "id": "ulnIeWNFo2I",
-          "title": "RP 1266 Hunt Solo Antrum of the Fallen (Warzone 7) 1.7kk Profit/h - Tibia Hunt #tibia #tibiahunt",
-          "vocations": [
-            "Paladin"
-          ]
-        },
-        {
-          "id": "MvTmTWN5hrI",
-          "title": "MS 862 Hunt Solo Antrum of the Fallen (Warzone 7) 4.4kk/h (150%) + 1.8kk Profit #tibia #tibiahunt",
-          "vocations": [
-            "Sorcerer"
-          ]
-        },
-        {
-          "id": "ZOvZAIU8QTE",
-          "title": "EK 1148 Hunt Grotto of the Lost (Warzone 8) 2.6kk+ Profit/h - Tibia Hunt [12.90] #tibia #tibiahunt",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "ttuvaxpLP_s",
-          "title": "MS 1027 Hunt Solo Antrum of the Fallen (Warzone 7) 1.9kk Profit (Rapid Respawn) #tibia #tibiahunt",
-          "vocations": [
-            "Sorcerer"
-          ]
-        },
-        {
-          "id": "ARdCVgroga0",
-          "title": "MS 1035 Hunt Solo Grotto of the Lost (Warzone 8) 2.2kk+ Profit/h - #tibia #tibiahunt #hunts",
-          "vocations": [
-            "Sorcerer"
-          ]
-        },
-        {
-          "id": "DgMcokLvOdM",
-          "title": "RP 293 Hunt Solo Deep Hub Fungus Dungeon (Warzone 6) 2.1kk/h (150%) - Tibia Hunt #tibia #tibiahunt",
-          "vocations": [
-            "Paladin"
-          ]
-        },
-        {
-          "id": "tQFa__d_p9M",
-          "title": "MS 495 Hunt Solo Deep Hub Fungus Dungeon (Warzone 6) 3.1kk/h (150%) + 1kk Profit #tibia #tibiahunt",
-          "vocations": [
-            "Sorcerer"
-          ]
-        },
-        {
-          "id": "DDPRGVb32SY",
-          "title": "EK 601 Hunt Solo Deep Hub Crystal Dungeon (Warzone 5) 4.3kk/h (200%/double loot) - Tibia Hunt #tibia",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "Mmy_DyNG2OI",
-          "title": "ED 1201 8.8kk Profit/h Hunt Solo Grotto of the Lost (Warzone 8) Double loot + prey #tibia #tibiahunt",
-          "vocations": [
-            "Druid"
-          ]
-        },
-        {
-          "id": "GNWwjOVU5IE",
-          "title": "ED 759 Hunt Solo Anthrum of the Fallen (Warzone 7) 1kk+ Profit/h - Tibia Hunt #tibia #tibiahunt",
-          "vocations": [
-            "Druid"
-          ]
-        },
-        {
-          "id": "aYd9Qyqd0Wo",
-          "title": "RP 646 Hunt Solo Deep Hub Magma Dungeon (Warzone 4) 4kk/h (150%) - Tibia Hunt #tibia #tibiahunt",
-          "vocations": [
-            "Paladin"
-          ]
-        },
-        {
-          "id": "sywtCdvjmZ4",
-          "title": "RP 887 Hunt Solo Deep Hub Crystal Dungeon (Warzone 5) 11kk/h (225%/tirant boosted) #tibia #tibiahunt",
-          "vocations": [
-            "Paladin"
-          ]
-        },
-        {
-          "id": "ST-A7dAMzjU",
-          "title": "ED 1174 Hunt Solo Grotto of the Lost (Warzone 8) 2kk+ profit/h - Tibia Hunt #tibia #tibiahunt #hunts",
-          "vocations": [
-            "Druid"
-          ]
-        }
-      ]
+      "youtubeVideos": [],
+      "youtubeURI": ""
     },
     {
       "name": "Diremaw Task Area",
@@ -38449,7 +35334,7 @@
         "updatedAt": "2025-02-16T17:06:13.977Z",
         "createdAt": "2025-02-16T17:06:13.977Z"
       },
-      "youtubeVideoId": "XboYyot5GWU",
+      "youtubeVideoId": "",
       "predominantDamage": [
         {
           "element": "Physical",
@@ -38468,22 +35353,8 @@
           "percentage": 4
         }
       ],
-      "youtubeVideos": [
-        {
-          "id": "XboYyot5GWU",
-          "title": "RP 365 Hunt Solo (Bestiary) Medusa Tower 2.7kk/h Raw (Rapid respawn) - Tibia Hunt [13.10] #tibia",
-          "vocations": [
-            "Paladin"
-          ]
-        },
-        {
-          "id": "RHQgpNVvk28",
-          "title": "RP 374 Hunt Solo (Bestiary) Medusa Tower 1.6kk/h Raw - Tibia Hunt [12.91] #tibia #tibiahunt #hunts",
-          "vocations": [
-            "Paladin"
-          ]
-        }
-      ]
+      "youtubeVideos": [],
+      "youtubeURI": ""
     },
     {
       "name": "Kazordoon Mini Otherworld",
@@ -43245,7 +40116,7 @@
         "updatedAt": "2025-02-16T17:06:13.977Z",
         "createdAt": "2025-02-16T17:06:13.977Z"
       },
-      "youtubeVideoId": "yjKPaqvXRDk",
+      "youtubeVideoId": "",
       "predominantDamage": [
         {
           "element": "Physical",
@@ -43264,36 +40135,8 @@
           "percentage": 3
         }
       ],
-      "youtubeVideos": [
-        {
-          "id": "yjKPaqvXRDk",
-          "title": "EK 211 Hunt Solo Glooth Tower (Prey Atk, No Charms) 1.7kk/h Raw + 250k Profit - Tibia Hunt [15.10]",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "TYltzGnZFz0",
-          "title": "EK 219 Hunt Solo Glooth Tower (Bestiary) 1.7kk/h Raw + 200k Profit - Tibia Hunt [13.34] #tibia",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "OYB1fSfw79A",
-          "title": "EK 573 Hunt Solo Glooth Tower 2.1kk/h Raw + 1kk Profit (Devourer boosted)  #tibia #tibiahunt",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "zEYBe2ITjMY",
-          "title": "RP 258 Hunt Solo Glooth Tower 2.4kk/h (150%) - Tibia Hunt #tibia #tibiahunt #hunts",
-          "vocations": [
-            "Paladin"
-          ]
-        }
-      ]
+      "youtubeVideos": [],
+      "youtubeURI": ""
     },
     {
       "name": "Winter Dream Court",
@@ -45161,7 +42004,7 @@
         "updatedAt": "2025-02-16T17:06:13.977Z",
         "createdAt": "2025-02-16T17:06:13.977Z"
       },
-      "youtubeVideoId": "k_bNmg-bFmk",
+      "youtubeVideoId": "",
       "predominantDamage": [
         {
           "element": "Physical",
@@ -45180,71 +42023,8 @@
           "percentage": 5
         }
       ],
-      "youtubeVideos": [
-        {
-          "id": "k_bNmg-bFmk",
-          "title": "EK 1367 Hunt Solo Deeper Banuta (Task) 3.8kk/h Raw + 1.2kk Profit - Tibia Hunt [15.24]",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "NAQHfvWdQVE",
-          "title": "EK 247 Hunt Solo Deeper Banuta (-3) 2kk/h Raw + 300k Profit - Tibia Hunt [13.34] #tibia #tibiahunt",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "ddNDteSKc6E",
-          "title": "EK 535 Hunt Solo Deeper Banuta (Medusa Boosted) 2.9kk/h Raw + 900k Profit Tibia Hunt [13.20] #tibia",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "k72J-pr9XNw",
-          "title": "EK 499 Hunt Solo Deeper Banuta 2.9kk/h Raw + 400k Profit - Tibia Hunt [13.17] #tibia #tibiahunt",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "wlmZl587WLI",
-          "title": "EK 270 Hunt Solo Deeper Banuta (-2) 1.7kk/h Raw + 400k Profit - Tibia Hunt [13.16] #tibia #tibiahunt",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "-Mh-erbKOSA",
-          "title": "EK 544 Hunt Solo Deeper Banuta 2.8kk/h Raw + 1kk Profit (Medusa boosted)  #tibia #tibiahunt",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "3cXx02u4CIc",
-          "title": "EK 282 Hunt Solo Deeper Banuta 4.3kk/h (225%) - Tibia Hunt [13.00] #tibia #tibiahunt #hunts",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "4EpmN-W7cnk",
-          "title": "EK 506 Hunt Solo Deeper Banuta 3.6kk/h (150%) + 400k Profit - Tibia Hunt  #tibia #tibiahunt #hunts",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "NCJClGecOnE",
-          "title": "MS 300 Hunt Solo Deeper Banuta 6.9kk/h (300%) - Tibia Hunt #tibia #tibiahunt #hunts",
-          "vocations": [
-            "Sorcerer"
-          ]
-        }
-      ]
+      "youtubeVideos": [],
+      "youtubeURI": ""
     },
     {
       "name": "Asura Palace",
@@ -46590,7 +43370,7 @@
         "updatedAt": "2025-02-16T17:06:13.977Z",
         "createdAt": "2025-02-16T17:06:13.977Z"
       },
-      "youtubeVideoId": "SVE-ummlAmw",
+      "youtubeVideoId": "",
       "predominantDamage": [
         {
           "element": "Physical",
@@ -46617,43 +43397,8 @@
           "percentage": 2
         }
       ],
-      "youtubeVideos": [
-        {
-          "id": "SVE-ummlAmw",
-          "title": "MS 359 Hunt Solo Asura Palace (Bestiary) 1.8kk/h Raw + 150k Profit - Tibia Hunt [14.12] #tibiahunt",
-          "vocations": [
-            "Sorcerer"
-          ]
-        },
-        {
-          "id": "zyAGT6TIVbQ",
-          "title": "RP 380 Hunt Solo Asura Palace (Bestiary) 2.7kk/h Raw + 300k Profit - Tibia Hunt [14.12] #tibia",
-          "vocations": [
-            "Paladin"
-          ]
-        },
-        {
-          "id": "OoAj3FXXCw8",
-          "title": "EK 369 Hunt Solo Asura Palace 2.3kk/h Raw + 800k Profit (Double Loot) - Tibia Hunt [13.21] #tibia",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "XpoFAhhF-oI",
-          "title": "EK 331 Hunt Solo Asura Palace 2.7kk/h Raw + 300k Profit - Tibia Hunt [13.10] #tibia #tibiahunt",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "A57st6ndijM",
-          "title": "RP 375 Hunt Solo Asura Palace 6.4kk/h (225%) - Tibia Hunt [12.87] #tibia #tibiahunt #hunts",
-          "vocations": [
-            "Paladin"
-          ]
-        }
-      ]
+      "youtubeVideos": [],
+      "youtubeURI": ""
     },
     {
       "name": "Zaoan Draken Walls",
@@ -48490,7 +45235,7 @@
         "updatedAt": "2025-02-16T17:06:13.977Z",
         "createdAt": "2025-02-16T17:06:13.977Z"
       },
-      "youtubeVideoId": "WCrSPCa6YCc",
+      "youtubeVideoId": "",
       "predominantDamage": [
         {
           "element": "Physical",
@@ -48517,15 +45262,8 @@
           "percentage": 2
         }
       ],
-      "youtubeVideos": [
-        {
-          "id": "WCrSPCa6YCc",
-          "title": "EK 832 Hunt Solo Oramond Furys 4.6kk/h Raw + 1.3kk Profit - Tibia Hunt [14.10] #tibia #tibiahunt",
-          "vocations": [
-            "Knight"
-          ]
-        }
-      ]
+      "youtubeVideos": [],
+      "youtubeURI": ""
     },
     {
       "name": "Pirats The Wreconing",
@@ -53245,7 +49983,7 @@
         "updatedAt": "2025-02-16T17:06:13.977Z",
         "createdAt": "2025-02-16T17:06:13.977Z"
       },
-      "youtubeVideoId": "hAWsFw5DvfE",
+      "youtubeVideoId": "",
       "predominantDamage": [
         {
           "element": "Physical",
@@ -53256,15 +49994,8 @@
           "percentage": 23
         }
       ],
-      "youtubeVideos": [
-        {
-          "id": "hAWsFw5DvfE",
-          "title": "MONK 238 Hunt Solo Grim Reapers Yalahar 4.1kk/h Raw - Tibia Hunt [15.00] #tibia #tibiahunt",
-          "vocations": [
-            "Monk"
-          ]
-        }
-      ]
+      "youtubeVideos": [],
+      "youtubeURI": ""
     },
     {
       "name": "Werehyenna North",
@@ -55053,7 +51784,7 @@
         "updatedAt": "2025-06-23T16:31:19.142Z",
         "createdAt": "2025-06-23T16:31:19.142Z"
       },
-      "youtubeVideoId": "k_bNmg-bFmk",
+      "youtubeVideoId": "",
       "predominantDamage": [
         {
           "element": "Physical",
@@ -55072,71 +51803,8 @@
           "percentage": 5
         }
       ],
-      "youtubeVideos": [
-        {
-          "id": "k_bNmg-bFmk",
-          "title": "EK 1367 Hunt Solo Deeper Banuta (Task) 3.8kk/h Raw + 1.2kk Profit - Tibia Hunt [15.24]",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "NAQHfvWdQVE",
-          "title": "EK 247 Hunt Solo Deeper Banuta (-3) 2kk/h Raw + 300k Profit - Tibia Hunt [13.34] #tibia #tibiahunt",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "ddNDteSKc6E",
-          "title": "EK 535 Hunt Solo Deeper Banuta (Medusa Boosted) 2.9kk/h Raw + 900k Profit Tibia Hunt [13.20] #tibia",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "k72J-pr9XNw",
-          "title": "EK 499 Hunt Solo Deeper Banuta 2.9kk/h Raw + 400k Profit - Tibia Hunt [13.17] #tibia #tibiahunt",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "wlmZl587WLI",
-          "title": "EK 270 Hunt Solo Deeper Banuta (-2) 1.7kk/h Raw + 400k Profit - Tibia Hunt [13.16] #tibia #tibiahunt",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "-Mh-erbKOSA",
-          "title": "EK 544 Hunt Solo Deeper Banuta 2.8kk/h Raw + 1kk Profit (Medusa boosted)  #tibia #tibiahunt",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "3cXx02u4CIc",
-          "title": "EK 282 Hunt Solo Deeper Banuta 4.3kk/h (225%) - Tibia Hunt [13.00] #tibia #tibiahunt #hunts",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "4EpmN-W7cnk",
-          "title": "EK 506 Hunt Solo Deeper Banuta 3.6kk/h (150%) + 400k Profit - Tibia Hunt  #tibia #tibiahunt #hunts",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "NCJClGecOnE",
-          "title": "MS 300 Hunt Solo Deeper Banuta 6.9kk/h (300%) - Tibia Hunt #tibia #tibiahunt #hunts",
-          "vocations": [
-            "Sorcerer"
-          ]
-        }
-      ]
+      "youtubeVideos": [],
+      "youtubeURI": ""
     },
     {
       "name": "Barkless",
@@ -55724,7 +52392,7 @@
         "updatedAt": "2025-02-16T17:06:13.977Z",
         "createdAt": "2025-02-16T17:06:13.977Z"
       },
-      "youtubeVideoId": "xZn-rSoSTTs",
+      "youtubeVideoId": "",
       "predominantDamage": [
         {
           "element": "Physical",
@@ -55735,22 +52403,8 @@
           "percentage": 11
         }
       ],
-      "youtubeVideos": [
-        {
-          "id": "xZn-rSoSTTs",
-          "title": "EK 137 Hunt Solo The Barkless 8.6kk/h (Double + 2 Preys) - Tibia Hunt [14.00] #tibia #tibiahunt",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "VC5IloocH84",
-          "title": "EK 151 Hunt Solo Barkless 5.5kk/h (375%) - Tibia Hunt #tibia #tibiahunt #hunts",
-          "vocations": [
-            "Knight"
-          ]
-        }
-      ]
+      "youtubeVideos": [],
+      "youtubeURI": ""
     },
     {
       "name": "Edron Were Mobs",
@@ -59356,7 +56010,7 @@
         "updatedAt": "2025-12-20T23:21:36.717Z",
         "createdAt": "2025-02-16T17:06:13.977Z"
       },
-      "youtubeVideoId": "Rzp4wRB9YMA",
+      "youtubeVideoId": "",
       "predominantDamage": [
         {
           "element": "Physical",
@@ -59367,15 +56021,8 @@
           "percentage": 16
         }
       ],
-      "youtubeVideos": [
-        {
-          "id": "Rzp4wRB9YMA",
-          "title": "EK 150 Hunt Solo Exotic Cave 1.8kk/h (150%) + 350k Profit - Tibia Hunt [13.10] #tibia #tibiahunt",
-          "vocations": [
-            "Knight"
-          ]
-        }
-      ]
+      "youtubeVideos": [],
+      "youtubeURI": ""
     },
     {
       "name": "Old Fortress - Hero Cave",
@@ -102421,7 +99068,7 @@
         "updatedAt": "2025-02-16T17:06:13.977Z",
         "createdAt": "2025-02-16T17:06:13.977Z"
       },
-      "youtubeVideoId": "7APze3hNllg",
+      "youtubeVideoId": "",
       "predominantDamage": [
         {
           "element": "Physical",
@@ -102436,15 +99083,8 @@
           "percentage": 1
         }
       ],
-      "youtubeVideos": [
-        {
-          "id": "7APze3hNllg",
-          "title": "EK 251 Hunt Solo Reworked Grims Cemetery Quarter 3.3kk/h Raw (Prey Atk) - Tibia Hunt [13.34] #tibia",
-          "vocations": [
-            "Knight"
-          ]
-        }
-      ]
+      "youtubeVideos": [],
+      "youtubeURI": ""
     },
     {
       "name": "Ankrahmun North Larvas",
