@@ -1,7 +1,7 @@
 {
   "hunts": [
     {
-      "name": "Podzilla Quara ED/MS/RP",
+      "name": "Podzilla Quara",
       "minLevel": 1100,
       "vocations": [
         "Knight",
@@ -586,7 +586,7 @@
       "youtubeVideos": []
     },
     {
-      "name": "Iskupan Occupied Sanctuary ED/MS",
+      "name": "Iskupan Occupied Sanctuary",
       "minLevel": 1000,
       "vocations": [
         "Knight",
@@ -2405,7 +2405,7 @@
       ]
     },
     {
-      "name": "Infernatil Seal RP",
+      "name": "Infernatil Seal",
       "minLevel": 950,
       "vocations": [
         "Knight",
@@ -3000,7 +3000,7 @@
       "youtubeVideos": []
     },
     {
-      "name": "WARZONE 3 RP",
+      "name": "WARZONE 3",
       "minLevel": 900,
       "vocations": [
         "Knight",
@@ -6195,7 +6195,7 @@
       ]
     },
     {
-      "name": "Upper Roshamuul EK",
+      "name": "Upper Roshamuul",
       "minLevel": 750,
       "vocations": [
         "Knight",
@@ -7278,990 +7278,7 @@
       ]
     },
     {
-      "name": "Upper Roshamuul RP",
-      "minLevel": 700,
-      "vocations": [
-        "Knight",
-        "Druid",
-        "Paladin",
-        "Sorcerer"
-      ],
-      "expPerHour": "6.5kk",
-      "profitPerHour": "1.3kk",
-      "mapImageUrl": "",
-      "monsters": [
-        {
-          "name": "CHOKING FEAR",
-          "imageUrl": "https://cdn.rubinottools.com/monsters/CHOKING-FEAR.gif",
-          "health": 5800,
-          "experience": 4700,
-          "suggestedCharm": "Zap"
-        },
-        {
-          "name": "RETCHING HORROR",
-          "imageUrl": "https://cdn.rubinottools.com/monsters/RETCHING-HORROR.gif",
-          "health": 5300,
-          "experience": 4100,
-          "suggestedCharm": "Wound"
-        },
-        {
-          "name": "SILENCER",
-          "imageUrl": "https://cdn.rubinottools.com/monsters/SILENCER.gif",
-          "health": 5400,
-          "experience": 5100,
-          "suggestedCharm": "Divine Wrath"
-        }
-      ],
-      "equipment": [],
-      "id": "upper-roshamuul-rp",
-      "mapPath": {
-        "id": "9ec9833c-9395-484c-b8b1-7cde5e88e1ce",
-        "name": "Upper Roshamuul RP - Route",
-        "slug": "Upper-Roshamuul-RP-Route",
-        "description": "",
-        "cords": {
-          "x": 33591,
-          "y": 32341,
-          "floor": 7,
-          "zoom": 3
-        },
-        "markers": [
-          {
-            "description": "",
-            "icon": "star",
-            "x": 33591,
-            "y": 32341,
-            "floor": 7,
-            "isDeleted": false
-          },
-          {
-            "description": "",
-            "icon": "crossmark",
-            "x": 33617,
-            "y": 32340,
-            "floor": 7,
-            "isDeleted": false
-          },
-          {
-            "description": "",
-            "icon": "crossmark",
-            "x": 33590,
-            "y": 32388,
-            "floor": 7,
-            "isDeleted": false
-          },
-          {
-            "description": "",
-            "icon": "crossmark",
-            "x": 33631,
-            "y": 32401,
-            "floor": 7,
-            "isDeleted": false
-          },
-          {
-            "description": "",
-            "icon": "crossmark",
-            "x": 33650,
-            "y": 32434,
-            "floor": 7,
-            "isDeleted": false
-          },
-          {
-            "description": "",
-            "icon": "crossmark",
-            "x": 33602,
-            "y": 32436,
-            "floor": 7,
-            "isDeleted": false
-          },
-          {
-            "description": "",
-            "icon": "crossmark",
-            "x": 33587,
-            "y": 32406,
-            "floor": 7,
-            "isDeleted": false
-          },
-          {
-            "description": "",
-            "icon": "crossmark",
-            "x": 33547,
-            "y": 32403,
-            "floor": 7,
-            "isDeleted": false
-          }
-        ],
-        "paths": [
-          {
-            "floor": 7,
-            "pulseColor": "#e79603",
-            "pathColor": "#232528",
-            "weight": 7,
-            "delay": 100,
-            "dashArray": [
-              30
-            ],
-            "routes": [
-              {
-                "x": 33591,
-                "y": 32341
-              },
-              {
-                "x": 33594,
-                "y": 32338
-              },
-              {
-                "x": 33597,
-                "y": 32335
-              },
-              {
-                "x": 33602,
-                "y": 32332
-              },
-              {
-                "x": 33605,
-                "y": 32330
-              },
-              {
-                "x": 33610,
-                "y": 32326
-              },
-              {
-                "x": 33614,
-                "y": 32322
-              },
-              {
-                "x": 33616,
-                "y": 32318
-              },
-              {
-                "x": 33619,
-                "y": 32319
-              },
-              {
-                "x": 33619,
-                "y": 32324
-              },
-              {
-                "x": 33618,
-                "y": 32328
-              },
-              {
-                "x": 33617,
-                "y": 32333
-              },
-              {
-                "x": 33617,
-                "y": 32337
-              },
-              {
-                "x": 33617,
-                "y": 32340
-              },
-              {
-                "x": 33611,
-                "y": 32339
-              },
-              {
-                "x": 33610,
-                "y": 32346
-              },
-              {
-                "x": 33606,
-                "y": 32348
-              },
-              {
-                "x": 33601,
-                "y": 32350
-              },
-              {
-                "x": 33599,
-                "y": 32358
-              },
-              {
-                "x": 33594,
-                "y": 32360
-              },
-              {
-                "x": 33594,
-                "y": 32365
-              },
-              {
-                "x": 33594,
-                "y": 32372
-              },
-              {
-                "x": 33592,
-                "y": 32378
-              },
-              {
-                "x": 33591,
-                "y": 32383
-              },
-              {
-                "x": 33590,
-                "y": 32388
-              },
-              {
-                "x": 33592,
-                "y": 32394
-              },
-              {
-                "x": 33596,
-                "y": 32395
-              },
-              {
-                "x": 33601,
-                "y": 32395
-              },
-              {
-                "x": 33607,
-                "y": 32395
-              },
-              {
-                "x": 33614,
-                "y": 32395
-              },
-              {
-                "x": 33621,
-                "y": 32395
-              },
-              {
-                "x": 33629,
-                "y": 32395
-              },
-              {
-                "x": 33631,
-                "y": 32397
-              },
-              {
-                "x": 33631,
-                "y": 32401
-              },
-              {
-                "x": 33631,
-                "y": 32408
-              },
-              {
-                "x": 33638,
-                "y": 32409
-              },
-              {
-                "x": 33638,
-                "y": 32414
-              },
-              {
-                "x": 33635,
-                "y": 32415
-              },
-              {
-                "x": 33636,
-                "y": 32421
-              },
-              {
-                "x": 33645,
-                "y": 32421
-              },
-              {
-                "x": 33650,
-                "y": 32423
-              },
-              {
-                "x": 33653,
-                "y": 32428
-              },
-              {
-                "x": 33652,
-                "y": 32432
-              },
-              {
-                "x": 33650,
-                "y": 32434
-              },
-              {
-                "x": 33647,
-                "y": 32439
-              },
-              {
-                "x": 33642,
-                "y": 32442
-              },
-              {
-                "x": 33635,
-                "y": 32443
-              },
-              {
-                "x": 33627,
-                "y": 32443
-              },
-              {
-                "x": 33620,
-                "y": 32443
-              },
-              {
-                "x": 33614,
-                "y": 32442
-              },
-              {
-                "x": 33609,
-                "y": 32438
-              },
-              {
-                "x": 33605,
-                "y": 32436
-              },
-              {
-                "x": 33602,
-                "y": 32436
-              },
-              {
-                "x": 33601,
-                "y": 32428
-              },
-              {
-                "x": 33601,
-                "y": 32422
-              },
-              {
-                "x": 33601,
-                "y": 32416
-              },
-              {
-                "x": 33597,
-                "y": 32413
-              },
-              {
-                "x": 33595,
-                "y": 32410
-              },
-              {
-                "x": 33591,
-                "y": 32406
-              },
-              {
-                "x": 33587,
-                "y": 32406
-              },
-              {
-                "x": 33586,
-                "y": 32409
-              },
-              {
-                "x": 33585,
-                "y": 32413
-              },
-              {
-                "x": 33582,
-                "y": 32415
-              },
-              {
-                "x": 33578,
-                "y": 32415
-              },
-              {
-                "x": 33575,
-                "y": 32417
-              },
-              {
-                "x": 33575,
-                "y": 32422
-              },
-              {
-                "x": 33575,
-                "y": 32426
-              },
-              {
-                "x": 33575,
-                "y": 32429
-              },
-              {
-                "x": 33571,
-                "y": 32429
-              },
-              {
-                "x": 33571,
-                "y": 32425
-              },
-              {
-                "x": 33571,
-                "y": 32421
-              },
-              {
-                "x": 33570,
-                "y": 32417
-              },
-              {
-                "x": 33567,
-                "y": 32416
-              },
-              {
-                "x": 33563,
-                "y": 32413
-              },
-              {
-                "x": 33558,
-                "y": 32412
-              },
-              {
-                "x": 33553,
-                "y": 32411
-              },
-              {
-                "x": 33550,
-                "y": 32408
-              },
-              {
-                "x": 33548,
-                "y": 32405
-              },
-              {
-                "x": 33547,
-                "y": 32403
-              },
-              {
-                "x": 33548,
-                "y": 32398
-              },
-              {
-                "x": 33551,
-                "y": 32395
-              },
-              {
-                "x": 33554,
-                "y": 32393
-              },
-              {
-                "x": 33560,
-                "y": 32393
-              },
-              {
-                "x": 33565,
-                "y": 32392
-              },
-              {
-                "x": 33568,
-                "y": 32389
-              },
-              {
-                "x": 33568,
-                "y": 32385
-              },
-              {
-                "x": 33571,
-                "y": 32383
-              },
-              {
-                "x": 33573,
-                "y": 32381
-              },
-              {
-                "x": 33573,
-                "y": 32379
-              },
-              {
-                "x": 33573,
-                "y": 32375
-              },
-              {
-                "x": 33574,
-                "y": 32370
-              },
-              {
-                "x": 33575,
-                "y": 32366
-              },
-              {
-                "x": 33577,
-                "y": 32363
-              },
-              {
-                "x": 33580,
-                "y": 32360
-              },
-              {
-                "x": 33581,
-                "y": 32356
-              },
-              {
-                "x": 33583,
-                "y": 32352
-              },
-              {
-                "x": 33584,
-                "y": 32347
-              },
-              {
-                "x": 33587,
-                "y": 32344
-              },
-              {
-                "x": 33589,
-                "y": 32342
-              },
-              {
-                "x": 33591,
-                "y": 32341
-              }
-            ]
-          }
-        ],
-        "speed": 500,
-        "mapAreaId": "d2d68ca9-6e7e-4280-9b52-474a255452a3",
-        "createdBy": null,
-        "modifiedBy": null,
-        "updatedAt": "2026-01-02T00:42:24.370Z",
-        "createdAt": "2025-02-16T17:06:13.977Z"
-      },
-      "wayPath": {
-        "id": "734c0e92-a987-4d49-8131-01bafaab6158",
-        "name": "Upper Roshamuul RP - Way",
-        "slug": "Upper-Roshamuul-RP-Way",
-        "description": "",
-        "cords": {
-          "x": 33494,
-          "y": 32567,
-          "floor": 7,
-          "zoom": 3
-        },
-        "markers": [
-          {
-            "description": "",
-            "icon": "star",
-            "x": 33494,
-            "y": 32567,
-            "floor": 7,
-            "isDeleted": false
-          },
-          {
-            "description": "",
-            "icon": "up",
-            "x": 33524,
-            "y": 32548,
-            "floor": 7,
-            "isDeleted": false
-          },
-          {
-            "description": "",
-            "icon": "up",
-            "x": 33530,
-            "y": 32523,
-            "floor": 6,
-            "isDeleted": false
-          },
-          {
-            "description": "",
-            "icon": "down",
-            "x": 33539,
-            "y": 32483,
-            "floor": 5,
-            "isDeleted": false
-          },
-          {
-            "description": "",
-            "icon": "down",
-            "x": 33538,
-            "y": 32476,
-            "floor": 6,
-            "isDeleted": false
-          }
-        ],
-        "paths": [
-          {
-            "floor": 7,
-            "pulseColor": "#e79603",
-            "pathColor": "#232528",
-            "weight": 7,
-            "delay": 100,
-            "dashArray": [
-              30
-            ],
-            "routes": [
-              {
-                "x": 33494,
-                "y": 32567
-              },
-              {
-                "x": 33495,
-                "y": 32564
-              },
-              {
-                "x": 33501,
-                "y": 32561
-              },
-              {
-                "x": 33506,
-                "y": 32557
-              },
-              {
-                "x": 33512,
-                "y": 32554
-              },
-              {
-                "x": 33520,
-                "y": 32551
-              },
-              {
-                "x": 33524,
-                "y": 32548
-              }
-            ]
-          },
-          {
-            "floor": 6,
-            "pulseColor": "#e79603",
-            "pathColor": "#232528",
-            "weight": 7,
-            "delay": 100,
-            "dashArray": [
-              30
-            ],
-            "routes": [
-              {
-                "x": 33524,
-                "y": 32548
-              },
-              {
-                "x": 33525,
-                "y": 32542
-              },
-              {
-                "x": 33528,
-                "y": 32536
-              },
-              {
-                "x": 33529,
-                "y": 32531
-              },
-              {
-                "x": 33530,
-                "y": 32526
-              },
-              {
-                "x": 33530,
-                "y": 32523
-              }
-            ]
-          },
-          {
-            "floor": 5,
-            "pulseColor": "#e79603",
-            "pathColor": "#232528",
-            "weight": 7,
-            "delay": 100,
-            "dashArray": [
-              30
-            ],
-            "routes": [
-              {
-                "x": 33530,
-                "y": 32523
-              },
-              {
-                "x": 33531,
-                "y": 32519
-              },
-              {
-                "x": 33537,
-                "y": 32514
-              },
-              {
-                "x": 33537,
-                "y": 32508
-              },
-              {
-                "x": 33537,
-                "y": 32502
-              },
-              {
-                "x": 33537,
-                "y": 32496
-              },
-              {
-                "x": 33538,
-                "y": 32491
-              },
-              {
-                "x": 33539,
-                "y": 32487
-              },
-              {
-                "x": 33539,
-                "y": 32483
-              }
-            ]
-          },
-          {
-            "floor": 6,
-            "pulseColor": "#e79603",
-            "pathColor": "#232528",
-            "weight": 7,
-            "delay": 100,
-            "dashArray": [
-              30
-            ],
-            "routes": [
-              {
-                "x": 33539,
-                "y": 32483
-              },
-              {
-                "x": 33539,
-                "y": 32479
-              },
-              {
-                "x": 33539,
-                "y": 32477
-              },
-              {
-                "x": 33538,
-                "y": 32476
-              }
-            ]
-          },
-          {
-            "floor": 7,
-            "pulseColor": "#e79603",
-            "pathColor": "#232528",
-            "weight": 7,
-            "delay": 100,
-            "dashArray": [
-              30
-            ],
-            "routes": [
-              {
-                "x": 33538,
-                "y": 32476
-              },
-              {
-                "x": 33542,
-                "y": 32473
-              },
-              {
-                "x": 33548,
-                "y": 32472
-              },
-              {
-                "x": 33556,
-                "y": 32469
-              },
-              {
-                "x": 33562,
-                "y": 32469
-              },
-              {
-                "x": 33570,
-                "y": 32469
-              },
-              {
-                "x": 33575,
-                "y": 32467
-              },
-              {
-                "x": 33580,
-                "y": 32463
-              },
-              {
-                "x": 33585,
-                "y": 32460
-              },
-              {
-                "x": 33593,
-                "y": 32459
-              },
-              {
-                "x": 33599,
-                "y": 32461
-              },
-              {
-                "x": 33608,
-                "y": 32461
-              },
-              {
-                "x": 33613,
-                "y": 32455
-              },
-              {
-                "x": 33621,
-                "y": 32453
-              },
-              {
-                "x": 33628,
-                "y": 32453
-              },
-              {
-                "x": 33636,
-                "y": 32453
-              },
-              {
-                "x": 33639,
-                "y": 32449
-              },
-              {
-                "x": 33636,
-                "y": 32444
-              }
-            ]
-          }
-        ],
-        "speed": 500,
-        "mapAreaId": null,
-        "createdBy": null,
-        "modifiedBy": null,
-        "updatedAt": "2025-02-16T17:06:13.977Z",
-        "createdAt": "2025-02-16T17:06:13.977Z"
-      },
-      "youtubeVideoId": "B7Q_qIs4L-w",
-      "predominantDamage": [
-        {
-          "element": "Physical",
-          "percentage": 78
-        },
-        {
-          "element": "Life_drain",
-          "percentage": 12
-        },
-        {
-          "element": "Fire",
-          "percentage": 4
-        },
-        {
-          "element": "Death",
-          "percentage": 3
-        },
-        {
-          "element": "Earth",
-          "percentage": 2
-        },
-        {
-          "element": "Mana_drain",
-          "percentage": 2
-        }
-      ],
-      "youtubeVideos": [
-        {
-          "id": "B7Q_qIs4L-w",
-          "title": "RP 1245 Hunt Solo Upper Roshamuul (Class Rework) 10.8kk/h Raw + 3.2kk Profit - Tibia Hunt [15.25]",
-          "vocations": [
-            "Paladin"
-          ]
-        },
-        {
-          "id": "EV1OZvNV_UE",
-          "title": "RP 1177 Hunt Solo Upper Roshamuul 9.8kk/h Raw + 2.8kk Profit - Tibia Hunt [15.23]",
-          "vocations": [
-            "Paladin"
-          ]
-        },
-        {
-          "id": "R2yKRYqxvu4",
-          "title": "RP 1492 Hunt Solo Upper Roshamuul (Bounty Task) 10kk Raw + 2.1kk Profit - Tibia Hunt [15.13]",
-          "vocations": [
-            "Paladin"
-          ]
-        },
-        {
-          "id": "zff-0geLxcs",
-          "title": "RP 551 + EM Hunt Duo Upper Roshamuul 3.8kk/h Raw + 1kk Profit - Tibia Hunt [15.11]",
-          "vocations": [
-            "Paladin",
-            "Monk"
-          ]
-        },
-        {
-          "id": "QZBIdnnhx5E",
-          "title": "RP 1113 Hunt Solo Upper Roshamuul (Prey Loot) 9.4kk/h Raw + 2kk Profit - Tibia Hunt [15.10]",
-          "vocations": [
-            "Paladin"
-          ]
-        },
-        {
-          "id": "I-ZL3HZDwsU",
-          "title": "RP 1082 Hunt Solo Upper Roshamuul 9.2kk/h Raw + 1.9kk Profit - Tibia Hunt [15.00] #tibia #tibiahunt",
-          "vocations": [
-            "Paladin"
-          ]
-        },
-        {
-          "id": "Zt12rYMQvUE",
-          "title": "RP 845 Hunt Solo Upper Roshamuul 7.7kk/h Raw + 1.6kk Profit - Tibia Hunt [15.00] #tibia #tibiahunt",
-          "vocations": [
-            "Paladin"
-          ]
-        },
-        {
-          "id": "lN_WsgNOznU",
-          "title": "RP 1124 Hunt Solo Upper Roshamuul 8kk/h Raw + 2.2kk Profit - Tibia Hunt 15.00] #tibiahunt #tibia",
-          "vocations": [
-            "Paladin"
-          ]
-        },
-        {
-          "id": "A8XjpYAx88E",
-          "title": "RP 1339 Hunt Solo Upper Roshamuul 9.1kk/h Raw + 2kk Profit - Tibia Hunt [14.12] #tibia #tibiahunt",
-          "vocations": [
-            "Paladin"
-          ]
-        },
-        {
-          "id": "KwuUFzXC1AU",
-          "title": "EK 628 Hunt Solo Upper Roshamuul (Prey Loot) 5.5kk/h Raw + 1.9kk Profit - Tibia Hunt [14.12] #tibia",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "u3dHFRFUxJ0",
-          "title": "RP 848 Hunt Solo Upper Roshamuul 7.3kk/h Raw + 1.8kk Profit - Tibia Hunt [14.12] #tibia #tibiahunt",
-          "vocations": [
-            "Paladin"
-          ]
-        },
-        {
-          "id": "kC9_-pQ1CQY",
-          "title": "RP 1065 Hunt Solo Upper Roshamuul (Prey Atk) 8kk/h Raw + 2kk Profit - Tibia Hunt [13.41] #tibia",
-          "vocations": [
-            "Paladin"
-          ]
-        },
-        {
-          "id": "bXJp6ieb5Wc",
-          "title": "RP 1185 Hunt Solo Upper Roshamuul (Prey Atk) 7.2kk/h Raw + 1.7kk Profit - Tibia Hunt [13.40] #tibia",
-          "vocations": [
-            "Paladin"
-          ]
-        },
-        {
-          "id": "pe4hMyFSr1o",
-          "title": "EK 790 Hunt Solo Upper Roshamuul (Prey Loot) 4.9kk/h Raw + 1.6kk Profit - Tibia Hunt [13.40]",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "JCbmfCNKhaM",
-          "title": "RP 836 Hunt Solo Upper Roshamuul 4.3kk/h Raw + 600k Profit - Tibia Hunt [13.36] #tibia #tibiahunt",
-          "vocations": [
-            "Paladin"
-          ]
-        },
-        {
-          "id": "Ncfu-7k74ck",
-          "title": "RP 470 Hunt Solo Upper Roshamuul (Chocking Boosted) 3.5kk/h Raw + 850k Profit - Tibia Hunt [13.34]",
-          "vocations": [
-            "Paladin"
-          ]
-        },
-        {
-          "id": "sp50AxD1JBI",
-          "title": "RP 654 Hunt Solo (Bestiary) Upper Roshamuul 3.9kk/h (150%) + 700k Profit -  #tibia #tibiahunt #hunts",
-          "vocations": [
-            "Paladin"
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Warzone 8 EK",
+      "name": "Warzone 8",
       "minLevel": 700,
       "vocations": [
         "Knight",
@@ -9345,7 +8362,7 @@
       ]
     },
     {
-      "name": "Warzone 3 EK",
+      "name": "Warzone 3",
       "minLevel": 700,
       "vocations": [
         "Knight",
@@ -13792,7 +12809,7 @@
       ]
     },
     {
-      "name": "Bashmu ED/MS",
+      "name": "Bashmu",
       "minLevel": 600,
       "vocations": [
         "Knight",
@@ -14345,7 +13362,7 @@
       ]
     },
     {
-      "name": "Roshamuul Bones RP",
+      "name": "Roshamuul Bones",
       "minLevel": 600,
       "vocations": [
         "Knight",
@@ -17225,7 +16242,7 @@
       ]
     },
     {
-      "name": "Carnisylvans EK",
+      "name": "Carnisylvans",
       "minLevel": 550,
       "vocations": [
         "Knight",
@@ -18850,7 +17867,7 @@
       "youtubeVideos": []
     },
     {
-      "name": "DT Seal INQ EK",
+      "name": "DT Seal INQ",
       "minLevel": 550,
       "vocations": [
         "Knight",
@@ -20800,7 +19817,7 @@
         "updatedAt": "2025-06-22T21:18:24.144Z",
         "createdAt": "2025-06-22T23:17:44.418Z"
       },
-      "youtubeVideoId": "pXJs4dYE0iM",
+      "youtubeVideoId": "",
       "predominantDamage": [
         {
           "element": "Physical",
@@ -20819,269 +19836,8 @@
           "percentage": 5
         }
       ],
-      "youtubeVideos": [
-        {
-          "id": "pXJs4dYE0iM",
-          "title": "RP 732 Hunt Solo Warzone 3 (Bestiary) 5.4kk/h Raw + 1.2kk Profit - Tibia Hunt [15.12]",
-          "vocations": [
-            "Paladin"
-          ]
-        },
-        {
-          "id": "Z7flQ0ADejk",
-          "title": "EK 1162 Hunt Solo Warzone 3 6.5kk/h Raw + 2kk Profit - Tibia Hunt [15.03] #tibia #tibiahunt",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "bxDrkJbA9nU",
-          "title": "EK 822 Hunt Solo Warzone 3 7.4kk/h Raw + 1.8kk Profit  -Tibia Hunt [15.00] #tibia #tibiahunt",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "tAdxappAMgQ",
-          "title": "RP 1323 Hunt Solo Warzone 3 (Orewalker Boosted) 7kk/h Raw + 2.5kk Profit - Tibia Hunt [14.12] #tibia",
-          "vocations": [
-            "Paladin"
-          ]
-        },
-        {
-          "id": "WudNs9c8zAc",
-          "title": "EK 1111 Hunt Solo Warzone 3 (Double Loot/No Runes) 5.2kk/h Raw + 3.2kk Profit  -Tibia Hunt [14.00]",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "kHrksmlKAjw",
-          "title": "EK 1046 Hunt Solo Warzone 3 (No Runes) 6kk/h Raw + 1.9kk Profit - Tibia Hunt [13.36] #tibia",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "pCSGlf17EkU",
-          "title": "EK 904 Hunt Solo Warzone 8 4.3kk/h Raw + 9.6kk Profit (Double/Duplex/Prey) - Tibia Hunt [13.21]",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "24louUJDoXc",
-          "title": "EK 718 Hunt Solo Deep Hub Fungus Dungeon (Warzone 6) 2kk/h Raw + 1kk Profit - Tibia Hunt #tibia",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "zLuG2_nedEM",
-          "title": "EK 1194 Dwelling of the Forgotten (Warzone 9) 4.7kk/h Raw + 2.5kk Profit - Tibia Hunt [13.20] #tibia",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "b0CxWmGu4to",
-          "title": "RP 399 Hunt Solo Warzone 6 2.4kk/h Raw + 1.9kk Profit (Double loot) - Tibia Hunt [13.16] #tibia",
-          "vocations": [
-            "Paladin"
-          ]
-        },
-        {
-          "id": "vBS-256Wh-Q",
-          "title": "EK 928 Hunt Solo Grotto of the Lost (Warzone 8) 4.5kk/h Raw + 2.2kk Profit - Tibia Hunt [13.17]",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "w4kzyxtcOlE",
-          "title": "ED 1208 Hunt Solo Warzone 9 8.5kk/h (225%) 2.9kk Profit (Diremaw boost) - Tibia Hunt [13.17] #tibia",
-          "vocations": [
-            "Druid"
-          ]
-        },
-        {
-          "id": "ktQCL-iRzdU",
-          "title": "EK 925 Hunt Solo Grotto of the Lost (Warzone 8) 3.7kk Raw + 2.5kk Profit (Prey) - Tibia Hunt #tibia",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "o1rvYyBDOyU",
-          "title": "ED 983 Hunt Solo Antrum of the Fallen (Warzone 7) 3.4kk/h Raw 2.3kk Profit [13.14] #tibia #tibiahunt",
-          "vocations": [
-            "Druid"
-          ]
-        },
-        {
-          "id": "rhfR21DRg9I",
-          "title": "EK 877 + ED Hunt Duo Grotto of the Lost (Warzone 8) 5kk/h Raw 4.5kk Profit (Rapid) #tibia #tibiahunt",
-          "vocations": [
-            "Knight",
-            "Druid"
-          ]
-        },
-        {
-          "id": "cgaeE7hAzCk",
-          "title": "EK 1240 Hunt Solo Grotto of the Lost (Warzone 8) 6.3kk Profit/h (duplex)  [13.10] #tibia #tibiahunt",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "C_Oi1PkjsNw",
-          "title": "MS 710 Hunt Solo Deep Hub Fungus Dungeon (Warzone 6) 800k Profit/h - Tibia Hunt #tibia #tibiahunt",
-          "vocations": [
-            "Sorcerer"
-          ]
-        },
-        {
-          "id": "W9ytLfOYRAA",
-          "title": "EK 1006 + ED Hunt Duo Grotto Of The Lost (Warzone 8) 4.3kk/h Raw + 3.8kk Profit - #tibia #tibiahunt",
-          "vocations": [
-            "Knight",
-            "Druid"
-          ]
-        },
-        {
-          "id": "LZ4z5nXeUhE",
-          "title": "EK 1298 Hunt Solo Grotto of the Lost (Warzone 8) 4.8kk/h Raw + 3.1kk Profit (prey) #tibia #tibiahunt",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "CsOmghzaUqo",
-          "title": "EK 808 Hunt Solo Dwelling of the Forgotten (Warzone 9) 1kk+ Profit/h - [ 13.05] #tibia #tibiahunt",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "-BFDzR1vi3c",
-          "title": "RP 986 Hunt Solo Grotto of the Lost (Warzone 8) 3.6kk/h Raw + 2.4kk Profit (Prey loot) #tibiahunt",
-          "vocations": [
-            "Paladin"
-          ]
-        },
-        {
-          "id": "QYmB11xLFpM",
-          "title": "MS 1300 caindo na box da warzone, nem clicou #tibia #tibiahunt #shorts",
-          "vocations": [
-            "Sorcerer"
-          ]
-        },
-        {
-          "id": "chConkTqm2Y",
-          "title": "EK 822 Hunt Duo Grotto of the Lost (Warzone 8) 3.4kk+ Profit - Tibia Hunt [12.91] #tibia #tibiahunt",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "5JeEPIYAz7E",
-          "title": "MS 551 Hunt Solo Deep Hub Fungus Dungeon (Warzone 6) 1.2kk Profit/h - Tibia Hunt #tibia #tibiahunt",
-          "vocations": [
-            "Sorcerer"
-          ]
-        },
-        {
-          "id": "ulnIeWNFo2I",
-          "title": "RP 1266 Hunt Solo Antrum of the Fallen (Warzone 7) 1.7kk Profit/h - Tibia Hunt #tibia #tibiahunt",
-          "vocations": [
-            "Paladin"
-          ]
-        },
-        {
-          "id": "MvTmTWN5hrI",
-          "title": "MS 862 Hunt Solo Antrum of the Fallen (Warzone 7) 4.4kk/h (150%) + 1.8kk Profit #tibia #tibiahunt",
-          "vocations": [
-            "Sorcerer"
-          ]
-        },
-        {
-          "id": "ZOvZAIU8QTE",
-          "title": "EK 1148 Hunt Grotto of the Lost (Warzone 8) 2.6kk+ Profit/h - Tibia Hunt [12.90] #tibia #tibiahunt",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "ttuvaxpLP_s",
-          "title": "MS 1027 Hunt Solo Antrum of the Fallen (Warzone 7) 1.9kk Profit (Rapid Respawn) #tibia #tibiahunt",
-          "vocations": [
-            "Sorcerer"
-          ]
-        },
-        {
-          "id": "ARdCVgroga0",
-          "title": "MS 1035 Hunt Solo Grotto of the Lost (Warzone 8) 2.2kk+ Profit/h - #tibia #tibiahunt #hunts",
-          "vocations": [
-            "Sorcerer"
-          ]
-        },
-        {
-          "id": "DgMcokLvOdM",
-          "title": "RP 293 Hunt Solo Deep Hub Fungus Dungeon (Warzone 6) 2.1kk/h (150%) - Tibia Hunt #tibia #tibiahunt",
-          "vocations": [
-            "Paladin"
-          ]
-        },
-        {
-          "id": "tQFa__d_p9M",
-          "title": "MS 495 Hunt Solo Deep Hub Fungus Dungeon (Warzone 6) 3.1kk/h (150%) + 1kk Profit #tibia #tibiahunt",
-          "vocations": [
-            "Sorcerer"
-          ]
-        },
-        {
-          "id": "DDPRGVb32SY",
-          "title": "EK 601 Hunt Solo Deep Hub Crystal Dungeon (Warzone 5) 4.3kk/h (200%/double loot) - Tibia Hunt #tibia",
-          "vocations": [
-            "Knight"
-          ]
-        },
-        {
-          "id": "Mmy_DyNG2OI",
-          "title": "ED 1201 8.8kk Profit/h Hunt Solo Grotto of the Lost (Warzone 8) Double loot + prey #tibia #tibiahunt",
-          "vocations": [
-            "Druid"
-          ]
-        },
-        {
-          "id": "GNWwjOVU5IE",
-          "title": "ED 759 Hunt Solo Anthrum of the Fallen (Warzone 7) 1kk+ Profit/h - Tibia Hunt #tibia #tibiahunt",
-          "vocations": [
-            "Druid"
-          ]
-        },
-        {
-          "id": "aYd9Qyqd0Wo",
-          "title": "RP 646 Hunt Solo Deep Hub Magma Dungeon (Warzone 4) 4kk/h (150%) - Tibia Hunt #tibia #tibiahunt",
-          "vocations": [
-            "Paladin"
-          ]
-        },
-        {
-          "id": "sywtCdvjmZ4",
-          "title": "RP 887 Hunt Solo Deep Hub Crystal Dungeon (Warzone 5) 11kk/h (225%/tirant boosted) #tibia #tibiahunt",
-          "vocations": [
-            "Paladin"
-          ]
-        },
-        {
-          "id": "ST-A7dAMzjU",
-          "title": "ED 1174 Hunt Solo Grotto of the Lost (Warzone 8) 2kk+ profit/h - Tibia Hunt #tibia #tibiahunt #hunts",
-          "vocations": [
-            "Druid"
-          ]
-        }
-      ]
+      "youtubeVideos": [],
+      "youtubeURI": ""
     },
     {
       "name": "Flimsy Lost Souls Venore",
@@ -21714,7 +20470,7 @@
       ]
     },
     {
-      "name": "West Roshamuul RP",
+      "name": "West Roshamuul",
       "minLevel": 550,
       "vocations": [
         "Knight",
@@ -22480,7 +21236,7 @@
       ]
     },
     {
-      "name": "Crypt Warriors Yselda ED/MS/RP",
+      "name": "Crypt Warriors Yselda",
       "minLevel": 500,
       "vocations": [
         "Knight",
@@ -23697,7 +22453,7 @@
       "youtubeVideos": []
     },
     {
-      "name": "Buried Cathedral ED/MS",
+      "name": "Buried Cathedral",
       "minLevel": 450,
       "vocations": [
         "Knight",
@@ -25457,7 +24213,7 @@
       "youtubeVideoId": "syGqzfu4E9E"
     },
     {
-      "name": "Haunted Nexus Temple ED/MS",
+      "name": "Haunted Nexus Temple",
       "minLevel": 400,
       "vocations": [
         "Knight",
@@ -26400,7 +25156,7 @@
       ]
     },
     {
-      "name": "Warzone 6 ED/MS/RP",
+      "name": "Warzone 6",
       "minLevel": 400,
       "vocations": [
         "Knight",
@@ -27371,7 +26127,7 @@
       ]
     },
     {
-      "name": "Netherworld MS/ED",
+      "name": "Netherworld",
       "minLevel": 400,
       "vocations": [
         "Knight",
@@ -28068,7 +26824,7 @@
       ]
     },
     {
-      "name": "Asura Mirror RP/EK",
+      "name": "Asura Mirror",
       "minLevel": 400,
       "vocations": [
         "Knight",
@@ -30230,7 +28986,7 @@
       "youtubeVideos": []
     },
     {
-      "name": "Summer Court ED",
+      "name": "Summer Court",
       "minLevel": 400,
       "vocations": [
         "Knight",
@@ -31582,7 +30338,7 @@
       "youtubeVideos": []
     },
     {
-      "name": "Spike -8 ED/MS/RP",
+      "name": "Spike -8",
       "minLevel": 400,
       "vocations": [
         "Knight",
@@ -32672,7 +31428,7 @@
       "youtubeVideos": []
     },
     {
-      "name": "Warzone 5 EK/RP",
+      "name": "Warzone 5",
       "minLevel": 400,
       "vocations": [
         "Knight",
@@ -33604,7 +32360,7 @@
       ]
     },
     {
-      "name": "Werecrocodiles EK",
+      "name": "Werecrocodiles",
       "minLevel": 400,
       "vocations": [
         "Knight",
@@ -34038,7 +32794,7 @@
       "youtubeVideos": []
     },
     {
-      "name": "Marapur Turtles EK/RP",
+      "name": "Marapur Turtles",
       "minLevel": 400,
       "vocations": [
         "Knight",
@@ -35326,7 +34082,7 @@
       "youtubeVideos": []
     },
     {
-      "name": "Lower Roshamuul RP",
+      "name": "Lower Roshamuul",
       "minLevel": 350,
       "vocations": [
         "Knight",
@@ -35696,7 +34452,7 @@
       ]
     },
     {
-      "name": "Werelions -1 RP/EK",
+      "name": "Werelions -1",
       "minLevel": 350,
       "vocations": [
         "Knight",
@@ -37379,7 +36135,7 @@
       ]
     },
     {
-      "name": "Diremaw Task Area EK/RP",
+      "name": "Diremaw Task Area",
       "minLevel": 300,
       "vocations": [
         "Knight",
@@ -37773,7 +36529,7 @@
       "youtubeVideos": []
     },
     {
-      "name": "Candia Mines -2 RP",
+      "name": "Candia Mines -2",
       "minLevel": 300,
       "vocations": [
         "Knight",
@@ -38811,7 +37567,7 @@
       "youtubeVideos": []
     },
     {
-      "name": "Medusa Tower RP",
+      "name": "Medusa Tower",
       "minLevel": 250,
       "vocations": [
         "Knight",
@@ -40723,7 +39479,7 @@
       "youtubeVideos": []
     },
     {
-      "name": "Wild Life Oramond ED/MS/RP",
+      "name": "Wild Life Oramond",
       "minLevel": 250,
       "vocations": [
         "Knight",
@@ -43125,7 +41881,7 @@
       "youtubeVideos": []
     },
     {
-      "name": "Golems Catacombs ED/MS/RP",
+      "name": "Golems Catacombs",
       "minLevel": 250,
       "vocations": [
         "Knight",
@@ -44540,7 +43296,7 @@
       ]
     },
     {
-      "name": "Winter Dream Court MS",
+      "name": "Winter Dream Court",
       "minLevel": 2500,
       "vocations": [
         "Knight",
@@ -45627,7 +44383,7 @@
       "youtubeVideos": []
     },
     {
-      "name": "Deeper Banuta -8 EK/RP",
+      "name": "Deeper Banuta -8",
       "minLevel": 250,
       "vocations": [
         "Knight",
@@ -46491,7 +45247,7 @@
       ]
     },
     {
-      "name": "Asura Palace RP/EK",
+      "name": "Asura Palace",
       "minLevel": 250,
       "vocations": [
         "Knight",
@@ -47900,7 +46656,7 @@
       ]
     },
     {
-      "name": "Zaoan Draken Walls EK+ED",
+      "name": "Zaoan Draken Walls",
       "minLevel": 200,
       "vocations": [
         "Knight",
@@ -49174,7 +47930,7 @@
       "youtubeVideos": []
     },
     {
-      "name": "Oramond Fury ED/MS",
+      "name": "Oramond Fury",
       "minLevel": 200,
       "vocations": [
         "Knight",
@@ -50659,7 +49415,7 @@
       "youtubeVideos": []
     },
     {
-      "name": "Glooth Bandits East ED/MS/RP",
+      "name": "Glooth Bandits East",
       "minLevel": 200,
       "vocations": [
         "Knight",
@@ -52253,7 +51009,7 @@
       "youtubeVideos": []
     },
     {
-      "name": "Oramond Hydras EK",
+      "name": "Oramond Hydras",
       "minLevel": 150,
       "vocations": [
         "Knight",
@@ -53259,7 +52015,7 @@
       "youtubeVideos": []
     },
     {
-      "name": "Yalahar Grim Reapers ED/MS/RP",
+      "name": "Yalahar Grim Reapers",
       "minLevel": 150,
       "vocations": [
         "Knight",
@@ -54511,7 +53267,7 @@
       ]
     },
     {
-      "name": "Werehyenna North RP",
+      "name": "Werehyenna North",
       "minLevel": 150,
       "vocations": [
         "Knight",
@@ -56383,7 +55139,7 @@
       ]
     },
     {
-      "name": "Barkless ED+EK",
+      "name": "Barkless",
       "minLevel": 120,
       "vocations": [
         "Knight",
@@ -56997,7 +55753,7 @@
       ]
     },
     {
-      "name": "Edron Were Mobs MS/ED/RP",
+      "name": "Edron Were Mobs",
       "minLevel": 100,
       "vocations": [
         "Knight",
@@ -58259,7 +57015,7 @@
       "youtubeVideos": []
     },
     {
-      "name": "Putrid Mummies ED/MS/RP",
+      "name": "Putrid Mummies",
       "minLevel": 100,
       "vocations": [
         "Knight",
@@ -59081,7 +57837,7 @@
       "youtubeVideos": []
     },
     {
-      "name": "Yalahar Sunken Quarter MS/ED/EK",
+      "name": "Yalahar Sunken Quarter",
       "minLevel": 100,
       "vocations": [
         "Knight",
@@ -59784,7 +58540,7 @@
       "youtubeVideos": []
     },
     {
-      "name": "Lava Lurkers MS/ED/RP",
+      "name": "Lava Lurkers",
       "minLevel": 100,
       "vocations": [
         "Knight",
@@ -60251,7 +59007,7 @@
       "youtubeVideos": []
     },
     {
-      "name": "Exotic Cave ED/EK/RP/MS",
+      "name": "Exotic Cave",
       "minLevel": 100,
       "vocations": [
         "Knight",
@@ -60622,7 +59378,7 @@
       ]
     },
     {
-      "name": "Old Fortress - Hero Cave ED/MS/RP",
+      "name": "Old Fortress - Hero Cave",
       "minLevel": 100,
       "vocations": [
         "Knight",
@@ -62605,7 +61361,7 @@
       "youtubeVideos": []
     },
     {
-      "name": "POI Dragon Lords RP",
+      "name": "POI Dragon Lords",
       "minLevel": 90,
       "vocations": [
         "Knight",
@@ -64567,7 +63323,7 @@
       "youtubeVideos": []
     },
     {
-      "name": "Fenrock Dragon Lords EK/RP",
+      "name": "Fenrock Dragon Lords",
       "minLevel": 90,
       "vocations": [
         "Knight",
@@ -71341,7 +70097,7 @@
       "youtubeVideos": []
     },
     {
-      "name": "Lion's Rock EK",
+      "name": "Lion's Rock",
       "minLevel": 70,
       "vocations": [
         "Knight",
@@ -73488,7 +72244,7 @@
       "youtubeVideos": []
     },
     {
-      "name": "Mother of Scarabs Lair EK/ED/RP/MS",
+      "name": "Mother of Scarabs Lair",
       "minLevel": 50,
       "vocations": [
         "Knight",
@@ -74381,7 +73137,7 @@
       "youtubeVideos": []
     },
     {
-      "name": "Wyrms Liberty Bay ED/MS/RP/EK",
+      "name": "Wyrms Liberty Bay",
       "minLevel": 50,
       "vocations": [
         "Knight",
@@ -75859,7 +74615,7 @@
       "youtubeVideos": []
     },
     {
-      "name": "Ramoa Surface MS/ED/RP",
+      "name": "Ramoa Surface",
       "minLevel": 50,
       "vocations": [
         "Knight",
@@ -78170,7 +76926,7 @@
       "youtubeVideos": []
     },
     {
-      "name": "Water Elementals Port Hope ED/MS",
+      "name": "Water Elementals Port Hope",
       "minLevel": 50,
       "vocations": [
         "Knight",
@@ -80175,7 +78931,7 @@
       "youtubeVideos": []
     },
     {
-      "name": "Hive Surface EK",
+      "name": "Hive Surface",
       "minLevel": 50,
       "vocations": [
         "Knight",
@@ -81658,7 +80414,7 @@
       "youtubeVideos": []
     },
     {
-      "name": "Yalahar Mutated Tigers RP/EK",
+      "name": "Yalahar Mutated Tigers",
       "minLevel": 50,
       "vocations": [
         "Knight",
@@ -84955,7 +83711,7 @@
       "youtubeVideos": []
     },
     {
-      "name": "Darashia Dragon Lair ED/MS/RP",
+      "name": "Darashia Dragon Lair",
       "minLevel": 40,
       "vocations": [
         "Knight",
@@ -88569,7 +87325,7 @@
       "youtubeVideos": []
     },
     {
-      "name": "Spike -3 MS/ED/RP",
+      "name": "Spike -3",
       "minLevel": 30,
       "vocations": [
         "Knight",
@@ -91487,7 +90243,7 @@
       "youtubeVideos": []
     },
     {
-      "name": "Barbarian Camp EK",
+      "name": "Barbarian Camp",
       "minLevel": 30,
       "vocations": [
         "Knight",
@@ -92315,7 +91071,7 @@
       "youtubeVideos": []
     },
     {
-      "name": "Laguna Blood Crabs EK",
+      "name": "Laguna Blood Crabs",
       "minLevel": 30,
       "vocations": [
         "Knight",
@@ -93268,7 +92024,7 @@
       "youtubeVideos": []
     },
     {
-      "name": "Meriana Gargoyle Cave ED/MS/RP",
+      "name": "Meriana Gargoyle Cave",
       "minLevel": 30,
       "vocations": [
         "Knight",
@@ -93779,7 +92535,7 @@
       "youtubeVideos": []
     },
     {
-      "name": "Carlin Forest Fury ED/MS/RP/EK",
+      "name": "Carlin Forest Fury",
       "minLevel": 30,
       "vocations": [
         "Knight",
@@ -95586,7 +94342,7 @@
       "youtubeVideos": []
     },
     {
-      "name": "Mutated Human Yalahar RP/ED/MS",
+      "name": "Mutated Human Yalahar",
       "minLevel": 20,
       "vocations": [
         "Knight",
@@ -96241,7 +94997,7 @@
       "youtubeVideos": []
     },
     {
-      "name": "Mistrock Cyclops EK",
+      "name": "Mistrock Cyclops",
       "minLevel": 20,
       "vocations": [
         "Knight",
@@ -99783,7 +98539,7 @@
       "youtubeVideos": []
     },
     {
-      "name": "Stonerefiner Cave ED/MS/RP/EK",
+      "name": "Stonerefiner Cave",
       "minLevel": 15,
       "vocations": [
         "Knight",
@@ -102115,7 +100871,7 @@
       "youtubeVideos": []
     },
     {
-      "name": "Port Hope Tarantulas Far East ED/EK/MS/RP",
+      "name": "Port Hope Tarantulas Far East",
       "minLevel": 14,
       "vocations": [
         "Knight",
@@ -103691,7 +102447,7 @@
       ]
     },
     {
-      "name": "Ankrahmun North Larvas ED/EK/RP/MS",
+      "name": "Ankrahmun North Larvas",
       "minLevel": 8,
       "vocations": [
         "Knight",
@@ -106330,7 +105086,7 @@
       "youtubeVideos": []
     },
     {
-      "name": "Darashia Rotworm Caves ED/EK/RP/MS",
+      "name": "Darashia Rotworm Caves",
       "minLevel": 8,
       "vocations": [
         "Knight",
