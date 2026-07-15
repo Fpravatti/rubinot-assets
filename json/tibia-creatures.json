@@ -47041,7 +47041,7 @@
       "experience": 9000,
       "experienceWithBonus": 13500,
       "bestiaryDifficulty": "Desafiador",
-      "bestiaryKillsToUnlock": null,
+      "bestiaryKillsToUnlock": 2500,
       "occurrence": null,
       "speed": null,
       "charms": 100,
