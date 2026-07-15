@@ -27501,7 +27501,10 @@
       "attack": 57,
       "weight": 72,
       "imbueSlots": 3,
-      "elementalAttack": null
+      "elementalAttack": {
+        "element": "ice",
+        "value": 47
+      }
     },
     "resistances": {},
     "attributes": {
