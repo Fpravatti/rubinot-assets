@@ -886,7 +886,12 @@
             "x": 32726,
             "y": 32874,
             "floor": 7,
-            "isDeleted": false
+            "isDeleted": false,
+            "teleport": {
+              "x": 34015,
+              "y": 31892,
+              "floor": 8
+            }
           },
           {
             "description": "",
@@ -918,7 +923,12 @@
             "x": 34036,
             "y": 31724,
             "floor": 10,
-            "isDeleted": false
+            "isDeleted": false,
+            "teleport": {
+              "x": 34036,
+              "y": 31718,
+              "floor": 10
+            }
           },
           {
             "description": "",
@@ -926,7 +936,12 @@
             "x": 34038,
             "y": 31714,
             "floor": 10,
-            "isDeleted": false
+            "isDeleted": false,
+            "teleport": {
+              "x": 33999,
+              "y": 31724,
+              "floor": 9
+            }
           },
           {
             "description": "",
@@ -2034,7 +2049,12 @@
             "y": 32388,
             "floor": 8,
             "icon": "cross",
-            "isDeleted": false
+            "isDeleted": false,
+            "teleport": {
+              "x": 33326,
+              "y": 32320,
+              "floor": 12
+            }
           },
           {
             "x": 33321,
@@ -2055,7 +2075,12 @@
             "y": 32400,
             "floor": 14,
             "icon": "cross",
-            "isDeleted": false
+            "isDeleted": false,
+            "teleport": {
+              "x": 33402,
+              "y": 32376,
+              "floor": 13
+            }
           }
         ],
         "paths": [
@@ -2641,7 +2666,12 @@
             "x": 33275,
             "y": 32388,
             "floor": 8,
-            "isDeleted": false
+            "isDeleted": false,
+            "teleport": {
+              "x": 33327,
+              "y": 32320,
+              "floor": 12
+            }
           },
           {
             "description": "",
@@ -2665,7 +2695,12 @@
             "x": 33355,
             "y": 32336,
             "floor": 14,
-            "isDeleted": false
+            "isDeleted": false,
+            "teleport": {
+              "x": 33634,
+              "y": 32627,
+              "floor": 14
+            }
           }
         ],
         "paths": [
@@ -3257,7 +3292,12 @@
             "x": 32658,
             "y": 31901,
             "floor": 8,
-            "isDeleted": false
+            "isDeleted": false,
+            "teleport": {
+              "x": 32629,
+              "y": 31921,
+              "floor": 11
+            }
           },
           {
             "description": "",
@@ -3265,7 +3305,12 @@
             "x": 32628,
             "y": 31862,
             "floor": 11,
-            "isDeleted": false
+            "isDeleted": false,
+            "teleport": {
+              "x": 32803,
+              "y": 31798,
+              "floor": 9
+            }
           },
           {
             "description": "",
@@ -3281,7 +3326,12 @@
             "x": 32796,
             "y": 31780,
             "floor": 10,
-            "isDeleted": false
+            "isDeleted": false,
+            "teleport": {
+              "x": 32988,
+              "y": 31862,
+              "floor": 9
+            }
           },
           {
             "description": "",
@@ -3289,7 +3339,12 @@
             "x": 33022,
             "y": 31901,
             "floor": 9,
-            "isDeleted": false
+            "isDeleted": false,
+            "teleport": {
+              "x": 33010,
+              "y": 31948,
+              "floor": 12
+            }
           }
         ],
         "paths": [
@@ -7321,7 +7376,12 @@
             "x": 32630,
             "y": 31839,
             "floor": 10,
-            "isDeleted": false
+            "isDeleted": false,
+            "teleport": {
+              "x": 32660,
+              "y": 31832,
+              "floor": 10
+            }
           },
           {
             "description": "",
@@ -7329,7 +7389,12 @@
             "x": 32651,
             "y": 31823,
             "floor": 10,
-            "isDeleted": false
+            "isDeleted": false,
+            "teleport": {
+              "x": 32143,
+              "y": 31446,
+              "floor": 14
+            }
           },
           {
             "description": "",
@@ -7337,7 +7402,12 @@
             "x": 32656,
             "y": 31900,
             "floor": 8,
-            "isDeleted": false
+            "isDeleted": false,
+            "teleport": {
+              "x": 32617,
+              "y": 31899,
+              "floor": 9
+            }
           },
           {
             "description": "",
@@ -7345,7 +7415,12 @@
             "x": 32142,
             "y": 31455,
             "floor": 14,
-            "isDeleted": false
+            "isDeleted": false,
+            "teleport": {
+              "x": 32141,
+              "y": 31457,
+              "floor": 15
+            }
           },
           {
             "description": "",
@@ -7975,7 +8050,12 @@
             "x": 32658,
             "y": 31901,
             "floor": 8,
-            "isDeleted": false
+            "isDeleted": false,
+            "teleport": {
+              "x": 32629,
+              "y": 31921,
+              "floor": 11
+            }
           },
           {
             "description": "",
@@ -7983,7 +8063,12 @@
             "x": 32628,
             "y": 31862,
             "floor": 11,
-            "isDeleted": false
+            "isDeleted": false,
+            "teleport": {
+              "x": 32803,
+              "y": 31798,
+              "floor": 9
+            }
           },
           {
             "description": "",
@@ -7999,7 +8084,12 @@
             "x": 32796,
             "y": 31780,
             "floor": 10,
-            "isDeleted": false
+            "isDeleted": false,
+            "teleport": {
+              "x": 32988,
+              "y": 31862,
+              "floor": 9
+            }
           },
           {
             "description": "",
@@ -8007,7 +8097,12 @@
             "x": 33022,
             "y": 31901,
             "floor": 9,
-            "isDeleted": false
+            "isDeleted": false,
+            "teleport": {
+              "x": 33013,
+              "y": 31918,
+              "floor": 12
+            }
           }
         ],
         "paths": [
@@ -8581,7 +8676,12 @@
             "y": 31756,
             "floor": 7,
             "icon": "cross",
-            "isDeleted": false
+            "isDeleted": false,
+            "teleport": {
+              "x": 32422,
+              "y": 32448,
+              "floor": 7
+            }
           },
           {
             "x": 32427,
@@ -9502,21 +9602,36 @@
             "y": 31839,
             "floor": 10,
             "icon": "cross",
-            "isDeleted": false
+            "isDeleted": false,
+            "teleport": {
+              "x": 32630,
+              "y": 31832,
+              "floor": 10
+            }
           },
           {
             "x": 32624,
             "y": 31817,
             "floor": 10,
             "icon": "cross",
-            "isDeleted": false
+            "isDeleted": false,
+            "teleport": {
+              "x": 32674,
+              "y": 31786,
+              "floor": 10
+            }
           },
           {
             "x": 32600,
             "y": 31867,
             "floor": 9,
             "icon": "cross",
-            "isDeleted": false
+            "isDeleted": false,
+            "teleport": {
+              "x": 32600,
+              "y": 31865,
+              "floor": 9
+            }
           },
           {
             "x": 32642,
@@ -10823,7 +10938,12 @@
             "y": 32874,
             "floor": 7,
             "icon": "cross",
-            "isDeleted": false
+            "isDeleted": false,
+            "teleport": {
+              "x": 34015,
+              "y": 31891,
+              "floor": 8
+            }
           },
           {
             "x": 34015,
@@ -10844,7 +10964,12 @@
             "y": 31726,
             "floor": 10,
             "icon": "cross",
-            "isDeleted": false
+            "isDeleted": false,
+            "teleport": {
+              "x": 34000,
+              "y": 31724,
+              "floor": 9
+            }
           },
           {
             "x": 34009,
@@ -13806,7 +13931,12 @@
             "floor": 6,
             "icon": "cross",
             "isDeleted": false,
-            "description": "GO DOWNSTRAIRS"
+            "description": "GO DOWNSTRAIRS",
+            "teleport": {
+              "x": 33385,
+              "y": 32627,
+              "floor": 7
+            }
           },
           {
             "x": 33176,
@@ -14434,7 +14564,12 @@
             "y": 32388,
             "floor": 8,
             "icon": "cross",
-            "isDeleted": false
+            "isDeleted": false,
+            "teleport": {
+              "x": 33311,
+              "y": 32339,
+              "floor": 13
+            }
           }
         ],
         "paths": [
@@ -15030,7 +15165,12 @@
             "floor": 10,
             "icon": "cross",
             "isDeleted": false,
-            "description": ""
+            "description": "",
+            "teleport": {
+              "x": 32404,
+              "y": 32496,
+              "floor": 10
+            }
           },
           {
             "x": 32434,
@@ -15972,7 +16112,12 @@
             "x": 32885,
             "y": 32520,
             "floor": 7,
-            "isDeleted": false
+            "isDeleted": false,
+            "teleport": {
+              "x": 33595,
+              "y": 31420,
+              "floor": 8
+            }
           }
         ],
         "paths": [
@@ -16776,7 +16921,12 @@
             "x": 33192,
             "y": 31691,
             "floor": 14,
-            "isDeleted": false
+            "isDeleted": false,
+            "teleport": {
+              "x": 33168,
+              "y": 31682,
+              "floor": 15
+            }
           },
           {
             "description": "",
@@ -16816,7 +16966,12 @@
             "x": 33175,
             "y": 31709,
             "floor": 14,
-            "isDeleted": false
+            "isDeleted": false,
+            "teleport": {
+              "x": 33368,
+              "y": 31610,
+              "floor": 14
+            }
           },
           {
             "description": "",
@@ -17805,7 +17960,12 @@
             "floor": 8,
             "icon": "cross",
             "isDeleted": false,
-            "description": ""
+            "description": "",
+            "teleport": {
+              "x": 32629,
+              "y": 31921,
+              "floor": 11
+            }
           },
           {
             "x": 32628,
@@ -17813,7 +17973,12 @@
             "floor": 11,
             "icon": "cross",
             "isDeleted": false,
-            "description": ""
+            "description": "",
+            "teleport": {
+              "x": 32803,
+              "y": 31798,
+              "floor": 9
+            }
           },
           {
             "x": 32801,
@@ -17829,14 +17994,24 @@
             "floor": 10,
             "icon": "cross",
             "isDeleted": false,
-            "description": ""
+            "description": "",
+            "teleport": {
+              "x": 32987,
+              "y": 31861,
+              "floor": 9
+            }
           },
           {
             "x": 33019,
             "y": 31887,
             "floor": 9,
             "icon": "cross",
-            "isDeleted": false
+            "isDeleted": false,
+            "teleport": {
+              "x": 33023,
+              "y": 31933,
+              "floor": 11
+            }
           }
         ],
         "paths": [
@@ -18533,7 +18708,12 @@
             "y": 32076,
             "floor": 7,
             "icon": "cross",
-            "isDeleted": false
+            "isDeleted": false,
+            "teleport": {
+              "x": 31924,
+              "y": 32342,
+              "floor": 8
+            }
           },
           {
             "x": 32791,
@@ -19832,7 +20012,12 @@
             "x": 33183,
             "y": 31757,
             "floor": 7,
-            "isDeleted": false
+            "isDeleted": false,
+            "teleport": {
+              "x": 32421,
+              "y": 32448,
+              "floor": 7
+            }
           },
           {
             "description": "",
@@ -20472,7 +20657,12 @@
             "y": 32954,
             "floor": 8,
             "icon": "cross",
-            "isDeleted": false
+            "isDeleted": false,
+            "teleport": {
+              "x": 33039,
+              "y": 32948,
+              "floor": 9
+            }
           }
         ],
         "paths": [
@@ -21046,7 +21236,12 @@
             "x": 32720,
             "y": 32270,
             "floor": 8,
-            "isDeleted": false
+            "isDeleted": false,
+            "teleport": {
+              "x": 33618,
+              "y": 32546,
+              "floor": 13
+            }
           },
           {
             "description": "",
@@ -23672,7 +23867,12 @@
             "x": 32658,
             "y": 31901,
             "floor": 8,
-            "isDeleted": false
+            "isDeleted": false,
+            "teleport": {
+              "x": 32628,
+              "y": 31921,
+              "floor": 11
+            }
           },
           {
             "description": "",
@@ -23680,7 +23880,12 @@
             "x": 33829,
             "y": 32128,
             "floor": 14,
-            "isDeleted": false
+            "isDeleted": false,
+            "teleport": {
+              "x": 33318,
+              "y": 32310,
+              "floor": 15
+            }
           }
         ],
         "paths": [
@@ -24320,7 +24525,12 @@
             "x": 32885,
             "y": 32520,
             "floor": 7,
-            "isDeleted": false
+            "isDeleted": false,
+            "teleport": {
+              "x": 33594,
+              "y": 31442,
+              "floor": 8
+            }
           }
         ],
         "paths": [
@@ -25070,7 +25280,12 @@
             "x": 32951,
             "y": 32669,
             "floor": 7,
-            "isDeleted": false
+            "isDeleted": false,
+            "teleport": {
+              "x": 32815,
+              "y": 32752,
+              "floor": 9
+            }
           },
           {
             "description": "",
@@ -26233,7 +26448,12 @@
             "y": 32025,
             "floor": 10,
             "icon": "cross",
-            "isDeleted": false
+            "isDeleted": false,
+            "teleport": {
+              "x": 33507,
+              "y": 32025,
+              "floor": 10
+            }
           }
         ],
         "paths": [
@@ -27274,7 +27494,12 @@
             "x": 33584,
             "y": 32207,
             "floor": 7,
-            "isDeleted": false
+            "isDeleted": false,
+            "teleport": {
+              "x": 33686,
+              "y": 32196,
+              "floor": 7
+            }
           }
         ],
         "paths": [
@@ -28397,7 +28622,12 @@
             "x": 32658,
             "y": 31901,
             "floor": 8,
-            "isDeleted": false
+            "isDeleted": false,
+            "teleport": {
+              "x": 32629,
+              "y": 31921,
+              "floor": 11
+            }
           },
           {
             "description": "",
@@ -28405,7 +28635,12 @@
             "x": 32624,
             "y": 31853,
             "floor": 11,
-            "isDeleted": false
+            "isDeleted": false,
+            "teleport": {
+              "x": 32235,
+              "y": 32604,
+              "floor": 8
+            }
           },
           {
             "description": "",
@@ -28469,7 +28704,12 @@
             "x": 32235,
             "y": 32604,
             "floor": 15,
-            "isDeleted": false
+            "isDeleted": false,
+            "teleport": {
+              "x": 32203,
+              "y": 32625,
+              "floor": 15
+            }
           }
         ],
         "paths": [
@@ -29298,7 +29538,12 @@
             "floor": 8,
             "icon": "cross",
             "isDeleted": false,
-            "description": ""
+            "description": "",
+            "teleport": {
+              "x": 32629,
+              "y": 31921,
+              "floor": 11
+            }
           },
           {
             "x": 32624,
@@ -29306,7 +29551,12 @@
             "floor": 11,
             "icon": "cross",
             "isDeleted": false,
-            "description": ""
+            "description": "",
+            "teleport": {
+              "x": 33744,
+              "y": 32190,
+              "floor": 14
+            }
           },
           {
             "x": 33777,
@@ -29314,7 +29564,12 @@
             "floor": 14,
             "icon": "cross",
             "isDeleted": false,
-            "description": ""
+            "description": "",
+            "teleport": {
+              "x": 33242,
+              "y": 32113,
+              "floor": 15
+            }
           }
         ],
         "paths": [
@@ -30240,7 +30495,12 @@
             "x": 33743,
             "y": 32778,
             "floor": 7,
-            "isDeleted": false
+            "isDeleted": false,
+            "teleport": {
+              "x": 33743,
+              "y": 32781,
+              "floor": 8
+            }
           },
           {
             "description": "",
@@ -30804,14 +31064,24 @@
             "y": 32327,
             "floor": 6,
             "icon": "cross",
-            "isDeleted": false
+            "isDeleted": false,
+            "teleport": {
+              "x": 32836,
+              "y": 32231,
+              "floor": 12
+            }
           },
           {
             "x": 32820,
             "y": 32238,
             "floor": 12,
             "icon": "cross",
-            "isDeleted": false
+            "isDeleted": false,
+            "teleport": {
+              "x": 32773,
+              "y": 32233,
+              "floor": 15
+            }
           },
           {
             "x": 32791,
@@ -32035,7 +32305,12 @@
             "x": 33137,
             "y": 32351,
             "floor": 5,
-            "isDeleted": false
+            "isDeleted": false,
+            "teleport": {
+              "x": 33145,
+              "y": 32251,
+              "floor": 11
+            }
           }
         ],
         "paths": [
@@ -32729,14 +33004,24 @@
             "y": 31870,
             "floor": 11,
             "icon": "cross",
-            "isDeleted": false
+            "isDeleted": false,
+            "teleport": {
+              "x": 33743,
+              "y": 32191,
+              "floor": 14
+            }
           },
           {
             "x": 33827,
             "y": 32172,
             "floor": 14,
             "icon": "cross",
-            "isDeleted": false
+            "isDeleted": false,
+            "teleport": {
+              "x": 33533,
+              "y": 32187,
+              "floor": 15
+            }
           }
         ],
         "paths": [
@@ -36008,7 +36293,12 @@
             "y": 32021,
             "floor": 8,
             "icon": "cross",
-            "isDeleted": false
+            "isDeleted": false,
+            "teleport": {
+              "x": 32458,
+              "y": 32393,
+              "floor": 10
+            }
           }
         ],
         "paths": [
@@ -36939,7 +37229,12 @@
             "x": 33651,
             "y": 31941,
             "floor": 7,
-            "isDeleted": false
+            "isDeleted": false,
+            "teleport": {
+              "x": 33558,
+              "y": 31970,
+              "floor": 12
+            }
           },
           {
             "description": "",
@@ -36955,7 +37250,12 @@
             "x": 33534,
             "y": 31951,
             "floor": 13,
-            "isDeleted": false
+            "isDeleted": false,
+            "teleport": {
+              "x": 33529,
+              "y": 31951,
+              "floor": 13
+            }
           }
         ],
         "paths": [
@@ -37719,7 +38019,12 @@
             "y": 31624,
             "floor": 8,
             "icon": "cross",
-            "isDeleted": false
+            "isDeleted": false,
+            "teleport": {
+              "x": 32031,
+              "y": 31352,
+              "floor": 11
+            }
           },
           {
             "x": 33172,
@@ -39155,7 +39460,12 @@
             "x": 33669,
             "y": 31887,
             "floor": 5,
-            "isDeleted": false
+            "isDeleted": false,
+            "teleport": {
+              "x": 33460,
+              "y": 31717,
+              "floor": 9
+            }
           },
           {
             "description": "",
@@ -40725,7 +41035,12 @@
             "x": 32235,
             "y": 31194,
             "floor": 7,
-            "isDeleted": false
+            "isDeleted": false,
+            "teleport": {
+              "x": 32333,
+              "y": 31226,
+              "floor": 7
+            }
           },
           {
             "description": "",
@@ -40765,7 +41080,12 @@
             "x": 32354,
             "y": 31247,
             "floor": 3,
-            "isDeleted": false
+            "isDeleted": false,
+            "teleport": {
+              "x": 33698,
+              "y": 32125,
+              "floor": 7
+            }
           }
         ],
         "paths": [
@@ -41620,7 +41940,12 @@
             "x": 32858,
             "y": 32667,
             "floor": 8,
-            "isDeleted": false
+            "isDeleted": false,
+            "teleport": {
+              "x": 32858,
+              "y": 32666,
+              "floor": 9
+            }
           },
           {
             "description": "",
@@ -41644,7 +41969,12 @@
             "x": 32890,
             "y": 32632,
             "floor": 11,
-            "isDeleted": false
+            "isDeleted": false,
+            "teleport": {
+              "x": 32888,
+              "y": 32632,
+              "floor": 11
+            }
           },
           {
             "description": "",
@@ -45043,7 +45373,12 @@
             "x": 33666,
             "y": 31924,
             "floor": 7,
-            "isDeleted": false
+            "isDeleted": false,
+            "teleport": {
+              "x": 33666,
+              "y": 31924,
+              "floor": 7
+            }
           }
         ],
         "paths": [
@@ -45877,14 +46212,24 @@
             "y": 32030,
             "floor": 7,
             "icon": "cross",
-            "isDeleted": false
+            "isDeleted": false,
+            "teleport": {
+              "x": 33775,
+              "y": 31348,
+              "floor": 7
+            }
           },
           {
             "x": 33800,
             "y": 31358,
             "floor": 7,
             "icon": "cross",
-            "isDeleted": false
+            "isDeleted": false,
+            "teleport": {
+              "x": 33798,
+              "y": 31386,
+              "floor": 7
+            }
           },
           {
             "x": 33803,
@@ -45898,7 +46243,12 @@
             "y": 31384,
             "floor": 6,
             "icon": "cross",
-            "isDeleted": false
+            "isDeleted": false,
+            "teleport": {
+              "x": 33838,
+              "y": 31222,
+              "floor": 5
+            }
           },
           {
             "x": 33838,
@@ -46366,7 +46716,12 @@
             "x": 33651,
             "y": 31941,
             "floor": 7,
-            "isDeleted": false
+            "isDeleted": false,
+            "teleport": {
+              "x": 33558,
+              "y": 31970,
+              "floor": 12
+            }
           },
           {
             "description": "",
@@ -50919,7 +51274,12 @@
             "y": 32030,
             "floor": 7,
             "icon": "cross",
-            "isDeleted": false
+            "isDeleted": false,
+            "teleport": {
+              "x": 33775,
+              "y": 31347,
+              "floor": 7
+            }
           },
           {
             "x": 33788,
@@ -51560,7 +51920,12 @@
             "floor": 8,
             "icon": "cross",
             "isDeleted": false,
-            "description": ""
+            "description": "",
+            "teleport": {
+              "x": 32858,
+              "y": 32666,
+              "floor": 9
+            }
           },
           {
             "x": 32854,
@@ -51584,7 +51949,12 @@
             "floor": 11,
             "icon": "cross",
             "isDeleted": false,
-            "description": ""
+            "description": "",
+            "teleport": {
+              "x": 32888,
+              "y": 32632,
+              "floor": 11
+            }
           },
           {
             "x": 32806,
@@ -52164,7 +52534,12 @@
             "x": 32721,
             "y": 31544,
             "floor": 8,
-            "isDeleted": false
+            "isDeleted": false,
+            "teleport": {
+              "x": 32721,
+              "y": 31546,
+              "floor": 9
+            }
           },
           {
             "description": "Use Rope",
@@ -53423,7 +53798,12 @@
             "y": 31901,
             "floor": 8,
             "icon": "cross",
-            "isDeleted": false
+            "isDeleted": false,
+            "teleport": {
+              "x": 32676,
+              "y": 31976,
+              "floor": 15
+            }
           },
           {
             "x": 32668,
@@ -54805,7 +55185,12 @@
             "x": 32869,
             "y": 31202,
             "floor": 5,
-            "isDeleted": false
+            "isDeleted": false,
+            "teleport": {
+              "x": 32874,
+              "y": 31201,
+              "floor": 5
+            }
           },
           {
             "description": "",
@@ -54845,7 +55230,12 @@
             "x": 32917,
             "y": 31199,
             "floor": 7,
-            "isDeleted": false
+            "isDeleted": false,
+            "teleport": {
+              "x": 32944,
+              "y": 31182,
+              "floor": 6
+            }
           },
           {
             "description": "",
@@ -54861,7 +55251,12 @@
             "x": 32950,
             "y": 31182,
             "floor": 6,
-            "isDeleted": false
+            "isDeleted": false,
+            "teleport": {
+              "x": 32950,
+              "y": 31180,
+              "floor": 9
+            }
           },
           {
             "description": "",
@@ -55460,7 +55855,12 @@
             "x": 32658,
             "y": 31901,
             "floor": 8,
-            "isDeleted": false
+            "isDeleted": false,
+            "teleport": {
+              "x": 32629,
+              "y": 31921,
+              "floor": 11
+            }
           },
           {
             "description": "",
@@ -55468,7 +55868,12 @@
             "x": 32624,
             "y": 31870,
             "floor": 11,
-            "isDeleted": false
+            "isDeleted": false,
+            "teleport": {
+              "x": 33745,
+              "y": 32191,
+              "floor": 14
+            }
           },
           {
             "description": "",
@@ -55957,7 +56362,12 @@
             "y": 31469,
             "floor": 7,
             "icon": "cross",
-            "isDeleted": false
+            "isDeleted": false,
+            "teleport": {
+              "x": 33910,
+              "y": 31434,
+              "floor": 8
+            }
           }
         ],
         "paths": [
@@ -58401,7 +58811,12 @@
             "x": 32791,
             "y": 32333,
             "floor": 9,
-            "isDeleted": false
+            "isDeleted": false,
+            "teleport": {
+              "x": 32791,
+              "y": 32334,
+              "floor": 10
+            }
           },
           {
             "description": "",
@@ -60495,7 +60910,12 @@
             "x": 32649,
             "y": 31292,
             "floor": 6,
-            "isDeleted": false
+            "isDeleted": false,
+            "teleport": {
+              "x": 32564,
+              "y": 31313,
+              "floor": 7
+            }
           },
           {
             "description": "",
@@ -60671,7 +61091,12 @@
             "x": 32598,
             "y": 31402,
             "floor": 15,
-            "isDeleted": false
+            "isDeleted": false,
+            "teleport": {
+              "x": 32600,
+              "y": 31388,
+              "floor": 15
+            }
           }
         ],
         "paths": [
@@ -63606,7 +64031,12 @@
             "y": 31124,
             "floor": 6,
             "icon": "cross",
-            "isDeleted": false
+            "isDeleted": false,
+            "teleport": {
+              "x": 31939,
+              "y": 31045,
+              "floor": 6
+            }
           },
           {
             "x": 31938,
@@ -64176,7 +64606,12 @@
             "y": 31526,
             "floor": 10,
             "icon": "cross",
-            "isDeleted": false
+            "isDeleted": false,
+            "teleport": {
+              "x": 32993,
+              "y": 31548,
+              "floor": 4
+            }
           },
           {
             "x": 33004,
@@ -64225,7 +64660,12 @@
             "y": 31345,
             "floor": 6,
             "icon": "cross",
-            "isDeleted": false
+            "isDeleted": false,
+            "teleport": {
+              "x": 33146,
+              "y": 31246,
+              "floor": 6
+            }
           },
           {
             "x": 33146,
@@ -65163,7 +65603,12 @@
             "y": 31526,
             "floor": 12,
             "icon": "cross",
-            "isDeleted": false
+            "isDeleted": false,
+            "teleport": {
+              "x": 32993,
+              "y": 31549,
+              "floor": 4
+            }
           },
           {
             "x": 33004,
@@ -65240,7 +65685,12 @@
             "y": 31528,
             "floor": 2,
             "icon": "cross",
-            "isDeleted": false
+            "isDeleted": false,
+            "teleport": {
+              "x": 32942,
+              "y": 31594,
+              "floor": 8
+            }
           },
           {
             "x": 32949,
@@ -66238,7 +66688,12 @@
             "y": 31650,
             "floor": 13,
             "icon": "cross",
-            "isDeleted": false
+            "isDeleted": false,
+            "teleport": {
+              "x": 33259,
+              "y": 31942,
+              "floor": 15
+            }
           },
           {
             "x": 33262,
@@ -67113,7 +67568,12 @@
             "x": 33128,
             "y": 32308,
             "floor": 8,
-            "isDeleted": false
+            "isDeleted": false,
+            "teleport": {
+              "x": 33123,
+              "y": 32308,
+              "floor": 8
+            }
           },
           {
             "description": "",
@@ -68194,7 +68654,12 @@
             "y": 31526,
             "floor": 10,
             "icon": "cross",
-            "isDeleted": false
+            "isDeleted": false,
+            "teleport": {
+              "x": 32993,
+              "y": 31548,
+              "floor": 4
+            }
           },
           {
             "x": 33004,
@@ -68243,7 +68708,12 @@
             "y": 31345,
             "floor": 6,
             "icon": "cross",
-            "isDeleted": false
+            "isDeleted": false,
+            "teleport": {
+              "x": 33146,
+              "y": 31246,
+              "floor": 6
+            }
           },
           {
             "x": 33146,
@@ -71568,7 +72038,12 @@
             "x": 32046,
             "y": 32559,
             "floor": 8,
-            "isDeleted": false
+            "isDeleted": false,
+            "teleport": {
+              "x": 31937,
+              "y": 32555,
+              "floor": 8
+            }
           },
           {
             "description": "",
@@ -73291,7 +73766,12 @@
             "y": 31259,
             "floor": 7,
             "icon": "cross",
-            "isDeleted": false
+            "isDeleted": false,
+            "teleport": {
+              "x": 32695,
+              "y": 31256,
+              "floor": 7
+            }
           },
           {
             "x": 32676,
@@ -75192,7 +75672,12 @@
             "y": 31113,
             "floor": 7,
             "icon": "cross",
-            "isDeleted": false
+            "isDeleted": false,
+            "teleport": {
+              "x": 32739,
+              "y": 31113,
+              "floor": 7
+            }
           },
           {
             "x": 32712,
@@ -77335,7 +77820,12 @@
             "x": 32695,
             "y": 31259,
             "floor": 7,
-            "isDeleted": false
+            "isDeleted": false,
+            "teleport": {
+              "x": 32695,
+              "y": 31255,
+              "floor": 7
+            }
           },
           {
             "description": "",
@@ -77343,7 +77833,12 @@
             "x": 32688,
             "y": 31194,
             "floor": 7,
-            "isDeleted": false
+            "isDeleted": false,
+            "teleport": {
+              "x": 32688,
+              "y": 31189,
+              "floor": 7
+            }
           },
           {
             "description": "",
@@ -83793,7 +84288,12 @@
             "y": 31627,
             "floor": 8,
             "icon": "cross",
-            "isDeleted": false
+            "isDeleted": false,
+            "teleport": {
+              "x": 32545,
+              "y": 31627,
+              "floor": 8
+            }
           },
           {
             "x": 32551,
@@ -84265,7 +84765,12 @@
             "x": 32658,
             "y": 31901,
             "floor": 8,
-            "isDeleted": false
+            "isDeleted": false,
+            "teleport": {
+              "x": 32629,
+              "y": 31921,
+              "floor": 11
+            }
           },
           {
             "description": "",
@@ -84273,7 +84778,12 @@
             "x": 32624,
             "y": 31853,
             "floor": 11,
-            "isDeleted": false
+            "isDeleted": false,
+            "teleport": {
+              "x": 32235,
+              "y": 32604,
+              "floor": 8
+            }
           },
           {
             "description": "",
@@ -87329,7 +87839,12 @@
             "x": 32024,
             "y": 31368,
             "floor": 7,
-            "isDeleted": false
+            "isDeleted": false,
+            "teleport": {
+              "x": 32023,
+              "y": 31375,
+              "floor": 7
+            }
           }
         ],
         "paths": [
@@ -88418,7 +88933,12 @@
             "x": 32347,
             "y": 32859,
             "floor": 7,
-            "isDeleted": false
+            "isDeleted": false,
+            "teleport": {
+              "x": 32346,
+              "y": 32617,
+              "floor": 7
+            }
           },
           {
             "description": "Step on Tortoises Back",
@@ -88426,7 +88946,12 @@
             "x": 32340,
             "y": 32537,
             "floor": 7,
-            "isDeleted": false
+            "isDeleted": false,
+            "teleport": {
+              "x": 32359,
+              "y": 32901,
+              "floor": 7
+            }
           },
           {
             "description": "",
@@ -90251,7 +90776,12 @@
             "x": 32473,
             "y": 31714,
             "floor": 7,
-            "isDeleted": false
+            "isDeleted": false,
+            "teleport": {
+              "x": 32470,
+              "y": 31714,
+              "floor": 6
+            }
           }
         ],
         "paths": [
@@ -91327,7 +91857,12 @@
             "x": 32695,
             "y": 31259,
             "floor": 7,
-            "isDeleted": false
+            "isDeleted": false,
+            "teleport": {
+              "x": 32695,
+              "y": 31255,
+              "floor": 7
+            }
           },
           {
             "description": "",
@@ -91335,7 +91870,12 @@
             "x": 32688,
             "y": 31193,
             "floor": 7,
-            "isDeleted": false
+            "isDeleted": false,
+            "teleport": {
+              "x": 32693,
+              "y": 31184,
+              "floor": 7
+            }
           }
         ],
         "paths": [
@@ -92434,7 +92974,12 @@
             "y": 31293,
             "floor": 6,
             "icon": "cross",
-            "isDeleted": false
+            "isDeleted": false,
+            "teleport": {
+              "x": 32626,
+              "y": 31410,
+              "floor": 3
+            }
           }
         ],
         "paths": [
@@ -93749,7 +94294,12 @@
             "y": 32287,
             "floor": 7,
             "icon": "cross",
-            "isDeleted": false
+            "isDeleted": false,
+            "teleport": {
+              "x": 33303,
+              "y": 32286,
+              "floor": 7
+            }
           }
         ],
         "paths": [
@@ -94927,7 +95477,12 @@
             "y": 32537,
             "floor": 6,
             "icon": "cross",
-            "isDeleted": false
+            "isDeleted": false,
+            "teleport": {
+              "x": 33206,
+              "y": 32519,
+              "floor": 8
+            }
           }
         ],
         "paths": [
@@ -95904,7 +96459,12 @@
             "floor": 11,
             "icon": "cross",
             "isDeleted": false,
-            "description": ""
+            "description": "",
+            "teleport": {
+              "x": 33040,
+              "y": 32081,
+              "floor": 12
+            }
           },
           {
             "x": 33037,
@@ -98743,14 +99303,24 @@
             "y": 31103,
             "floor": 7,
             "icon": "cross",
-            "isDeleted": false
+            "isDeleted": false,
+            "teleport": {
+              "x": 32799,
+              "y": 31103,
+              "floor": 7
+            }
           },
           {
             "x": 32778,
             "y": 31118,
             "floor": 7,
             "icon": "cross",
-            "isDeleted": false
+            "isDeleted": false,
+            "teleport": {
+              "x": 32780,
+              "y": 31116,
+              "floor": 7
+            }
           },
           {
             "x": 32789,
