@@ -20538,7 +20538,7 @@
   {
     "name": "Moonsilver Chopper",
     "url": "https://www.tibiawiki.com.br/wiki/Moonsilver_Chopper",
-    "slot": "Weapon Hand",
+    "slot": "Both Hands",
     "vocation": "knights",
     "level": 1000,
     "charges": null,
@@ -28480,7 +28480,7 @@
   {
     "name": "Stellar Moonsilver Chopper",
     "url": "https://www.tibiawiki.com.br/wiki/Stellar_Moonsilver_Chopper",
-    "slot": "Weapon Hand",
+    "slot": "Both Hands",
     "vocation": "knights",
     "level": 1000,
     "charges": null,
@@ -31868,7 +31868,7 @@
   {
     "name": "Energy Orcish Maul Replica",
     "url": "https://www.tibiawiki.com.br/wiki/Energy_Orcish_Maul_Replica",
-    "slot": "Both Hands",
+    "slot": "Weapon Hand",
     "vocation": "all",
     "level": 0,
     "charges": null,
