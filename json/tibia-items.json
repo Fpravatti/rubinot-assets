@@ -13,7 +13,10 @@
       "attack": 40,
       "weight": 70,
       "imbueSlots": 3,
-      "elementalAttack": null
+      "elementalAttack": {
+        "element": "physical",
+        "value": 40
+      }
     },
     "resistances": {},
     "attributes": {},
@@ -767,7 +770,10 @@
       "attack": 41,
       "weight": 69,
       "imbueSlots": 2,
-      "elementalAttack": null
+      "elementalAttack": {
+        "element": "physical",
+        "value": 41
+      }
     },
     "resistances": {},
     "attributes": {
@@ -866,7 +872,10 @@
       "attack": 43,
       "weight": 78,
       "imbueSlots": 2,
-      "elementalAttack": null
+      "elementalAttack": {
+        "element": "energy",
+        "value": 43
+      }
     },
     "resistances": {},
     "attributes": {
@@ -1645,7 +1654,10 @@
       "attack": 45,
       "weight": 71,
       "imbueSlots": 3,
-      "elementalAttack": null
+      "elementalAttack": {
+        "element": "earth",
+        "value": 45
+      }
     },
     "resistances": {},
     "attributes": {
@@ -2271,7 +2283,10 @@
       "attack": 10,
       "weight": 17,
       "imbueSlots": 0,
-      "elementalAttack": null
+      "elementalAttack": {
+        "element": "energy",
+        "value": 10
+      }
     },
     "resistances": {},
     "attributes": {
@@ -2627,7 +2642,10 @@
       "attack": 36,
       "weight": 49,
       "imbueSlots": 1,
-      "elementalAttack": null
+      "elementalAttack": {
+        "element": "energy",
+        "value": 36
+      }
     },
     "resistances": {},
     "attributes": {
@@ -2857,7 +2875,10 @@
       "attack": 44,
       "weight": 86,
       "imbueSlots": 2,
-      "elementalAttack": null
+      "elementalAttack": {
+        "element": "physical",
+        "value": 44
+      }
     },
     "resistances": {},
     "attributes": {
@@ -3862,7 +3883,10 @@
       "attack": 40,
       "weight": 38,
       "imbueSlots": 2,
-      "elementalAttack": null
+      "elementalAttack": {
+        "element": "earth",
+        "value": 40
+      }
     },
     "resistances": {},
     "attributes": {
@@ -4005,7 +4029,10 @@
       "attack": 46,
       "weight": 72,
       "imbueSlots": 3,
-      "elementalAttack": null
+      "elementalAttack": {
+        "element": "energy",
+        "value": 46
+      }
     },
     "resistances": {},
     "attributes": {
@@ -8481,7 +8508,10 @@
       "attack": 42,
       "weight": 88,
       "imbueSlots": 2,
-      "elementalAttack": null
+      "elementalAttack": {
+        "element": "energy",
+        "value": 42
+      }
     },
     "resistances": {},
     "attributes": {
@@ -10150,7 +10180,10 @@
       "attack": 45,
       "weight": 69,
       "imbueSlots": 3,
-      "elementalAttack": null
+      "elementalAttack": {
+        "element": "earth",
+        "value": 45
+      }
     },
     "resistances": {},
     "attributes": {
@@ -12679,7 +12712,10 @@
       "attack": 22,
       "weight": 38,
       "imbueSlots": 0,
-      "elementalAttack": null
+      "elementalAttack": {
+        "element": "earth",
+        "value": 22
+      }
     },
     "resistances": {},
     "attributes": {},
@@ -16017,7 +16053,10 @@
       "attack": 45,
       "weight": 68,
       "imbueSlots": 3,
-      "elementalAttack": null
+      "elementalAttack": {
+        "element": "physical",
+        "value": 45
+      }
     },
     "resistances": {},
     "attributes": {
@@ -17254,7 +17293,10 @@
       "attack": 45,
       "weight": 84,
       "imbueSlots": 1,
-      "elementalAttack": null
+      "elementalAttack": {
+        "element": "energy",
+        "value": 45
+      }
     },
     "resistances": {},
     "attributes": {
@@ -17554,7 +17596,10 @@
       "attack": 21,
       "weight": 12,
       "imbueSlots": 0,
-      "elementalAttack": null
+      "elementalAttack": {
+        "element": "physical",
+        "value": 21
+      }
     },
     "resistances": {},
     "attributes": {
@@ -18747,7 +18792,10 @@
       "attack": 42,
       "weight": 56,
       "imbueSlots": 2,
-      "elementalAttack": null
+      "elementalAttack": {
+        "element": "earth",
+        "value": 42
+      }
     },
     "resistances": {},
     "attributes": {
@@ -19305,7 +19353,10 @@
       "attack": 17,
       "weight": 21,
       "imbueSlots": 0,
-      "elementalAttack": null
+      "elementalAttack": {
+        "element": "energy",
+        "value": 17
+      }
     },
     "resistances": {},
     "attributes": {
@@ -19989,7 +20040,10 @@
       "attack": 12,
       "weight": 18,
       "imbueSlots": 0,
-      "elementalAttack": null
+      "elementalAttack": {
+        "element": "earth",
+        "value": 12
+      }
     },
     "resistances": {},
     "attributes": {
@@ -22957,7 +23011,10 @@
       "attack": 33,
       "weight": 29,
       "imbueSlots": 1,
-      "elementalAttack": null
+      "elementalAttack": {
+        "element": "physical",
+        "value": 33
+      }
     },
     "resistances": {},
     "attributes": {
@@ -23381,7 +23438,10 @@
       "attack": 23,
       "weight": 18,
       "imbueSlots": 1,
-      "elementalAttack": null
+      "elementalAttack": {
+        "element": "energy",
+        "value": 23
+      }
     },
     "resistances": {},
     "attributes": {
@@ -23792,7 +23852,10 @@
       "attack": 39,
       "weight": 60,
       "imbueSlots": 2,
-      "elementalAttack": null
+      "elementalAttack": {
+        "element": "energy",
+        "value": 39
+      }
     },
     "resistances": {},
     "attributes": {},
@@ -23879,7 +23942,10 @@
       "attack": 40,
       "weight": 74,
       "imbueSlots": 1,
-      "elementalAttack": null
+      "elementalAttack": {
+        "element": "physical",
+        "value": 40
+      }
     },
     "resistances": {},
     "attributes": {
@@ -24160,7 +24226,10 @@
       "attack": 43,
       "weight": 82,
       "imbueSlots": 2,
-      "elementalAttack": null
+      "elementalAttack": {
+        "element": "physical",
+        "value": 43
+      }
     },
     "resistances": {},
     "attributes": {
@@ -25155,7 +25224,10 @@
       "attack": 46,
       "weight": 73,
       "imbueSlots": 3,
-      "elementalAttack": null
+      "elementalAttack": {
+        "element": "energy",
+        "value": 46
+      }
     },
     "resistances": {},
     "attributes": {
@@ -27324,7 +27396,10 @@
       "attack": 43,
       "weight": 84,
       "imbueSlots": 1,
-      "elementalAttack": null
+      "elementalAttack": {
+        "element": "energy",
+        "value": 43
+      }
     },
     "resistances": {},
     "attributes": {
@@ -29207,7 +29282,10 @@
       "attack": 44,
       "weight": 84,
       "imbueSlots": 3,
-      "elementalAttack": null
+      "elementalAttack": {
+        "element": "energy",
+        "value": 44
+      }
     },
     "resistances": {},
     "attributes": {
@@ -32047,7 +32125,10 @@
       "attack": 43,
       "weight": 84,
       "imbueSlots": 2,
-      "elementalAttack": null
+      "elementalAttack": {
+        "element": "energy",
+        "value": 43
+      }
     },
     "resistances": {},
     "attributes": {
@@ -32221,7 +32302,10 @@
       "attack": 40,
       "weight": 64,
       "imbueSlots": 2,
-      "elementalAttack": null
+      "elementalAttack": {
+        "element": "energy",
+        "value": 40
+      }
     },
     "resistances": {},
     "attributes": {
@@ -32653,7 +32737,10 @@
       "attack": 43,
       "weight": 60,
       "imbueSlots": 2,
-      "elementalAttack": null
+      "elementalAttack": {
+        "element": "earth",
+        "value": 43
+      }
     },
     "resistances": {},
     "attributes": {
@@ -33829,7 +33916,10 @@
       "attack": 42,
       "weight": 86,
       "imbueSlots": 2,
-      "elementalAttack": null
+      "elementalAttack": {
+        "element": "energy",
+        "value": 42
+      }
     },
     "resistances": {},
     "attributes": {
@@ -33852,7 +33942,10 @@
       "attack": 38,
       "weight": 45,
       "imbueSlots": 2,
-      "elementalAttack": null
+      "elementalAttack": {
+        "element": "physical",
+        "value": 38
+      }
     },
     "resistances": {},
     "attributes": {},
@@ -33872,7 +33965,10 @@
       "attack": 43,
       "weight": 84,
       "imbueSlots": 1,
-      "elementalAttack": null
+      "elementalAttack": {
+        "element": "energy",
+        "value": 43
+      }
     },
     "resistances": {},
     "attributes": {
@@ -34314,7 +34410,10 @@
       "attack": 40,
       "weight": 59,
       "imbueSlots": 1,
-      "elementalAttack": null
+      "elementalAttack": {
+        "element": "earth",
+        "value": 40
+      }
     },
     "resistances": {},
     "attributes": {
@@ -36396,7 +36495,10 @@
       "attack": 31,
       "weight": 25,
       "imbueSlots": 0,
-      "elementalAttack": null
+      "elementalAttack": {
+        "element": "earth",
+        "value": 31
+      }
     },
     "resistances": {},
     "attributes": {
@@ -36988,7 +37090,10 @@
       "attack": 39,
       "weight": 79,
       "imbueSlots": 0,
-      "elementalAttack": null
+      "elementalAttack": {
+        "element": "physical",
+        "value": 39
+      }
     },
     "resistances": {},
     "attributes": {
@@ -37070,7 +37175,10 @@
       "attack": 27,
       "weight": 50,
       "imbueSlots": 2,
-      "elementalAttack": null
+      "elementalAttack": {
+        "element": "physical",
+        "value": 27
+      }
     },
     "resistances": {},
     "attributes": {},
