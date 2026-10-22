@@ -1,0 +1,472 @@
+[
+  {
+    "id": 18,
+    "name": "Augmented Annihilation",
+    "vocation": "Knight"
+  },
+  {
+    "id": 19,
+    "name": "Augmented Annihilation",
+    "vocation": "Knight"
+  },
+  {
+    "id": 76,
+    "name": "Augmented Avatar of Balance",
+    "vocation": "Geral"
+  },
+  {
+    "id": 24,
+    "name": "Augmented Avatar of Light",
+    "vocation": "Paladin"
+  },
+  {
+    "id": 59,
+    "name": "Augmented Avatar of Nature",
+    "vocation": "Druid"
+  },
+  {
+    "id": 6,
+    "name": "Augmented Avatar of Steel",
+    "vocation": "Knight"
+  },
+  {
+    "id": 42,
+    "name": "Augmented Avatar of Storm",
+    "vocation": "Sorcerer"
+  },
+  {
+    "id": 12,
+    "name": "Augmented Berserk",
+    "vocation": "Knight"
+  },
+  {
+    "id": 13,
+    "name": "Augmented Berserk",
+    "vocation": "Knight"
+  },
+  {
+    "id": 28,
+    "name": "Augmented Divine Caldera",
+    "vocation": "Paladin"
+  },
+  {
+    "id": 29,
+    "name": "Augmented Divine Caldera",
+    "vocation": "Paladin"
+  },
+  {
+    "id": 25,
+    "name": "Augmented Divine Dazzle",
+    "vocation": "Paladin"
+  },
+  {
+    "id": 36,
+    "name": "Augmented Divine Empowerment",
+    "vocation": "Paladin"
+  },
+  {
+    "id": 26,
+    "name": "Augmented Divine Grenade",
+    "vocation": "Paladin"
+  },
+  {
+    "id": 27,
+    "name": "Augmented Divine Grenade",
+    "vocation": "Paladin"
+  },
+  {
+    "id": 37,
+    "name": "Augmented Divine Grenade",
+    "vocation": "Paladin"
+  },
+  {
+    "id": 30,
+    "name": "Augmented Divine Missile",
+    "vocation": "Paladin"
+  },
+  {
+    "id": 31,
+    "name": "Augmented Divine Missile",
+    "vocation": "Paladin"
+  },
+  {
+    "id": 43,
+    "name": "Augmented Energy Wave",
+    "vocation": "Sorcerer"
+  },
+  {
+    "id": 48,
+    "name": "Augmented Energy Wave",
+    "vocation": "Sorcerer"
+  },
+  {
+    "id": 49,
+    "name": "Augmented Energy Wave",
+    "vocation": "Sorcerer"
+  },
+  {
+    "id": 65,
+    "name": "Augmented Eternal Winter",
+    "vocation": "Druid"
+  },
+  {
+    "id": 66,
+    "name": "Augmented Eternal Winter",
+    "vocation": "Druid"
+  },
+  {
+    "id": 32,
+    "name": "Augmented Ethereal Spear",
+    "vocation": "Paladin"
+  },
+  {
+    "id": 33,
+    "name": "Augmented Ethereal Spear",
+    "vocation": "Paladin"
+  },
+  {
+    "id": 7,
+    "name": "Augmented Executioner's Throw",
+    "vocation": "Knight"
+  },
+  {
+    "id": 8,
+    "name": "Augmented Executioner's Throw",
+    "vocation": "Knight"
+  },
+  {
+    "id": 9,
+    "name": "Augmented Executioner's Throw",
+    "vocation": "Knight"
+  },
+  {
+    "id": 20,
+    "name": "Augmented Fair Wound Cleansing",
+    "vocation": "Knight"
+  },
+  {
+    "id": 10,
+    "name": "Augmented Fierce Berserk",
+    "vocation": "Knight"
+  },
+  {
+    "id": 11,
+    "name": "Augmented Fierce Berserk",
+    "vocation": "Knight"
+  },
+  {
+    "id": 82,
+    "name": "Augmented Flurry of Blows",
+    "vocation": "Geral"
+  },
+  {
+    "id": 83,
+    "name": "Augmented Flurry of Blows",
+    "vocation": "Geral"
+  },
+  {
+    "id": 89,
+    "name": "Augmented Focus Harmony",
+    "vocation": "Geral"
+  },
+  {
+    "id": 88,
+    "name": "Augmented Focus Serenity",
+    "vocation": "Geral"
+  },
+  {
+    "id": 80,
+    "name": "Augmented Forceful Uppercut",
+    "vocation": "Geral"
+  },
+  {
+    "id": 81,
+    "name": "Augmented Forceful Uppercut",
+    "vocation": "Geral"
+  },
+  {
+    "id": 14,
+    "name": "Augmented Front Sweep",
+    "vocation": "Knight"
+  },
+  {
+    "id": 15,
+    "name": "Augmented Front Sweep",
+    "vocation": "Knight"
+  },
+  {
+    "id": 44,
+    "name": "Augmented Great Death Beam",
+    "vocation": "Geral"
+  },
+  {
+    "id": 45,
+    "name": "Augmented Great Death Beam",
+    "vocation": "Geral"
+  },
+  {
+    "id": 54,
+    "name": "Augmented Great Energy Beam",
+    "vocation": "Geral"
+  },
+  {
+    "id": 55,
+    "name": "Augmented Great Energy Beam",
+    "vocation": "Geral"
+  },
+  {
+    "id": 50,
+    "name": "Augmented Great Fire Wave",
+    "vocation": "Geral"
+  },
+  {
+    "id": 51,
+    "name": "Augmented Great Fire Wave",
+    "vocation": "Geral"
+  },
+  {
+    "id": 84,
+    "name": "Augmented Greater Flurry of Blows",
+    "vocation": "Geral"
+  },
+  {
+    "id": 85,
+    "name": "Augmented Greater Flurry of Blows",
+    "vocation": "Geral"
+  },
+  {
+    "id": 16,
+    "name": "Augmented Groundshaker",
+    "vocation": "Knight"
+  },
+  {
+    "id": 17,
+    "name": "Augmented Groundshaker",
+    "vocation": "Knight"
+  },
+  {
+    "id": 71,
+    "name": "Augmented Heal Friend",
+    "vocation": "Geral"
+  },
+  {
+    "id": 46,
+    "name": "Augmented Hell's Core",
+    "vocation": "Sorcerer"
+  },
+  {
+    "id": 47,
+    "name": "Augmented Hell's Core",
+    "vocation": "Sorcerer"
+  },
+  {
+    "id": 63,
+    "name": "Augmented Ice Burst",
+    "vocation": "Druid"
+  },
+  {
+    "id": 64,
+    "name": "Augmented Ice Burst",
+    "vocation": "Druid"
+  },
+  {
+    "id": 72,
+    "name": "Augmented Mass Healing",
+    "vocation": "Druid"
+  },
+  {
+    "id": 90,
+    "name": "Augmented Mass Spirit Mend",
+    "vocation": "Geral"
+  },
+  {
+    "id": 60,
+    "name": "Augmented Nature's Embrace",
+    "vocation": "Druid"
+  },
+  {
+    "id": 52,
+    "name": "Augmented Rage of the Skies",
+    "vocation": "Geral"
+  },
+  {
+    "id": 53,
+    "name": "Augmented Rage of the Skies",
+    "vocation": "Geral"
+  },
+  {
+    "id": 38,
+    "name": "Augmented Salvation",
+    "vocation": "Paladin"
+  },
+  {
+    "id": 77,
+    "name": "Augmented Spirit Mend",
+    "vocation": "Geral"
+  },
+  {
+    "id": 78,
+    "name": "Augmented Spiritual Outburst",
+    "vocation": "Geral"
+  },
+  {
+    "id": 79,
+    "name": "Augmented Spiritual Outburst",
+    "vocation": "Geral"
+  },
+  {
+    "id": 34,
+    "name": "Augmented Strong Ethereal Spear",
+    "vocation": "Paladin"
+  },
+  {
+    "id": 35,
+    "name": "Augmented Strong Ethereal Spear",
+    "vocation": "Paladin"
+  },
+  {
+    "id": 69,
+    "name": "Augmented Strong Ice Wave",
+    "vocation": "Geral"
+  },
+  {
+    "id": 70,
+    "name": "Augmented Strong Ice Wave",
+    "vocation": "Geral"
+  },
+  {
+    "id": 86,
+    "name": "Augmented Sweeping Takedown",
+    "vocation": "Geral"
+  },
+  {
+    "id": 87,
+    "name": "Augmented Sweeping Takedown",
+    "vocation": "Geral"
+  },
+  {
+    "id": 61,
+    "name": "Augmented Terra Burst",
+    "vocation": "Geral"
+  },
+  {
+    "id": 62,
+    "name": "Augmented Terra Burst",
+    "vocation": "Geral"
+  },
+  {
+    "id": 67,
+    "name": "Augmented Terra Wave",
+    "vocation": "Druid"
+  },
+  {
+    "id": 68,
+    "name": "Augmented Terra Wave",
+    "vocation": "Druid"
+  },
+  {
+    "id": 4,
+    "name": "Augmented Ultimate Healing",
+    "vocation": "Druid"
+  },
+  {
+    "id": 1,
+    "name": "Critical Extra Damage",
+    "vocation": "Geral"
+  },
+  {
+    "id": 0,
+    "name": "Dodge",
+    "vocation": "Geral"
+  },
+  {
+    "id": 2,
+    "name": "Life Leech",
+    "vocation": "Geral"
+  },
+  {
+    "id": 3,
+    "name": "Mana Leech",
+    "vocation": "Geral"
+  },
+  {
+    "id": 93,
+    "name": "Revelation Mastery Ascetic",
+    "vocation": "Geral"
+  },
+  {
+    "id": 91,
+    "name": "Revelation Mastery Avatar of Balance",
+    "vocation": "Geral"
+  },
+  {
+    "id": 39,
+    "name": "Revelation Mastery Avatar of Light",
+    "vocation": "Paladin"
+  },
+  {
+    "id": 73,
+    "name": "Revelation Mastery Avatar of Nature",
+    "vocation": "Druid"
+  },
+  {
+    "id": 21,
+    "name": "Revelation Mastery Avatar of Steel",
+    "vocation": "Knight"
+  },
+  {
+    "id": 56,
+    "name": "Revelation Mastery Avatar of Storm",
+    "vocation": "Sorcerer"
+  },
+  {
+    "id": 57,
+    "name": "Revelation Mastery Beam Mastery",
+    "vocation": "Geral"
+  },
+  {
+    "id": 74,
+    "name": "Revelation Mastery Blessing of the Grove",
+    "vocation": "Geral"
+  },
+  {
+    "id": 23,
+    "name": "Revelation Mastery Combat Mastery",
+    "vocation": "Knight"
+  },
+  {
+    "id": 41,
+    "name": "Revelation Mastery Divine Empowerment",
+    "vocation": "Paladin"
+  },
+  {
+    "id": 40,
+    "name": "Revelation Mastery Divine Grenade",
+    "vocation": "Paladin"
+  },
+  {
+    "id": 22,
+    "name": "Revelation Mastery Executioner's Throw",
+    "vocation": "Knight"
+  },
+  {
+    "id": 5,
+    "name": "Revelation Mastery Gift of Life",
+    "vocation": "Geral"
+  },
+  {
+    "id": 58,
+    "name": "Revelation Mastery Lord of Destruction",
+    "vocation": "Geral"
+  },
+  {
+    "id": 92,
+    "name": "Revelation Mastery Spiritual Outburst",
+    "vocation": "Geral"
+  },
+  {
+    "id": 75,
+    "name": "Revelation Mastery Twin Bursts",
+    "vocation": "Geral"
+  }
+]

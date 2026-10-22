@@ -1,0 +1,1172 @@
+[
+  {
+    "name": "Aerial Disciple",
+    "looktype": 1936,
+    "premium": true,
+    "image": "https://i.ibb.co/bgtmfJVY/91fb9f9eae2d.png"
+  },
+  {
+    "name": "Afflicted",
+    "looktype": 430,
+    "premium": true,
+    "image": "https://i.ibb.co/b5mrcBzt/a82479f2b138.png"
+  },
+  {
+    "name": "Ancient Aucar",
+    "looktype": 1597,
+    "premium": false,
+    "image": "https://i.ibb.co/yc18T6z1/d78c137f846c.png"
+  },
+  {
+    "name": "Angelic Champion",
+    "looktype": 2525,
+    "premium": true,
+    "image": "https://i.ibb.co/bM0KWYJx/489e59e5ac43.png"
+  },
+  {
+    "name": "Arbalester",
+    "looktype": 1449,
+    "premium": false,
+    "image": "https://i.ibb.co/gMwP9RWv/5c2c40abdffd.png"
+  },
+  {
+    "name": "Arena Champion",
+    "looktype": 884,
+    "premium": true,
+    "image": "https://i.ibb.co/NdQd9fw0/afaa02c13bac.png"
+  },
+  {
+    "name": "Armoured Archer",
+    "looktype": 1618,
+    "premium": false,
+    "image": "https://i.ibb.co/xS1rnYn7/d960e23eb5c5.png"
+  },
+  {
+    "name": "Assassin",
+    "looktype": 152,
+    "premium": true,
+    "image": "https://i.ibb.co/pjKm3M30/8e5f3cd9c89f.png"
+  },
+  {
+    "name": "Barbarian",
+    "looktype": 143,
+    "premium": true,
+    "image": "https://i.ibb.co/fVn4dq67/c08dac5f4e9c.png"
+  },
+  {
+    "name": "Bat Knight",
+    "looktype": 1875,
+    "premium": true,
+    "image": "https://i.ibb.co/HfxnzNTN/d9478c32dcce.png"
+  },
+  {
+    "name": "Battle Mage",
+    "looktype": 1069,
+    "premium": true,
+    "image": "https://i.ibb.co/qM8n7FbZ/fd7798facc72.png"
+  },
+  {
+    "name": "Beastmaster",
+    "looktype": 637,
+    "premium": true,
+    "image": "https://i.ibb.co/Y46cGBSK/23cf8573c270.png"
+  },
+  {
+    "name": "Beekeeper",
+    "looktype": 1776,
+    "premium": true,
+    "image": "https://i.ibb.co/8n6Nk05g/f047a79a82c2.png"
+  },
+  {
+    "name": "Beggar",
+    "looktype": 153,
+    "premium": true,
+    "image": "https://i.ibb.co/F4ktGYYQ/64a6e8759041.png"
+  },
+  {
+    "name": "Blade Dancer",
+    "looktype": 1745,
+    "premium": true,
+    "image": "https://i.ibb.co/9kCsKNXq/8236a0be65a0.png"
+  },
+  {
+    "name": "Bloodbreaker",
+    "looktype": 2638,
+    "premium": false,
+    "image": "https://i.ibb.co/jvb9dnRt/21f1e71868dc.png"
+  },
+  {
+    "name": "Breezy Garb",
+    "looktype": 1245,
+    "premium": true,
+    "image": "https://i.ibb.co/SwMqYGzn/3d6696e60664.png"
+  },
+  {
+    "name": "Brotherhood",
+    "looktype": 278,
+    "premium": true,
+    "image": "https://i.ibb.co/yBZWcDMJ/aa48b39ada5a.png"
+  },
+  {
+    "name": "Celestial Avenger",
+    "looktype": 1726,
+    "premium": true,
+    "image": "https://i.ibb.co/r2nsTbQr/fc9942cf3a07.png"
+  },
+  {
+    "name": "Ceremonial Garb",
+    "looktype": 695,
+    "premium": true,
+    "image": "https://i.ibb.co/zVdh3x6L/11038cc1f1e1.png"
+  },
+  {
+    "name": "Champion",
+    "looktype": 633,
+    "premium": true,
+    "image": "https://i.ibb.co/ymHg2G46/687124789487.png"
+  },
+  {
+    "name": "Chaos Acolyte",
+    "looktype": 664,
+    "premium": true,
+    "image": "https://i.ibb.co/mrtQxbbg/2611667145fd.png"
+  },
+  {
+    "name": "Citizen",
+    "looktype": 128,
+    "premium": false,
+    "image": "https://i.ibb.co/VYbvrTcH/9f5231ccdb1b.png"
+  },
+  {
+    "name": "Citizen of Issavi",
+    "looktype": 1386,
+    "premium": false,
+    "image": "https://i.ibb.co/Y7q4PCbh/37351ad0236f.png"
+  },
+  {
+    "name": "Conjurer",
+    "looktype": 635,
+    "premium": true,
+    "image": "https://i.ibb.co/67X0VPvx/a52914a6102a.png"
+  },
+  {
+    "name": "Crystal Warlord",
+    "looktype": 512,
+    "premium": true,
+    "image": "https://i.ibb.co/qMSm1XXY/51bdc71ff4ca.png"
+  },
+  {
+    "name": "Darklight Evoker",
+    "looktype": 1675,
+    "premium": false,
+    "image": "https://i.ibb.co/ZpY9S5ps/ed10d108efe3.png"
+  },
+  {
+    "name": "Death Assassin",
+    "looktype": 2679,
+    "premium": false,
+    "image": "https://i.ibb.co/VpxqLgZT/8a0fdc4fe66a.png"
+  },
+  {
+    "name": "Death Barbarian",
+    "looktype": 2693,
+    "premium": false,
+    "image": "https://i.ibb.co/LXnFXfqy/aece5a5f28f9.png"
+  },
+  {
+    "name": "Death Citizen",
+    "looktype": 2566,
+    "premium": false,
+    "image": "https://i.ibb.co/N6W6F8dz/3ea9425c21a4.png"
+  },
+  {
+    "name": "Death Herald",
+    "looktype": 667,
+    "premium": true,
+    "image": "https://i.ibb.co/d4ccjL9q/d7df38911634.png"
+  },
+  {
+    "name": "Death Hunter",
+    "looktype": 2626,
+    "premium": false,
+    "image": "https://i.ibb.co/P75TL9J/60f0678fae98.png"
+  },
+  {
+    "name": "Death Knight",
+    "looktype": 2739,
+    "premium": false,
+    "image": "https://i.ibb.co/pB3xtHrk/2fb97a52971f.png"
+  },
+  {
+    "name": "Death Oriental",
+    "looktype": 2753,
+    "premium": false,
+    "image": "https://i.ibb.co/tMLXyp9R/cf123999fda2.png"
+  },
+  {
+    "name": "Death Warrior",
+    "looktype": 2580,
+    "premium": false,
+    "image": "https://i.ibb.co/RkpD5JFM/3a7efcb63589.png"
+  },
+  {
+    "name": "Death Wizard",
+    "looktype": 2612,
+    "premium": false,
+    "image": "https://i.ibb.co/Y7TZRZ1p/f6bec7c2a850.png"
+  },
+  {
+    "name": "Decaying Defender",
+    "looktype": 1662,
+    "premium": false,
+    "image": "https://i.ibb.co/3m3LMC6F/c0a4e65481c2.png"
+  },
+  {
+    "name": "Deepling",
+    "looktype": 464,
+    "premium": true,
+    "image": "https://i.ibb.co/Lz55KPtm/b834dcc49a4b.png"
+  },
+  {
+    "name": "Demon Hunter",
+    "looktype": 289,
+    "premium": true,
+    "image": "https://i.ibb.co/2YNw52zJ/ca52dc18230e.png"
+  },
+  {
+    "name": "Demon Outfit",
+    "looktype": 541,
+    "premium": true,
+    "image": "https://i.ibb.co/jPPSYvZT/70cb15b72650.png"
+  },
+  {
+    "name": "Demonic Kid",
+    "looktype": 2502,
+    "premium": false,
+    "image": "https://i.ibb.co/gMGmn190/3bea18e7c5c8.png"
+  },
+  {
+    "name": "Doom Knight",
+    "looktype": 1713,
+    "premium": true,
+    "image": "https://i.ibb.co/d0yjjkCn/624f81d3105b.png"
+  },
+  {
+    "name": "Draccoon Herald",
+    "looktype": 1722,
+    "premium": true,
+    "image": "https://i.ibb.co/hRHs7PHD/ad17eb731d75.png"
+  },
+  {
+    "name": "Draconic",
+    "looktype": 2608,
+    "premium": false,
+    "image": "https://i.ibb.co/Q7jWyDRN/712d22d97567.png"
+  },
+  {
+    "name": "Dragon Knight",
+    "looktype": 1444,
+    "premium": false,
+    "image": "https://i.ibb.co/5gnS3bm6/f2ad1f0e584f.png"
+  },
+  {
+    "name": "Dream Warden",
+    "looktype": 577,
+    "premium": true,
+    "image": "https://i.ibb.co/35YqhLTx/14a0d078a7be.png"
+  },
+  {
+    "name": "Dream Warrior",
+    "looktype": 1146,
+    "premium": true,
+    "image": "https://i.ibb.co/n8zVp8QY/e0ac10a1e3ca.png"
+  },
+  {
+    "name": "Druid",
+    "looktype": 144,
+    "premium": true,
+    "image": "https://i.ibb.co/WWfL2WWQ/3ed4966a56f7.png"
+  },
+  {
+    "name": "Earth Assassin",
+    "looktype": 2687,
+    "premium": false,
+    "image": "https://i.ibb.co/mrbHB0Hz/aa63a7f007bb.png"
+  },
+  {
+    "name": "Earth Barbarian",
+    "looktype": 2701,
+    "premium": false,
+    "image": "https://i.ibb.co/HTf2qmWv/f6b2f16f6d3d.png"
+  },
+  {
+    "name": "Earth Citizen",
+    "looktype": 2574,
+    "premium": false,
+    "image": "https://i.ibb.co/B5GZxbc8/7feb6f574728.png"
+  },
+  {
+    "name": "Earth Hunter",
+    "looktype": 2634,
+    "premium": false,
+    "image": "https://i.ibb.co/HDdbZmXy/75cab0ef4c92.png"
+  },
+  {
+    "name": "Earth Knight",
+    "looktype": 2747,
+    "premium": false,
+    "image": "https://i.ibb.co/Xxnscrfj/b88ea4ccc080.png"
+  },
+  {
+    "name": "Earth Oriental",
+    "looktype": 2761,
+    "premium": false,
+    "image": "https://i.ibb.co/jP9D0rzc/eda4b87ea59b.png"
+  },
+  {
+    "name": "Earth Warrior",
+    "looktype": 2588,
+    "premium": false,
+    "image": "https://i.ibb.co/jZDN96cP/d15ee161f814.png"
+  },
+  {
+    "name": "Earth Wizard",
+    "looktype": 2620,
+    "premium": false,
+    "image": "https://i.ibb.co/Q3938n2Z/85c4ad5d43f6.png"
+  },
+  {
+    "name": "Eclipse Priestess",
+    "looktype": 2721,
+    "premium": false,
+    "image": "https://i.ibb.co/N2bmFrCr/bc09bf7efba5.png"
+  },
+  {
+    "name": "Eclipse Warden",
+    "looktype": 2720,
+    "premium": false,
+    "image": "https://i.ibb.co/QvHVwRMg/6bd184756903.png"
+  },
+  {
+    "name": "Elementalist",
+    "looktype": 432,
+    "premium": true,
+    "image": "https://i.ibb.co/PGZDQHCD/d1c072333cf5.png"
+  },
+  {
+    "name": "Energy Assassin",
+    "looktype": 2681,
+    "premium": false,
+    "image": "https://i.ibb.co/VWmMdDmr/a29a78503d59.png"
+  },
+  {
+    "name": "Energy Barbarian",
+    "looktype": 2695,
+    "premium": false,
+    "image": "https://i.ibb.co/YFNYKKy6/1652d3eae9ad.png"
+  },
+  {
+    "name": "Energy Citizen",
+    "looktype": 2569,
+    "premium": false,
+    "image": "https://i.ibb.co/FkD73nTr/caf5ca401b17.png"
+  },
+  {
+    "name": "Energy Hunter",
+    "looktype": 2628,
+    "premium": false,
+    "image": "https://i.ibb.co/SXL8DR4K/a52ce23f9890.png"
+  },
+  {
+    "name": "Energy Knight",
+    "looktype": 2741,
+    "premium": false,
+    "image": "https://i.ibb.co/jkSXfZsR/8b6c607413b0.png"
+  },
+  {
+    "name": "Energy Oriental",
+    "looktype": 2755,
+    "premium": false,
+    "image": "https://i.ibb.co/39BK47yz/ebc11a65f7b4.png"
+  },
+  {
+    "name": "Energy Warrior",
+    "looktype": 2583,
+    "premium": false,
+    "image": "https://i.ibb.co/dwbKMzDP/a90ac308946b.png"
+  },
+  {
+    "name": "Energy Wizard",
+    "looktype": 2614,
+    "premium": false,
+    "image": "https://i.ibb.co/6JG1spjH/194d53102863.png"
+  },
+  {
+    "name": "Energybringer",
+    "looktype": 2771,
+    "premium": false,
+    "image": "https://i.ibb.co/QFYRgSbK/e199b79573e1.png"
+  },
+  {
+    "name": "Entrepreneur",
+    "looktype": 472,
+    "premium": true,
+    "image": "https://i.ibb.co/S4XdRFSk/b856d4faec10.png"
+  },
+  {
+    "name": "Evoker",
+    "looktype": 725,
+    "premium": true,
+    "image": "https://i.ibb.co/qLRvPZJd/2a318b34680a.png"
+  },
+  {
+    "name": "Fencer",
+    "looktype": 1576,
+    "premium": false,
+    "image": "https://i.ibb.co/Df3tXV46/41425c6b4bfb.png"
+  },
+  {
+    "name": "Feral Trapper",
+    "looktype": 1906,
+    "premium": true,
+    "image": "https://i.ibb.co/Q76XnB8P/fa5b0da6f735.png"
+  },
+  {
+    "name": "Festive Outfit",
+    "looktype": 931,
+    "premium": true,
+    "image": "https://i.ibb.co/xq59ShZk/4e0842bccf5a.png"
+  },
+  {
+    "name": "Field Surgeon",
+    "looktype": 1814,
+    "premium": true,
+    "image": "https://i.ibb.co/bgFTHSfG/83196ba3b153.png"
+  },
+  {
+    "name": "Fiend Slayer",
+    "looktype": 1809,
+    "premium": true,
+    "image": "https://i.ibb.co/5gykDwkz/6c80b172518b.png"
+  },
+  {
+    "name": "Fire Assassin",
+    "looktype": 2689,
+    "premium": false,
+    "image": "https://i.ibb.co/vx4QnX0W/1b6a03712b0f.png"
+  },
+  {
+    "name": "Fire Barbarian",
+    "looktype": 2703,
+    "premium": false,
+    "image": "https://i.ibb.co/FqBBK2Z8/0299f503c3f3.png"
+  },
+  {
+    "name": "Fire Citizen",
+    "looktype": 2576,
+    "premium": false,
+    "image": "https://i.ibb.co/Y7L6zBSQ/1403ebcea2e5.png"
+  },
+  {
+    "name": "Fire Hunter",
+    "looktype": 2636,
+    "premium": false,
+    "image": "https://i.ibb.co/Txv856Vh/4926b64ebf58.png"
+  },
+  {
+    "name": "Fire Knight",
+    "looktype": 2749,
+    "premium": false,
+    "image": "https://i.ibb.co/JjPCPyyh/a999f0efcbf7.png"
+  },
+  {
+    "name": "Fire Oriental",
+    "looktype": 2763,
+    "premium": false,
+    "image": "https://i.ibb.co/Pvryw2TH/8bbd8283f189.png"
+  },
+  {
+    "name": "Fire Warrior",
+    "looktype": 2590,
+    "premium": false,
+    "image": "https://i.ibb.co/WpWj4vrd/5cd68f1624e8.png"
+  },
+  {
+    "name": "Fire Wizard",
+    "looktype": 2622,
+    "premium": false,
+    "image": "https://i.ibb.co/C5sGNtPB/8aa06a8ba428.png"
+  },
+  {
+    "name": "Fire-Fighter",
+    "looktype": 1568,
+    "premium": false,
+    "image": "https://i.ibb.co/FqJsjRCJ/13ecbbceb663.png"
+  },
+  {
+    "name": "Flame Reaper",
+    "looktype": 2560,
+    "premium": false,
+    "image": "https://i.ibb.co/mrfNQbsN/553d2a6ede70.png"
+  },
+  {
+    "name": "Flamebringer",
+    "looktype": 2606,
+    "premium": false,
+    "image": "https://i.ibb.co/BHvYXZZ3/03bdf40756b0.png"
+  },
+  {
+    "name": "Flamefury Mage",
+    "looktype": 1680,
+    "premium": false,
+    "image": "https://i.ibb.co/pv7cq0D4/4f2087e74f4d.png"
+  },
+  {
+    "name": "Formal Dress",
+    "looktype": 1460,
+    "premium": false,
+    "image": "https://i.ibb.co/Ps7dQnjD/5f4b2010bce7.png"
+  },
+  {
+    "name": "Frost Tracer",
+    "looktype": 1612,
+    "premium": false,
+    "image": "https://i.ibb.co/XxCnKw2K/c2194cdfea75.png"
+  },
+  {
+    "name": "Frostbringer",
+    "looktype": 2604,
+    "premium": false,
+    "image": "https://i.ibb.co/QwbJ22f/d46c2eb39d43.png"
+  },
+  {
+    "name": "Ghost Blade",
+    "looktype": 1489,
+    "premium": false,
+    "image": "https://i.ibb.co/yn4JThMb/47ed44e7f3b5.png"
+  },
+  {
+    "name": "Gladiator",
+    "looktype": 2504,
+    "premium": false,
+    "image": "https://i.ibb.co/cMYRw0n/72a1722332d2.png"
+  },
+  {
+    "name": "Glooth Engineer",
+    "looktype": 610,
+    "premium": true,
+    "image": "https://i.ibb.co/3mT0z2s5/cc876913b157.png"
+  },
+  {
+    "name": "Golden Outfit",
+    "looktype": 1210,
+    "premium": true,
+    "image": "https://i.ibb.co/YTkmKZ8w/fe5ffaf15ebf.png"
+  },
+  {
+    "name": "Grove Keeper",
+    "looktype": 908,
+    "premium": true,
+    "image": "https://i.ibb.co/BHf0xm2t/871b49b5c509.png"
+  },
+  {
+    "name": "Hand of the Inquisition",
+    "looktype": 1243,
+    "premium": true,
+    "image": "https://i.ibb.co/23sJH70S/5b659dd57323.png"
+  },
+  {
+    "name": "Herbalist",
+    "looktype": 1021,
+    "premium": true,
+    "image": "https://i.ibb.co/SDV5X4Nd/e1f3a9bf65ba.png"
+  },
+  {
+    "name": "Herder",
+    "looktype": 1279,
+    "premium": true,
+    "image": "https://i.ibb.co/sd20Y2yD/7eac861c8e49.png"
+  },
+  {
+    "name": "Holy Assassin",
+    "looktype": 2683,
+    "premium": false,
+    "image": "https://i.ibb.co/hSbdh1k/2af61e5e7bd5.png"
+  },
+  {
+    "name": "Holy Barbarian",
+    "looktype": 2697,
+    "premium": false,
+    "image": "https://i.ibb.co/m507mKBD/fe2e668323d2.png"
+  },
+  {
+    "name": "Holy Citizen",
+    "looktype": 2570,
+    "premium": false,
+    "image": "https://i.ibb.co/gZVYkBMP/3048d719f129.png"
+  },
+  {
+    "name": "Holy Hunter",
+    "looktype": 2630,
+    "premium": false,
+    "image": "https://i.ibb.co/67cjdxDF/383c10d50c6b.png"
+  },
+  {
+    "name": "Holy Knight",
+    "looktype": 2743,
+    "premium": false,
+    "image": "https://i.ibb.co/27JNhwXw/6d23f00736ed.png"
+  },
+  {
+    "name": "Holy Oriental",
+    "looktype": 2757,
+    "premium": false,
+    "image": "https://i.ibb.co/WWnz5Jnf/d2bc20e3a40f.png"
+  },
+  {
+    "name": "Holy Warrior",
+    "looktype": 2584,
+    "premium": false,
+    "image": "https://i.ibb.co/LzZg2V8L/1433527fe822.png"
+  },
+  {
+    "name": "Holy Wizard",
+    "looktype": 2616,
+    "premium": false,
+    "image": "https://i.ibb.co/ksC30VG9/d600e69a2d19.png"
+  },
+  {
+    "name": "Hunter",
+    "looktype": 129,
+    "premium": false,
+    "image": "https://i.ibb.co/BVPPgXXd/c2618965feb5.png"
+  },
+  {
+    "name": "Ice Assassin",
+    "looktype": 2685,
+    "premium": false,
+    "image": "https://i.ibb.co/qL6GkNnX/5c941ab689ec.png"
+  },
+  {
+    "name": "Ice Barbarian",
+    "looktype": 2699,
+    "premium": false,
+    "image": "https://i.ibb.co/Xx3c1b6y/1eb0cb5af422.png"
+  },
+  {
+    "name": "Ice Citizen",
+    "looktype": 2572,
+    "premium": false,
+    "image": "https://i.ibb.co/YFChhYB4/22fec4af3765.png"
+  },
+  {
+    "name": "Ice Hunter",
+    "looktype": 2632,
+    "premium": false,
+    "image": "https://i.ibb.co/v4Bstmyy/607f1eaedcc6.png"
+  },
+  {
+    "name": "Ice Knight",
+    "looktype": 2745,
+    "premium": false,
+    "image": "https://i.ibb.co/7d9x1y8d/5d117c4a1279.png"
+  },
+  {
+    "name": "Ice Oriental",
+    "looktype": 2759,
+    "premium": false,
+    "image": "https://i.ibb.co/7tDnL4BX/767401625a85.png"
+  },
+  {
+    "name": "Ice Warrior",
+    "looktype": 2586,
+    "premium": false,
+    "image": "https://i.ibb.co/FkfD756J/d69de57954be.png"
+  },
+  {
+    "name": "Ice Wizard",
+    "looktype": 2618,
+    "premium": false,
+    "image": "https://i.ibb.co/Q7G0JvHw/5cc0de5e2819.png"
+  },
+  {
+    "name": "Illuminator",
+    "looktype": 1860,
+    "premium": true,
+    "image": "https://i.ibb.co/Ndnh4ZgF/bc1e6d30ae75.png"
+  },
+  {
+    "name": "Jersey",
+    "looktype": 619,
+    "premium": true,
+    "image": "https://i.ibb.co/gLfccZcT/a5ee434ae419.png"
+  },
+  {
+    "name": "Jester",
+    "looktype": 270,
+    "premium": true,
+    "image": "https://i.ibb.co/fVbtyHHN/d2c536d79e49.png"
+  },
+  {
+    "name": "Jouster",
+    "looktype": 1331,
+    "premium": true,
+    "image": "https://i.ibb.co/9HtrCJHn/6f4025c5598c.png"
+  },
+  {
+    "name": "King Highlord",
+    "looktype": 2675,
+    "premium": false,
+    "image": "https://i.ibb.co/97yY26r/b002327730a3.png"
+  },
+  {
+    "name": "Knight",
+    "looktype": 131,
+    "premium": false,
+    "image": "https://i.ibb.co/pjrtHZyX/0e24ecc0988f.png"
+  },
+  {
+    "name": "Mage",
+    "looktype": 130,
+    "premium": false,
+    "image": "https://i.ibb.co/CK67vL5K/2ddc071d9068.png"
+  },
+  {
+    "name": "Makeshift Warrior",
+    "looktype": 1042,
+    "premium": true,
+    "image": "https://i.ibb.co/q34gbbvQ/4b73a7d809e8.png"
+  },
+  {
+    "name": "Martial Artist",
+    "looktype": 1837,
+    "premium": true,
+    "image": "https://i.ibb.co/WwZbZTK/99e1cbd2569b.png"
+  },
+  {
+    "name": "Mercenary",
+    "looktype": 1056,
+    "premium": true,
+    "image": "https://i.ibb.co/qFNjgGjq/0d501af6564b.png"
+  },
+  {
+    "name": "Merry Garb",
+    "looktype": 1382,
+    "premium": true,
+    "image": "https://i.ibb.co/7tyKWNQM/5d26dcb2edfb.png"
+  },
+  {
+    "name": "Monk",
+    "looktype": 1824,
+    "premium": false,
+    "image": "https://i.ibb.co/k28vrcP0/706073e844f0.png"
+  },
+  {
+    "name": "Moon Guardian",
+    "looktype": 1976,
+    "premium": true,
+    "image": "https://i.ibb.co/xtZZq4H2/085079d95e43.png"
+  },
+  {
+    "name": "Moth Cape",
+    "looktype": 1339,
+    "premium": true,
+    "image": "https://i.ibb.co/TMFQF5Qp/a65904bb040b.png"
+  },
+  {
+    "name": "Necromancer",
+    "looktype": 1845,
+    "premium": true,
+    "image": "https://i.ibb.co/HDXM5sCk/1888023cc28a.png"
+  },
+  {
+    "name": "Nightmare",
+    "looktype": 268,
+    "premium": true,
+    "image": "https://i.ibb.co/ch1xNVgF/37210a61bc8c.png"
+  },
+  {
+    "name": "Nobleman",
+    "looktype": 132,
+    "premium": true,
+    "image": "https://i.ibb.co/ZzstjsYM/01a25e9a8ba4.png"
+  },
+  {
+    "name": "Noblewoman",
+    "looktype": 140,
+    "premium": true,
+    "image": "https://i.ibb.co/4bNjQTm/62ffab63336f.png"
+  },
+  {
+    "name": "Nordic Chieftain",
+    "looktype": 1500,
+    "premium": false,
+    "image": "https://i.ibb.co/hxPX9x1S/29eb65e6764f.png"
+  },
+  {
+    "name": "Nordic Santa",
+    "looktype": 2555,
+    "premium": false,
+    "image": "https://i.ibb.co/wnpmXjb/918963283f57.png"
+  },
+  {
+    "name": "Norseman",
+    "looktype": 251,
+    "premium": true,
+    "image": "https://i.ibb.co/KpYMRhGr/95373fbc3982.png"
+  },
+  {
+    "name": "Norsewoman",
+    "looktype": 252,
+    "premium": true,
+    "image": "https://i.ibb.co/0yTPYYH0/05e028220ecd.png"
+  },
+  {
+    "name": "Orcsoberfest Garb",
+    "looktype": 1251,
+    "premium": true,
+    "image": "https://i.ibb.co/0jxD6sSD/5a9bf490f85a.png"
+  },
+  {
+    "name": "Oriental",
+    "looktype": 146,
+    "premium": true,
+    "image": "https://i.ibb.co/TBx7HjK7/1e305a1c610d.png"
+  },
+  {
+    "name": "Owl Keeper",
+    "looktype": 1174,
+    "premium": true,
+    "image": "https://i.ibb.co/GQQ0qBJD/717861054c4b.png"
+  },
+  {
+    "name": "Percht Raider",
+    "looktype": 1161,
+    "premium": true,
+    "image": "https://i.ibb.co/ymPJTKWd/a001725b8460.png"
+  },
+  {
+    "name": "Pharaoh",
+    "looktype": 956,
+    "premium": true,
+    "image": "https://i.ibb.co/JVNDX7h/58ddd06559ec.png"
+  },
+  {
+    "name": "Phoenix Evoker",
+    "looktype": 1920,
+    "premium": true,
+    "image": "https://i.ibb.co/ZzfJD43G/bb4a9b524bfc.png"
+  },
+  {
+    "name": "Pirate",
+    "looktype": 151,
+    "premium": true,
+    "image": "https://i.ibb.co/67dk5B2k/f163a02f1bcc.png"
+  },
+  {
+    "name": "Poisonbringer",
+    "looktype": 2769,
+    "premium": false,
+    "image": "https://i.ibb.co/0yQqfDgw/73cb24096a31.png"
+  },
+  {
+    "name": "Poltergeist",
+    "looktype": 1270,
+    "premium": true,
+    "image": "https://i.ibb.co/zTb6ZdCt/213fe76a6697.png"
+  },
+  {
+    "name": "Puppeteer",
+    "looktype": 696,
+    "premium": true,
+    "image": "https://i.ibb.co/Y7p5Rcz7/739a4bd5eaa3.png"
+  },
+  {
+    "name": "Queen Highlady",
+    "looktype": 2676,
+    "premium": false,
+    "image": "https://i.ibb.co/CKZZTyHk/f1cfa464b69c.png"
+  },
+  {
+    "name": "Ranger",
+    "looktype": 684,
+    "premium": true,
+    "image": "https://i.ibb.co/bMPQbd4V/83bd789a9418.png"
+  },
+  {
+    "name": "Rascoohan",
+    "looktype": 1371,
+    "premium": true,
+    "image": "https://i.ibb.co/C3XS5Dmb/0f3d662cbd4e.png"
+  },
+  {
+    "name": "Retro Citizen",
+    "looktype": 974,
+    "premium": true,
+    "image": "https://i.ibb.co/xqJfxzSj/9b00f6605ee6.png"
+  },
+  {
+    "name": "Retro Hunter",
+    "looktype": 972,
+    "premium": true,
+    "image": "https://i.ibb.co/Xk4bSs67/3b55f95464ca.png"
+  },
+  {
+    "name": "Retro Knight",
+    "looktype": 970,
+    "premium": true,
+    "image": "https://i.ibb.co/JFt9Sb91/9caad614b44d.png"
+  },
+  {
+    "name": "Retro Mage",
+    "looktype": 968,
+    "premium": true,
+    "image": "https://i.ibb.co/sJkfCRYp/9cba26e8dc1a.png"
+  },
+  {
+    "name": "Retro Nobleman",
+    "looktype": 966,
+    "premium": true,
+    "image": "https://i.ibb.co/wFK01cGZ/3c00fbcb78a6.png"
+  },
+  {
+    "name": "Retro Summoner",
+    "looktype": 964,
+    "premium": true,
+    "image": "https://i.ibb.co/XxRX1Jj9/62441dbda25f.png"
+  },
+  {
+    "name": "Retro Warrior",
+    "looktype": 962,
+    "premium": true,
+    "image": "https://i.ibb.co/h1MYd8NN/1342e56ca68f.png"
+  },
+  {
+    "name": "Revenant",
+    "looktype": 1322,
+    "premium": true,
+    "image": "https://i.ibb.co/0VGB9VCh/236a2ce17e56.png"
+  },
+  {
+    "name": "Rift Warrior",
+    "looktype": 846,
+    "premium": true,
+    "image": "https://i.ibb.co/TxgsgxGx/6ca11044745d.png"
+  },
+  {
+    "name": "Rootwalker",
+    "looktype": 1774,
+    "premium": true,
+    "image": "https://i.ibb.co/HpdjMDvz/a761004229ef.png"
+  },
+  {
+    "name": "Royal Bounacean Advisor",
+    "looktype": 1436,
+    "premium": false,
+    "image": "https://i.ibb.co/9mtqG846/e87836fe835c.png"
+  },
+  {
+    "name": "Royal Vanguard",
+    "looktype": 2673,
+    "premium": false,
+    "image": "https://i.ibb.co/FL8CCtm2/324eec2f57db.png"
+  },
+  {
+    "name": "Rune Master",
+    "looktype": 1384,
+    "premium": false,
+    "image": "https://i.ibb.co/tMKZRGyt/b5299fb4d27b.png"
+  },
+  {
+    "name": "Saintblade",
+    "looktype": 2665,
+    "premium": false,
+    "image": "https://i.ibb.co/kVgFYsmq/e2e2620f7b8a.png"
+  },
+  {
+    "name": "Saintbloom",
+    "looktype": 2666,
+    "premium": false,
+    "image": "https://i.ibb.co/5hkVB2J9/491956c80d52.png"
+  },
+  {
+    "name": "Sea Dog",
+    "looktype": 750,
+    "premium": true,
+    "image": "https://i.ibb.co/vCYtB74W/7ad646103883.png"
+  },
+  {
+    "name": "Seaweaver",
+    "looktype": 733,
+    "premium": true,
+    "image": "https://i.ibb.co/sdcyRM34/6f63e5f54910.png"
+  },
+  {
+    "name": "Shadowlotus Disciple",
+    "looktype": 1582,
+    "premium": false,
+    "image": "https://i.ibb.co/QjcPWSLM/9a7057052e93.png"
+  },
+  {
+    "name": "Shaman",
+    "looktype": 154,
+    "premium": true,
+    "image": "https://i.ibb.co/HpRw8MMj/7b53492caa1f.png"
+  },
+  {
+    "name": "Siege Master",
+    "looktype": 1050,
+    "premium": true,
+    "image": "https://i.ibb.co/Kx4vGrcf/4af946271a3a.png"
+  },
+  {
+    "name": "Sinister Archer",
+    "looktype": 1102,
+    "premium": true,
+    "image": "https://i.ibb.co/GvGpMHQp/c62721c4ba63.png"
+  },
+  {
+    "name": "Soil Guardian",
+    "looktype": 516,
+    "premium": true,
+    "image": "https://i.ibb.co/gZdBzn2h/2e133d19844b.png"
+  },
+  {
+    "name": "Special Assassin",
+    "looktype": 2677,
+    "premium": false,
+    "image": "https://i.ibb.co/G3PHCkyh/eaf539da86d4.png"
+  },
+  {
+    "name": "Special Barbarian",
+    "looktype": 2691,
+    "premium": false,
+    "image": "https://i.ibb.co/SXJtH5pc/ad30c014685a.png"
+  },
+  {
+    "name": "Special Brotherhood",
+    "looktype": 2773,
+    "premium": false,
+    "image": "https://i.ibb.co/ZzqC2nHZ/244c6333c751.png"
+  },
+  {
+    "name": "Special Citizen",
+    "looktype": 2564,
+    "premium": false,
+    "image": "https://i.ibb.co/Zz4HCXgZ/ba8c319452e9.png"
+  },
+  {
+    "name": "Special Hunter",
+    "looktype": 2624,
+    "premium": false,
+    "image": "https://i.ibb.co/mpHhfT6/b1327760605a.png"
+  },
+  {
+    "name": "Special Knight",
+    "looktype": 2737,
+    "premium": false,
+    "image": "https://i.ibb.co/LhsM0Pxc/54e49d1df2cd.png"
+  },
+  {
+    "name": "Special Nightmare",
+    "looktype": 2791,
+    "premium": false,
+    "image": "https://i.ibb.co/ch1xNVgF/37210a61bc8c.png"
+  },
+  {
+    "name": "Special Oriental",
+    "looktype": 2751,
+    "premium": false,
+    "image": "https://i.ibb.co/2J6CZLn/0a70aa7bb626.png"
+  },
+  {
+    "name": "Special Warrior",
+    "looktype": 2578,
+    "premium": false,
+    "image": "https://i.ibb.co/Q7Xmqs38/71cfab22442b.png"
+  },
+  {
+    "name": "Special Wizard",
+    "looktype": 2610,
+    "premium": false,
+    "image": "https://i.ibb.co/SDbD3gMx/33219406672a.png"
+  },
+  {
+    "name": "Spirit Caller",
+    "looktype": 698,
+    "premium": true,
+    "image": "https://i.ibb.co/PvvWmrJP/329364e85efc.png"
+  },
+  {
+    "name": "Summoner",
+    "looktype": 133,
+    "premium": true,
+    "image": "https://i.ibb.co/Tx3sLn7N/c63cf1ea9093.png"
+  },
+  {
+    "name": "Sun Priest",
+    "looktype": 1023,
+    "premium": true,
+    "image": "https://i.ibb.co/MkndcDWg/385681b34913.png"
+  },
+  {
+    "name": "TrailBlazer",
+    "looktype": 1292,
+    "premium": true,
+    "image": "https://i.ibb.co/PGzSGV3s/c04797bfb9ae.png"
+  },
+  {
+    "name": "Trophy Hunter",
+    "looktype": 957,
+    "premium": true,
+    "image": "https://i.ibb.co/v6WJn4N4/c8ec4d062390.png"
+  },
+  {
+    "name": "Veteran Paladin",
+    "looktype": 1204,
+    "premium": true,
+    "image": "https://i.ibb.co/bjLjbB42/f930dac53540.png"
+  },
+  {
+    "name": "Warmaster",
+    "looktype": 335,
+    "premium": true,
+    "image": "https://i.ibb.co/Jw96zyVK/a29abdfdcd24.png"
+  },
+  {
+    "name": "Warrior",
+    "looktype": 134,
+    "premium": true,
+    "image": "https://i.ibb.co/nsfpHCPC/a8839c44c7de.png"
+  },
+  {
+    "name": "Wayfarer",
+    "looktype": 366,
+    "premium": true,
+    "image": "https://i.ibb.co/dwbCRBGQ/e8d6f62adf5c.png"
+  },
+  {
+    "name": "Winged Druid",
+    "looktype": 1831,
+    "premium": true,
+    "image": "https://i.ibb.co/vxZs6zL5/17532ad4b58f.png"
+  },
+  {
+    "name": "Winter Warden",
+    "looktype": 852,
+    "premium": true,
+    "image": "https://i.ibb.co/PvYSTQGN/06a3874d0710.png"
+  },
+  {
+    "name": "Wizard",
+    "looktype": 145,
+    "premium": true,
+    "image": "https://i.ibb.co/chLFnvsV/4e0250dcfd66.png"
+  },
+  {
+    "name": "Yalaharian",
+    "looktype": 325,
+    "premium": true,
+    "image": "https://i.ibb.co/LXK62fMm/bc9564b0930a.png"
+  }
+]
