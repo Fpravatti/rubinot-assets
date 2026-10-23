@@ -726,6 +726,12 @@
     "image": "https://i.ibb.co/pjrtHZyX/0e24ecc0988f.png"
   },
   {
+    "name": "Lion of War",
+    "looktype": 1206,
+    "premium": true,
+    "image": "https://i.ibb.co/TBgSdqXJ/f9cdcde1d5f1.png"
+  },
+  {
     "name": "Mage",
     "looktype": 130,
     "premium": false,
