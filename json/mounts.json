@@ -216,6 +216,12 @@
     "image": "https://i.ibb.co/zhqQzpvT/a1984c98770d.png"
   },
   {
+    "id": 220,
+    "name": "Darkfire Devourer",
+    "clientId": 1677,
+    "image": ""
+  },
+  {
     "id": 166,
     "name": "Dawn Strayer",
     "clientId": 1286,
@@ -501,103 +507,109 @@
     "id": 161,
     "name": "Haze",
     "clientId": 1269,
-    "image": ""
+    "image": "https://i.ibb.co/0RDH62Tm/a624e85c73fb.png"
   },
   {
     "id": 131,
     "name": "Hibernal Moth",
     "clientId": 1151,
-    "image": ""
+    "image": "https://i.ibb.co/1JjnxXdt/ee16912718be.png"
   },
   {
     "id": 63,
     "name": "Highland Yak",
     "clientId": 673,
-    "image": ""
+    "image": "https://i.ibb.co/0yxVqVNF/b922cae4bad7.png"
   },
   {
     "id": 180,
     "name": "Holiday Mammoth",
     "clientId": 1380,
-    "image": ""
+    "image": "https://i.ibb.co/d0wKHwnk/40bb2421366a.png"
   },
   {
     "id": 188,
     "name": "Hyacinth",
     "clientId": 1439,
-    "image": ""
+    "image": "https://i.ibb.co/FLJ8HGm5/dad3df8cebec.png"
   },
   {
     "id": 215,
     "name": "Icebreacher",
     "clientId": 1617,
-    "image": ""
+    "image": "https://i.ibb.co/Ng5d2ZdH/3243189588f0.png"
   },
   {
     "id": 325,
     "name": "Infernal Flamescale",
     "clientId": 2736,
-    "image": ""
+    "image": "https://i.ibb.co/TBDXhgnD/bc80fe7bf1d1.png"
   },
   {
     "id": 324,
     "name": "Infernal Frostscale",
     "clientId": 2735,
-    "image": ""
+    "image": "https://i.ibb.co/BV9hJb5q/5af9860ed370.png"
   },
   {
     "id": 327,
     "name": "Infernal Poisonscale",
     "clientId": 2804,
-    "image": ""
+    "image": "https://i.ibb.co/SXYVvzd1/6a919158cb68.png"
   },
   {
     "id": 317,
     "name": "Infernal Stonehorn",
     "clientId": 2708,
+    "image": "https://i.ibb.co/hRQkmhC6/25c7d8b19555.png"
+  },
+  {
+    "id": 326,
+    "name": "Infernal Stormscale",
+    "clientId": 2803,
     "image": ""
   },
   {
     "id": 29,
     "name": "Ironblight",
     "clientId": 502,
-    "image": ""
+    "image": "https://i.ibb.co/QSdwyG0/f32ce686affd.png"
   },
   {
     "id": 100,
     "name": "Ivory Fang",
     "clientId": 901,
-    "image": ""
+    "image": "https://i.ibb.co/39mDLZc3/81d6cf734d1e.png"
   },
   {
     "id": 49,
     "name": "Jade Pincer",
     "clientId": 628,
-    "image": ""
+    "image": "https://i.ibb.co/0yjRZ4c4/7d558bba518d.png"
   },
   {
     "id": 199,
     "name": "Jade Shrine",
     "clientId": 1492,
-    "image": ""
+    "image": "https://i.ibb.co/LXKdQnYF/657e34d0a874.png"
   },
   {
     "id": 256,
     "name": "Jaracal",
     "clientId": 1962,
-    "image": ""
+    "image": "https://i.ibb.co/cKmzbRGy/4414bc73514a.png"
   },
   {
     "id": 125,
     "name": "Jungle Tiger",
     "clientId": 1093,
-    "image": ""
+    "image": "https://i.ibb.co/27YrGWTL/b8d06a637da9.png"
   },
   {
     "id": 18,
     "name": "Kingly Deer",
     "clientId": 401,
-    "image": ""
+    "image": "https://i.ibb.co/27rT1nxX/f2f726b4a05e.png"
   },
   {
     "id": 178,
@@ -609,49 +621,49 @@
     "id": 130,
     "name": "Lacewing Moth",
     "clientId": 1150,
-    "image": ""
+    "image": "https://i.ibb.co/RphfCRv2/10f61c18b706.png"
   },
   {
     "id": 27,
     "name": "Lady Bug",
     "clientId": 447,
-    "image": ""
+    "image": "https://i.ibb.co/j2HpCtp/fe3d18cb6026.png"
   },
   {
     "id": 112,
     "name": "Lagoon Saurian",
     "clientId": 961,
-    "image": ""
+    "image": "https://i.ibb.co/0pnskhmS/bddc63a0c621.png"
   },
   {
     "id": 93,
     "name": "Leafscuttler",
     "clientId": 870,
-    "image": ""
+    "image": "https://i.ibb.co/B5ByWwC8/38436355c301.png"
   },
   {
     "id": 66,
     "name": "Magic Carpet",
     "clientId": 689,
-    "image": ""
+    "image": "https://i.ibb.co/ynQK6YpG/f2fe218f067a.png"
   },
   {
     "id": 30,
     "name": "Magma Crawler",
     "clientId": 503,
-    "image": ""
+    "image": "https://i.ibb.co/vC6K6t51/3f6a768fcd80.png"
   },
   {
     "id": 223,
     "name": "Magma Skull",
     "clientId": 1686,
-    "image": ""
+    "image": "https://i.ibb.co/V0NDtzD5/7b63e07522df.png"
   },
   {
     "id": 28,
     "name": "Manta Ray",
     "clientId": 450,
-    "image": ""
+    "image": "https://i.ibb.co/CppVxqyz/c85127ca8b03.png"
   },
   {
     "id": 323,
