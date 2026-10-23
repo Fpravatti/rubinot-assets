@@ -219,7 +219,7 @@
     "id": 220,
     "name": "Darkfire Devourer",
     "clientId": 1677,
-    "image": ""
+    "image": "https://i.ibb.co/dwWSHvPR/5a2e9bf0d83b.png"
   },
   {
     "id": 166,
@@ -352,6 +352,12 @@
     "name": "Fleeting Knowledge",
     "clientId": 1101,
     "image": "https://i.ibb.co/N6DhVzyY/1f24756a6f47.png"
+  },
+  {
+    "id": 75,
+    "name": "Flitterkatzen",
+    "clientId": 726,
+    "image": ""
   },
   {
     "id": 160,
@@ -567,6 +573,12 @@
     "id": 326,
     "name": "Infernal Stormscale",
     "clientId": 2803,
+    "image": "https://i.ibb.co/zT2YWMB5/64fa67f6505c.png"
+  },
+  {
+    "id": 212,
+    "name": "Ink Spotted Koi",
+    "clientId": 1610,
     "image": ""
   },
   {
@@ -669,13 +681,13 @@
     "id": 323,
     "name": "Midnight Cosmostag",
     "clientId": 2730,
-    "image": ""
+    "image": "https://i.ibb.co/MkzRGhgx/648ecd8b6708.png"
   },
   {
     "id": 5,
     "name": "Midnight Panther",
     "clientId": 372,
-    "image": ""
+    "image": "https://i.ibb.co/SDgnqn9n/a67e73cbf828.png"
   },
   {
     "id": 119,
@@ -687,127 +699,127 @@
     "id": 321,
     "name": "Moonrocket",
     "clientId": 2717,
-    "image": ""
+    "image": "https://i.ibb.co/9mwkkFBD/1b18ea329a64.png"
   },
   {
     "id": 96,
     "name": "Mould Shell",
     "clientId": 887,
-    "image": ""
+    "image": "https://i.ibb.co/DDRkFHp1/18b7a62fe849.png"
   },
   {
     "id": 91,
     "name": "Mouldpincer",
     "clientId": 868,
-    "image": ""
+    "image": "https://i.ibb.co/995QQBpX/5746ae074acb.png"
   },
   {
     "id": 136,
     "name": "Muffled Snowman",
     "clientId": 1168,
-    "image": ""
+    "image": "https://i.ibb.co/35Rfkk6f/72c3ba45f1c5.png"
   },
   {
     "id": 209,
     "name": "Mutated Abomination",
     "clientId": 1599,
-    "image": ""
+    "image": "https://i.ibb.co/zVYcWVQF/9f3dd629e5d6.png"
   },
   {
     "id": 226,
     "name": "Mystic Jaguar",
     "clientId": 1721,
-    "image": ""
+    "image": "https://i.ibb.co/0RRsP5P1/d5078867e57b.png"
   },
   {
     "id": 316,
     "name": "Mystic Stonehorn",
     "clientId": 2707,
-    "image": ""
+    "image": "https://i.ibb.co/TBPbPd8W/39edaeb04bc5.png"
   },
   {
     "id": 98,
     "name": "Neon Sparkid",
     "clientId": 889,
-    "image": ""
+    "image": "https://i.ibb.co/spcLvsKb/19cb384f290d.png"
   },
   {
     "id": 50,
     "name": "Nethersteed",
     "clientId": 629,
-    "image": ""
+    "image": "https://i.ibb.co/Ldtd0j1m/7ca47c05b77c.png"
   },
   {
     "id": 237,
     "name": "Night Locust",
     "clientId": 1833,
-    "image": ""
+    "image": "https://i.ibb.co/G3bxHYgD/29be06b1abdf.png"
   },
   {
     "id": 69,
     "name": "Night Waccoon",
     "clientId": 692,
-    "image": ""
+    "image": "https://i.ibb.co/W4GKTtPp/612e2b334282.png"
   },
   {
     "id": 88,
     "name": "Nightdweller",
     "clientId": 849,
-    "image": ""
+    "image": "https://i.ibb.co/TDvCJYcL/ecbcf13835e5.png"
   },
   {
     "id": 143,
     "name": "Nightmarish Crocovile",
     "clientId": 1185,
-    "image": ""
+    "image": "https://i.ibb.co/kgwgNB5Y/e0346d7c28a3.png"
   },
   {
     "id": 40,
     "name": "Noble Lion",
     "clientId": 571,
-    "image": ""
+    "image": "https://i.ibb.co/HLcrjjgf/483c59e75c8d.png"
   },
   {
     "id": 82,
     "name": "Noctungra",
     "clientId": 739,
-    "image": ""
+    "image": "https://i.ibb.co/XxJddBgg/338777435a67.png"
   },
   {
     "id": 218,
     "name": "Obstinate Ox",
     "clientId": 1674,
-    "image": ""
+    "image": "https://i.ibb.co/21KkRHgd/ed65679c0e0b.png"
   },
   {
     "id": 206,
     "name": "Parade Horse",
     "clientId": 1578,
-    "image": ""
+    "image": "https://i.ibb.co/JXD8rPG/b9f52ae3ced7.png"
   },
   {
     "id": 239,
     "name": "Pearl Locust",
     "clientId": 1835,
-    "image": ""
+    "image": "https://i.ibb.co/kgq1LZgP/22cd7c1d2211.png"
   },
   {
     "id": 233,
     "name": "Pegasus",
     "clientId": 1730,
-    "image": ""
+    "image": "https://i.ibb.co/KjHtpC8r/6b861a35c92b.png"
   },
   {
     "id": 189,
     "name": "Peony",
     "clientId": 1440,
-    "image": ""
+    "image": "https://i.ibb.co/6789Knjf/942758efa2df.png"
   },
   {
     "id": 185,
     "name": "Phant",
     "clientId": 1417,
-    "image": ""
+    "image": "https://i.ibb.co/vxjCc4Vz/f2ec5368006d.png"
   },
   {
     "id": 80,
