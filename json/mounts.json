@@ -1,5 +1,11 @@
 [
   {
+    "id": 301,
+    "name": "Alba Vulpes",
+    "clientId": 2508,
+    "image": "https://i.ibb.co/NgPkcqyh/55c15ca84176.png"
+  },
+  {
     "id": 162,
     "name": "Antelope",
     "clientId": 1281,
@@ -1252,6 +1258,12 @@
     "name": "Toxic Toad",
     "clientId": 1054,
     "image": "https://i.ibb.co/7dgh4yNp/c0791ef1cbca.png"
+  },
+  {
+    "id": 62,
+    "name": "Tundra Rambler",
+    "clientId": 672,
+    "image": "https://i.ibb.co/M52bSs1n/19a594543a10.png"
   },
   {
     "id": 12,
