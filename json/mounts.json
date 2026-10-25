@@ -342,6 +342,12 @@
     "image": "https://i.ibb.co/BHWvPCnf/5dcd25f24eec.png"
   },
   {
+    "id": 70,
+    "name": "Emerald Waccoon",
+    "clientId": 693,
+    "image": "https://i.ibb.co/8gpDDbnK/a8673cbdf37e.png"
+  },
+  {
     "id": 74,
     "name": "Emperor Deer",
     "clientId": 687,
@@ -714,6 +720,12 @@
     "image": "https://i.ibb.co/CppVxqyz/c85127ca8b03.png"
   },
   {
+    "id": 120,
+    "name": "Marsh Toad",
+    "clientId": 1052,
+    "image": "https://i.ibb.co/1JMgTtZF/7961aea0791b.png"
+  },
+  {
     "id": 323,
     "name": "Midnight Cosmostag",
     "clientId": 2730,
@@ -916,6 +928,12 @@
     "name": "Radiant Bell",
     "clientId": 2661,
     "image": "https://i.ibb.co/FLnGNp6P/38f21fbffe35.png"
+  },
+  {
+    "id": 257,
+    "name": "Radiant Nimbus",
+    "clientId": 1975,
+    "image": "https://i.ibb.co/bjNjj5x7/1b5e9b53e0b4.png"
   },
   {
     "id": 196,
