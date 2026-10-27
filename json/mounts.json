@@ -1002,6 +1002,12 @@
     "image": "https://i.ibb.co/YFH3xv5V/43bc1033e023.png"
   },
   {
+    "id": 68,
+    "name": "Ringtail Waccoon",
+    "clientId": 691,
+    "image": "https://i.ibb.co/212Rt3jJ/2c4db3c78e22.png"
+  },
+  {
     "id": 205,
     "name": "Ripptor",
     "clientId": 1577,
@@ -1162,6 +1168,12 @@
     "name": "Steel Bee",
     "clientId": 670,
     "image": "https://i.ibb.co/Sp71Mxp/d341d137c0b1.png"
+  },
+  {
+    "id": 34,
+    "name": "Steelbeak",
+    "clientId": 522,
+    "image": "https://i.ibb.co/3yL6WqyH/8a0040357f2f.png"
   },
   {
     "id": 106,
