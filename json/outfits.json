@@ -1158,6 +1158,12 @@
     "image": "https://i.ibb.co/bjLjbB42/f930dac53540.png"
   },
   {
+    "name": "Void Master",
+    "looktype": 1202,
+    "premium": true,
+    "image": ""
+  },
+  {
     "name": "Warmaster",
     "looktype": 335,
     "premium": true,
