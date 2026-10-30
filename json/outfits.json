@@ -750,6 +750,12 @@
     "image": "https://i.ibb.co/TBgSdqXJ/f9cdcde1d5f1.png"
   },
   {
+    "name": "Lupine Warden",
+    "looktype": 900,
+    "premium": true,
+    "image": "https://i.ibb.co/hRXkzF7M/02aa8aeaf895.png"
+  },
+  {
     "name": "Mage",
     "looktype": 130,
     "premium": false,
