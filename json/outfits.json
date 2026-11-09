@@ -750,6 +750,12 @@
     "image": "https://i.ibb.co/9HtrCJHn/6f4025c5598c.png"
   },
   {
+    "name": "King",
+    "looktype": 2506,
+    "premium": false,
+    "image": "https://i.ibb.co/nqx3Y638/4539ecb2c878.png"
+  },
+  {
     "name": "King Highlord",
     "looktype": 2675,
     "premium": false,
