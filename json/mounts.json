@@ -846,6 +846,12 @@
     "image": "https://i.ibb.co/0RRsP5P1/d5078867e57b.png"
   },
   {
+    "id": 195,
+    "name": "Mystic Raven",
+    "clientId": 1454,
+    "image": "https://i.ibb.co/h1X7vpcB/7c66752fd090.png"
+  },
+  {
     "id": 316,
     "name": "Mystic Stonehorn",
     "clientId": 2707,
@@ -1390,6 +1396,12 @@
     "name": "Ursagrodon",
     "clientId": 548,
     "image": "https://i.ibb.co/gZMJFCtx/9d59e1ac2c33.png"
+  },
+  {
+    "id": 76,
+    "name": "Venompaw",
+    "clientId": 727,
+    "image": "https://i.ibb.co/Z1wqLJHS/58b7e97d8521.png"
   },
   {
     "id": 184,
