@@ -750,6 +750,12 @@
     "image": "https://i.ibb.co/fVbtyHHN/d2c536d79e49.png"
   },
   {
+    "name": "Jester Circusbane",
+    "looktype": 2816,
+    "premium": false,
+    "image": ""
+  },
+  {
     "name": "Jouster",
     "looktype": 1331,
     "premium": true,
